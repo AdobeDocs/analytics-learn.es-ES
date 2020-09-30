@@ -5,9 +5,9 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 00a376d434a08665de00b2dccec02fc86e63b36e
+source-git-commit: 6a62298bc79ab3c94cea17863fabdb2e7840b46b
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1834'
 ht-degree: 18%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 18%
       + [Obtención de ayuda en Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
    + Conceptos básicos de Analysis Workspace {#analysis-workspace-basics}
-      + [Treintroducción a Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
+      + [Introducción a Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Información general de Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Inicio del primer proyecto en Analysis Workspace](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Creación de nuevos proyectos de Analysis Workspace](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
@@ -209,7 +209,7 @@ ht-degree: 18%
    + Administrar grupos de informes {#manage-report-suites}
       + [Configuración de la configuración del código postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configuración de variables en el Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-   + Administración de datos y RGPD {administración de datos y gdpr}
+   + Gobernanza de datos y RGPD {#data-governance-and-gdpr}
       + [Gobierno de datos y RGPD en Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [Obtención de las personas adecuadas en su equipo de Analytics](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + Administración del tráfico {#traffic-management}
