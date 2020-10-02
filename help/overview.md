@@ -73,7 +73,7 @@ Bienvenido al Sitio de [!DNL Analytics] Tutorials.  El uso de estos tutoriales j
   </td>
   <td>
     <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-      <img alt="imagen en miniatura del vídeo "Información general de Analysis Workspace"" src="assets/thumb_analysis-workspace-overview.png" />
+      <img alt="imagen en miniatura del vídeo &quot;Información general de Analysis Workspace&quot;" src="assets/thumb_analysis-workspace-overview.png" />
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
