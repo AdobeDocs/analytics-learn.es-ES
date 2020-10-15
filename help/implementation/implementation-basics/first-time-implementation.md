@@ -1,6 +1,6 @@
 ---
 title: Implementación de Adobe Analytics por primera vez
-description: Este vídeo le guía por el proceso de ponerse en marcha con los datos de Adobe Analytics en cuestión de minutos.
+description: Este vídeo ayudará a dar sus primeros pasos con los datos de Adobe Analytics en cuestión de minutos.
 seo-description: Es más fácil que nunca implementar Adobe Analytics. Si eres nuevo en nuestra solución, este vídeo te guiará por el proceso de ponerse en marcha con los datos en cuestión de minutos.
 feature: implementation basics
 topics: null
@@ -13,7 +13,7 @@ translation-type: tm+mt
 source-git-commit: 56049a25261318663349309164744fbb9bcfc952
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
