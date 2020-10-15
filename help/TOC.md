@@ -1,14 +1,14 @@
 ---
 user-guide-title: Tutoriales de Adobe Analytics
-user-guide-description: A collection of videos and tutorials for Adobe Analytics.
-breadcrumb-title: Analytics Tutorials
+user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analytics.
+breadcrumb-title: Tutoriales de Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
 source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
-source-wordcount: '1846'
-ht-degree: 21%
+source-wordcount: '1857'
+ht-degree: 22%
 
 ---
 
@@ -251,7 +251,7 @@ ht-degree: 21%
    + Validación y resolución de problemas {#validating-and-troubleshooting}
       + [Inspección de implementaciones con Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
       + [Vista de visitas posteriores al procesamiento con el Experience Cloud Debugger](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
-   + Páginas de SPA {#spa-pages}
+   + Páginas SPA {#spa-pages}
       + [Uso de las prácticas recomendadas al rastrear SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Componentes {#components}
    + Segmentación {#segmentation}
@@ -331,7 +331,7 @@ ht-degree: 21%
       + [Adobe Analytics Connector en Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
    + Magento {#magento}
       + [Plantilla de Analysis Workspace de Magento](integrations/magento/magento-analysis-workspace-template.md)
-+ Data Science {#data-science}
++ Ciencia de datos {#data-science}
    + [Uso del aprendizaje automático y la IA de Adobe Analytics en los momentos importantes](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
    + [Detección de anomalías en Analysis Workspace](data-science/anomaly-detection-in-analysis-workspace.md)
    + [Análisis de contribución en Analysis Workspace](data-science/contribution-analysis-workspace.md)
