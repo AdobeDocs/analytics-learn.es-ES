@@ -10,18 +10,18 @@ team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: 7629db3735eb4b81c6a1787cce71b350a603ac3a
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 10%
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
 
-# Ampliación [!DNL Flow visualization] en Analysis Workspace {#expanding-on-flow-visualization-in-analysis-workspace}
+# Expansión en [!DNL Flow visualization] en Analysis Workspace {#expanding-on-flow-visualization-in-analysis-workspace}
 
-Este vídeo muestra las distintas opciones de clic con el botón secundario disponibles en [!DNL Flow visualization] Analysis Workspace. Las opciones incluyen la creación de un segmento a partir de una ruta, la contracción de columnas y mucho más.
+Este vídeo muestra las distintas opciones de clic con el botón derecho disponibles en [!DNL Flow visualization] en Analysis Workspace. Las opciones incluyen la creación de un segmento a partir de una ruta, la contracción de columnas y mucho más.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12)
 
-Para obtener más información sobre esta función, visite la [documentación](https://marketing.adobe.com/resources/help/es_ES/analytics/analysis-workspace/flow.html).
+Para obtener más información sobre esta función, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en#analysis-workspace).
