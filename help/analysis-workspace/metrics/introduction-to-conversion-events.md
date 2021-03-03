@@ -1,24 +1,25 @@
 ---
-title: Introducción a los Eventos de conversión
-description: 'En este vídeo, obtenga una introducción a los "eventos" de conversión o a la variable que ayuda a rastrear las conversiones en el sitio (por ejemplo: pedidos, suscripciones, registros, finalización de formularios, etc.)'
-feature: metrics
+title: Introducción a los eventos de conversión
+description: 'En este vídeo, obtenga una introducción a los "eventos" de conversión o a la variable que ayude a rastrear las conversiones en su sitio (por ejemplo: pedidos, suscripciones, registros, finalizaciones de formularios, etc.)'
+feature: Métricas
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3578
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 1%
 
 ---
 
 
-# Introducción a los Eventos de conversión
+# Introducción a los eventos de conversión
 
-En este vídeo, obtenga una introducción a los &quot;eventos&quot; de conversión o a la variable que ayuda a rastrear las conversiones en el sitio (por ejemplo: pedidos, suscripciones, registros, finalización de formularios, etc.)
+En este vídeo, obtenga una introducción a los &quot;eventos&quot; de conversión o a la variable que ayude a rastrear las conversiones en su sitio (por ejemplo: pedidos, suscripciones, registros, finalizaciones de formularios, etc.)
 
 >[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12)
