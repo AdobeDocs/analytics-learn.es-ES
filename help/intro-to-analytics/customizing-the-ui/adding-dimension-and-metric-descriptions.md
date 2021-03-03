@@ -1,24 +1,25 @@
 ---
-title: Añadir descripciones de Dimension y métricas en Adobe Analytics
-description: Este vídeo le explica cómo agregar contexto a sus informes, métricas y dimensiones en Adobe Analytics.
-feature: workspace basics
+title: Adición de descripciones de dimensiones y métricas en Adobe Analytics
+description: Este vídeo explica cómo añadir contexto a los informes, métricas y dimensiones en Adobe Analytics.
+feature: Conceptos básicos del espacio de trabajo
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2352
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 
-# Añadir descripciones de [!UICONTROL Dimension] y [!UICONTROL métricas] en Adobe Analytics {#adding-dimension-and-metric-descriptions-in-adobe-analytics}
+# Añadir descripciones de [!UICONTROL dimensiones] y [!UICONTROL métricas] en Adobe Analytics {#adding-dimension-and-metric-descriptions-in-adobe-analytics}
 
-Este vídeo le explica cómo agregar contexto a sus informes, [!UICONTROL métricas] y [!UICONTROL dimensiones] en Adobe Analytics.
+Este vídeo explica cómo añadir contexto a los informes, [!UICONTROL métricas] y [!UICONTROL dimensiones] en Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12)
