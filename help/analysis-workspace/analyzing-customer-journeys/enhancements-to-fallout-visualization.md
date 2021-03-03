@@ -1,26 +1,27 @@
 ---
-title: Mejoras en la visualización de visitas en el orden previsto en Analysis Workspace
-description: Este vídeo muestra las actualizaciones de la visualización de visitas en el orden previsto que los clientes han solicitado con gran frecuencia, incluidos los pasos directos o finales, el cambio de nombre de los puntos de contacto, la comparación de segmentos ilimitados y las tendencias de los porcentajes de conversión de puntos de contacto a lo largo del tiempo.
-feature: visualizations
+title: Mejoras en la visualización de abandonos en Analysis Workspace
+description: Este vídeo muestra las actualizaciones realizadas en la Visualización de visitas en el orden previsto que los clientes han solicitado con gran frecuencia, incluidos los pasos directos frente a los posibles, el cambio de nombre de los puntos de contacto, la comparación de segmentos ilimitados y la tendencia de los porcentajes de conversión de puntos de contacto a lo largo del tiempo.
+feature: Visualizaciones
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 10%
+source-wordcount: '98'
+ht-degree: 11%
 
 ---
 
 
-# Mejoras en [!DNL Fallout Visualization] Analysis Workspace {#enhancements-to-fallout-visualization-in-analysis-workspace}
+# Mejoras en [!DNL Fallout Visualization] en Analysis Workspace {#enhancements-to-fallout-visualization-in-analysis-workspace}
 
-Este vídeo muestra las actualizaciones de los [!DNL Fallout Visualization] que los clientes han solicitado con gran frecuencia, incluidos los pasos directos o finales, el cambio de nombre de los puntos de contacto, la comparación de segmentos ilimitados y las tendencias de los porcentajes de conversión de puntos de contacto a lo largo del tiempo.
+Este vídeo muestra las actualizaciones de los [!DNL Fallout Visualization] que los clientes han solicitado con gran frecuencia, incluidos los pasos directos frente a los posibles, el cambio de nombre de los puntos de contacto, la comparación de segmentos ilimitados y los porcentajes de conversión de los puntos de contacto de tendencias a lo largo del tiempo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
 
