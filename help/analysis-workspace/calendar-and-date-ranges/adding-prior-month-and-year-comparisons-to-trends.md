@@ -1,17 +1,18 @@
 ---
 title: Incorporación de comparaciones de meses y años anteriores con tendencias
-description: Aprenda a aplicar intervalos de fechas personalizados para crear comparaciones de tendencia mensuales y anuales para cualquier métrica de Analysis Workspace.
-feature: calendar
+description: Aprenda a aplicar intervalos de fechas personalizados para crear comparaciones de tendencias mensuales y anuales para cualquier métrica en Analysis Workspace.
+feature: Calendario
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5031
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 4d423c9148e973e4ca0efd2385233da8c4467e79
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '60'
 ht-degree: 28%
 
 ---
@@ -19,6 +20,6 @@ ht-degree: 28%
 
 # Incorporación de comparaciones de meses y años anteriores con tendencias
 
-Aprenda a aplicar intervalos de fechas personalizados para crear comparaciones de tendencia mensuales y anuales para cualquier métrica de Analysis Workspace.
+Aprenda a aplicar intervalos de fechas personalizados para crear comparaciones de tendencias mensuales y anuales para cualquier métrica en Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33772/?quality=12)
