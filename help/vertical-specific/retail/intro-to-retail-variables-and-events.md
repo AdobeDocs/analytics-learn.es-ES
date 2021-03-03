@@ -1,24 +1,25 @@
 ---
-title: Introducción a variables y Eventos comerciales
-description: Si tiene un sitio de venta minorista, hay algunas variables y eventos que se crearon solo para usted (no es especial). Este vídeo le proporcionará una introducción rápida para comprender estas variables y eventos específicos del sector minorista.
-feature: use cases
+title: Introducción a variables y eventos comerciales
+description: Si tiene un sitio de venta minorista, hay algunas variables y eventos que se crearon solo para usted (no es especial). Este vídeo le ofrece una introducción rápida para comprender estas variables y eventos específicos de minoristas.
+feature: Casos de uso
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3579
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 2%
 
 ---
 
 
-# Introducción a variables y Eventos comerciales
+# Introducción a variables y eventos comerciales
 
-Si tiene un sitio de venta minorista, hay algunas variables y eventos que se crearon solo para usted (no es especial). Este vídeo le proporcionará una introducción rápida para comprender estas variables y eventos específicos del sector minorista.
+Si tiene un sitio de venta minorista, hay algunas variables y eventos que se crearon solo para usted (no es especial). Este vídeo le ofrece una introducción rápida para comprender estas variables y eventos específicos de minoristas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28750/?quality=12)
