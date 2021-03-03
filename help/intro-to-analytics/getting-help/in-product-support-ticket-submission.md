@@ -1,24 +1,25 @@
 ---
-title: Envío de entradas de asistencia técnica dentro del producto
-description: Ahora puede enviar un ticket de asistencia técnica del Servicio de atención al cliente directamente en la interfaz de usuario, lo que optimiza el proceso de resolución.
-feature: analytics basics
+title: Envío de ticket de asistencia interna del producto
+description: Ahora puede enviar un ticket de asistencia al Servicio de atención al cliente directamente en la interfaz de usuario, lo que optimiza el proceso de resolución.
+feature: Aspectos básicos de Analytics
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1664
+role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 0%
+source-wordcount: '55'
+ht-degree: 3%
 
 ---
 
 
-# Envío de entradas de asistencia técnica dentro del producto {#in-product-support-ticket-submission}
+# Envío de ticket de soporte dentro del producto {#in-product-support-ticket-submission}
 
-Ahora puede enviar un ticket de [!DNL Customer Care] asistencia técnica directamente en la interfaz de usuario, lo que optimiza el proceso hacia la resolución.
+Ahora puede enviar un ticket de asistencia [!DNL Customer Care] directamente en la interfaz de usuario, lo que optimiza el proceso de resolución.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12)
