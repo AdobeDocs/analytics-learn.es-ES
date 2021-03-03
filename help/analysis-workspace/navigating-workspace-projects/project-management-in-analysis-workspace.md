@@ -1,24 +1,25 @@
 ---
 title: Administración de proyectos en Analysis Workspace
-description: Este vídeo muestra cómo puede administrar los proyectos que cree en Analysis Workspace en Adobe Analytics.
-feature: projects
+description: Este vídeo muestra cómo puede administrar los proyectos que crea en Analysis Workspace en Adobe Analytics.
+feature: Proyectos
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2034
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 0%
+source-wordcount: '48'
+ht-degree: 2%
 
 ---
 
 
-# Project Management in Analysis Workspace {#project-management-in-analysis-workspace}
+# Administración de proyectos en Analysis Workspace {#project-management-in-analysis-workspace}
 
-Este vídeo muestra cómo puede administrar los proyectos que cree en Analysis Workspace en Adobe Analytics.
+Este vídeo muestra cómo puede administrar los proyectos que crea en Analysis Workspace en Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24035/?quality=12)
