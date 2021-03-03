@@ -1,25 +1,26 @@
 ---
-title: Intervalos de fechas móviles en segmentos
-description: 'Adobe Analytics le permite responder preguntas como - ¿Cuál fue el promedio móvil de 60 días para los ingresos? o bien: ¿cuántos visitantes vieron el contenido en mi aplicación más de 5 veces en la semana pasada? incluyendo intervalos de fechas móviles en segmentos. Este vídeo muestra cómo hacerlo.'
-feature: segmentation
+title: Intervalos de fechas móviles en los segmentos
+description: 'Adobe Analytics le permite responder preguntas como: ¿Cuál era el promedio móvil de 60 días para los ingresos? o - ¿Cuántos visitantes vieron el contenido en mi aplicación más de 5 veces en la semana pasada? al incluir intervalos de fechas móviles en los segmentos. Este vídeo muestra cómo hacerlo.'
+feature: Segmentación
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2304
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 
-# Rolling [!UICONTROL Date Ranges] in [!UICONTROL Segments] {#rolling-date-ranges-in-segments}
+# [!UICONTROL Intervalos de fechas] móviles en [!UICONTROL Segmentos] {#rolling-date-ranges-in-segments}
 
-Adobe Analytics le permite responder preguntas como &quot;¿Cuál fue el promedio móvil de 60 días para los ingresos?&quot; o &quot;¿Cuántos visitantes han visualizado contenido en mi aplicación más de 5 veces la semana pasada?&quot; incluyendo intervalos [!UICONTROL de] fechas móviles en [!UICONTROL segmentos]. Este vídeo muestra cómo hacerlo.
+Adobe Analytics le permite responder preguntas como &quot;¿Cuál era el promedio móvil de 60 días para los ingresos?&quot; o &quot;¿Cuántos visitantes vieron el contenido en mi aplicación más de 5 veces en la semana pasada?&quot; incluyendo [!UICONTROL intervalos de fechas] móviles en [!UICONTROL segmentos]. Este vídeo muestra cómo hacerlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12)
 
