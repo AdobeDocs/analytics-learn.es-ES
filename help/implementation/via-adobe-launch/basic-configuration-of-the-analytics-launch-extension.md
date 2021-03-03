@@ -1,24 +1,25 @@
 ---
-title: Configuración básica de la extensión de inicio de Analytics
+title: Configuración básica de la extensión de Launch de Analytics
 description: Este vídeo muestra una forma rápida de configurar la extensión de Analytics en Launch para un sitio básico.
-feature: launch implementation
+feature: Implementación de Launch
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3586
+role: '"Desarrollador, ingeniero de datos"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 0ec2bbb4af9bd8e55e2ad3b94c8c806249a03fe3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 
-# Configuración básica de la [!DNL Experience Platform Launch] extensión para Analytics
+# Configuración básica de la extensión [!DNL Experience Platform Launch] para Analytics
 
-Este vídeo muestra una forma rápida de configurar la [!DNL Analytics] extensión en [!DNL Experience Platform Launch] un sitio básico.
+Este vídeo muestra una forma rápida de configurar la extensión [!DNL Analytics] en [!DNL Experience Platform Launch] para un sitio básico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12)
