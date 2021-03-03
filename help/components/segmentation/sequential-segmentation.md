@@ -1,25 +1,26 @@
 ---
 title: Segmentación secuencial en Adobe Analytics
 description: Este vídeo explica cómo segmentar secuencias de comportamiento en Adobe Analytics y cómo utilizarlas para comparar canales de marketing y visitas en el orden previsto.
-feature: segmentation
+feature: Segmentación
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2302
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 0%
+source-wordcount: '88'
+ht-degree: 1%
 
 ---
 
 
 # Segmentación secuencial en Adobe Analytics {#sequential-segmentation-in-adobe-analytics}
 
-Este vídeo explica cómo segmentar secuencias de comportamiento en Adobe Analytics y cómo utilizarlas para comparar canales [!UICONTROL de] marketing y [!UICONTROL visitas en el orden previsto].
+Este vídeo le explica cómo segmentar secuencias de comportamiento en Adobe Analytics y cómo utilizarlas para comparar [!UICONTROL canales de marketing] y [!UICONTROL abandonos].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12)
 
