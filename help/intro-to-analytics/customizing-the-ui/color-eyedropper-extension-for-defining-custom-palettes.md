@@ -1,18 +1,19 @@
 ---
 title: Extensión de cuentagotas de color para definir paletas personalizadas
 description: Aprenda a utilizar la extensión ColorPick EyeDropper Chrome para encontrar fácilmente los valores hexadecimales que necesita para una paleta de colores personalizada en sus proyectos de Espacio de trabajo.
-feature: workspace basics
+feature: Conceptos básicos del espacio de trabajo
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5035
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 82%
+source-wordcount: '85'
+ht-degree: 77%
 
 ---
 
@@ -23,4 +24,4 @@ Aprenda a utilizar la extensión ColorPick EyeDropper Chrome para encontrar fác
 
 >[!VIDEO](https://video.tv.adobe.com/v/33775/?quality=12)
 
-**Nota:** Se trata de una extensión pública de Chrome y no está afiliada a productos de Adobe.
+**Nota:** Esta es una extensión pública de Chrome y no está afiliada a productos de Adobe.
