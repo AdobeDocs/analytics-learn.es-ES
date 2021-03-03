@@ -1,26 +1,27 @@
 ---
 title: Plantilla de tutorial de formación en Analysis Workspace
-description: 'El Tutorial de capacitación de Analysis Workspace guía a los usuarios por la terminología común y los pasos para crear su primera análisis en Workspace. '
-feature: projects
+description: 'El tutorial de formación de Analysis Workspace guía a los usuarios por la terminología común y los pasos para crear su primer análisis en Workspace. '
+feature: Paneles
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5032
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 4d423c9148e973e4ca0efd2385233da8c4467e79
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 13%
+source-wordcount: '90'
+ht-degree: 14%
 
 ---
 
 
 # Plantilla de tutorial de formación en Analysis Workspace
 
-El Tutorial de capacitación de Analysis Workspace guía a los usuarios por la terminología común y los pasos para crear su primera análisis en Workspace.
+El tutorial de formación de Analysis Workspace guía a los usuarios por la terminología común y los pasos para crear su primer análisis en Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33773/?quality=12)
 
-Esta plantilla está disponible como plantilla estándar en el modo Nuevo proyecto. A partir de esta plantilla, puede crear sus propios tutoriales, adaptándolos a los casos de uso y la estructura de datos únicos de su organización (eVars, eventos personalizados).
+Esta plantilla está disponible como plantilla estándar en el modal Nuevo proyecto . Desde esta plantilla, puede crear sus propios tutoriales, adaptándolos a los casos de uso y la estructura de datos únicos de su organización (eVars, eventos personalizados).
