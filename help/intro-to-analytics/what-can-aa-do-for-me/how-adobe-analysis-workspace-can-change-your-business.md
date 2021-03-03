@@ -1,26 +1,27 @@
 ---
-title: Cómo Adobe Analysis Workspace puede cambiar su negocio
+title: Cómo puede cambiar su empresa Adobe Analysis Workspace
 landing-page-description: Con Analysis Workspace, puede realizar análisis específicos, análisis flexible, análisis de cohortes y análisis de abandonos.
 description: Analysis Workspace es una interfaz nueva y fácil de usar en Adobe Analytics. Dentro de Analysis Workspace, puede realizar análisis específicos, análisis flexible, análisis de cohortes y análisis de abandonos. También puede compartir el entorno de trabajo del análisis con todos los usuarios de la compañía, y su función de arrastrar y soltar permite a todos analizar los datos fácilmente y obtener perspectivas rápidamente.
-feature: conceptos básicos del espacio de trabajo
+feature: Conceptos básicos del espacio de trabajo
 topics: null
-audience: all
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4382
+role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 69%
+source-wordcount: '175'
+ht-degree: 65%
 
 ---
 
 
-# Cómo Adobe Analysis Workspace puede cambiar su negocio
+# Cómo puede cambiar su empresa Adobe Analysis Workspace
 
-[!UICONTROL Analysis Workspace es una interfaz nueva y fácil de usar en Adobe Analytics. ] Dentro de [!UICONTROL Analysis Workspace], puede [!UICONTROL Análisis específicos], [!UICONTROL Análisis flexible], [!UICONTROL Análisis de cohorte] y [!UICONTROL Análisis de visitas en el orden previsto]. También puede compartir el entorno de trabajo del análisis con todos los usuarios de la compañía, y su función de arrastrar y soltar permite a todos analizar los datos fácilmente y obtener perspectivas rápidamente.
+[!UICONTROL Analysis Workspace es una interfaz nueva y fácil de usar en Adobe Analytics. ] Dentro de [!UICONTROL Analysis Workspace], puede [!UICONTROL Ad Hoc Analysis], [!UICONTROL Flexible Analysis], [!UICONTROL Cohort Analysis] y [!UICONTROL Fallout Analysis]. También puede compartir el entorno de trabajo del análisis con todos los usuarios de la compañía, y su función de arrastrar y soltar permite a todos analizar los datos fácilmente y obtener perspectivas rápidamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12)
 
