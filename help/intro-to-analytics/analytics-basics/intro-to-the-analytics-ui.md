@@ -1,24 +1,25 @@
 ---
 title: Introducción a la interfaz de usuario de Analytics
-description: Este vídeo le orienta hacia la interfaz de Adobe Analytics y le muestra dónde encontrará las herramientas que necesitará a medida que implemente y mientras realiza la análisis.
-feature: analytics basics
+description: Este vídeo le dirige a la interfaz de Adobe Analytics y le muestra dónde encontrará las herramientas que necesitará a medida que implemente y mientras realiza el análisis.
+feature: Aspectos básicos de Analytics
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3567
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 2%
 
 ---
 
 
-# Introducción a la [!DNL Analytics] IU
+# Introducción a la interfaz de usuario de [!DNL Analytics]
 
-Este vídeo le orienta hacia la interfaz de Adobe Analytics y le muestra dónde encontrará las herramientas que necesitará a medida que implemente y mientras realiza la análisis.
+Este vídeo le dirige a la interfaz de Adobe Analytics y le muestra dónde encontrará las herramientas que necesitará a medida que implemente y mientras realiza el análisis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28748/?quality=12)
