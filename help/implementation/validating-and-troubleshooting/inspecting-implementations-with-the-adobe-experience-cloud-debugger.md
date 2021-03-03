@@ -1,28 +1,29 @@
 ---
 title: Inspección de implementaciones con Adobe Experience Cloud Debugger
-description: El depurador de Experience Cloud es una herramienta que permite a los usuarios inspeccionar y depurar etiquetas de Experience Cloud. En este vídeo se explica cómo usar el Experience Cloud Debugger para inspeccionar las implementaciones de Analytics.
-feature: validation
+description: Experience Cloud Debugger es una herramienta que permite a los usuarios inspeccionar y depurar etiquetas de Experience Cloud. Este vídeo explica cómo usar Experience Cloud Debugger para inspeccionar implementaciones de Analytics.
+feature: Validación
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1942
+role: '"Desarrollador, ingeniero de datos"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 
-# Inspección de implementaciones con la variable [!DNL Adobe Experience Cloud Debugger] {#inspecting-implementations-with-the-adobe-experience-cloud-debugger}
+# Inspección de Implementaciones con [!DNL Adobe Experience Cloud Debugger] {#inspecting-implementations-with-the-adobe-experience-cloud-debugger}
 
-La [!DNL Experience Cloud debugger] es una herramienta que permite a los usuarios inspeccionar y depurar etiquetas de Experience Cloud. En este vídeo se explica cómo usar el [!DNL Experience Cloud Debugger] para inspeccionar [!DNL Analytics] las implementaciones.
+La [!DNL Experience Cloud debugger] es una herramienta que permite a los usuarios inspeccionar y depurar etiquetas de Experience Cloud. Este vídeo explica cómo utilizar [!DNL Experience Cloud Debugger] para inspeccionar las implementaciones [!DNL Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12)
 
-Aprenderá a ver lo que se activa en diferentes páginas, cargar nombres prácticos de variables y exportar resultados para casos de uso avanzados.
+Aprenderá a ver lo que se activa en diferentes páginas, cargar nombres de variables descriptivos y exportar resultados para casos de uso avanzados.
 
-Para obtener más información, visite la [documentación](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/experience-cloud-debugger.html).
+Para obtener más información, consulte la [documentación](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/experience-cloud-debugger.html).
