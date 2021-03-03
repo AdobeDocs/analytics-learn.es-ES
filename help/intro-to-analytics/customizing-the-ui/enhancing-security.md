@@ -1,24 +1,25 @@
 ---
 title: Mejora de la seguridad en Adobe Analytics
-description: Adobe Analytics está a la altura de los estándares de seguridad más recientes. Si su organización desea ampliar esa seguridad con contraseñas sólidas y restricciones de inicio de sesión IP, este vídeo le mostrará cómo hacerlo.
-feature: analytics basics
+description: Adobe Analytics cumple los estándares de seguridad más recientes. Si su organización desea ampliar esa seguridad con elementos como contraseñas seguras y restricciones de inicio de sesión con IP, este vídeo le mostrará cómo hacerlo.
+feature: Aspectos básicos de Analytics
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2366
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 2%
 
 ---
 
 
 # Mejora de la seguridad en Adobe Analytics {#enhancing-security-in-adobe-analytics}
 
-Adobe Analytics está a la altura de los estándares de seguridad más recientes. Si su organización desea ampliar esa seguridad con contraseñas sólidas y restricciones de inicio de sesión IP, este vídeo le muestra cómo hacerlo.
+Adobe Analytics cumple los estándares de seguridad más recientes. Si su organización desea ampliar esa seguridad con elementos como contraseñas seguras y restricciones de inicio de sesión con IP, este vídeo le muestra cómo hacerlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12)
