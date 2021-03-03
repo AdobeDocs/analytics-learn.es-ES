@@ -1,24 +1,25 @@
 ---
-title: Sistema de informes en tiempo real en Reports and Analytics
-description: Este vídeo muestra un puñado de actualizaciones realizadas por el Adobe en el informe en tiempo real en Informes y análisis en Adobe Analytics.
-feature: analytics basics
+title: Informes en tiempo real en Reports and Analytics
+description: Este vídeo muestra un puñado de actualizaciones que Adobe ha realizado en el Informe en tiempo real en Reports & Analytics en Adobe Analytics.
+feature: Aspectos básicos de Analytics
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2360
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 3%
 
 ---
 
 
-# Sistema de informes en tiempo real en [!DNL Reports & Analytics] {#real-time-reporting-in-reports-analytics}
+# Informes en tiempo real en [!DNL Reports & Analytics] {#real-time-reporting-in-reports-analytics}
 
-Este vídeo muestra un puñado de actualizaciones que Adobe ha realizado en el informe [!UICONTROL en tiempo] real en [!UICONTROL Informes y análisis] en Adobe Analytics.
+Este vídeo muestra un puñado de actualizaciones que Adobe ha realizado sobre el [!UICONTROL Informe en tiempo real] en [!UICONTROL Reports &amp; Analytics] en Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12)
