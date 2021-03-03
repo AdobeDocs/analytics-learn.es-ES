@@ -1,24 +1,25 @@
 ---
-title: Botón Probar en el espacio de trabajo en Reports and Analytics
-description: La mayoría de los informes de Reports and Analytics incluyen un botón Probar en el espacio de trabajo para permitirle reproducir la vista actual en Analysis Workspace y personalizarla más.
-feature: analytics basics
+title: Probar en el botón del espacio de trabajo en Reports and Analytics
+description: La mayoría de los informes de Reports and Analytics incluyen un botón Probar en el espacio de trabajo para permitirle reproducir la vista actual en Analysis Workspace y personalizarla aún más.
+feature: Aspectos básicos de Analytics
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1965
+role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 0%
+source-wordcount: '77'
+ht-degree: 2%
 
 ---
 
 
-# &quot;Try in Workspace&quot; Button in [!DNL Reports & Analytics] {#try-in-workspace-button-in-reports-analytics}
+# Botón &quot;Probar en el espacio de trabajo&quot; en [!DNL Reports & Analytics] {#try-in-workspace-button-in-reports-analytics}
 
-Most reports in [!UICONTROL Reports &amp; Analytics] include a **[!UICONTROL Try in Workspace]** button to allow you to reproduce the current view in [!UICONTROL Analysis Workspace] for further customization.
+La mayoría de los informes de [!UICONTROL Reports &amp; Analytics] incluyen un botón **[!UICONTROL Probar en el espacio de trabajo]** para permitirle reproducir la vista actual en [!UICONTROL Analysis Workspace] para una mayor personalización.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23959/?quality=12)
