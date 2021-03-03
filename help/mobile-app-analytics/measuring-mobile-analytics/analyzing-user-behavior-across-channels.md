@@ -1,24 +1,25 @@
 ---
-title: Análisis del comportamiento del usuario en varios Canales
-description: Aprenda a descubrir las rutas de conversión de los usuarios en las aplicaciones móviles mediante Flujo y compárelas con otras experiencias como la web. Defina y mida la conversión en procesos de varios pasos para llevar el éxito a sus aplicaciones móviles.
-feature: workspace basics
+title: Análisis del comportamiento del usuario en los canales
+description: Aprenda a descubrir las rutas de los usuarios a la conversión en aplicaciones móviles mediante Flujo y compárela con otras experiencias como la web. Defina y mida la conversión en procesos de varios pasos para llevar el éxito a sus aplicaciones móviles.
+feature: Conceptos básicos del espacio de trabajo
 topics: mobile
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3053
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 
-# Análisis del comportamiento del usuario en varios Canales {#analyzing-user-behavior-across-channels}
+# Análisis del comportamiento del usuario en los canales {#analyzing-user-behavior-across-channels}
 
-Descubra cómo descubren las rutas de conversión de los usuarios en las aplicaciones móviles mediante [!DNL Flow] y compárelas con otras experiencias como la web. Defina y mida la conversión en procesos de varios pasos para llevar el éxito a sus aplicaciones móviles.
+Aprenda a descubrir las rutas de los usuarios a la conversión en aplicaciones móviles mediante [!DNL Flow] y compárela con otras experiencias como la web. Defina y mida la conversión en procesos de varios pasos para llevar el éxito a sus aplicaciones móviles.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27824/?quality=12)
