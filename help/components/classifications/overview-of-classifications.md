@@ -1,25 +1,26 @@
 ---
-title: Información general sobre las clasificaciones en Adobe Analytics
-description: Las clasificaciones son una manera eficaz de agregar metadatos (atributos descriptivos) a sus productos, campañas, páginas, clientes, etc. Estos atributos pueden ayudarle a comprender mejor sus esfuerzos de mercadotecnia y experiencia, ya que le permiten agrupar elementos similares y desglosar datos para profundizar en lo que es y lo que no funciona para usted.
-feature: classifications
+title: Descripción general de las clasificaciones en Adobe Analytics
+description: Las clasificaciones son una forma eficaz de agregar metadatos (atributos descriptivos) a sus productos, campañas, páginas, clientes y mucho más. Estos atributos pueden ayudarle a comprender mejor sus esfuerzos de marketing y experiencia, ya que le permiten agrupar elementos similares y desglosar datos para profundizar en lo que es y lo que no funciona para usted.
+feature: Clasificaciones
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2350
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '137'
 ht-degree: 6%
 
 ---
 
 
-# Información general sobre [!UICONTROL las clasificaciones] en Adobe Analytics {#overview-of-classifications-in-adobe-analytics}
+# Información general sobre [!UICONTROL Clasificaciones] en Adobe Analytics {#overview-of-classifications-in-adobe-analytics}
 
-[!UICONTROL Las clasificaciones] son una manera eficaz de agregar metadatos (atributos descriptivos) a sus productos, campañas, páginas, clientes, etc. Estos atributos pueden ayudarle a comprender mejor sus esfuerzos de mercadotecnia y experiencia, ya que le permiten agrupar elementos similares y desglosar datos para profundizar en lo que es y lo que no funciona para usted.
+ Las clasificaciones son una forma eficaz de agregar metadatos (atributos descriptivos) a sus productos, campañas, páginas, clientes y mucho más. Estos atributos pueden ayudarle a comprender mejor sus esfuerzos de marketing y experiencia, ya que le permiten agrupar elementos similares y desglosar datos para profundizar en lo que es y lo que no funciona para usted.
 
 >[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12)
 
