@@ -1,24 +1,25 @@
 ---
-title: Uso del código personalizado al configurar la extensión de inicio de Analytics
-description: Si acaba de empezar a usar Launch, por Adobe, y la extensión Adobe Analytics, este vídeo puede ayudarle a comprender las opciones de la ventana de código personalizada, el tiempo de ejecución del código, etc.
-feature: launch implementation
+title: Uso del código personalizado al configurar la extensión de Launch de Analytics
+description: Si acaba de empezar a usar Launch, de Adobe y la extensión de Adobe Analytics, este vídeo puede ayudarle a comprender las opciones de ventana de código personalizado, el tiempo de ejecución del código, etc.
+feature: Implementación de Launch
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
+role: '"Desarrollador, ingeniero de datos"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 
-# Uso del código personalizado al configurar la [!DNL Analytics] extensión [!DNL Launch] {#using-custom-code-while-configuring-the-launch-analytics-extension}
+# Uso del código personalizado al configurar la extensión [!DNL Analytics] [!DNL Launch] {#using-custom-code-while-configuring-the-launch-analytics-extension}
 
-Si acaba de empezar a usar Adobe Experience Platform Launch y Adobe Analytics [!UICONTROL Extension], este vídeo puede ayudarle a comprender las opciones de ventana de código personalizado, la temporización de ejecución del código, etc.
+Si acaba de empezar a usar Adobe Experience Platform Launch y Adobe Analytics [!UICONTROL Extension], este vídeo puede ayudarle a comprender las opciones de ventana de código personalizado, el tiempo de ejecución del código, etc.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=9)
