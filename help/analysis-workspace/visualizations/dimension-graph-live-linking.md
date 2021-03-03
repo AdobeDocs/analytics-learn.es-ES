@@ -1,24 +1,25 @@
 ---
-title: Vinculación en vivo de Dimension-gráfico en Analysis Workspace
-description: No sabemos cómo llamarlo, pero es chévere. Al crear un gráfico de líneas a partir de un valor de dimensión, ahora puede seleccionar diferentes valores de dimensión y cambiar el gráfico de forma dinámica. ¡Vea el vídeo para conocer más!
-feature: visualizations
+title: Vinculación entre dimensiones y gráficos en Analysis Workspace
+description: No sabemos cómo llamarlo, pero es genial. Cuando se crea un gráfico de líneas a partir de un valor de dimensión, ahora se pueden seleccionar valores de dimensión diferentes y cambiar el gráfico de forma dinámica. Vea el vídeo para obtener más información.
+feature: Visualizaciones
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2115
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Vinculación en vivo de Dimension]-gráfico en Analysis Workspace {#dimension-graph-live-linking-in-analysis-workspace}
+# [!UICONTROL Vinculación] entre dimensiones y gráficos en Analysis Workspace  {#dimension-graph-live-linking-in-analysis-workspace}
 
-No sabemos cómo llamarlo, pero es chévere. Al crear un gráfico de líneas a partir de un valor de [!UICONTROL dimensión] , ahora puede seleccionar diferentes valores de [!UICONTROL dimensión] y cambiar el gráfico de forma dinámica. ¡Vea el vídeo para conocer más!
+No sabemos cómo llamarlo, pero es genial. Cuando se crea un gráfico de líneas a partir de un valor [!UICONTROL dimension], ahora se pueden seleccionar valores [!UICONTROL dimension] diferentes y cambiar el gráfico de forma dinámica. Vea el vídeo para obtener más información.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23991/?quality=12)
