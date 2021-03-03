@@ -1,18 +1,19 @@
 ---
-title: Comparación de segmentos en visitas en el orden previsto en Analysis Workspace
-description: Este vídeo muestra cómo comparar flujos de trabajo clave en varios segmentos de Analysis Workspace.
-feature: visualizations
+title: Comparación de segmentos en Visitas en el orden previsto en Analysis Workspace
+description: Este vídeo muestra cómo comparar flujos de trabajo clave entre varios segmentos en Analysis Workspace.
+feature: Visualizaciones
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24046.jpg
 kt: 2278
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '64'
 ht-degree: 15%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 15%
 
 # Comparación de segmentos en [!UICONTROL Visitas en el orden previsto] en Analysis Workspace {#comparing-segments-in-fallout-in-analysis-workspace}
 
-Este vídeo muestra cómo comparar flujos de trabajo clave en varios segmentos de Analysis Workspace.
+Este vídeo muestra cómo comparar flujos de trabajo clave entre varios segmentos en Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12)
 
