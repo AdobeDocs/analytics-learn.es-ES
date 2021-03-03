@@ -1,24 +1,25 @@
 ---
-title: Densidad de vista en Analysis Workspace
-description: La configuración de Densidad de Vista en Proyecto > Información y configuración permite controlar el relleno vertical aplicado al carril izquierdo y a las tablas (forma libre y cohorte). Puede elegir entre Expandido (predeterminado), Cómodo o Compacto.
-feature: projects
+title: Ver densidad en Analysis Workspace
+description: La configuración Ver densidad en Proyecto > Información y configuración permite controlar el margen vertical aplicado al carril izquierdo y a las tablas (forma libre y cohorte). Puede elegir entre Expandida (predeterminada), Cómoda o Compacta.
+feature: Proyectos
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2492
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Densidad] de vista en Analysis Workspace {#view-density-in-analysis-workspace}
+# [!UICONTROL Ver ] densidad en Analysis Workspace  {#view-density-in-analysis-workspace}
 
-La configuración de Densidad [!UICONTROL de] Vista en [!UICONTROL Proyecto] > Información y configuración [!UICONTROL del] proyecto permite controlar el relleno vertical aplicado al carril izquierdo y a las tablas ([!UICONTROL Freeform] y [!UICONTROL Cohort]). Puede elegir entre Expandido (predeterminado), Cómodo o Compacto.
+La configuración [!UICONTROL Ver densidad] en [!UICONTROL Proyecto] > [!UICONTROL Información y configuración del proyecto] le permite controlar el margen vertical aplicado al carril izquierdo y a las tablas ([!UICONTROL Forma libre] y [!UICONTROL Cohorte]). Puede elegir entre Expandida (predeterminada), Cómoda o Compacta.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12)
