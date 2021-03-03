@@ -1,24 +1,25 @@
 ---
 title: Edición de etiquetas de series en Analysis Workspace
-description: Recorrido de algunas funciones nuevas que permiten a analistas y especialistas en marketing ajustar las etiquetas de los gráficos para adaptarlos a sus necesidades de visualización.
-feature: visualizations
+description: Introducción a algunas nuevas funciones que permiten a analistas y especialistas en marketing ajustar las etiquetas en gráficos para adaptarlos a sus necesidades de visualización.
+feature: Visualizaciones
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1906
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 0%
+source-wordcount: '58'
+ht-degree: 1%
 
 ---
 
 
 # Edición de etiquetas de series en Analysis Workspace {#series-label-editing-in-analysis-workspace}
 
-Explicación de algunas funciones nuevas que permiten a analistas y especialistas en mercadotecnia ajustar las etiquetas de los gráficos para adaptarse a sus necesidades [!UICONTROL de visualización] .
+Introducción a algunas nuevas funciones que permiten a analistas y especialistas en marketing ajustar las etiquetas en gráficos para adaptarlos a sus necesidades de [!UICONTROL visualización].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23728/?quality=12)
