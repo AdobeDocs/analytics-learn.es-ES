@@ -1,25 +1,26 @@
 ---
-title: Impacto de los puntos de contacto en el viaje móvil
-description: Descubra cómo los usuarios de aplicaciones móviles se ven influidos por los puntos de contacto y qué canales mueven la aguja para su aplicación móvil con Attribution IQ. Saber qué canales trabajan juntos para impulsar eventos de éxito en la aplicación móvil.
-feature: workspace basics
+title: Impacto de los puntos de contacto en el recorrido móvil
+description: Descubra cómo los usuarios de aplicaciones móviles se ven influidos por los puntos de contacto y qué canales están moviendo la aguja para su aplicación móvil mediante Attribution IQ. Conozca qué canales están trabajando juntos para impulsar eventos de éxito en su aplicación móvil.
+feature: Conceptos básicos del espacio de trabajo
 topics: mobile
-audience: analyst
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 3052
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 
-# Impacto de los puntos de contacto en el viaje móvil {#impact-of-touchpoints-across-mobile-journey}
+# Impacto de los puntos de contacto en el recorrido móvil {#impact-of-touchpoints-across-mobile-journey}
 
-Descubra cómo los usuarios de aplicaciones móviles se ven influidos por los puntos de contacto y qué canales están moviendo la aguja para su aplicación móvil mediante [!DNL Attribution IQ]. Saber qué canales trabajan juntos para impulsar eventos de éxito en la aplicación móvil.
+Descubra cómo los usuarios de aplicaciones móviles se ven influidos por los puntos de contacto y qué canales están moviendo la aguja para su aplicación móvil mediante [!DNL Attribution IQ]. Conozca qué canales están trabajando juntos para impulsar eventos de éxito en su aplicación móvil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27827/?quality=12)
