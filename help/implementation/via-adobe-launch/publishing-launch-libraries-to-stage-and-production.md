@@ -1,24 +1,25 @@
 ---
-title: Publicación de bibliotecas de lanzamiento en el escenario y la producción
-description: Una vez que haya bloqueado la implementación en el servidor de desarrollo, querrá moverla a un entorno de ensayo, probarla allí y moverla a su entorno de producción. Este vídeo muestra el proceso paso a paso.
-feature: launch implementation
+title: Publicación de bibliotecas de Launch en fase y producción
+description: Una vez que haya bloqueado la implementación en el servidor de desarrollo, querrá moverla a un entorno de ensayo, probarla allí y luego moverla al entorno de producción. Este vídeo muestra el proceso paso a paso.
+feature: Implementación de Launch
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3595
+role: '"Desarrollador, ingeniero de datos"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 
-# Publicación de bibliotecas de lanzamiento en el escenario y la producción
+# Publicación de bibliotecas de Launch en fase y producción
 
-Una vez finalizada la implementación en el servidor de desarrollo, querrá moverla a un entorno de ensayo, probarla allí y moverla a su entorno de producción. Este vídeo muestra el proceso paso a paso.
+Cuando haya terminado la implementación en el servidor de desarrollo, querrá moverla a un entorno de ensayo, probarla allí y, a continuación, moverla al entorno de producción. Este vídeo muestra el proceso paso a paso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12)
