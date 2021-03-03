@@ -1,25 +1,26 @@
 ---
-title: Configuración de la administración de bibliotecas para Analytics
-description: Si acaba de empezar con la extensión de Experience Platform Launch para Adobe Analytics, este vídeo puede ayudarle con la porción de administración de biblioteca de la configuración, incluida la selección de grupos de informes en los que desea enviar datos.
-feature: launch implementation
+title: Configuración de la administración de biblioteca para Analytics
+description: Si acaba de empezar a usar la extensión de Experience Platform Launch para Adobe Analytics, este vídeo puede ayudarle con la parte de la configuración correspondiente a la administración de biblioteca, incluida la selección de los grupos de informes a los que desea enviar datos.
+feature: Implementación de Launch
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2836
+role: '"Desarrollador, ingeniero de datos"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 16%
+source-wordcount: '135'
+ht-degree: 15%
 
 ---
 
 
-# Configuración de la administración [!UICONTROL de biblioteca] para [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
+# Configuración de [!UICONTROL Administración de biblioteca] para [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
 
-Si acaba de empezar con Experience Platform Launch y Adobe Analytics [!UICONTROL Extension], este vídeo puede ayudarle con la administración [!UICONTROL de]biblioteca, incluida la selección de grupos [!UICONTROL de] informes en los que enviar datos.
+Si acaba de empezar a usar Experience Platform Launch y Adobe Analytics [!UICONTROL Extension], este vídeo puede ayudarle con la [!UICONTROL Administración de biblioteca], incluida la selección de [!UICONTROL grupos de informes] en los que enviar datos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12)
 
