@@ -1,25 +1,26 @@
 ---
-title: Uso de segmentos para limitar datos en Analysis Workspace
-description: Este vídeo muestra cómo puede limitar los usuarios de un proyecto en Analysis Workspace a un segmento específico (o segmentos) mientras trabajan con la herramienta.
-feature: segmentation
+title: Uso de segmentos para limitar los datos en Analysis Workspace
+description: Este vídeo muestra cómo puede limitar los usuarios de un proyecto en Analysis Workspace a un segmento específico (o segmentos) a medida que trabajan con la herramienta.
+feature: Segmentación
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2105
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '74'
+ht-degree: 1%
 
 ---
 
 
-# Uso de segmentos para limitar datos en Analysis Workspace {#using-segments-to-limit-data-in-analysis-workspace}
+# Uso de segmentos para limitar los datos en Analysis Workspace {#using-segments-to-limit-data-in-analysis-workspace}
 
-Este vídeo muestra cómo puede limitar los usuarios de un proyecto en Analysis Workspace a un segmento específico (o segmentos) mientras trabajan con la herramienta.
+Este vídeo muestra cómo puede limitar los usuarios de un proyecto en Analysis Workspace a un segmento específico (o segmentos) a medida que trabajan con la herramienta.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24038/?quality=12)
