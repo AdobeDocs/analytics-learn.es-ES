@@ -1,19 +1,20 @@
 ---
 title: Uso de métricas de participación en Analysis Workspace
 description: Utilice este sencillo truco para obtener cualquier métrica de participación en Analysis Workspace en cualquier momento.
-feature: metrics
+feature: Métricas
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 41266.jpg
 kt: 6355
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: fb755fa698e2803249a354a1db533f0d49111db3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 18%
+source-wordcount: '59'
+ht-degree: 83%
 
 ---
 
