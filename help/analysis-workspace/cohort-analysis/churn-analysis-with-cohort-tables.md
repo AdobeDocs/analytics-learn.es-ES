@@ -1,26 +1,27 @@
 ---
-title: Análisis de secuencia con tablas de cohorte
-description: 'Tablas de cohorte oferta dos tipos de análisis: Retención y Entusiasmo. Aunque Retención muestra cuántos usuarios se retienen con el tiempo, la opción Proteger ilustra cuántos usuarios se perdieron (1 - Retención).'
-feature: visualizations
+title: Análisis de pérdida con tablas de cohorte
+description: 'Las tablas de cohorte ofrecen dos tipos de análisis: Retención y Pérdida. Aunque Retención muestra cuántos usuarios se retienen con el tiempo, la opción Pérdida mostrará cuántos usuarios se perdieron (1 - Retención).'
+feature: Visualizaciones
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25966.jpg
 kt: 2479
+role: Profesional empresarial
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 11%
+source-wordcount: '91'
+ht-degree: 12%
 
 ---
 
 
-# [!UICONTROL Análisis] crónica con tablas de [!UICONTROL cohorte] {#churn-analysis-with-cohort-tables}
+#  Análisis de pérdida con tablas de  [!UICONTROL cohorte] {#churn-analysis-with-cohort-tables}
 
-[!UICONTROL Tablas] de cohorte oferta dos tipos de análisis: [!UICONTROL Retención] y [!UICONTROL Encantado]. Aunque [!UICONTROL Retención] muestra cuántos usuarios se retienen con el tiempo, la opción [!UICONTROL Cortar] mostrará cuántos usuarios se perdieron (1 - Retención).
+[!UICONTROL Las ] tablas de cohorte ofrecen dos tipos de análisis:   Retención y  [!UICONTROL Pérdida]. Mientras que [!UICONTROL Retención] muestra cuántos usuarios se retienen a lo largo del tiempo, la opción [!UICONTROL Pérdida] ilustra cuántos usuarios se perdieron (1 - Retención).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12)
 
