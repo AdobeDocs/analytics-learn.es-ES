@@ -1,27 +1,28 @@
 ---
-title: Uso de Filtros (etiquetas) en el raíl izquierdo
-description: Los filtros (o etiquetas) son una forma rápida y sencilla de filtrar el carril izquierdo de Analysis Workspace para encontrar los componentes que necesita. Aproveche las etiquetas integradas proporcionadas por Adobe o agregue sus propias etiquetas personalizadas para organizar los componentes relacionados.
-feature: workspace basics
+title: Uso de filtros (etiquetas) en el carril izquierdo
+description: Los filtros (o etiquetas) son una forma rápida y sencilla de filtrar el carril izquierdo de Analysis Workspace para encontrar los componentes que necesita. Aproveche las etiquetas predeterminadas proporcionadas por Adobe o agregue sus propias etiquetas personalizadas para organizar los componentes relacionados.
+feature: Conceptos básicos del espacio de trabajo
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32959.jpg
 kt: 4845
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '112'
 ht-degree: 8%
 
 ---
 
 
-# Uso de Filtros (etiquetas) en el raíl izquierdo
+# Uso de filtros (etiquetas) en el carril izquierdo
 
-Los filtros (o etiquetas) son una forma rápida y sencilla de filtrar el carril izquierdo de Analysis Workspace para encontrar los [!UICONTROL componentes] que necesita. Aproveche las etiquetas integradas proporcionadas por Adobe o agregue sus propias etiquetas personalizadas para organizar [!UICONTROL los componentes]relacionados.
+Los filtros (o etiquetas) son una forma rápida y sencilla de filtrar el carril izquierdo de Analysis Workspace para encontrar los [!UICONTROL componentes] que necesita. Aproveche las etiquetas predeterminadas proporcionadas por Adobe o agregue sus propias etiquetas personalizadas para organizar los [!UICONTROL componentes] relacionados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12)
 
-Para obtener más información, visite la [documentación](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/home.html)
+Para obtener más información, consulte la [documentación](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/home.html)
