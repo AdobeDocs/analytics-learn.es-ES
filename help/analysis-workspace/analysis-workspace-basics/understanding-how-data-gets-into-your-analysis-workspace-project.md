@@ -1,26 +1,27 @@
 ---
-title: Explicación de cómo se obtienen los datos en el proyecto de Analysis Workspace
-description: Este vídeo muestra cómo ver el flujo de datos de la página a las tablas y visualizaciones de Analysis Workspace, con la extensión Adobe Experience Cloud Debugger de Chrome.
-feature: workspace basics
+title: Información sobre cómo obtener datos en su proyecto de Analysis Workspace
+description: Este vídeo muestra cómo ver el flujo de datos de su página a las tablas y visualizaciones en Analysis Workspace, utilizando la extensión de Adobe Experience Cloud Debugger en Chrome.
+feature: Conceptos básicos del espacio de trabajo
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4109
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '97'
 ht-degree: 8%
 
 ---
 
 
-# Explicación de cómo se obtienen los datos en el proyecto de Analysis Workspace
+# Información sobre cómo obtener datos en su proyecto de Analysis Workspace
 
-En este vídeo se muestra cómo ver el flujo de datos de la página a las tablas y visualizaciones de Analysis Workspace, con la extensión de Chrome [!DNL Adobe Experience Cloud Debugger] .
+Este vídeo muestra cómo ver el flujo de datos de la página a las tablas y visualizaciones de Analysis Workspace, utilizando la extensión [!DNL Adobe Experience Cloud Debugger] en Chrome.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31072/?quality=12)
 
-Para obtener más información sobre el [!DNL Experience Cloud Debugger], visite la [documentación](https://docs.adobe.com/content/help/es-ES/debugger/using/experience-cloud-debugger.html).
+Para obtener más información sobre [!DNL Experience Cloud Debugger], visite la [documentación](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=es-ES).
