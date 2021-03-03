@@ -1,26 +1,27 @@
 ---
-title: Análisis de cohorte con cualquier Dimension
-description: La opción Dimension de cohorte personalizado permite analizar cohortes utilizando dimensiones distintas del tiempo. Compare cohortes por Canal de marketing, región de campaña, página de producto, etc. para comprender mejor cómo cambia la retención (o la reproducción) por elemento de dimensión.
-feature: visualizations
+title: Análisis de cohorte con cualquier dimensión
+description: La opción Dimensión de cohorte personalizada permite analizar cohortes mediante dimensiones que no sean temporales. Compare cohortes por Canal de marketing, región de campaña, página de producto, etc. para comprender mejor cómo cambia la retención (o la pérdida) por elemento de dimensión.
+feature: Visualizaciones
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25967.jpg
 kt: 2478
+role: Profesional empresarial
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '103'
 ht-degree: 10%
 
 ---
 
 
-# [!UICONTROL Análisis de cohorte] con cualquier [!UICONTROL Dimension] {#cohort-analysis-using-any-dimension}
+#  Análisis de cohorte con cualquier  [!UICONTROL dimensión] {#cohort-analysis-using-any-dimension}
 
-La opción [!UICONTROL Cohorte] personalizada [!UICONTROL Dimension] permite analizar [!UICONTROL cohortes] con [!UICONTROL dimensiones] distintas del tiempo. Compare [!UICONTROL cohortes] por Canal de mercadotecnia, región de campaña, página de productos, etc. para comprender mejor cómo cambia la [!UICONTROL retención] (o la [!UICONTROL reproducción]) por elemento de [!UICONTROL dimensión] .
+La opción [!UICONTROL Cohorte personalizada] [!UICONTROL Dimensión] le permite analizar [!UICONTROL cohortes] mediante [!UICONTROL dimensiones] distintas del tiempo. Compare [!UICONTROL cohortes] por canal de marketing, región de campaña, página de producto, etc. para comprender mejor cómo [!UICONTROL retención] (o [!UICONTROL producir]) cambia por el elemento [!UICONTROL dimensión].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
 
