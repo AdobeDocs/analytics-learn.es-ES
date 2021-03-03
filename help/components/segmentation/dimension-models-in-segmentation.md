@@ -1,24 +1,25 @@
 ---
-title: Modelos de Dimension en la segmentación
-description: Los modelos de Dimension están disponibles a través del engranaje para cualquier dimensión en la segmentación. Estos modelos son útiles principalmente para la segmentación secuencial y le permiten segmentar por valores persistentes de una dimensión (predeterminado), instancias o instancias no repetitivas de una dimensión.
-feature: segmentation
+title: Modelos de dimensión en segmentación
+description: Los modelos de dimensión están disponibles a través del engranaje para cualquier dimensión en la segmentación. Estos modelos son principalmente útiles para la segmentación secuencial y le permiten segmentar valores persistentes de una dimensión (predeterminado), instancias o instancias no repetitivas de una dimensión.
+feature: Segmentación
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4846
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 2aad57055392d16e4e92be4887c34e18fc4aff80
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Modelos de Dimension] en la segmentación
+#  Modelos de dimensión en segmentación
 
-[!UICONTROL Los modelos Dimension] están disponibles a través de la marcha para cualquier [!UICONTROL dimensión] en la segmentación. Estos modelos son útiles principalmente para la segmentación secuencial y le permiten segmentar por valores persistentes de una [!UICONTROL dimensión] (predeterminado), instancias o instancias no repetitivas de una [!UICONTROL dimensión].
+ Los modelos de dimensión están disponibles a través del engranaje para cualquier   dimensión en la segmentación. Estos modelos son principalmente útiles para la segmentación secuencial y le permiten segmentar valores persistentes de [!UICONTROL dimensión] (predeterminado), instancias o instancias no repetitivas de una [!UICONTROL dimensión].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12)
