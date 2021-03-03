@@ -1,25 +1,26 @@
 ---
 title: Generador de cuadros de mando de paneles de Adobe Analytics
-description: En este vídeo, aprenderá a crear y compartir "Scorecards" en Analysis Workspace para que se vean en los paneles de Adobe Analytics (aplicación móvil).
-feature: analytics dashboards
+description: En este vídeo, aprenderá a crear y compartir "Informes de valoración" en Analysis Workspace para que se visualicen en los paneles de Adobe Analytics (aplicación móvil).
+feature: Tableros de Analytics
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5286
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 5dc5be58800a8ebdc9867854580450f1378fd588
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 26%
+source-wordcount: '74'
+ht-degree: 24%
 
 ---
 
 
 # Generador de cuadros de mando de paneles de Adobe Analytics
 
-En este vídeo, aprenderá a crear y compartir &quot;Scorecards&quot; en Analysis Workspace para que se vean en los paneles de Adobe Analytics (aplicación móvil).
+En este vídeo, aprenderá a crear y compartir &quot;Informes de valoración&quot; en Analysis Workspace para que se visualicen en los paneles de Adobe Analytics (aplicación móvil).
 
 >[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12)
 
