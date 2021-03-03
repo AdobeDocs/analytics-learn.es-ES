@@ -1,24 +1,25 @@
 ---
 title: Comprender el comportamiento del usuario en los asistentes de voz
-description: Obtenga información sobre cómo comprender el comportamiento del usuario y obtener perspectivas mediante métricas clave como las principales intenciones, los parámetros y la autenticación del usuario.
-feature: visualizations
+description: Obtenga información sobre cómo comprender el comportamiento del usuario y obtener perspectivas consultando métricas clave como intenciones principales, parámetros y autenticación de usuarios.
+feature: Visualizaciones
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2904
+role: Profesional empresarial
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 0%
+source-wordcount: '60'
+ht-degree: 1%
 
 ---
 
 
 # Comprender el comportamiento del usuario en los asistentes de voz {#understand-user-behavior-on-voice-assistants}
 
-Conozca cómo comprender el comportamiento del usuario y obtener perspectivas mirando [!UICONTROL las métricas] clave, como las principales intenciones, los parámetros y la autenticación del usuario.
+Obtenga información sobre cómo comprender el comportamiento del usuario y obtener perspectivas consultando las [!UICONTROL métricas] clave, como las intenciones principales, los parámetros y la autenticación de usuarios.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=9)
