@@ -1,24 +1,25 @@
 ---
-title: Cumbre Adobe 2019 Super Sesión - Viajes y hospitalidad
-description: Ver clips seleccionados de la "súper sesión" de viajes y hospitalidad en la Cumbre 2019
-feature: use cases
+title: Supersesión de Adobe Summit 2019 - Viajes y hospitalidad
+description: Ver clips seleccionados de la "súper sesión" de viajes y hospitalidad de Summit 2019
+feature: Casos de uso
 topics: null
-audience: all
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4388
+role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 0%
+source-wordcount: '44'
+ht-degree: 4%
 
 ---
 
 
-# [!DNL Adobe Summit] Super Sesión 2019 - Viajes y hospitalidad
+# [!DNL Adobe Summit] Supersesión 2019 - Viajes y hospitalidad
 
-Ver clips seleccionados de la &quot;súper sesión&quot; de viajes y hospitalidad de [!DNL Summit] 2019
+Consulte los clips seleccionados de la &quot;supersesión&quot; de viajes y hospitalidad de [!DNL Summit] 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/31442/?quality=12)
