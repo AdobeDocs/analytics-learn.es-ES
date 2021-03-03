@@ -1,25 +1,26 @@
 ---
 title: Vista general del Generador de segmentos
-description: Información general y orientación rápidas para el generador de segmentos en Adobe Analytics.
-feature: segmentation
+description: Información general y orientación rápida para el generador de segmentos en Adobe Analytics.
+feature: Segmentación
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2300
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 5%
+source-wordcount: '58'
+ht-degree: 6%
 
 ---
 
 
-# [!UICONTROL Generador] de segmentos en Adobe Analytics {#segment-builder-in-adobe-analytics}
+# [!UICONTROL Generador ] de segmentos en Adobe Analytics  {#segment-builder-in-adobe-analytics}
 
-Información general y orientación rápidas para el creador [!UICONTROL de] segmentos en Adobe Analytics.
+Información general y orientación rápida para el [!UICONTROL Generador de segmentos] en Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12)
 
