@@ -1,25 +1,26 @@
 ---
-title: Asignar variables contextData a props y eVars con reglas de procesamiento
-description: Al utilizar variables contextData en la implementación de Adobe Analytics, para que los datos se muestren en informes reales, debe asignar las variables contextData a props/eVars en la interfaz de reglas de procesamiento. Este vídeo muestra cómo hacerlo.
-feature: implementation basics
+title: Asignar variables contextData a props y evars con reglas de procesamiento
+description: Al usar variables contextData en la implementación de Adobe Analytics, para que los datos se muestren en los informes reales, debe asignar las variables contextData a props/eVars en la interfaz de reglas de procesamiento. Este vídeo muestra cómo hacerlo.
+feature: Conceptos básicos de implementación
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1850
+role: Profesional empresarial
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 60f4ce4f563a990576b3331b01cd87c29d424f43
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '120'
 ht-degree: 7%
 
 ---
 
 
-# Asignar [!DNL contextData] variables en [!DNL Props] y [!DNL Evars] con reglas [!UICONTROL de procesamiento] {#map-contextdata-variables-into-props-and-evars-with-processing-rules}
+# Asignar variables [!DNL contextData] a [!DNL Props] y [!DNL Evars] con [!UICONTROL Reglas de procesamiento] {#map-contextdata-variables-into-props-and-evars-with-processing-rules}
 
-Al utilizar [!DNL contextData] variables en la implementación de Adobe Analytics, para que los datos se muestren en informes reales, debe asignar las [!DNL contextData] variables a [!DNL props/eVars] en la interfaz de reglas [!UICONTROL de] procesamiento. Este vídeo muestra cómo hacerlo.
+Al utilizar variables [!DNL contextData] en la implementación de Adobe Analytics, para que los datos se muestren en los informes reales, debe asignar las variables [!DNL contextData] a [!DNL props/eVars] en la interfaz [!UICONTROL Reglas de procesamiento] . Este vídeo muestra cómo hacerlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12)
 
