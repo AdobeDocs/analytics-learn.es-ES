@@ -1,24 +1,25 @@
 ---
 title: Recopilación de datos de Analytics
-description: ¿Cómo llegan los datos de la página a los informes de Adobe Analytics? Este vídeo muestra cómo.
-feature: analytics basics
+description: ¿Cómo se obtienen los datos de su página en los informes de Adobe Analytics? Este vídeo le muestra cómo hacerlo.
+feature: Aspectos básicos de Analytics
 topics: null
-audience: analyst
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3565
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 0%
+source-wordcount: '50'
+ht-degree: 4%
 
 ---
 
 
-# Cómo se recopilan [!DNL Analytics] los datos
+# Recopilación de datos [!DNL Analytics]
 
-¿Cómo llegan los datos de la página a los informes de Adobe Analytics? Este vídeo muestra cómo.
+¿Cómo se obtienen los datos de su página en los informes de Adobe Analytics? Este vídeo le muestra cómo hacerlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12)
