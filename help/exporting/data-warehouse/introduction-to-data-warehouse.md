@@ -1,24 +1,25 @@
 ---
-title: Introducción a la Data Warehouse
-description: La herramienta de solicitud de Data Warehouse de Adobe Analytics le permite acceder a la consulta de los datos sin procesar. El Data Warehouse pude procesar un número ilimitado de filas en una única solicitud para informes programados y descargados individuales. Este vídeo es una introducción a la herramienta, que incluye un tutorial sobre la creación de un informe de Data Warehouse.
-feature: data warehouse
+title: Introducción al Data Warehouse
+description: La herramienta de solicitud Data Warehouse de Adobe Analytics le permite consultar los datos sin procesar. El Data Warehouse pude procesar un número ilimitado de filas en una única solicitud para informes programados y descargados individuales. Este vídeo es una introducción a la herramienta, incluida una introducción a la creación de un informe del Data Warehouse.
+feature: Data Warehouse
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2916
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 33%
+source-wordcount: '117'
+ht-degree: 34%
 
 ---
 
 
-# Introducción a la [!UICONTROL Data Warehouse] {#introduction-to-data-warehouse}
+# Introducción a [!UICONTROL Data Warehouse] {#introduction-to-data-warehouse}
 
-La herramienta de solicitud de [!UICONTROL Data Warehouse] de Adobe Analytics le permite acceder a la consulta de los datos sin procesar. [!UICONTROL El Data Warehouse pude procesar un número ilimitado de filas en una única solicitud para informes programados y descargados individuales. ] Este vídeo es una introducción a la herramienta, que incluye un tutorial sobre la creación de un informe de [!UICONTROL Data Warehouse] .
+La herramienta de solicitud [!UICONTROL Data Warehouse] de Adobe Analytics le permite consultar los datos sin procesar. [!UICONTROL El Data Warehouse pude procesar un número ilimitado de filas en una única solicitud para informes programados y descargados individuales. ] Este vídeo es una introducción a la herramienta, incluida la introducción a la creación de un informe de [!UICONTROL Data Warehouse].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12)
