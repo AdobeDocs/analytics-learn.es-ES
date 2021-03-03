@@ -1,19 +1,21 @@
 ---
 title: Añadir un administrador a Adobe Analytics
 description: Obtenga información sobre cómo agregar un usuario como administrador en Admin Console de Adobe.
-feature: user management
+feature: Administración de usuarios
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Evangelism
 thumbnail: 37648.jpg
 kt: 5520
+topic: Administración
+role: Administrador
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 89bd86bdf081ce664d46c6faacaf470f9f5b5ca6
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 86%
+source-wordcount: '57'
+ht-degree: 85%
 
 ---
 
@@ -24,4 +26,4 @@ Obtenga información sobre cómo agregar un usuario como administrador en Admin 
 
 >[!VIDEO](https://video.tv.adobe.com/v/37648/?quality=12&learn=on)
 
-Obtenga más información en la [documentación](https://helpx.adobe.com/es/enterprise/using/admin-console.html).
+Para obtener más información, vaya a la [documentación](https://helpx.adobe.com/es/enterprise/using/admin-console.html).
