@@ -1,19 +1,21 @@
 ---
 title: Crear informes de entrada al sitio de Advertising Cloud
 description: Creación de un informe de entrada al sitio de Advertising Cloud para supervisar el día de la semana, la hora del día, el explorador y la influencia geográfica.
-feature: integration with ad cloud
+feature: Integración de Advertising Cloud
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35120.jpg
 kt: 5477
+topic: Integraciones
+role: Profesional empresarial
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: f7065aa474339cc90c00a6ac13924ec8d4e41e5d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 0%
+source-wordcount: '57'
+ht-degree: 89%
 
 ---
 
