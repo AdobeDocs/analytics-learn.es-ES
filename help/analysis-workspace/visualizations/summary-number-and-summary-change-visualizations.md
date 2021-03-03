@@ -1,25 +1,26 @@
 ---
-title: Número de resumen y Visualizaciones de cambio de resumen en Analysis Workspace
-description: Este vídeo muestra cómo utilizar las visualizaciones Número de resumen y Cambio de resumen en el Espacio de trabajo de Analyst.
-feature: visualizations
+title: Número de resumen y visualizaciones de cambio de resumen en Analysis Workspace
+description: Este vídeo muestra cómo utilizar las visualizaciones Número de resumen y Cambio de resumen en Analysis Workspace.
+feature: Visualizaciones
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2136
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Número] de resumen y [!UICONTROL Visualizaciones de cambio] de  resumen en Analysis Workspace {#summary-number-and-summary-change-visualizations-in-analysis-workspace}
+# [!UICONTROL Número ] de resumen y  [!UICONTROL cambio de ]  resumenVisualizaciones en Analysis Workspace  {#summary-number-and-summary-change-visualizations-in-analysis-workspace}
 
-Este vídeo muestra cómo utilizar las [!UICONTROL visualizaciones] Número [!UICONTROL de] resumen y Cambio [!UICONTROL de] resumen en Analysis Workspace.
+Este vídeo muestra cómo utilizar las [!UICONTROL visualizaciones de Número de resumen] y [!UICONTROL Cambio de resumen] [!UICONTROL en Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23992/?quality=12)
 
