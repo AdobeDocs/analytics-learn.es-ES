@@ -1,29 +1,31 @@
 ---
 title: Uso de llamadas al servidor en Adobe Analytics
 seo-title: Uso de llamadas al servidor en Adobe Analytics
-description: El sistema de informes de uso de llamadas al servidor le permitirá rastrear exactamente la cantidad de compromiso de llamadas al servidor que ha utilizado en cualquier momento, y también le avisará de forma proactiva cuando se acerque a su compromiso total.
-seo-description: El sistema de informes de uso de llamadas al servidor le permitirá rastrear exactamente la cantidad de compromiso de llamadas al servidor que ha utilizado en cualquier momento, y también le avisará de forma proactiva cuando se acerque a su compromiso total.
-feature: data configuration and collection
+description: Los informes de uso de llamadas al servidor le permitirán realizar un seguimiento exacto de la asignación de llamadas al servidor que ha utilizado en cualquier momento, y también le avisarán de forma proactiva cuando se aproxime a su compromiso total.
+seo-description: Los informes de uso de llamadas al servidor le permitirán realizar un seguimiento exacto de la asignación de llamadas al servidor que ha utilizado en cualquier momento, y también le avisarán de forma proactiva cuando se aproxime a su compromiso total.
+feature: Configuración y recopilación de datos
 topics: null
-audience: administrator, architect
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
+topic: Administración
+role: '"Administrador, Arquitecto"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL Uso] de llamadas al servidor en Adobe Analytics {#server-call-usage-in-adobe-analytics}
+# [!UICONTROL Uso de llamadas ] al servidor en Adobe Analytics  {#server-call-usage-in-adobe-analytics}
 
-[!UICONTROL El sistema de informes de uso] de llamadas al servidor le permitirá rastrear exactamente la cantidad de compromiso de llamadas al servidor que ha utilizado en cualquier momento, y también le avisará de forma proactiva cuando se acerque a su compromiso total.
+[!UICONTROL El informe ] Uso de llamadas al servidor le permitirá realizar un seguimiento exacto de la asignación de llamadas al servidor que ha utilizado en cualquier momento, y también le avisará de forma proactiva cuando se aproxime a su asignación total.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12)
 
-Puede resultar difícil mantenerse al día con el consumo de llamadas al servidor de su organización, lo que provoca frustraciones en torno a los sobrepagos. Con el sistema de informes de uso [!UICONTROL de llamadas] al servidor, puede rastrear exactamente la cantidad de compromiso de llamadas al servidor que ha utilizado en cualquier momento y también le avisará de forma proactiva cuando se esté acercando a su compromiso total. El panel que lo acompaña le permite analizar dónde se utilizan las llamadas al servidor, de modo que puede corregir implementaciones fuera de control o trabajar con compañeros para reducir la escala en lugares donde se recopilen grandes volúmenes de datos de menor valor.
+Puede ser difícil mantenerse al día con el consumo de llamadas al servidor de su organización, lo que provoca frustración en torno a los cargos adicionales. Con los informes de [!UICONTROL Uso de llamadas al servidor], puede realizar un seguimiento exacto de la asignación de llamadas al servidor que ha utilizado en cualquier momento, y también le avisará de forma proactiva cuando se aproxime a su asignación total. El tablero que lo acompaña le permite analizar dónde se están utilizando las llamadas al servidor, de modo que pueda corregir implementaciones fuera de ejecución o trabajar con compañeros para reducir la escala en lugares donde se podrían recopilar grandes volúmenes de datos de menor valor.
