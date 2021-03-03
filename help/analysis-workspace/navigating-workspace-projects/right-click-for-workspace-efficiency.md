@@ -1,25 +1,26 @@
 ---
 title: Haga clic con el botón derecho para aumentar la eficiencia de Workspace
 description: Obtenga información sobre todos nuestros clics favoritos en Analysis Workspace y cómo usarlos. Desde las tablas improvisadas hasta las visualizaciones de visitas en el orden previsto, al hacer clic con el botón derecho, se obtiene una mayor eficiencia y aptitud en Workspace.
-feature: workspace basics
+feature: Conceptos básicos del espacio de trabajo
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 9fbdd96c3a2bb2a6a26e10a7f2dfeddfa33ec572
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 72%
+source-wordcount: '71'
+ht-degree: 67%
 
 ---
 
 
-# Right-click for [!DNL Workspace] Efficiency
+# Haga clic con el botón derecho para obtener la eficiencia de [!DNL Workspace]
 
-Obtenga información sobre todos nuestros clics favoritos en Analysis Workspace y cómo usarlos. From [!UICONTROL Freeform Tables] to [!UICONTROL Fallout Visualizations], right-clicking will make you more efficient and proficient in [!DNL Workspace].
+Obtenga información sobre todos nuestros clics favoritos en Analysis Workspace y cómo usarlos. Desde [!UICONTROL Tablas improvisadas] hasta [!UICONTROL Visualizaciones de visitas en el orden previsto], hacer clic con el botón derecho le hará más eficiente y competente en [!DNL Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
