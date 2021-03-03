@@ -1,30 +1,31 @@
 ---
-title: Uso de Attribution IQ en tablas improvisadas
-description: Attribution IQ le permite cambiar el modelo de atribución a cualquiera de los diez modelos basados en reglas en una columna Freeform sobre la marcha.
-feature: attribution
+title: Uso de Attribution IQ en tablas de forma libre
+description: Attribution IQ permite cambiar el modelo de atribución a cualquiera de los diez modelos basados en reglas sobre la marcha en una columna improvisada.
+feature: Atribución
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23136.jpg
 kt: 1661
+role: Profesional empresarial
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 11%
+source-wordcount: '98'
+ht-degree: 12%
 
 ---
 
 
-# Uso [!DNL Attribution IQ] de [!DNL Freeform Tables] {#using-attribution-iq-in-freeform-tables}
+# Uso de [!DNL Attribution IQ] en [!DNL Freeform Tables] {#using-attribution-iq-in-freeform-tables}
 
-[!DNL Attribution IQ] permite cambiar el [!UICONTROL modelo] de atribución a cualquiera de los diez modelos basados en reglas en una columna [!UICONTROL Freeform] sobre la marcha.
+[!DNL Attribution IQ] permite cambiar el modelo de atribución   a cualquiera de los diez modelos basados en reglas sobre la marcha en una columna   Freeformon.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12)
 
-Cada [!UICONTROL modelo] de atribución admite completamente la segmentación y los desgloses, y permite realizar comparaciones ilimitadas en cualquier dimensión (¡incluso [!DNL props]!).
+Cada [!UICONTROL modelo] de atribución admite totalmente la segmentación y los desgloses, y le permite realizar comparaciones ilimitadas en cualquier dimensión (incluso [!DNL props]!).
 
 [!DNL Attribution IQ] está disponible exclusivamente para Analysis Workspace, ya que los clientes tienen los siguientes paquetes:
 
