@@ -1,25 +1,26 @@
 ---
 title: Revisión y uso compartido en Analysis Workspace
-description: Una vez que haya creado un proyecto en Analysis Workspace, puede depurarlo (simplificarlo) y compartirlo con otros equipos e individuos de sus organizaciones para que puedan explorarlo y autoabastecerse con los datos. Este vídeo muestra cómo trabajar con la depuración y el uso compartido.
-feature: curate and share
+description: Una vez que haya creado un proyecto en Analysis Workspace, puede depurarlo (simplificarlo) y compartirlo con otros equipos e individuos de sus organizaciones para que puedan explorarlo y autoabastecerlo con datos. Este vídeo muestra cómo trabajar con la depuración y el uso compartido.
+feature: Depurar y compartir
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2294
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 17%
+source-wordcount: '129'
+ht-degree: 18%
 
 ---
 
 
 # Revisión y uso compartido en Analysis Workspace {#curation-and-sharing-in-analysis-workspace}
 
-Una vez que haya creado un proyecto en Analysis Workspace, puede [!UICONTROL conservarlo] (simplificarlo) y compartirlo con otros equipos e individuos de sus organizaciones para que puedan explorarlo y autoabastecerse con los datos. Este vídeo muestra cómo trabajar con [!UICONTROL depuración] y uso compartido.
+Una vez que haya creado un proyecto en Analysis Workspace, puede [!UICONTROL depurarlo] (simplificarlo) y compartirlo con otros equipos y personas de sus organizaciones para que puedan explorarlo y autoabastecerlo con datos. Este vídeo muestra cómo trabajar con [!UICONTROL curation] y compartir.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24711/?quality=12)
 
