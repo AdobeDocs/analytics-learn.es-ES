@@ -1,19 +1,20 @@
 ---
 title: Uso de métricas en una tabla improvisada
 description: Conozca las distintas formas en que puede utilizar las métricas en una tabla improvisada en Analysis Workspace.
-feature: freeform tables
+feature: Tablas improvisadas
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40817.jpg
 kt: 6291
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 95f0f2e224f8eab785b3d283ca84e9ce5371a5a6
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 0%
+source-wordcount: '51'
+ht-degree: 94%
 
 ---
 
