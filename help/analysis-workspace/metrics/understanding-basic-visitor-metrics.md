@@ -1,24 +1,25 @@
 ---
-title: Explicación de las métricas básicas de Visitante
-description: Vistas de página, visitas y Visitantes (¿oh mi?). Este breve vídeo le proporcionará información básica sobre cómo comprender estos aspectos básicos del tráfico del sitio Web.
-feature: metrics
+title: Explicación de las métricas básicas de visitante
+description: Vistas de página, Visitas y Visitantes (¿oh, mi?). Este breve vídeo le proporcionará información básica sobre cómo comprender estos conceptos básicos para comprender el tráfico del sitio web.
+feature: Métricas
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3575
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: e1dd43f24db21161b51556a3756567cfcb583038
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 0%
+source-wordcount: '62'
+ht-degree: 1%
 
 ---
 
 
-# Explicación de las métricas básicas de Visitante
+# Explicación de las métricas básicas de visitante
 
-[!UICONTROL Vistas]de página, [!UICONTROL visitas]y [!UICONTROL Visitantes] (¿oh, mi?). Este breve vídeo le proporcionará información básica sobre cómo comprender estos aspectos básicos del tráfico del sitio Web.
+[!UICONTROL Vistas] de página,  [!UICONTROL Visitas] y  [!UICONTROL Visitantes]  (¿oh, mi?). Este breve vídeo le proporcionará información básica sobre cómo comprender estos conceptos básicos para comprender el tráfico del sitio web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12)
