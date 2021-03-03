@@ -1,26 +1,27 @@
 ---
 title: Extensión de modo oscuro para Analysis Workspace
 description: Active la extensión oscura de Reader Chrome para oscurecer Analysis Workspace.
-feature: workspace basics
+feature: Conceptos básicos del espacio de trabajo
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5034
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 47%
+source-wordcount: '53'
+ht-degree: 43%
 
 ---
 
 
 # Extensión de modo oscuro para Analysis Workspace
 
-Enable the Dark Reader Chrome extension to turn [!UICONTROL Analysis Workspace] dark.
+Active la extensión oscura de Reader Chrome para oscurecer [!UICONTROL Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33774/?quality=12)
 
-**Nota:** Se trata de una extensión pública de Chrome y no está afiliada a productos de Adobe.
+**Nota:** Esta es una extensión pública de Chrome y no está afiliada a productos de Adobe.
