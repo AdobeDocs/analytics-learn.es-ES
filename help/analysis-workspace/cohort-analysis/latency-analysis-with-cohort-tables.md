@@ -1,26 +1,27 @@
 ---
-title: Análisis de latencia con tablas de Cohort
-description: La configuración de la tabla de latencia de las tablas de cohorte permite analizar el comportamiento de las cohortes antes y después del evento de inclusión (no solo después de las representaciones de cohorte estándar). Esta configuración es útil para analizar el impacto de un nuevo producto o inicio de campaña, como ejemplo.
-feature: visualizations
+title: Análisis de latencia con tablas de cohorte
+description: La configuración de tablas de latencia de las tablas de cohortes permite analizar el comportamiento de las cohortes antes y después del evento de inclusión (no solo después de como ilustra la cohorte estándar). Esta configuración es útil para analizar el impacto del lanzamiento de un nuevo producto o campaña, por ejemplo.
+feature: Visualizaciones
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
+role: Profesional empresarial
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 12%
+source-wordcount: '123'
+ht-degree: 8%
 
 ---
 
 
-# Latency Analysis with [!UICONTROL Cohort Tables] {#latency-analysis-with-cohort-tables}
+# Análisis de latencia con [!UICONTROL Tablas de cohorte] {#latency-analysis-with-cohort-tables}
 
-La configuración de la tabla [!UICONTROL de] latencia de las tablas [!UICONTROL de] cohorte permite analizar el comportamiento de [!UICONTROL las cohortes] antes y después del evento de inclusión (no solo después de como ilustran las [!UICONTROL cohortes] estándar). Esta configuración es útil para analizar el impacto de un nuevo producto o inicio de campaña, como ejemplo.
+La configuración [!UICONTROL Tabla de latencia] de [!UICONTROL Tablas de cohorte] le permite analizar el comportamiento de sus [!UICONTROL cohortes] antes y después del evento de inclusión (no solo después de que se muestre como [!UICONTROL Cohorte] estándar). Esta configuración es útil para analizar el impacto del lanzamiento de un nuevo producto o campaña, por ejemplo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12)
 
