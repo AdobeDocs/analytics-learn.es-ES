@@ -1,24 +1,25 @@
 ---
 title: Obtención de ayuda en Adobe Analytics
-description: En algún momento, todos necesitaremos ayuda con Adobe Analytics. Este vídeo muestra algunos de los buenos recursos que están al alcance de la mano mientras se golpea un inconveniente y se necesita ayuda.
-feature: analytics basics
+description: En algún momento, todos necesitaremos ayuda con Adobe Analytics. Este vídeo muestra algunos de los grandes recursos que están al alcance de la mano mientras se golpea un problema y se necesita ayuda.
+feature: Aspectos básicos de Analytics
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3568
+role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 2%
 
 ---
 
 
 # Obtención de ayuda en Adobe Analytics
 
-En algún momento, todos necesitaremos ayuda con Adobe Analytics. Este vídeo muestra algunos de los buenos recursos que están al alcance de la mano mientras se golpea un inconveniente y se necesita ayuda.
+En algún momento, todos necesitaremos ayuda con Adobe Analytics. Este vídeo muestra algunos de los grandes recursos que están al alcance de la mano mientras se golpea un problema y se necesita ayuda.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28753/?quality=12)
