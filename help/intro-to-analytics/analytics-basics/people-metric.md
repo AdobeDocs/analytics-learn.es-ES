@@ -1,6 +1,6 @@
 ---
 title: Métrica Personas en Adobe Analytics
-description: Adobe Analytics ahora ofrece una métrica Personas para anular la duplicación de visitantes en función de la cooperación entre dispositivos de Adobe Experience Cloud. Este vídeo proporciona más información y le muestra cómo empezar.
+description: Adobe Analytics ahora ofrece la métrica Personas para eliminar el duplicado de visitantes basada en la cooperación entre dispositivos de Adobe Experience Cloud. Este vídeo proporciona más información y le muestra una introducción.
 feature: Métricas
 topics: null
 activity: use
@@ -14,19 +14,19 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 11%
+ht-degree: 91%
 
 ---
 
 
-#   Adobe Analytics de PeopleMetadata  {#people-metric-in-adobe-analytics}
+# [!UICONTROL Métrica] [!UICONTROL Personas] en Adobe Analytics {#people-metric-in-adobe-analytics}
 
-Adobe Analytics ahora ofrece una métrica [!UICONTROL Personas] para anular la duplicación de visitantes en función de Adobe Experience Cloud [!UICONTROL Device Co-op]. Este vídeo proporciona más información y le muestra cómo empezar.
+Adobe Analytics ahora ofrece la métrica [!UICONTROL Personas] para eliminar el duplicado de visitantes basada en la [!UICONTROL cooperación entre dispositivos] de Adobe Experience Cloud. Este vídeo proporciona más información y le muestra una introducción.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24037/?quality=12)
 
-Si forma parte de [!UICONTROL Device Co-op], puede calcular métricas en función de las personas, no solo de los visitantes.
+Si forma parte de la [!UICONTROL cooperación entre dispositivos], puede calcular métricas basadas en personas, no solo en visitantes.
 
-Para obtener más información sobre [!UICONTROL Device Co-op], vaya a [esta documentación](https://marketing.adobe.com/resources/help/es_ES/mcdc/).
+Para obtener más información sobre la [!UICONTROL cooperación entre dispositivos], consulte [esta documentación](https://marketing.adobe.com/resources/help/es_ES/mcdc/).
 
-Para obtener más información sobre la métrica [!UICONTROL Personas], vaya a [esta documentación](https://marketing.adobe.com/resources/help/es_ES/mcdc/mcdc-people.html).
+Para obtener más información sobre la métrica [!UICONTROL Personas], consulte [esta documentación](https://marketing.adobe.com/resources/help/es_ES/mcdc/mcdc-people.html).
