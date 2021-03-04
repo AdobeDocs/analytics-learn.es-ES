@@ -1,6 +1,6 @@
 ---
-title: 'Supersesión de Adobe Summit 2019: Alta tecnología'
-description: Vea clips seleccionados de la "supersesión" de alta tecnología en Summit 2019
+title: 'Supersesión de la Adobe Summit de 2019: Alta tecnología'
+description: Vea una selección de clips de la supersesión sobre alta tecnología de la cumbre de 2019
 feature: Casos de uso
 topics: null
 activity: understand
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 4%
+ht-degree: 75%
 
 ---
 
 
-# [!DNL Adobe Summit] Supersesión 2019 - Alta tecnología
+# Supersesión de la [!DNL Adobe Summit] de 2019: Alta tecnología
 
-Consulte los clips seleccionados de la &quot;supersesión&quot; de alta tecnología en [!DNL Summit] 2019
+Vea una selección de clips de la supersesión sobre alta tecnología de la Adobe [!DNL Summit] de 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/30548/?quality=12)
