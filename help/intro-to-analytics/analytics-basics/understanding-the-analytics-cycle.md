@@ -1,6 +1,6 @@
 ---
 title: Explicación del ciclo de Analytics
-description: En este vídeo sencillo pero importante, aprenderá los pasos necesarios para realizar un análisis de los datos del sitio. Tomar un poco de tiempo para comprender este proceso puede marcar la diferencia en el éxito de su programa de Analytics.
+description: En este vídeo sencillo, a la vez que importante, aprenderá los pasos necesarios para realizar el análisis de los datos del sitio. Dedicar algo de tiempo para comprender este proceso puede marcar la diferencia en el éxito de su programa de Analytics.
 feature: Aspectos básicos de Analytics
 topics: null
 activity: understand
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 2%
+ht-degree: 96%
 
 ---
 
 
-# El ciclo [!DNL Analytics]
+# Explicación del ciclo de [!DNL Analytics]
 
-En este vídeo sencillo pero importante, aprenda sobre los pasos necesarios para realizar un análisis de los datos del sitio. Tomar un poco de tiempo para entender este proceso puede marcar la diferencia en el éxito de su [!DNL Analytics] programa.
+En este vídeo sencillo, a la vez que importante, aprenderá los pasos necesarios para realizar el análisis de los datos del sitio. Dedicar algo de tiempo para comprender este proceso puede marcar la diferencia en el éxito de su programa de [!DNL Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28950/?quality=12)
