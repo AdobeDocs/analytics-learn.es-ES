@@ -1,6 +1,6 @@
 ---
 title: Información general de Analysis Workspace
-description: Descripción general de alto nivel del Analysis Workspace de la solución Adobe Analytics, que incluye la creación y las plantillas de proyectos, paneles, visualizaciones, dimensiones, métricas, segmentos y funciones y técnicas de alto valor.
+description: Información general de alto nivel sobre el Analysis Workspace de la solución Adobe Analytics, que incluye la creación de proyectos y plantillas, paneles, visualizaciones, dimensiones, métricas, segmentos, y técnicas y funciones de alto valor.
 feature: Conceptos básicos del espacio de trabajo
 topics: null
 activity: use
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 10%
+ht-degree: 91%
 
 ---
 
 
 # Información general de Analysis Workspace {#analysis-workspace-overview}
 
-Descripción general de alto nivel del Analysis Workspace de la solución Adobe Analytics, que incluye la creación y las plantillas de proyectos, paneles, visualizaciones, dimensiones, métricas, segmentos y funciones y técnicas de alto valor.
+Información general de alto nivel sobre el Analysis Workspace de la solución Adobe Analytics, que incluye la creación de proyectos y plantillas, paneles, visualizaciones, dimensiones, métricas, segmentos, y técnicas y funciones de alto valor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26266/?quality=12)
