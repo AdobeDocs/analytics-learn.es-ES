@@ -15,13 +15,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 1%
+ht-degree: 89%
 
 ---
 
 
-# [!DNL Magento] Plantilla de Analysis Workspace  {#magento-analysis-workspace-template}
+# Plantilla de Analysis Workspace de [!DNL Magento] {#magento-analysis-workspace-template}
 
-Presenta la plantilla [!DNL Magento Marketing and Commerce] para [!UICONTROL Analysis Workspace]. Esto está dirigido a los usuarios de [!DNL Magento], pero cualquier minorista en línea puede aprovecharlo. Incluye perspectivas prediseñadas para los minoristas sobre sus actividades comerciales que le ayudan a mejorar sus ventas.
+Presenta la plantilla [!DNL Magento Marketing and Commerce] para [!UICONTROL Analysis Workspace]. Está pensada para usuarios de [!DNL Magento], pero también es útil para cualquier minorista en línea. Incluye información creada previamente para los minoristas de sus actividades comerciales que le ayudarán a mejorar sus ventas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28164/?quality=12)
