@@ -1,8 +1,8 @@
 ---
-title: Uso de plantillas personalizadas para permitir a los usuarios novatos de Analysis Workspace
-seo-title: Uso de plantillas personalizadas para permitir a los usuarios novatos de Analysis Workspace
-description: En este vídeo se explica cómo reunir plantillas personalizadas con funciones de copiar, pegar e insertar para servir mejor a los usuarios más novatos de su organización.
-seo-description: En este vídeo se explica cómo reunir plantillas personalizadas con funciones de copiar, pegar e insertar para servir mejor a los usuarios más novatos de su organización.
+title: Uso de plantillas personalizadas para habilitar a usuarios principiantes de Analysis Workspace
+seo-title: Uso de plantillas personalizadas para habilitar a usuarios principiantes de Analysis Workspace
+description: Este vídeo muestra cómo reunir plantillas personalizadas con las funciones de copiar + pegar/insertar para ayudar a los usuarios principiantes de su organización.
+seo-description: Este vídeo muestra cómo reunir plantillas personalizadas con las funciones de copiar + pegar/insertar para ayudar a los usuarios principiantes de su organización.
 feature: Proyectos
 topics: null
 activity: use
@@ -16,21 +16,21 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
 
-# Uso de plantillas personalizadas para habilitar usuarios novatos de Analysis Workspace {#using-custom-templates-to-enable-novice-analysis-workspace-users}
+# Uso de plantillas personalizadas para habilitar usuarios principantes de Analysis Workspace {#using-custom-templates-to-enable-novice-analysis-workspace-users}
 
-En este vídeo se explica cómo reunir plantillas personalizadas con funciones de copiar, pegar e insertar para servir mejor a los usuarios más novatos de su organización.
+Este vídeo muestra cómo reunir plantillas personalizadas con las funciones de copiar + pegar/insertar para ayudar a los usuarios principiantes de su organización.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23234/?quality=12)
 
-Al crear una plantilla de componentes básicos, los usuarios pueden iniciar su análisis más rápidamente y asegurarse de que siguen las prácticas recomendadas definidas por su organización.
+Al crear una plantilla de bloques, los usuarios pueden empezar su análisis más rápido y asegurarse de que siguen las prácticas recomendadas por su organización.
 
 Para ver vídeos relacionados, consulte:
 
-* [Plantillas personalizadas en Analysis Workspace](https://helpx.adobe.com/analytics/kt/using/create-manage-custom-templates-analysis-workspace-feature-video-use.html)
+* [Plantillas personalizadas en Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.html?lang=es#analysis-workspace)
 
-* [Copiar + Insertar en Analysis Workspace](https://helpx.adobe.com/analytics/kt/using/copy-insert-analysis-workspace-feature-video-use.html)
+* [Copiar + insertar en Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.html?lang=es#analysis-workspace)
