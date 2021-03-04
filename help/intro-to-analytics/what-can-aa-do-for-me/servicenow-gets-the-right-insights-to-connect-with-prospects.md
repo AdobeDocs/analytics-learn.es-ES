@@ -1,6 +1,6 @@
 ---
-title: 'Caso de uso del cliente: ServiceNow obtiene la información correcta para conectarse con los posibles clientes'
-description: Descubra cómo ServiceNow obtiene datos procesables de sus canales de marketing y aumenta el retorno de la inversión en la publicidad de búsqueda de pago con Adobe Advertising Cloud y Adobe Analytics.
+title: 'Caso práctico de cliente: ServiceNow obtiene los datos pertinentes y necesarios para contactar con clientes potenciales'
+description: Descubra de qué forma ServiceNow obtiene datos procesables de sus canales de marketing y cómo aumenta el retorno de la inversión en la publicidad de búsqueda de pago con Adobe Advertising Cloud y Adobe Analytics.
 feature: Casos de uso
 topics: null
 activity: understand
@@ -13,15 +13,15 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 24%
+ht-degree: 89%
 
 ---
 
 
-# Caso de uso del cliente: [!DNL ServiceNow] obtiene los datos adecuados para conectarse con los posibles clientes
+# Caso práctico de cliente: [!DNL ServiceNow] obtiene los datos pertinentes para contactar con clientes potenciales
 
 Descubra cómo [!DNL ServiceNow] obtiene datos procesables de sus canales de marketing y aumenta el retorno de la inversión en la publicidad de búsqueda de pago con Adobe Advertising Cloud y Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12)
 
-Adobe Experience Cloud le ofrece las herramientas integradas que necesita para destacarse en el marketing multicanal, la publicidad digital, la optimización de audiencias y datos, y mucho más.
+Adobe Experience Cloud le ofrece las herramientas integradas que necesita para destacarse en marketing en canales múltiples, publicidad digital, optimización de audiencia y datos, y mucho más.
