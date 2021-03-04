@@ -12,27 +12,27 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 48%
+ht-degree: 96%
 
 ---
 
 
 # Información general
 
-Le damos la bienvenida al sitio de tutoriales de [!DNL Analytics].  El uso de estos tutoriales junto con la [documentación](https://docs.adobe.com/content/help/es-ES/analytics/landing/home.html) le proporcionará una mejor comprensión sobre cómo usar Adobe Analytics para obtener perspectivas de los clientes más rápido que nunca.  En primer lugar,
-* Consulte la sección **&quot;Novedades&quot;** más abajo para conocer las últimas novedades
-* **El personal** destaca algunos de nuestros contenidos favoritos
-* Explorar el contenido por tema y subtema en la **navegación izquierda**
-* Utilice el campo **search** de la parte superior de la página si sabe lo que está buscando
+Bienvenido al sitio de tutoriales de [!DNL Analytics].  El uso de estos tutoriales junto con la [documentación](https://docs.adobe.com/content/help/es-ES/analytics/landing/home.html) le permitirá comprender mejor cómo utilizar Adobe Analytics para conocer las perspectivas de los clientes más rápido que nunca.  En primer lugar,
+* Consulte la sección **Novedades** para conocer las funciones más recientes
+* **Selección de personal** destaca algunos de nuestros contenidos favoritos
+* Explore el contenido por tema y subtema en la navegación de la **izquierda**
+* Utilice el campo de **búsqueda** en la parte superior de la página si sabe lo que está buscando
 
 ## Novedades
 
 * **[Haga clic con el botón derecho para aumentar la eficiencia de Workspace (vídeo)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
-   *Obtenga información sobre todos nuestros clics favoritos en Analysis Workspace y cómo usarlos. Desde [!UICONTROL Tablas improvisadas] hasta [!UICONTROL Visualizaciones de visitas en el orden previsto], hacer clic con el botón derecho le hará más eficiente y competente en [!DNL Workspace].*
+   *Obtenga información sobre todos nuestros clics favoritos en Analysis Workspace y cómo usarlos. Desde las [!UICONTROL Tablas improvisadas] hasta las [!UICONTROL Visualizaciones de visitas], hacer clic con el botón derecho le hará ser más eficiente y competente en [!DNL Workspace].*
 
-* **[El panel Quick Insights en Analysis Workspace (vídeo)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
+* **[Panel de información rápida en Analysis Workspace (vídeo)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
 
    <br>
    *Quick Insights proporciona una guía a los no analistas y a los nuevos usuarios de Analysis Workspace para aprender a responder preguntas comerciales de forma rápida y sencilla.*
@@ -69,12 +69,12 @@ Le damos la bienvenida al sitio de tutoriales de [!DNL Analytics].  El uso de es
     </a>
     </div>
     <p>
-    <em>El tutorial de formación de Analysis Workspace guía a los usuarios por la terminología común y los pasos para crear su primer análisis en Workspace.</em>
+    <em>El tutorial de formación de Analysis Workspace guía a los usuarios por la terminología común y los pasos necesarios para crear su primer análisis en Workspace.</em>
     <p>
   </td>
   <td>
     <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-      <img alt="imagen en miniatura del vídeo "Información general de Analysis Workspace"" src="assets/thumb_analysis-workspace-overview.png" />
+      <img alt="imagen en miniatura del vídeo Información general de Analysis Workspace" src="assets/thumb_analysis-workspace-overview.png" />
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
