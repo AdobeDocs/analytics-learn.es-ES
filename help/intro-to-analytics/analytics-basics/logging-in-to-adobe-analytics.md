@@ -1,6 +1,6 @@
 ---
-title: Iniciar sesión en Adobe Analytics
-description: En este vídeo, aprenderá a iniciar sesión y administrar Analytics e iniciar el análisis.
+title: Inicio de sesión en Adobe Analytics
+description: En este vídeo, aprenderá a iniciar sesión, a administrar Analytics y a comenzar a efectuar el análisis.
 feature: Aspectos básicos de Analytics
 topics: null
 activity: use
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 3%
+ht-degree: 94%
 
 ---
 
 
-# Inicio de sesión en Adobe Analytics
+# Registro en Adobe Analytics
 
-En este vídeo, le guiaremos a través de un inicio de sesión para que pueda entrar y administrar [!DNL Analytics], así como hacer su análisis.
+En este vídeo, le guiaremos a través de un inicio de sesión para que pueda entrar y administrar [!DNL Analytics], y realizar el procedimiento de análisis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12)
