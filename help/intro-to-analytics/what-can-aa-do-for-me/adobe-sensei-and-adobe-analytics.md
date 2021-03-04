@@ -1,6 +1,6 @@
 ---
 title: Adobe Sensei y Adobe Analytics
-description: Adobe Sensei hace que Adobe Analytics sea más inteligente y ayuda a los especialistas en marketing a descubrir perspectivas significativas sobre sus clientes. Este vídeo incluye una explicación adicional de las funciones clave de Adobe Analytics con tecnología Adobe Sensei, como la detección de anomalías, el análisis de contribución, las alertas inteligentes, la agrupación en clústeres, IQ de segmento y el modelado de tendencia.
+description: Adobe Sensei aumenta el grado de inteligencia de Adobe Analytics y ayuda a los especialistas en marketing a descubrir perspectivas significativas sobre sus clientes. Este vídeo incluye una explicación adicional de las funciones clave de Adobe Analytics con tecnología Adobe Sensei, como Detección de anomalías, Análisis de contribución, Alertas inteligentes, Clúster, Segment IQ y Modelado de tendencias.
 feature: Ciencia de datos
 topics: null
 activity: understand
@@ -13,15 +13,15 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 2%
+ht-degree: 90%
 
 ---
 
 
 # [!DNL Adobe Sensei] y Adobe Analytics
 
-[!DNL Adobe Sensei] hace que Adobe Analytics sea más inteligente y ayuda a los especialistas en marketing a descubrir perspectivas significativas sobre sus clientes. Este vídeo incluye una explicación adicional de las funciones clave de Adobe Analytics con tecnología [!DNL Adobe Sensei], incluidas [!UICONTROL Detección de anomalías], [!UICONTROL Análisis de contribución], [!UICONTROL Alertas inteligentes], Clúster, [!UICONTROL IQ de segmento] y Modelado de propensión.
+[!DNL Adobe Sensei] aumenta la inteligencia de Adobe Analytics y ayuda a los especialistas en marketing a descubrir perspectivas significativas acerca de sus clientes. Este vídeo incluye información adicional sobre las funciones clave de Adobe Analytics con tecnología [!DNL Adobe Sensei], como [!UICONTROL Detección de anomalías], [!UICONTROL Análisis de contribución], [!UICONTROL Alertas inteligentes], Clúster, [!UICONTROL Segment IQ] y Modelado de tendencias.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12)
 
-Obtenga más información sobre [!DNL Adobe Sensei] [HERE](https://www.adobe.com/es/sensei.html).
+Obtenga más información sobre [!DNL Adobe Sensei] [AQUÍ](https://www.adobe.com/es/sensei.html).
