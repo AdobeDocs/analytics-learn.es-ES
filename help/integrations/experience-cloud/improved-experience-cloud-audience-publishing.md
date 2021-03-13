@@ -27,6 +27,6 @@ Se ha mejorado la publicación de Audiencias de Experience Cloud. Ahora puede pu
 >[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12)
 
 Además, el número de [!UICONTROL segmentos] que se pueden publicar al mismo tiempo ha aumentado de 20 a 75 por [!UICONTROL grupo de informes].
-Para obtener más información, consulte [Publicar segmentos en Experience Cloud](https://docs.adobe.com/content/help/es-ES/analytics/components/segmentation/segmentation-workflow/seg-publish.html) en la ayuda de Analytics.
+Para obtener más información, consulte [Publicar segmentos en el Experience Cloud](https://docs.adobe.com/content/help/es-ES/analytics/components/segmentation/segmentation-workflow/seg-publish.html) en la ayuda de Analytics.
 
-Además, lea sobre [Audiencias](https://docs.adobe.com/content/help/es-ES/core-services/interface/audiences/audience-library.html) en la ayuda de Experience Cloud para obtener información sobre la [!UICONTROL Biblioteca de audiencias].
+Además, lea sobre [Audiencias](https://docs.adobe.com/content/help/es-ES/core-services/interface/audiences/audience-library.html) en la ayuda del Experience Cloud para obtener información sobre la [!UICONTROL Biblioteca de audiencias].
