@@ -11,11 +11,11 @@ kt: 3269
 topic: Integraciones
 role: Profesional empresarial
 level: Intermedio
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
