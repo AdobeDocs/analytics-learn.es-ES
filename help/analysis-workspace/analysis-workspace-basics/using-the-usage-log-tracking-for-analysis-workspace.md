@@ -3,7 +3,7 @@ title: Empleo del Seguimiento de registro de uso para Analysis Workspace
 seo-title: Empleo del Seguimiento de registro de uso para Analysis Workspace
 description: Este vídeo muestra cómo emplear el Seguimiento de registro de uso en proyectos de Workspace, lo que le ayuda a comprender mejor el uso que hacen los usuarios de Adobe Analytics.
 seo-description: Este vídeo muestra cómo emplear el Seguimiento de registro de uso en proyectos de Workspace, lo que le ayuda a comprender mejor el uso que hacen los usuarios de Adobe Analytics.
-feature: data configuration and collection
+feature: configuración y colección de datos
 topics: null
 audience: analyst, marketer
 activity: use
@@ -14,7 +14,7 @@ kt: 1597
 translation-type: ht
 source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
 workflow-type: ht
-source-wordcount: '184'
+source-wordcount: '188'
 ht-degree: 100%
 
 ---
