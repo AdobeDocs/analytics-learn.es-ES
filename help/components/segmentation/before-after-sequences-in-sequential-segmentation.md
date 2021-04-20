@@ -1,14 +1,14 @@
 ---
 title: Secuencias antes o después de la segmentación secuencial
 description: En este vídeo se explica cómo segmentar en Adobe Analytics para que solo obtenga los datos de antes o después de una ruta de usuario específica.
-feature: Segmentación
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2303
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

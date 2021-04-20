@@ -3,15 +3,15 @@ title: Selección de un grupo de informes en Analysis Workspace
 seo-title: Selección de un grupo de informes en Analysis Workspace - Adobe Analytics
 description: Este vídeo le guía a través del selector de grupo de informes.
 seo-description: Este vídeo lo lleva a través del selector de grupo de informes. - Adobe Analytics
-feature: Conceptos básicos de Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2026
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

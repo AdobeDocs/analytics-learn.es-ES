@@ -1,15 +1,15 @@
 ---
 title: Descripción general de las tablas de cohorte en Analysis Workspace
 description: La configuración Cálculo móvil de las tablas de cohortes se puede utilizar para analizar cohortes entre períodos, para comprender cómo se retienen (o se producen) los mismos usuarios a lo largo del tiempo.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25965.jpg
 kt: 2477
-role: Profesional empresarial
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

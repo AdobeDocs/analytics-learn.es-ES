@@ -1,14 +1,14 @@
 ---
 title: Visualizaciones Apiladas Al 100 % En Analysis Workspace
 description: En este vídeo, aprenderá a establecer las visualizaciones apiladas como porcentajes en lugar de solo valores sin procesar.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1670
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

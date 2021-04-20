@@ -1,14 +1,14 @@
 ---
 title: Administración de componentes en Analysis Workspace
 description: Puede administrar dimensiones, segmentos, métricas e intervalos de fechas directamente en Analysis Workspace. No es necesario que abandone el proyecto durante la búsqueda de un segmento para compartir.
-feature: Conceptos básicos de Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1988
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

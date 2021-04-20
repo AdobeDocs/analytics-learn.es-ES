@@ -1,14 +1,14 @@
 ---
 title: Explicación del recorrido de voz del usuario
 description: Aprenda a comprender el recorrido del cliente en la aplicación de voz mirando la ruta de flujo y las visitas en el orden previsto para identificar cuáles son las acciones más comunes, la secuencia de dichas acciones y cuándo y dónde abandonan los usuarios el recorrido.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2903
-role: Profesional empresarial
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

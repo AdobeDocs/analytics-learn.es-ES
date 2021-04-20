@@ -3,16 +3,16 @@ title: Uso de llamadas al servidor en Adobe Analytics
 seo-title: Uso de llamadas al servidor en Adobe Analytics
 description: Los informes de uso de llamadas al servidor le permitirán realizar un seguimiento exacto de la asignación de llamadas al servidor que ha utilizado en cualquier momento, y también le avisarán de forma proactiva cuando se aproxime a su compromiso total.
 seo-description: Los informes de uso de llamadas al servidor le permitirán realizar un seguimiento exacto de la asignación de llamadas al servidor que ha utilizado en cualquier momento, y también le avisarán de forma proactiva cuando se aproxime a su compromiso total.
-feature: Configuración y recopilación de datos
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
-topic: Administración
-role: '"Administrador, Arquitecto"'
-level: Principiante
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

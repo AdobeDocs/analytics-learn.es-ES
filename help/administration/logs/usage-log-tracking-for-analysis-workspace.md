@@ -1,15 +1,15 @@
 ---
 title: Seguimiento de registros de uso para Analysis Workspace
 description: En Admin - Registros - Uso y acceso, puede comprender mejor el uso de Adobe Analytics por parte de los usuarios. Este vídeo se centra específicamente en la medición del uso de proyectos de Workspace.
-feature: Configuración y recopilación de datos
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4024
-topic: Administración
-role: Administrador
-level: Principiante
+topic: Administration
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

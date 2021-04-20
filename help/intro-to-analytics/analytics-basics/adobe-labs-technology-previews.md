@@ -1,14 +1,14 @@
 ---
 title: Adobe Labs (Previsualizaciones tecnológicas) con Adobe Analytics
 description: Adobe Labs (Previsualizaciones tecnológicas) permite interactuar con tecnologías emergentes, descubrir perspectivas valiosas, e influir en el desarrollo y las prioridades futuras de las funciones de Analytics.
-feature: Aspectos básicos de Analytics
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4818
-role: Arquitecto
-level: Principiante
+role: Architect
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

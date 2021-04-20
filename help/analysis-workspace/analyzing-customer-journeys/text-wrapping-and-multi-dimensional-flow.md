@@ -1,7 +1,7 @@
 ---
 title: Ajuste de texto y flujo multidimensional en Analysis Workspace
 description: Este vídeo muestra cómo activar y desactivar el truncamiento de etiquetas en la visualización de flujo. Además, aprenda a arrastrar y soltar dimensiones en el flujo para el análisis de flujo multidimensional.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 24041.jpg
 kt: 2281
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 'Adobe Analytics: más que datos. Es conocimiento del cliente'
 description: 'Para convertirse en un negocio experto, el marketing basado en datos es clave. Lleve su madurez analítica a un nuevo nivel: de los datos a las ideas, y de ahí a la acción.'
-feature: Aspectos básicos de Analytics
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4384
-role: “Profesional empresarial, desarrollador, ingeniero de datos, arquitecto, arquitecto de datos, administrador, líder”
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

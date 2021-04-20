@@ -1,15 +1,15 @@
 ---
 title: Análisis de latencia con tablas de cohorte
 description: La configuración de tablas de latencia de las tablas de cohortes permite analizar el comportamiento de las cohortes antes y después del evento de inclusión (no solo después de como ilustra la cohorte estándar). Esta configuración es útil para analizar el impacto del lanzamiento de un nuevo producto o campaña, por ejemplo.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: Profesional empresarial
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

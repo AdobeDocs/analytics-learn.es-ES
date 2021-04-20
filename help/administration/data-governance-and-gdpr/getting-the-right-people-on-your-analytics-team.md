@@ -1,14 +1,14 @@
 ---
 title: Obtención de las personas adecuadas en su equipo de Analytics
 description: Es muy importante contar con las personas adecuadas en su equipo a medida que implementa Adobe Analytics y analiza la actividad en su sitio. Este vídeo le ofrece una breve descripción de las diferentes funciones que desea completar.
-feature: Aspectos básicos de Analytics
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3563
-role: Administrador
-level: Principiante
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

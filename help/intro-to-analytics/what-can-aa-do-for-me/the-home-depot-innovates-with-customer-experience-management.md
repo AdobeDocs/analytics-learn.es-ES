@@ -1,14 +1,14 @@
 ---
 title: 'Caso práctico de cliente: The Home Depot innova mediante la administración de experiencias del cliente'
 description: HomeDepot.com, un sitio de comercio electrónico valorado en 7000 millones de dólares que pertenece a una compañía de 100 000 millones de dólares, se mantiene a la cabeza de la competencia porque garantiza una experiencia del cliente adecuada. Descubra cómo The Home Depot utiliza las soluciones de Adobe para generar lealtad de marca y mejorar la satisfacción del cliente gracias a una experiencia de compra personalizada.
-feature: Casos de uso
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4387
-role: “Profesional empresarial, desarrollador, ingeniero de datos, arquitecto, arquitecto de datos, administrador, líder”
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

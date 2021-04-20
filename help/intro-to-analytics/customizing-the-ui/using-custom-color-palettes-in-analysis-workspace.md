@@ -1,14 +1,14 @@
 ---
 title: Uso de paletas de color personalizadas en Analysis Workspace
 description: Puede cambiar la paleta de colores utilizada en Analysis Workspace para alinearla mejor con la marca o con los clientes.
-feature: Conceptos básicos del espacio de trabajo
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1943
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 7 consejos y trucos que facilitan la creación de proyectos de Analytics personalizados
 description: Analysis Workspace es una potente herramienta dentro de Adobe Analytics que puede ayudarle a crear proyectos de análisis más impactantes. Tiene un amplio conjunto de funciones que le permite realizar cualquier tipo de análisis improvisado, pero una sencilla experiencia de usuario que hace esta potencia y escala accesibles.
-feature: Conceptos básicos del espacio de trabajo
+feature: Workspace Basics
 topics: topics
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3945
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

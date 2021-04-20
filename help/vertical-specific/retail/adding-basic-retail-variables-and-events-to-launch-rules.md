@@ -1,14 +1,14 @@
 ---
 title: Adición de variables y eventos comerciales básicos a las reglas de Launch
 description: Este vídeo muestra cómo utilizar una extensión de cadena de producto especial en Launch para rastrear variables y eventos comerciales básicos, como la vista de producto, un anuncio al carro de compras, un cierre de compra, etc.
-feature: Implementación de Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3592
-role: '"Desarrollador, ingeniero de datos"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

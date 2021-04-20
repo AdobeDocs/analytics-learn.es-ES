@@ -1,14 +1,14 @@
 ---
 title: Cómo identificar el servidor de seguimiento y los grupos de informes de Analytics
 description: Al configurar Adobe Analytics, o al hacer referencia a él en otras soluciones de Experience Cloud, a menudo resulta útil o incluso necesario conocer el servidor de seguimiento de Analytics que está utilizando, o incluso el grupo de informes al que está enviando datos. Este vídeo muestra cómo localizar ambos valores, haya implementado o no Adobe Analytics.
-feature: Conceptos básicos de implementación
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-role: “Desarrollador, ingeniero de datos”
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

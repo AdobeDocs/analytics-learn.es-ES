@@ -1,15 +1,15 @@
 ---
 title: Uso del análisis entre fichas para explorar la atribución de marketing básica en Analysis Workspace
 description: Existen muchas maneras de llevar la metodología de atribución al siguiente nivel con Adobe Analytics. En este vídeo, resaltamos cómo puede obtener perspectivas más profundas del informe Canales de marketing mediante el análisis entre pestañas en Workspace.
-feature: Canales de marketing
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39237.jpg
 kt: 6067
-role: Profesional empresarial
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

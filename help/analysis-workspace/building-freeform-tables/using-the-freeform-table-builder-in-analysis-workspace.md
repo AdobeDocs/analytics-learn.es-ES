@@ -1,15 +1,15 @@
 ---
 title: Uso del Generador de tablas improvisadas en Analysis Workspace
 description: El Generador de tablas improvisadas le permite arrastrar y soltar muchas dimensiones, desgloses, métricas y segmentos para crear tablas que respondan a preguntas comerciales más complejas. Los datos no se actualizarán sobre la marcha; en su lugar, se actualizará cuando haga clic en "Generar", lo que le ahorra tiempo, ya que la tabla solo se actualiza una vez.
-feature: Tablas improvisadas
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31318.jpg
 kt: 4217
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

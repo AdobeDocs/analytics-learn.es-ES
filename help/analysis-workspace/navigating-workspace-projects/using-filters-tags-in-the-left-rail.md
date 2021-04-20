@@ -1,15 +1,15 @@
 ---
 title: Uso de filtros (etiquetas) en el carril izquierdo
 description: Los filtros (o etiquetas) son una forma rápida y sencilla de filtrar el carril izquierdo de Analysis Workspace para encontrar los componentes que necesita. Aproveche las etiquetas predeterminadas proporcionadas por Adobe o agregue sus propias etiquetas personalizadas para organizar los componentes relacionados.
-feature: Conceptos básicos del espacio de trabajo
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32959.jpg
 kt: 4845
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

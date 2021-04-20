@@ -1,14 +1,14 @@
 ---
 title: Varios grupos de informes en Analysis Workspace
 description: Se pueden analizar varios grupos de informes en un solo proyecto de Workspace seleccionando grupos en el nivel de panel. Esto le permite llevar a cabo un análisis de panel en paralelo en diferentes conjuntos de datos.
-feature: Paneles
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4820
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

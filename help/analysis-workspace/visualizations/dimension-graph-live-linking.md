@@ -1,14 +1,14 @@
 ---
 title: Vinculación entre dimensiones y gráficos en Analysis Workspace
 description: No sabemos cómo llamarlo, pero es genial. Cuando se crea un gráfico de líneas a partir de un valor de dimensión, ahora se pueden seleccionar valores de dimensión diferentes y cambiar el gráfico de forma dinámica. Vea el vídeo para obtener más información.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2115
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

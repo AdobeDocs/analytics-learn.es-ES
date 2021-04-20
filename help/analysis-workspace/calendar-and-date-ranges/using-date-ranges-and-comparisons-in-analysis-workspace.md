@@ -1,14 +1,14 @@
 ---
 title: Uso de intervalos de fechas y comparaciones en Analysis Workspace
 description: En este vídeo, aprenderá a usar fechas, intervalos de fechas y comparaciones de fechas para personalizar las tablas y visualizaciones en el lapso de tiempo adecuado.
-feature: Calendario
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4105
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

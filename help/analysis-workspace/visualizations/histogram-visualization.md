@@ -1,14 +1,14 @@
 ---
 title: Visualización de histogramas en Analysis Workspace
 description: Los histogramas le permiten visualizar la distribución de una métrica entre sus visitantes, visitas y visitas actuales, para encontrar segmentos de alto y bajo valor.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1909
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,16 +1,16 @@
 ---
 title: Creación de segmentos de Analytics para la activación y el sistema de informes
 description: Uso de dimensiones de Advertising Cloud para crear segmentos para una creación de informes y un análisis más precisos.
-feature: Integración de Advertising Cloud
+feature: Advertising Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35117.jpg
 kt: 5474
-topic: Integraciones
-role: Profesional empresarial
-level: Intermedio
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Comprender las diferencias entre dispositivos con voz habilitada
 description: Aprenda a comprender las diferentes funcionalidades y rendimiento de los distintos dispositivos asistidos por voz para ayudarle a priorizar la hoja de ruta del producto.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2905
-role: Profesional empresarial
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

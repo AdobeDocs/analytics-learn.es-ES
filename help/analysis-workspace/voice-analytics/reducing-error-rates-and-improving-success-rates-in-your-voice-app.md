@@ -1,14 +1,14 @@
 ---
 title: Reducción de las tasas de error y mejora de las tasas de éxito en la aplicación de voz
 description: Aprenda a encontrar áreas de mejora para su aplicación de voz con funciones como pérdida, tasas de éxito y error e intención de reserva.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2907
-role: Profesional empresarial
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

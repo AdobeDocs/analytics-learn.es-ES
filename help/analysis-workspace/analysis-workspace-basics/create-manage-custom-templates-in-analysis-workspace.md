@@ -1,14 +1,14 @@
 ---
 title: Creación y administración de plantillas personalizadas en Analysis Workspace
 description: En este vídeo aprenderá a crear plantillas personalizadas en Analysis Workspace para que usted y su equipo puedan comenzar a partir de un conjunto específico de informes.
-feature: Proyectos
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1695
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

@@ -1,14 +1,14 @@
 ---
 title: Añadir Dimensión y métricas al proyecto en Analysis Workspace
 description: En este vídeo, aprenderá sobre las dimensiones y métricas, la diferencia entre ellas y cómo agregarlas a sus tablas y visualizaciones en Analysis Workspace. Aprenda también a añadir métricas calculadas integradas.
-feature: Dimensiones
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4104
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

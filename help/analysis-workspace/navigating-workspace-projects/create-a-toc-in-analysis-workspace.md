@@ -1,14 +1,14 @@
 ---
 title: Crear una tabla de contenido en Analysis Workspace
 description: Aprenda a construir un proyecto de la tabla de contenido de Workspace y configúrelo como página de aterrizaje de los usuarios para que puedan encontrar rápidamente los datos y las perspectivas que necesitan en Adobe Analytics.
-feature: Paneles
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2812
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

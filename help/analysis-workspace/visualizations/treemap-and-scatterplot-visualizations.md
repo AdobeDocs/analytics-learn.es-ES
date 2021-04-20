@@ -1,14 +1,14 @@
 ---
 title: Visualizaciones de gráficos de rectángulos y diagramas de dispersión en Analysis Workspace
 description: 'Analysis Workspace en Adobe Analytics incluye dos tipos de visualización populares: diagrama de árbol y diagrama de puntos. En este vídeo se explica cómo utilizar ambos tipos de visualización en el análisis.'
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2117
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

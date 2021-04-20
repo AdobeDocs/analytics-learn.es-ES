@@ -1,15 +1,15 @@
 ---
 title: Configuración de Advertising Analytics en Adobe Analytics
 description: 'Este vídeo le guiará por una revisión de alto nivel de cómo configurar sus grupos de informes para utilizar Advertising Analytics, cómo configurar una cuenta de búsqueda de pago y detalles de informes para Advertising Analytics. '
-feature: Integración de Advertising Cloud
+feature: Advertising Cloud Integration
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 1642
-topic: Integraciones
-role: Administrador
-level: Intermedio
+topic: Integrations
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Adición de líneas de tendencia a visualizaciones de línea
 description: En Configuración de visualización, puede elegir añadir una regresión o mover la línea de tendencia promedio a la serie de líneas, lo que puede ayudar a mostrar un patrón más claro en los datos. Las opciones son Lineal, Logarítmico, Exponencial, Potencia, Cuadrático y Promedios de Movimiento.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 'Supersesión de la Adobe Summit de 2019: Viajes y hospitalidad'
 description: Vea clips seleccionados de la “supersesión” de viajes y hospitalidad de la cumbre de 2019
-feature: Casos de uso
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4388
-role: “Profesional empresarial, desarrollador, ingeniero de datos, arquitecto, arquitecto de datos, administrador, líder”
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

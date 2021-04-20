@@ -1,14 +1,14 @@
 ---
 title: Visualización de gráficos de viñetas en Analysis Workspace
 description: Los gráficos de viñetas son una forma útil de mostrar el progreso hacia (o en exceso) un objetivo en su análisis. Le ofrecen otra forma de visualizar el éxito de su organización.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2116
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

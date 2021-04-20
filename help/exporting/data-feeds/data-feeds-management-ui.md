@@ -1,14 +1,14 @@
 ---
 title: Interfaz de usuario de administración de fuentes de datos
 description: La fuente de datos de Adobe Analytics le permite exportar datos del flujo de navegación sin procesar para importarlos y combinarlos con otras fuentes de datos en un EDW o lago de datos. Puede crear y administrar sus propias fuentes de datos en Adobe Analytics. Este vídeo le mostrará cómo.
-feature: Archivo de fuentes de datos
+feature: Data Feeds
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2353
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

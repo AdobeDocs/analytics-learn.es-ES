@@ -1,14 +1,14 @@
 ---
 title: Creación de una regla de página global en Launch
 description: Hay algunos puntos de datos que desea enviar a Adobe Analytics en todas las páginas. Este vídeo muestra cómo configurar una regla de carga de página global para enviar esos puntos de datos en.
-feature: Implementación de Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3588
-role: '"Desarrollador, ingeniero de datos"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

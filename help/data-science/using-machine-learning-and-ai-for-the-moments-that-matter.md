@@ -1,14 +1,14 @@
 ---
 title: Uso del aprendizaje automático y la IA de Adobe Analytics en los momentos importantes
 description: La inteligencia de los clientes nunca ha sido más prometedora. Pero reunir datos que puedan ser útiles para los usuarios empresariales de toda la organización y captar las tendencias importantes a tiempo para actuar en consecuencia, no es algo que ni siquiera un equipo avanzado de ciencia de datos pueda manejar por sí solo. El uso de los datos que ya está recopilando en su beneficio es donde brillan estas capacidades de Adobe Sensei AI y de aprendizaje automático en Adobe Analytics.
-feature: Ciencia de datos
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2340
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: Uso del panel Attribution IQ en Analysis Workspace
 description: En este vídeo, verá el panel Attribution IQ , un lugar ideal para empezar a medida que crea su proyecto de atribución de Analysis Workspace.
-feature: Atribución
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 23139.jpg
 kt: 1667
-role: Profesional empresarial
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Uso de doPlugins en la extensión de Adobe Analytics
 description: Aprenda a utilizar Experience Platform Launch para tener más control sobre las visitas de Adobe Analytics mediante la capacidad doPlugins .
-feature: Implementación de Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1994
-role: '"Desarrollador, ingeniero de datos"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

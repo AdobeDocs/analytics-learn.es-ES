@@ -1,14 +1,14 @@
 ---
 title: Creación de reglas de lanzamiento para páginas especiales
 description: Además de los datos que se incluyen en cada página, tendrá algunos datos que solo tienen que entrar en una página. Este vídeo muestra cómo combinar esos datos con los datos de cada página y enviarlos a Adobe Analytics.
-feature: Implementación de Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3590
-role: '"Desarrollador, ingeniero de datos"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Función de recuento aproximado distinto en métricas calculadas
 description: Se ha añadido una función Recuento aproximado distinto al Creador de métricas calculadas. Se trata de una función largamente esperada que devolverá el recuento aproximado distinto de elementos de dimensión para una dimensión seleccionada.
-feature: Métricas calculadas
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1910
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

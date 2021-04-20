@@ -1,14 +1,14 @@
 ---
 title: Alertas inteligentes en Adobe Analytics
 description: Las alertas inteligentes colocan la potencia de Detección de anomalías directamente en la bandeja de entrada o en el teléfono. Ser consciente de los cambios significativos que se producen en las métricas y segmentos clave significa que no se pierden oportunidades.
-feature: Ciencia de datos
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2338
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

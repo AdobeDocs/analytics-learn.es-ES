@@ -1,14 +1,14 @@
 ---
 title: Inicio de sesión en Adobe Analytics
 description: En este vídeo, aprenderá a iniciar sesión, a administrar Analytics y a comenzar a efectuar el análisis.
-feature: Aspectos básicos de Analytics
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3566
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

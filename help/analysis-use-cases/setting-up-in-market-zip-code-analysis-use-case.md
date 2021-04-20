@@ -3,15 +3,15 @@ title: 'Configuración del análisis de código postal en el mercado: un caso de
 seo-title: 'Configuración del análisis de código postal en el mercado: un caso de uso'
 description: En este caso de uso, configuraremos el sistema para que incorpore códigos postales, los clasifique como dentro o fuera del mercado y, a continuación, utilice estos datos en Analysis Workspace para que podamos ver la eficacia de nuestras campañas de marketing con objetivo geográfico.
 seo-description: En este caso de uso, configuraremos el sistema para que incorpore códigos postales, los clasifique como dentro o fuera del mercado y, a continuación, utilice estos datos en Analysis Workspace para que podamos ver la eficacia de nuestras campañas de marketing con objetivo geográfico.
-feature: Casos de uso
+feature: Use Cases
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2846
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Métrica Personas en Adobe Analytics
 description: Adobe Analytics ahora ofrece la métrica Personas para eliminar el duplicado de visitantes basada en la cooperación entre dispositivos de Adobe Experience Cloud. Este vídeo proporciona más información y le muestra una introducción.
-feature: Métricas
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-role: “Profesional empresarial, desarrollador, ingeniero de datos, arquitecto, arquitecto de datos, administrador, líder”
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

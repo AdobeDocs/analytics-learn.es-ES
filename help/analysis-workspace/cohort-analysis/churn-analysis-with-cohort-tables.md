@@ -1,15 +1,15 @@
 ---
 title: Análisis de pérdida con tablas de cohorte
 description: 'Las tablas de cohorte ofrecen dos tipos de análisis: Retención y Pérdida. Aunque Retención muestra cuántos usuarios se retienen con el tiempo, la opción Pérdida mostrará cuántos usuarios se perdieron (1 - Retención).'
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25966.jpg
 kt: 2479
-role: Profesional empresarial
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

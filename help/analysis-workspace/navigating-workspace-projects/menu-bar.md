@@ -1,14 +1,14 @@
 ---
 title: Barra de menús en Analysis Workspace
 description: Analysis Workspace se ha vuelto aún más fácil de controlar y navegar con menús actualizados que organizan las distintas opciones para administrar proyectos y análisis en categorías familiares.
-feature: Proyectos
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2025
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

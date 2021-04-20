@@ -1,14 +1,14 @@
 ---
 title: Adición de descripciones de dimensiones y métricas en Adobe Analytics
 description: Este vídeo explica cómo añadir contexto a los informes, métricas y dimensiones en Adobe Analytics.
-feature: Conceptos básicos del espacio de trabajo
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2352
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

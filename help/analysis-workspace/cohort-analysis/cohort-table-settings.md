@@ -1,15 +1,15 @@
 ---
 title: Configuración de tabla de cohorte
 description: 'Existen varias opciones de configuración de tablas de cohorte que permiten personalizar la vista de retención o pérdida. Verlas resaltadas en este vídeo. '
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
-role: Profesional empresarial
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

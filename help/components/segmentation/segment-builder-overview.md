@@ -1,14 +1,14 @@
 ---
 title: Vista general del Generador de segmentos
 description: Información general y orientación rápida para el generador de segmentos en Adobe Analytics.
-feature: Segmentación
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2300
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Plantilla de tutorial de formación en Analysis Workspace
 description: 'El tutorial de formación de Analysis Workspace guía a los usuarios por la terminología común y los pasos para crear su primer análisis en Workspace. '
-feature: Paneles
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5032
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

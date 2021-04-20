@@ -1,15 +1,15 @@
 ---
 title: Configuración de administración para aplicaciones móviles
 description: Obtenga información sobre cómo configurar los informes de aplicaciones móviles en Adobe Analytics, incluidos los componentes del ciclo vital, el seguimiento de ubicación y los informes de visitas en segundo plano.
-feature: SDK móvil
+feature: Mobile SDK
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 2493
 topic: Mobile
-role: Administrador
-level: Experimentado
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

@@ -1,14 +1,14 @@
 ---
 title: Configuración del seguimiento sencillo de vínculos de salida en Experience Platform Launch
 description: En tan solo unos clics en la extensión de Adobe Analytics en Experience Platform Launch, puede empezar a rastrear los vínculos de salida en su sitio (vínculos que llevan de su sitio a otro). Este vídeo muestra cómo configurarlo.
-feature: Implementación de Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2273
-role: '"Desarrollador, ingeniero de datos"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

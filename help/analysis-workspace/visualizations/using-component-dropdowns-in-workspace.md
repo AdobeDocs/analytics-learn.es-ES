@@ -1,7 +1,7 @@
 ---
 title: Uso de desplegables de componentes en Workspace
 description: Los desplegables de componentes le permiten elegir entre una lista de componentes compatibles para crear su análisis. También puede crear nuevos componentes directamente desde la lista desplegable si no encuentra lo que necesita. Estos espacios también funcionan como zonas de colocación, en caso de que tenga un caso de uso más avanzado.
-feature: Componentes
+feature: Components
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

@@ -1,14 +1,14 @@
 ---
 title: Copiar e insertar en Analysis Workspace
 description: Copiar + Insertar permite copiar visualizaciones de un panel o proyecto a otro, así como copiar paneles completos entre proyectos.
-feature: Paneles
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1698
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

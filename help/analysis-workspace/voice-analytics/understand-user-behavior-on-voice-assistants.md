@@ -1,14 +1,14 @@
 ---
 title: Comprender el comportamiento del usuario en los asistentes de voz
 description: Obtenga información sobre cómo comprender el comportamiento del usuario y obtener perspectivas consultando métricas clave como intenciones principales, parámetros y autenticación de usuarios.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2904
-role: Profesional empresarial
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Configuración de la administración de biblioteca para Analytics
 description: Si acaba de empezar a usar la extensión de Experience Platform Launch para Adobe Analytics, este vídeo puede ayudarle con la parte de la configuración correspondiente a la administración de biblioteca, incluida la selección de los grupos de informes a los que desea enviar datos.
-feature: Implementación de Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2836
-role: '"Desarrollador, ingeniero de datos"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

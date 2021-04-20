@@ -1,14 +1,14 @@
 ---
 title: Uso del menú que se abre al hacer clic con el botón derecho en Analysis Workspace
 description: Aprenda a utilizar el menú que aparece al hacer clic con el botón derecho en Analysis Workspace para realizar desgloses más rápidos y mucho más.
-feature: Tablas improvisadas
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2029
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

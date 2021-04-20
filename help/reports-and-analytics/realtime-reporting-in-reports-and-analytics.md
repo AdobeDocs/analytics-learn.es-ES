@@ -1,14 +1,14 @@
 ---
 title: Informes en tiempo real en Reports and Analytics
 description: Este vídeo muestra un puñado de actualizaciones que Adobe ha realizado en el Informe en tiempo real en Reports & Analytics en Adobe Analytics.
-feature: Aspectos básicos de Analytics
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2360
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Análisis de contribución en Analysis Workspace
 description: En este vídeo se explica el análisis de contribución y su capacidad para utilizar el aprendizaje automático para explicar rápida y fácilmente los factores que han contribuido a una tendencia en los datos.
-feature: Ciencia de datos
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2337
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

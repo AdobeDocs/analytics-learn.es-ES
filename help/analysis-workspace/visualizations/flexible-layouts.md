@@ -1,14 +1,14 @@
 ---
 title: Presentaciones flexibles en Analysis Workspace
 description: El análisis de forma libre incluye la capacidad de cambiar la ubicación, la anchura y la altura de los gráficos y las tablas para poder crear un proyecto más rico. Este vídeo muestra cómo puede cambiar el diseño.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2137
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

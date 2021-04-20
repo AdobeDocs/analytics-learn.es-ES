@@ -1,14 +1,14 @@
 ---
 title: Uso de una capa de datos para establecer el nombre de página y otras variables en Adobe Analytics mediante Launch
 description: El uso de una capa de datos para Analytics y otras soluciones de Experience Cloud se considera una práctica recomendada. En este vídeo, verá cómo extraer sus valores de la capa de datos y utilizarlos en Launch para rellenar variables en Adobe Analytics.
-feature: Implementación de Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1852
-role: '"Desarrollador, ingeniero de datos"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

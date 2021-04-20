@@ -1,14 +1,14 @@
 ---
 title: Creación de elementos de datos en Launch para la implementación de Analytics
 description: Este vídeo muestra cómo crear elementos de datos para la implementación de Analytics en Launch, en función de las variables y los eventos que se han decidido y documentado en un documento de referencia de diseño de solución (SDR).
-feature: Implementación de Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587
-role: '"Desarrollador, ingeniero de datos"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

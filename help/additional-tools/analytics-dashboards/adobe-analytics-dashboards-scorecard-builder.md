@@ -1,14 +1,14 @@
 ---
 title: Generador de cuadros de mando de paneles de Adobe Analytics
 description: En este vídeo, aprenderá a crear y compartir "Informes de valoración" en Analysis Workspace para que se visualicen en los paneles de Adobe Analytics (aplicación móvil).
-feature: Tableros de Analytics
+feature: Analytics Dashboards
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5286
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

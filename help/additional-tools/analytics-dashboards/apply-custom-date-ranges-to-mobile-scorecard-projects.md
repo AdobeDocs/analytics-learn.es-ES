@@ -1,10 +1,10 @@
 ---
 title: Aplicar intervalos de fechas personalizados a proyectos de informes de valoración móviles
 description: Este vídeo muestra cómo administrar las distintas opciones de intervalos de fechas al configurar proyectos de análisis para dispositivos móviles, incluida la elección de los intervalos predeterminados que desea mostrar, así como la creación de sus propios intervalos de fechas personalizados.
-feature: Tableros de Analytics
+feature: Analytics Dashboards
 topic: Mobile
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 doc-type: feature video
 thumbnail: 332454.jpg
 kt: 7440

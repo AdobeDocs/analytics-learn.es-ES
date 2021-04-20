@@ -1,14 +1,14 @@
 ---
 title: Configuración del seguimiento fácil de vínculos de descarga en Experience Platform Launch
 description: En tan solo unos clics en la extensión de Adobe Analytics en Experience Platform Launch, puede empezar a rastrear los vínculos de descarga de su sitio (vínculos que descargan archivos que no sean del explorador en su equipo). Este vídeo muestra cómo configurarlo.
-feature: Implementación de Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1844
-role: '"Desarrollador, ingeniero de datos"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

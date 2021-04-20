@@ -1,14 +1,14 @@
 ---
 title: Explicación y creación de grupos de informes
 description: Este vídeo le ayudará a comprender qué son los grupos de informes y le mostrará cómo crearlos en la interfaz, para que pueda rastrear a las personas que visitan su sitio y optimizar este parámetro.
-feature: Aspectos básicos de Analytics
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3574
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

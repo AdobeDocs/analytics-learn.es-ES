@@ -1,15 +1,15 @@
 ---
 title: 'Prácticas recomendadas para el seguimiento de aplicaciones de una sola página (SPA) en Adobe Analytics '
 description: En este documento, describiremos varias prácticas recomendadas que debe seguir y tener en cuenta a medida que utiliza Adobe Analytics para rastrear aplicaciones de una sola página (SPA). Este documento se centrará en el uso de Experience Platform Launch, que es el método de implementación recomendado.
-feature: Conceptos básicos de implementación
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1389
 topic: SPA
-role: '"Desarrollador, ingeniero de datos"'
-level: Intermedio
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

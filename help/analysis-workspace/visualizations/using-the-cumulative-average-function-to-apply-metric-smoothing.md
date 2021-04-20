@@ -1,15 +1,15 @@
 ---
 title: Uso De La Función Media Acumulativa Para Aplicar El Suavizado De Métricas
 description: Cuanto más largo sea el período de tiempo en el que se realiza la tendencia de una métrica, más difícil será indicar las tendencias direccionales de la métrica. Para resolver esto, se puede utilizar la función Media acumulativa de Métricas calculadas para aplicar suavizado a las métricas en Analysis Workspace.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 27068.jpg
 kt: 2854
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

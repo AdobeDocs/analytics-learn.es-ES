@@ -1,15 +1,15 @@
 ---
 title: Uso del carril izquierdo para crear tablas improvisadas en Analysis Workspace
 description: Aprenda a utilizar el carril izquierdo de Analysis Workspace para buscar, crear y agregar elementos a tablas improvisada.
-feature: Tablas improvisadas
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40089.jpg
 kt: 6161
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

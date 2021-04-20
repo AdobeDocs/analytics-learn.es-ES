@@ -1,14 +1,14 @@
 ---
 title: 'Uso del Generador de reglas de clasificación en Adobe Analytics '
 description: 'Aprenda a utilizar el Generador de reglas de clasificación para aplicar automáticamente clasificaciones basadas en reglas en Adobe Analytics. '
-feature: Clasificaciones
+feature: Classifications
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1936
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

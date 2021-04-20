@@ -1,14 +1,14 @@
 ---
 title: Establezca Analysis Workspace como página de aterrizaje en Adobe Analytics
 description: Este vídeo muestra cómo puede configurar varios aspectos de Analysis Workspace como página de aterrizaje en Adobe Analytics para optimizar los flujos de trabajo.
-feature: Conceptos básicos del espacio de trabajo
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2363
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

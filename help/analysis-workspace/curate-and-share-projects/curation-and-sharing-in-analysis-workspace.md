@@ -1,14 +1,14 @@
 ---
 title: Revisión y uso compartido en Analysis Workspace
 description: Una vez que haya creado un proyecto en Analysis Workspace, puede depurarlo (simplificarlo) y compartirlo con otros equipos e individuos de sus organizaciones para que puedan explorarlo y autoabastecerlo con datos. Este vídeo muestra cómo trabajar con la depuración y el uso compartido.
-feature: Depurar y compartir
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2294
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Detección de anomalías en Analysis Workspace
 description: Analysis Workspace detecta automáticamente las anomalías de los datos de cualquier visualización de serie temporal o tabla de datos. Atrapa a los "desconocidos" sin ningún esfuerzo adicional por tu parte.
-feature: Ciencia de datos
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2336
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

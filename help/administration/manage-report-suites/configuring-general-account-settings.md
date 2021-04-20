@@ -1,10 +1,10 @@
 ---
 title: Cómo configurar la configuración general de la cuenta
 description: Al configurar Adobe Analytics, la configuración puede afectar a la forma en que se recopilan y almacenan los datos. Este vídeo trata algunos de los ajustes generales. También puede cambiarlos después de la implementación, ya que nunca es demasiado tarde para que sus datos sean más correctos.
-feature: Configuración del grupo de informes
-topic: Administración
-role: Administrador
-level: Principiante
+feature: Report Suite Settings
+topic: Administration
+role: Administrator
+level: Beginner
 doc-type: feature video
 thumbnail: 332330.jpg
 kt: 7399

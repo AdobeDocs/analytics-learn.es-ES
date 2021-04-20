@@ -1,14 +1,14 @@
 ---
 title: Uso de tablas, visualizaciones y paneles en Analysis Workspace
 description: En este vídeo aprenderá a utilizar los componentes básicos del proyecto de Analysis Workspace, a saber, paneles, tablas y visualizaciones. Estos elementos son el lienzo sobre el que se pintan los datos.
-feature: Paneles
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4103
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

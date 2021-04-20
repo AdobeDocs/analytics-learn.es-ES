@@ -1,14 +1,14 @@
 ---
 title: Introducción a las variables de tráfico (Props)
 description: En este vídeo, obtenga una introducción a las variables de tráfico, como Nombre de página, Sección del sitio y "props".
-feature: Dimensiones
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3576
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

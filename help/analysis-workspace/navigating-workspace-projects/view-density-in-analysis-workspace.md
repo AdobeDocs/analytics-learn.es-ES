@@ -1,14 +1,14 @@
 ---
 title: Ver densidad en Analysis Workspace
 description: La configuración Ver densidad en Proyecto > Información y configuración permite controlar el margen vertical aplicado al carril izquierdo y a las tablas (forma libre y cohorte). Puede elegir entre Expandida (predeterminada), Cómoda o Compacta.
-feature: Proyectos
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2492
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

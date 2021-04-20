@@ -1,14 +1,14 @@
 ---
 title: Ver visitas posteriores al procesamiento con Experience Cloud Debugger
 description: Los datos posprocesados ya están disponibles en Experience Cloud Debugger. Inicie sesión a través de Experience Cloud y active "Recuperar visitas posprocesadas" para ver las visitas después de aplicar VISTA y las reglas de procesamiento. Por ejemplo, si la organización depende en gran medida de la asignación de datos de contexto en las reglas de procesamiento, ahora puede ver dónde se almacena cada variable de datos de contexto directamente en Debugger.
-feature: Validación
+feature: Validation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 4843
-role: '"Desarrollador, ingeniero de datos"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

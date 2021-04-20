@@ -1,14 +1,14 @@
 ---
 title: Preparación de Experience Platform Launch para la implementación de Analytics
 description: Antes de implementar Analytics en Launch, deberá tener algunos documentos junto a ellos y habrá querido configurar algunos elementos en el sistema, tanto en Analytics como en Launch. Este video trata esas cosas.
-feature: Implementación de Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3584
-role: '"Desarrollador, ingeniero de datos"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

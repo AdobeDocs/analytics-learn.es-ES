@@ -1,14 +1,14 @@
 ---
 title: Configuración de cookies en la extensión de Launch Analytics
 description: Si acaba de empezar a usar Launch, de Adobe y la extensión de Adobe Analytics, este vídeo puede ayudarle a saber si y cómo configurar las cookies en la extensión de Analytics.
-feature: Implementación de Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2856
-role: '"Desarrollador, ingeniero de datos"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Trabajo con Dimensiones en una tabla improvisada
 description: Obtenga información sobre cómo trabajar con dimensiones en tablas improvisadas, incluso agregarlas, ordenarlas, filtrarlas, desglosarlas por otras dimensiones, etc.
-feature: Dimensiones
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

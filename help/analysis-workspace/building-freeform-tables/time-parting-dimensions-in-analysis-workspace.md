@@ -1,15 +1,15 @@
 ---
 title: Dimensiones de partición de tiempo en Analysis Workspace
 description: La partición de tiempo toma la marca de hora de las visitas recopiladas y la divide en dimensiones más significativas, como "Hora del día" o "Día de la semana". Estas dimensiones ya están listas para usarse en Analysis Workspace.
-feature: Tablas improvisadas
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23727.jpg
 kt: 1903
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

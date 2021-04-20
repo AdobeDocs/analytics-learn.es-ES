@@ -1,15 +1,15 @@
 ---
 title: Creación automática de tablas improvisadas en Analysis Workspace
 description: Coloque componentes directamente en un proyecto, panel o tabla improvisada en blanco, y automáticamente se creará una tabla en el formato recomendado.
-feature: Tablas improvisadas
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40855.jpg
 kt: 6308
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

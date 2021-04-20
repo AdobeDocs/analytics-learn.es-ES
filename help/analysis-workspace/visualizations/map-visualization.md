@@ -1,14 +1,14 @@
 ---
 title: Visualización de mapas en Analysis Workspace
 description: Este vídeo muestra cómo utilizar la nueva visualización de mapas en Analysis Workspace. La vista Mapa le permite ver datos móviles (lat/long) o web (direcciones IP) con un mapa dinámico, lo que le permite hacerse una idea del uso del cliente en el contexto de su ubicación.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1771
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

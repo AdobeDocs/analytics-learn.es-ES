@@ -1,15 +1,15 @@
 ---
 title: Visualización de líneas en Analysis Workspace
 description: La visualización de línea ilustra las métricas a lo largo de un periodo de tendencias. La configuración de visualización permite personalizar el aspecto visual de cada línea e incluye ajustes para Mostrar ejes X/Y, Mostrar etiquetas mín./máx. y Mostrar línea de tendencia.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40384.jpg
 kt: 6277
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

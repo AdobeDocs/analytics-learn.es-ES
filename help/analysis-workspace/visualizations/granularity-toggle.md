@@ -1,14 +1,14 @@
 ---
 title: Alternancia de granularidad en Analysis Workspace
 description: Se ha agregado un selector de granularidad a la configuración de visualización de tendencias para permitirle ajustar con facilidad la granularidad de los datos desde el minuto hasta el año. La configuración ajusta el gráfico y la tabla de origen, lo que le guarda los pasos para mostrar y manipular la tabla.
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1770
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

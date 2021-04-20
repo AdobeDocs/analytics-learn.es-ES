@@ -1,7 +1,7 @@
 ---
 title: Introducción de datos en visualizaciones
 description: Al añadir visualizaciones en Analysis Workspace, existen varias formas de agregarles datos, según el tipo de visualización. Este vídeo muestra estos métodos.
-feature: Visualizaciones
+feature: Visualizations
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

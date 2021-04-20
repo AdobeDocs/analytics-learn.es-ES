@@ -1,14 +1,14 @@
 ---
 title: Sugerencias al cliente para continuar con su aprendizaje de Adobe Analytics
 description: En este artículo, conozca tres clientes de Adobe que tienen consejos y trucos para obtener el máximo valor de Adobe Analytics.
-feature: Conceptos básicos del espacio de trabajo
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4111
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -3,15 +3,15 @@ title: Plantillas estándar en Analysis Workspace
 seo-title: Plantillas estándar en Analysis Workspace
 description: Analysis Workspace le proporciona una ventaja inicial en su análisis con las plantillas estándar (anteriormente denominadas Proyectos iniciales)
 seo-description: Analysis Workspace le proporciona una ventaja inicial en su análisis con las plantillas estándar (anteriormente denominadas Proyectos iniciales)
-feature: Proyectos
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1963
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

@@ -1,14 +1,14 @@
 ---
 title: Actualización de AppMeasurement cuando no se utiliza Experience Platform Launch
 description: Este vídeo muestra cómo actualizar el código de appMeasurement cuando no utiliza Experience Platform Launch. Esto incluye dónde obtener el código y dónde actualizarlo.
-feature: Implementación De Appmeasurement
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1848
-role: '"Desarrollador, ingeniero de datos"'
-level: Intermedio
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
