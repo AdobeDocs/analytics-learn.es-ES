@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriales de Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: df4876d8cca8023036e75edfb1150aee5243b591
+source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
 workflow-type: tm+mt
-source-wordcount: '1980'
+source-wordcount: '1986'
 ht-degree: 93%
 
 ---
@@ -208,6 +208,7 @@ ht-degree: 93%
       + [Límite del acceso al grupo de informes en Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + Administrar grupos de informes {#manage-report-suites}
       + [Configuración general de la cuenta](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [Personalizar configuración de calendario](administration/manage-report-suites/customize-calendar-settings.md)
       + [Configuración de los ajustes del código postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configuración de variables en la Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Administración de datos y RGPD {#data-governance-and-gdpr}
@@ -372,3 +373,4 @@ ht-degree: 93%
    + [Uso de Postman para realizar solicitudes de API de Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Casos prácticos de Analysis {#analysis-use-cases}
    + [Configuración del Análisis de código postal en el mercado](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
++ [Programa de estudios universitario de Analytics](analytics-university/curriculum.md)
