@@ -4,9 +4,9 @@ description: Adobe se enorgullece de presentar este contenido fundacional de Ana
 hide: true
 hidefromtoc: true
 translation-type: tm+mt
-source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
+source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Adobe se enorgullece de presentar este contenido fundacional de Analytics a su u
 
 Este currículo con actividades creadas al final de cada sección se puede combinar con el entorno limitado de la Universidad de Adobe Analytics.
 
-Regístrese aquí para acceder: https://experienceleague.adobe.com/AnalyticsUniversity
+Regístrese aquí para acceder: [https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
 
 
 [Descargar el archivo PDF del programa](assets/Adobe-Analytics-Curriculum_2021.pdf)
