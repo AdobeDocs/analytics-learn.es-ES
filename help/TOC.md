@@ -4,11 +4,10 @@ user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analy
 breadcrumb-title: Tutoriales de Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: tm+mt
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
+source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
 workflow-type: tm+mt
-source-wordcount: '1998'
-ht-degree: 99%
+source-wordcount: '2007'
+ht-degree: 98%
 
 ---
 
@@ -18,21 +17,21 @@ ht-degree: 99%
 + [Información general](overview.md)
 + Introducción a Analytics {#intro-to-analytics}
    + ¿Qué puede hacer Adobe Analytics por mí? {#what-can-aa-do-for-me}
-      + [Cómo Adobe Analysis Workspace puede cambiar su negocio](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
-      + [Es más que datos. Es la inteligencia del cliente](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+      + [Vídeo: Cómo puede cambiar Adobe Analysis Workspace su negocio](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
+      + [Es más que datos. Es conocimiento del cliente](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
       + [Adobe Sensei y Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
       + [Caso práctico de cliente: ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
       + [Caso práctico de cliente: Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
       + [Caso práctico de cliente: The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
-      + [Supersesión de la Adobe Summit de 2019: Viajes y hospitalidad](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
-      + [Supersesión de la Adobe Summit de 2019: Ventas minoristas](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
-      + [Supersesión de la Adobe Summit de 2019: Alta tecnología](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+      + [Supersesión de la cumbre de 2019: Viajes y hospitalidad](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+      + [Supersesión de la cumbre de 2019: Ventas minoristas](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+      + [Supersesión de la cumbre de 2019: Alta tecnología](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Aspectos básicos de Analytics {#analytics-basics}
       + [Botón Probar en Workspace en Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Métrica Personas](intro-to-analytics/analytics-basics/people-metric.md)
       + [Explicación del ciclo de Analytics](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Recopilación de datos de Analytics](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
-      + [Inicio de sesión en Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
+      + [Registro en Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Introducción a la IU de Analytics](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [Explicación y creación de grupos de informes](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [Adobe Labs (Previsualizaciones de tecnología)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
@@ -224,10 +223,10 @@ ht-degree: 99%
 + Implementación {#implementation}
    + Conceptos básicos de implementación {#implementation-basics}
       + [Primera implementación](implementation/implementation-basics/first-time-implementation.md)
-      + [Asignación de variables contextData a Props y eVars con reglas de procesamiento](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
+      + [Asignar variables contextData a Props y eVars con reglas de procesamiento](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Cómo identificar el servidor de seguimiento y los grupos de informes de Analytics](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Creación de un documento de requisitos empresariales](implementation/implementation-basics/creating-a-business-requirements-document.md)
-      + [Creación y mantenimiento de un SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
+      + [Creación y mantenimiento de un DRS](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [Uso de una capa de datos en el sitio](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + A través de Experience Platform Launch {#via-adobe-launch}
       + [Implementación de las soluciones de Experience Cloud en sitios web con Experience Platform Launch](https://docs.adobe.com/content/help/es-ES/experience-cloud/implementing-in-websites-with-launch/index.html)
@@ -318,6 +317,7 @@ ht-degree: 99%
       + [Audience Analytics: Integración de segmentos de AAM en Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Panel Analytics for Target (A4T) en Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
+      + [Analizar una actividad de segmentación automática mediante el panel A4T](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Configuración de Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implementación de plantillas de seguimiento en motores de búsqueda](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
@@ -350,8 +350,8 @@ ht-degree: 99%
    + Comercial {#retail}
       + [Introducción a variables y eventos minoristas](vertical-specific/retail/intro-to-retail-variables-and-events.md)
       + [Adición de variables y eventos minoristas básicos a reglas de Launch](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
-      + [Adición de una regla de Launch para el evento de compra](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
-
+      + [Adición de una regla de Launch para el evento de compra
+](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Supersesión de la cumbre de 2019: Ventas minoristas](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=es)
 + Media Analytics {#media-analytics}
    + Medición de voz o audio {#measuring-voice-or-audio}
@@ -359,7 +359,7 @@ ht-degree: 99%
 + Análisis de aplicaciones móviles {#mobile-app-analytics}
    + Implementación {#implementation}
       + [Configuración de administración para aplicaciones móviles](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
-      + [Inicialización y visualización de métricas del ciclo vital con el SDK de Experience Platform](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
+      + [Inicialización y visualización de las métricas del ciclo vital con el SDK de Experience Platform](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [Seguimiento de acciones (también conocidos como vínculos personalizados)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [Estado de seguimiento (también conocido como Páginas o Pantallas)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
       + [Implementación en aplicaciones de iOS Swift](https://docs.adobe.com/content/help/es-ES/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
