@@ -350,8 +350,7 @@ ht-degree: 98%
    + Comercial {#retail}
       + [Introducción a variables y eventos minoristas](vertical-specific/retail/intro-to-retail-variables-and-events.md)
       + [Adición de variables y eventos minoristas básicos a reglas de Launch](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
-      + [Adición de una regla de Launch para el evento de compra
-](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
+      + [Adición de una regla de Launch para el evento de compra](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Supersesión de la cumbre de 2019: Ventas minoristas](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=es)
 + Media Analytics {#media-analytics}
    + Medición de voz o audio {#measuring-voice-or-audio}
