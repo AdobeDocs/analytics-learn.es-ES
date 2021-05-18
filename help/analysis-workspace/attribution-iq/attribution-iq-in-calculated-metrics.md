@@ -1,23 +1,20 @@
 ---
 title: Attribution IQ en métricas calculadas
-description: Este vídeo muestra cómo utilizar Attribution IQ en Métricas calculadas.
-feature: Attribution
-topics: null
-activity: use
+description: En este vídeo se explica cómo utilizar el Attribution IQ en Métricas calculadas.
+feature: Atribución
+role: Business Practitioner
+level: Intermediate
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23140.jpg
 kt: 1668
-role: Business Practitioner
-level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 47016dae-2694-4bbe-a23f-ebff9799c239,1789789c-19aa-4e77-999f-15fa11b7f858,1789789c-19aa-4e77-999f-15fa11b7f858,47016dae-2694-4bbe-a23f-ebff9799c239
+source-git-commit: c52113fdc66477f038d078e570a8b2f2d3a8e4f0
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 3%
+source-wordcount: '103'
+ht-degree: 7%
 
 ---
-
 
 # [!DNL Attribution IQ] en  [!DNL Calculated Metrics] {#attribution-iq-in-calculated-metrics}
 
@@ -25,8 +22,8 @@ Este vídeo muestra cómo utilizar [!DNL Attribution IQ] en [!DNL Calculated Met
 
 >[!VIDEO](https://video.tv.adobe.com/v/23140/?quality=12)
 
-[!DNL Calculated Metrics] ahora es compatible con cualquiera de las diez reglas basadas en  [!DNL attribution models]. [!DNL Calculated metrics] permita comparar  [!DNL attribution models] (por ejemplo, restar  [!UICONTROL primer ] toque de  [!UICONTROL último toque]) para ver la diferencia. También puede crear modelos híbridos (por ejemplo, 50% [!UICONTROL Deterioro de tiempo] más 50% [!UICONTROL Primer toque]) o aplicar atribución a las métricas de conversión importantes, como los ingresos por pedidos o los pedidos por visita.
+Las métricas calculadas ahora admiten cualquiera de los diez modelos de atribución basados en reglas. Las métricas calculadas le permiten comparar modelos de atribución (por ejemplo, restar [!UICONTROL Primer toque] de [!UICONTROL Último toque]) para ver la diferencia. También puede crear modelos híbridos (por ejemplo, 50% [!UICONTROL Deterioro de tiempo] más 50% [!UICONTROL Primer toque]) o aplicar atribución a las métricas de conversión importantes, como los ingresos por pedidos o los pedidos por visita.
 
 ## Recursos adicionales {#additional-resources}
 
-* [Documentación de funciones](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/attribution_calcmetrics.html)
+Para obtener más información sobre [!DNL Attribution IQ], consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html).
