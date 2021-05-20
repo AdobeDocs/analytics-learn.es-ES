@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
 workflow-type: tm+mt
 source-wordcount: '2007'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -208,9 +208,9 @@ ht-degree: 98%
    + Administrar grupos de informes {#manage-report-suites}
       + [Configuración general de la cuenta](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personalización de la configuración de calendario](administration/manage-report-suites/customize-calendar-settings.md)
-      + [Personalizar menús en Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
-      + [Configurar métodos de búsqueda](administration/manage-report-suites/configure-finding-methods.md)
-      + [Definir filtros de URL internos](administration/manage-report-suites/set-internal-url-filters.md)
+      + [Personalización de menús en Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
+      + [Configuración de métodos de búsqueda](administration/manage-report-suites/configure-finding-methods.md)
+      + [Definición de filtros de URL internos](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configuración de los ajustes del código postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configuración de variables en la Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Administración de datos y RGPD {#data-governance-and-gdpr}
