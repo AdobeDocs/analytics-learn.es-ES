@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
 workflow-type: tm+mt
 source-wordcount: '2042'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -317,7 +317,7 @@ ht-degree: 97%
       + [Audience Analytics: Integración de segmentos de AAM en Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Panel Analytics for Target (A4T) en Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
-      + [Analizar una actividad de segmentación automática mediante el panel A4T](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
+      + [Análisis de una actividad de segmentación automática mediante el panel A4T](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Configuración de Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implementación de plantillas de seguimiento en motores de búsqueda](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
