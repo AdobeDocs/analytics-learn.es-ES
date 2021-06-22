@@ -4,9 +4,9 @@ user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analy
 breadcrumb-title: Tutoriales de Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
-workflow-type: ht
-source-wordcount: '2067'
+source-git-commit: f28d92541b8750f8f65de64023e672f9e5a0f694
+workflow-type: tm+mt
+source-wordcount: '2071'
 ht-degree: 100%
 
 ---
@@ -113,6 +113,7 @@ ht-degree: 100%
       + [Uso de desplegables de componentes en Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Visualización de líneas en Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Adición de líneas de tendencia a visualizaciones de línea](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [Área y área apilada](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Visualización de gráficos de viñetas](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Visualización del histograma](analysis-workspace/visualizations/histogram-visualization.md)
       + [Visualización de mapas](analysis-workspace/visualizations/map-visualization.md)
