@@ -1,23 +1,23 @@
 ---
-title: 'Comprender sus datos: Visitas en el orden previsto y Flujo'
-description: Descubra cómo nuestras herramientas de canal y control de rutas trabajan juntas para comprender mejor las perspectivas de los recorridos de usuario.
+title: 'Comprender sus datos: visitas en el orden previsto y Flujo'
+description: Descubra cómo nuestras herramientas de rutas y canales funcionan en conjunto para comprender mejor las estadísticas de los recorridos de los usuarios.
 feature: Visualizaciones
 role: Business Practitioner
 level: Beginner
 doc-type: feature video
 thumbnail: 334095.jpg
 kt: 8061
-source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
+exl-id: 238a5bff-6547-4b9f-8739-e2c1ce0b8eb9
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 1%
+ht-degree: 54%
 
 ---
 
+# Comprender sus datos: visitas en el orden previsto y Flujo
 
-# Comprender sus datos: Visitas en el orden previsto y Flujo
-
-Descubra cómo nuestras herramientas de canal y control de rutas trabajan juntas para comprender mejor las perspectivas de los recorridos de usuario.
+Descubra cómo nuestras herramientas de rutas y canales funcionan en conjunto para comprender mejor las estadísticas de los recorridos de los usuarios.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334095/?quality=12&learn=on)
 
