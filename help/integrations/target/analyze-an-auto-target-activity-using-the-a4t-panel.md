@@ -1,5 +1,5 @@
 ---
-title: Analizar una actividad de segmentación automática mediante el panel A4T
+title: Análisis de una actividad de segmentación automática mediante el panel A4T
 description: El panel Analytics for Target (A4T) le permite analizar las actividades y experiencias de Adobe Target. En este vídeo, aprenderá a utilizar el panel Analytics for Target para visualizar los resultados de una prueba de segmentación automática.
 feature: Integración de Experience Cloud
 topic: Integraciones
@@ -8,15 +8,15 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 333270.jpg
 kt: 7861
-source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
+exl-id: abbe0c31-dadc-44ee-a859-328a128b77be
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 3%
+ht-degree: 20%
 
 ---
 
-
-# Analizar una actividad de segmentación automática mediante el panel A4T
+# Análisis de una actividad de segmentación automática mediante el panel A4T
 
 El panel [!DNL Analytics for Target] (A4T) le permite analizar las actividades y experiencias de Adobe Target. En este vídeo, aprenderá a utilizar el panel [!DNL Analytics for Target] para visualizar los resultados de una prueba de segmentación automática.
 
