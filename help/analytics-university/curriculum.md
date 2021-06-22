@@ -3,15 +3,13 @@ title: Plan de estudios de Adobe Analytics para universidades
 description: Adobe se enorgullece de presentar este contenido fundacional de Analytics a su universidad. Dentro del plan de estudios, encontrará 4 módulos distintos diseñados para presentarle la recopilación y generación de informes con Adobe Analytics, que se pueden dividir e incorporar en cursos de marketing o análisis digital. Este manual de introducción permitirá a los profesores y los estudiantes adquirir los conocimientos necesarios para participar en el desafío mundial de Adobe Analytics en otoño.
 hide: true
 hidefromtoc: true
-translation-type: ht
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
-workflow-type: ht
+exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 100%
 
 ---
-
-
 
 # Adobe Analytics University
 
