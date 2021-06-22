@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriales de Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2067'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -160,7 +160,7 @@ ht-degree: 98%
       + [Comparaciones de fechas en Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Incorporación de comparaciones de meses y años anteriores con tendencias](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + Análisis de recorridos del cliente {#analyzing-customer-journeys}
-      + [Comprender sus datos: Visitas en el orden previsto y Flujo](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Comprender sus datos: visitas en el orden previsto y Flujo](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ: Análisis entre dispositivos](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [Visualización de visitas en el orden previsto](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Mejoras en la visualización de visitas en el orden previsto](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
