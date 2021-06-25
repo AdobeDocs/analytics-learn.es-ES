@@ -4,10 +4,10 @@ user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analy
 breadcrumb-title: Tutoriales de Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 4b5c50466a899ff84a628d0efe43765586d01216
+source-git-commit: 1896c5d47fcb0bdde0e6c854a78004cef32e9d90
 workflow-type: tm+mt
-source-wordcount: '2063'
-ht-degree: 100%
+source-wordcount: '2072'
+ht-degree: 99%
 
 ---
 
@@ -114,7 +114,9 @@ ht-degree: 100%
       + [Visualización de líneas en Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Adición de líneas de tendencia a visualizaciones de línea](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Área y área apilada](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [Visualizaciones apiladas de barras y barras](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Visualización de gráficos de viñetas](analysis-workspace/visualizations/bullet-graph-visualization.md)
+      + [Uso de la visualización Anillo](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Visualización del histograma](analysis-workspace/visualizations/histogram-visualization.md)
       + [Visualización de mapas](analysis-workspace/visualizations/map-visualization.md)
       + [Visualizaciones de Número de resumen y Cambio de resumen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
