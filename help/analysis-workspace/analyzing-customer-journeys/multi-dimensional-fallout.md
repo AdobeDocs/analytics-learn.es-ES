@@ -1,25 +1,24 @@
 ---
 title: Visitas en el orden previsto multidimensionales en Analysis Workspace
 description: Las visitas en el orden previsto en Analysis Workspace le permiten mezclar dimensiones y métricas como puntos de contacto en embudos y flujos de trabajo.
-feature: Visualizations
+feature: Visualizaciones
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24043.jpg
 kt: 2277
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 1%
+source-wordcount: '80'
+ht-degree: 12%
 
 ---
 
-
-# [!DNL Multidimensional Fallout] en Analysis Workspace  {#multidimensional-fallout-in-analysis-workspace}
+# [!DNL Multidimensional Fallout] en Analysis Workspace {#multidimensional-fallout-in-analysis-workspace}
 
 [!DNL Fallout] en Analysis Workspace le permite combinar dimensiones y métricas como puntos de contacto en canales y flujos de trabajo.
 
