@@ -7,24 +7,23 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1774
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 0%
+source-wordcount: '143'
+ht-degree: 10%
 
 ---
 
-
 # Revisión de componentes en [!UICONTROL grupos de informes virtuales] {#component-curation-in-virtual-report-suites}
 
-[!UICONTROL Los grupos de ] informes virtuales se pueden revisar para que incluyan y excluyan  [!UICONTROL dimensiones],  [!UICONTROL métricas] y   segmentos en Analysis Workspace, lo que resulta muy útil si lo comparte con otros equipos que solo necesitan una fracción específica de los datos o usan una nomenclatura de datos diferente.
+[!UICONTROL Los grupos de ] informes virtuales se pueden revisar para que incluyan y excluyan  [!UICONTROL dimensiones],  [!UICONTROL métricas] y   segmentos en Analysis Workspace, lo que resulta muy útil si lo comparte con otros equipos que solo necesitan una fracción específica de los datos o utilizan una nomenclatura de datos diferente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
 
-Si la personalización de componentes está habilitada, el [!UICONTROL Grupo de informes virtuales] solo será accesible de forma exclusiva en Analysis Workspace.
+Si la personalización de componentes está habilitada, el [!UICONTROL Grupo de informes virtuales] solo será accesible exclusivamente en Analysis Workspace.
 
 Secciones de este vídeo:
 
