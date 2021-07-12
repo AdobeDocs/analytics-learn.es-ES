@@ -1,24 +1,23 @@
 ---
-title: Interfaz de usuario de administración de fuentes de datos
+title: IU de administración de fuentes de datos
 description: La fuente de datos de Adobe Analytics le permite exportar datos del flujo de navegación sin procesar para importarlos y combinarlos con otras fuentes de datos en un EDW o lago de datos. Puede crear y administrar sus propias fuentes de datos en Adobe Analytics. Este vídeo le mostrará cómo.
-feature: Data Feeds
+feature: Fuentes de datos
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2353
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 8%
+source-wordcount: '116'
+ht-degree: 15%
 
 ---
 
-
-# [!UICONTROL Interfaz de usuario de ] administración de fuentes de datos  {#data-feeds-management-ui}
+# [!UICONTROL IU de administración de fuentes de datos] {#data-feeds-management-ui}
 
 La [!UICONTROL Fuente de datos] de Adobe Analytics le permite exportar datos del flujo de navegación sin procesar para importarlos y fusionarlos con otras fuentes de datos en un EDW o lago de datos. Puede crear y administrar sus propias [!UICONTROL Fuentes de datos] dentro de Adobe Analytics. Este vídeo le mostrará cómo.
 
