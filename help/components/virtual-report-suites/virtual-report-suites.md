@@ -7,20 +7,19 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2325
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: db1c229a-96a0-4ca0-8c4e-a04721564c7d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 8%
 
 ---
 
+# [!UICONTROL Grupos de ] informes virtuales en Adobe Analytics {#virtual-report-suites-in-adobe-analytics}
 
-# [!UICONTROL Grupos de ] informes virtuales en Adobe Analytics  {#virtual-report-suites-in-adobe-analytics}
-
-Adobe Analytics le permite crear &quot;[!UICONTROL Grupos de informes virtuales]&quot; para sus usuarios, que segmentan sus datos y restringen a los usuarios/grupos únicamente a los segmentos de datos permitidos. Este vídeo muestra cómo crear y trabajar con [!UICONTROL Grupos de informes virtuales].
+Adobe Analytics le permite crear &quot;[!UICONTROL Grupos de informes virtuales]&quot; para sus usuarios, que segmentan los datos y restringen los usuarios/grupos únicamente a los segmentos de datos permitidos. Este vídeo muestra cómo crear y trabajar con [!UICONTROL Grupos de informes virtuales].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12)
 
