@@ -1,22 +1,21 @@
 ---
 title: Tema de mapa positivo-negativo en Analysis Workspace
 description: El nuevo tema de color positivo/negativo le permite representar claramente números positivos frente a negativos en un mapa. Este nuevo tema también respetará los cambios de polaridad que realice al configurar el evento (en Administración) o crearlo en las métricas calculadas.
-feature: Visualizations
+feature: Visualizaciones
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1662
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d0494357-e439-46e2-a2a8-9feb33f728f7
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
-
 
 # Tema de mapa positivo-negativo en Analysis Workspace {#positive-negative-map-theme-in-analysis-workspace}
 
