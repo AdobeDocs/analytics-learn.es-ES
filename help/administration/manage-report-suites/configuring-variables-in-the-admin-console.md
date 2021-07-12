@@ -1,25 +1,24 @@
 ---
-title: Configuración de variables en Admin Console
-seo-title: Configuración de variables en Admin Console en Adobe Analytics
-description: Después de definir las variables y los eventos que va a utilizar en la implementación de Analytics, debe entrar y configurarlos en Admin Console, de modo que todos los informes, dimensiones o métricas tengan los nombres y el comportamiento correctos. Este vídeo muestra dónde y cómo hacer exactamente eso.
-seo-description: Después de definir las variables y los eventos que va a utilizar en la implementación de Analytics, debe entrar y configurarlos en Admin Console, de modo que todos los informes, dimensiones o métricas tengan los nombres y el comportamiento correctos. Este vídeo muestra dónde y cómo hacer exactamente eso. Adobe Analytics
-feature: Report Suite Settings
+title: Configuración de variables en la Admin Console
+seo-title: Configuración de variables en el Admin Console en Adobe Analytics
+description: Después de definir las variables y los eventos que va a utilizar en la implementación de Analytics, debe entrar y configurarlos en el Admin Console, de modo que todos los informes, dimensiones o métricas tengan los nombres y el comportamiento correctos. Este vídeo muestra dónde y cómo hacer exactamente eso.
+seo-description: Después de definir las variables y los eventos que va a utilizar en la implementación de Analytics, debe entrar y configurarlos en el Admin Console, de modo que todos los informes, dimensiones o métricas tengan los nombres y el comportamiento correctos. Este vídeo muestra dónde y cómo hacer exactamente eso. Adobe Analytics
+feature: Configuración del grupo de informes
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 3582
-topic: Administration
-role: "Administrator, Architect"
+topic: Administración
+role: Admin, Architect
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 3%
+source-wordcount: '184'
+ht-degree: 6%
 
 ---
-
 
 # Configuración de variables en el [!DNL Admin Console]
 
