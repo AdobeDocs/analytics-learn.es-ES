@@ -3,25 +3,24 @@ title: Uso de plantillas personalizadas para habilitar a usuarios principiantes 
 seo-title: Uso de plantillas personalizadas para habilitar a usuarios principiantes de Analysis Workspace
 description: Este vídeo muestra cómo reunir plantillas personalizadas con las funciones de copiar + pegar/insertar para ayudar a los usuarios principiantes de su organización.
 seo-description: Este vídeo muestra cómo reunir plantillas personalizadas con las funciones de copiar + pegar/insertar para ayudar a los usuarios principiantes de su organización.
-feature: Projects
+feature: Proyectos
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1694
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '149'
+exl-id: 9766aff9-1025-43a1-bdf3-3559d48060a1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '146'
 ht-degree: 100%
 
 ---
 
-
-# Uso de plantillas personalizadas para habilitar usuarios principantes de Analysis Workspace {#using-custom-templates-to-enable-novice-analysis-workspace-users}
+# Uso de plantillas personalizadas para habilitar a usuarios principiantes de Analysis Workspace {#using-custom-templates-to-enable-novice-analysis-workspace-users}
 
 Este vídeo muestra cómo reunir plantillas personalizadas con las funciones de copiar + pegar/insertar para ayudar a los usuarios principiantes de su organización.
 
