@@ -1,22 +1,21 @@
 ---
 title: 'Uso del Generador de reglas de clasificación en Adobe Analytics '
 description: 'Aprenda a utilizar el Generador de reglas de clasificación para aplicar automáticamente clasificaciones basadas en reglas en Adobe Analytics. '
-feature: Classifications
+feature: Clasificaciones
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1936
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 066d0ebf-1921-48be-8531-bdd766330825
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '47'
 ht-degree: 2%
 
 ---
-
 
 # Uso del [!UICONTROL Generador de reglas de clasificación] en Adobe Analytics {#using-the-classification-rule-builder-in-adobe-analytics}
 
