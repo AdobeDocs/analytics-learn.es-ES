@@ -1,23 +1,22 @@
 ---
 title: Segmentos específicos (temporales) en Analysis Workspace
 description: ¿Alguna vez ha querido crear rápidamente un segmento simple para responder a una pregunta específica y luego descartar el segmento para que no rellene su lista de segmentos guardados? Ahora puede!
-feature: Segmentation
+feature: Segmentación
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2010
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 22c449af-0660-4166-841a-9c1e77924350
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '123'
 ht-degree: 5%
 
 ---
-
 
 # Segmentos específicos (temporales) en Analysis Workspace {#ad-hoc-temporary-segments-in-analysis-workspace}
 
