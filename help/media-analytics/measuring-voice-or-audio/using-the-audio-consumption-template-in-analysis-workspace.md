@@ -1,22 +1,21 @@
 ---
 title: Uso de la plantilla Consumo de audio en Analysis Workspace
 description: Este vídeo describe la plantilla Consumo de audio de Analysis Workspace, que está disponible de forma predeterminada para Audio Analytics.
-feature: Panels
+feature: Paneles
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 08131913-cb39-4c58-a322-da1e83442e84
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 8%
 
 ---
-
 
 # Uso de la plantilla [!UICONTROL Consumo de audio] en Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}
 
