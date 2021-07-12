@@ -1,22 +1,21 @@
 ---
 title: Visualizaciones Apiladas Al 100 % En Analysis Workspace
 description: En este vídeo, aprenderá a establecer las visualizaciones apiladas como porcentajes en lugar de solo valores sin procesar.
-feature: Visualizations
+feature: Visualizaciones
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1670
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 7b775e43-2495-4851-8e16-ab6d93c75dd1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # Visualizaciones [!UICONTROL Apiladas] 100 % en Analysis Workspace {#stacked-visualizations-in-analysis-workspace}
 
