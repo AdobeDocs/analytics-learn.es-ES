@@ -1,24 +1,23 @@
 ---
-title: Cómo administrar y rastrear los datos de la aplicación del asistente de voz
+title: Cómo administrar y rastrear los datos de la aplicación del Asistente de voz
 description: 'Aprenda a crear un tablero personalizado para administrar y rastrear el rendimiento de su aplicación de asistente de voz de una manera fácil, flexible, intuitiva y visual. '
-feature: Visualizations
+feature: Visualizaciones
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2902
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3fd55eac-e485-41b9-9178-c7add90fa292
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 1%
+source-wordcount: '71'
+ht-degree: 29%
 
 ---
 
-
-# Cómo administrar y rastrear los datos de la aplicación del asistente de voz {#how-to-manage-and-track-your-voice-assistant-app-data}
+# Cómo administrar y rastrear los datos de la aplicación del Asistente de voz {#how-to-manage-and-track-your-voice-assistant-app-data}
 
 Aprenda a crear un tablero personalizado para administrar y rastrear el rendimiento de su aplicación de asistente de voz de una manera fácil, flexible, intuitiva y visual.
 
