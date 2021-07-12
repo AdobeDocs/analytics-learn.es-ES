@@ -1,24 +1,23 @@
 ---
-title: Intravínculos en Analysis Workspace
-description: Los intravínculos permiten a los analistas crear proyectos en Analysis Workspace para llevar a los lectores del proyecto a paneles y visualizaciones exactos dentro del proyecto.
-feature: Visualizations
+title: Intravinculación en Analysis Workspace
+description: Los intravínculos permiten a los analistas crear proyectos en Analysis Workspace para dirigir a los lectores del proyecto a paneles y visualizaciones exactos dentro del proyecto.
+feature: Visualizaciones
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1908
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 1%
+source-wordcount: '80'
+ht-degree: 11%
 
 ---
 
-
-# Intravínculos en Analysis Workspace {#intra-linking-in-analysis-workspace}
+# Intravinculación en Analysis Workspace {#intra-linking-in-analysis-workspace}
 
 Los intravínculos permiten a los analistas crear proyectos en Analysis Workspace para dirigir a los lectores del proyecto a paneles exactos y [!UICONTROL visualizaciones] dentro del proyecto.
 
