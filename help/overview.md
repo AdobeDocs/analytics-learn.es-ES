@@ -1,21 +1,20 @@
 ---
 title: Vídeos y tutoriales de Analytics
 description: Una recopilación de vídeos y tutoriales de Adobe Analytics.
-feature: Analytics Basics
+feature: Aspectos básicos de Analytics
 topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '309'
+exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '298'
 ht-degree: 100%
 
 ---
-
 
 # Información general
 
