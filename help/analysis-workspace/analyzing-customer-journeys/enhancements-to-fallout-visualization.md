@@ -1,23 +1,22 @@
 ---
 title: Mejoras en la visualización de abandonos en Analysis Workspace
 description: Este vídeo muestra las actualizaciones realizadas en la Visualización de visitas en el orden previsto que los clientes han solicitado con gran frecuencia, incluidos los pasos directos frente a los posibles, el cambio de nombre de los puntos de contacto, la comparación de segmentos ilimitados y la tendencia de los porcentajes de conversión de puntos de contacto a lo largo del tiempo.
-feature: Visualizations
+feature: Visualizaciones
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d5c95e0c-48c7-48e6-a4e9-d8cda06b4ca1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 11%
+source-wordcount: '95'
+ht-degree: 21%
 
 ---
-
 
 # Mejoras en [!DNL Fallout Visualization] en Analysis Workspace {#enhancements-to-fallout-visualization-in-analysis-workspace}
 
