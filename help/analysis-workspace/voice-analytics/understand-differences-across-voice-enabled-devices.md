@@ -1,24 +1,23 @@
 ---
-title: Comprender las diferencias entre dispositivos con voz habilitada
+title: Explicación de las diferencias entre dispositivos con asistencia por voz
 description: Aprenda a comprender las diferentes funcionalidades y rendimiento de los distintos dispositivos asistidos por voz para ayudarle a priorizar la hoja de ruta del producto.
-feature: Visualizations
+feature: Visualizaciones
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2905
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 73cb28d8-1078-4d70-a4ce-76427c550fc3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 2%
+source-wordcount: '47'
+ht-degree: 23%
 
 ---
 
-
-# Comprender las diferencias entre dispositivos con voz habilitada {#understand-differences-across-voice-enabled-devices}
+# Explicación de las diferencias entre dispositivos con asistencia por voz {#understand-differences-across-voice-enabled-devices}
 
 Aprenda a comprender las diferentes funcionalidades y rendimiento de los distintos dispositivos asistidos por voz para ayudarle a priorizar la hoja de ruta del producto.
 
