@@ -1,24 +1,23 @@
 ---
 title: Administración de segmentos y uso compartido en Adobe Analytics
 description: Este vídeo muestra cómo compartir y administrar segmentos en Adobe Analytics.
-feature: Segmentation
+feature: Segmentación
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2305
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 17%
+source-wordcount: '60'
+ht-degree: 33%
 
 ---
 
-
-#  Administración de segmentos y uso compartido en Adobe Analytics  {#segment-management-and-sharing-in-adobe-analytics}
+#  Administración de segmentos y uso compartido en Adobe Analytics {#segment-management-and-sharing-in-adobe-analytics}
 
 Este vídeo muestra cómo compartir y administrar [!UICONTROL segmentos] en Adobe Analytics.
 
