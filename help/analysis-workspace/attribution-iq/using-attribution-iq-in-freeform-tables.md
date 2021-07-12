@@ -1,23 +1,22 @@
 ---
 title: Uso de Attribution IQ en tablas de forma libre
-description: Attribution IQ permite cambiar el modelo de atribución a cualquiera de los diez modelos basados en reglas sobre la marcha en una columna improvisada.
-feature: Attribution
+description: Attribution IQ le permite cambiar el modelo de atribución a cualquiera de los diez modelos basados en reglas en una columna improvisada sobre la marcha.
+feature: Atribución
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23136.jpg
 kt: 1661
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8,28b1dbc4-315b-47d5-82f7-4b394ed31ad8,adf48696-d495-43a3-9421-993434f35962
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 12%
+source-wordcount: '95'
+ht-degree: 21%
 
 ---
-
 
 # Uso de [!DNL Attribution IQ] en [!DNL Freeform Tables] {#using-attribution-iq-in-freeform-tables}
 
