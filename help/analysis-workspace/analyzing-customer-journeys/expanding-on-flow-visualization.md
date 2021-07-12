@@ -1,23 +1,22 @@
 ---
 title: Expansión de la visualización de flujo en Analysis Workspace
 description: Este vídeo muestra las distintas opciones disponibles al hacer clic con el botón derecho en la visualización Flujo en Analysis Workspace. Las opciones incluyen crear un segmento a partir de una ruta, contraer columnas y mucho más.
-feature: Visualizations
+feature: Visualizaciones
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 080edb20-1005-4a9e-8067-167a2dd575be
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 1%
+source-wordcount: '86'
+ht-degree: 11%
 
 ---
-
 
 # Expansión en [!DNL Flow visualization] en Analysis Workspace {#expanding-on-flow-visualization-in-analysis-workspace}
 
