@@ -1,24 +1,23 @@
 ---
 title: Búsqueda de oportunidades para aumentar la participación en las aplicaciones de voz
 description: Aprenda a comprender en profundidad la calidad de la participación en su aplicación de voz mediante funciones como la frecuencia de uso, la cohorte, la duración de la visita/usuario y la sesión.
-feature: Visualizations
+feature: Visualizaciones
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2906
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: bcd89ea1-fa1b-41d1-816e-cdd9d49ae172
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 1%
+source-wordcount: '77'
+ht-degree: 22%
 
 ---
 
-
-# Búsqueda de oportunidades para aumentar la participación en aplicaciones de voz {#finding-opportunities-to-increase-engagement-for-voice-apps}
+# Búsqueda de oportunidades para aumentar la participación en las aplicaciones de voz {#finding-opportunities-to-increase-engagement-for-voice-apps}
 
 Aprenda a comprender en profundidad la calidad de la participación en su aplicación de voz aprovechando funciones como la frecuencia de uso, la [!UICONTROL cohorte], la duración de la visita/usuario y la sesión.
 
