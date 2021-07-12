@@ -1,22 +1,21 @@
 ---
 title: Uso de fechas en Analysis Workspace
 description: '"Este vídeo explica tres formas diferentes de trabajar con fechas en análisis improvisado: los elementos calendario, intervalo de fechas y granularidad. No se muestra, de alguna manera vergonzoso: cómo usar fechas para habilitar gráficos de líneas. "'
-feature: Calendar
+feature: Calendario
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2014
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 1%
+source-wordcount: '80'
+ht-degree: 13%
 
 ---
-
 
 # Uso de fechas en Analysis Workspace {#using-dates-in-analysis-workspace}
 
