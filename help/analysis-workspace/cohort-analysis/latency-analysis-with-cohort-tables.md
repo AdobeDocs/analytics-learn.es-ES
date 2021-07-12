@@ -1,25 +1,24 @@
 ---
 title: Análisis de latencia con tablas de cohorte
 description: La configuración de tablas de latencia de las tablas de cohortes permite analizar el comportamiento de las cohortes antes y después del evento de inclusión (no solo después de como ilustra la cohorte estándar). Esta configuración es útil para analizar el impacto del lanzamiento de un nuevo producto o campaña, por ejemplo.
-feature: Visualizations
+feature: Visualizaciones
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e31fc334-9a60-4b90-a126-98ff169952b3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 8%
+source-wordcount: '120'
+ht-degree: 19%
 
 ---
 
-
-# Análisis de latencia con [!UICONTROL Tablas de cohorte] {#latency-analysis-with-cohort-tables}
+# Análisis de latencia con [!UICONTROL tablas de cohorte] {#latency-analysis-with-cohort-tables}
 
 La configuración [!UICONTROL Tabla de latencia] de [!UICONTROL Tablas de cohorte] le permite analizar el comportamiento de sus [!UICONTROL cohortes] antes y después del evento de inclusión (no solo después de que se muestre como [!UICONTROL Cohorte] estándar). Esta configuración es útil para analizar el impacto del lanzamiento de un nuevo producto o campaña, por ejemplo.
 
