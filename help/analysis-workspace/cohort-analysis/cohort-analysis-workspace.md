@@ -1,24 +1,23 @@
 ---
 title: Análisis de cohortes en Analysis Workspace
 description: Cómo crear una tabla de análisis de cohorte en Analysis Workspace.
-feature: Visualizations
+feature: Visualizaciones
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2135
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: eec26e68-eed9-47b5-8ebf-26a1f6c28d40
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 38%
+source-wordcount: '51'
+ht-degree: 41%
 
 ---
 
-
-# Análisis de cohortes en Analysis Workspace {#cohort-analysis-in-analysis-workspace}
+# [!UICONTROL Análisis de cohortes en Analysis Workspace] {#cohort-analysis-in-analysis-workspace}
 
 Cómo crear una tabla de análisis de [!UICONTROL cohorte] en Analysis Workspace.
 
