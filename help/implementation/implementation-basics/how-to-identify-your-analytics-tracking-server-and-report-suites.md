@@ -1,22 +1,21 @@
 ---
 title: Cómo identificar el servidor de seguimiento y los grupos de informes de Analytics
 description: Al configurar Adobe Analytics, o al hacer referencia a él en otras soluciones de Experience Cloud, a menudo resulta útil o incluso necesario conocer el servidor de seguimiento de Analytics que está utilizando, o incluso el grupo de informes al que está enviando datos. Este vídeo muestra cómo localizar ambos valores, haya implementado o no Adobe Analytics.
-feature: Implementation Basics
+feature: Conceptos básicos de implementación
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '309'
+exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '305'
 ht-degree: 100%
 
 ---
-
 
 # Cómo identificar el [!DNL Tracking Server] y el [!UICONTROL grupo de informes de Analytics] {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
