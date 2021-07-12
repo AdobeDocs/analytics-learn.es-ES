@@ -2,12 +2,12 @@
 title: Visualización de diagrama de puntos
 description: Con esta visualización, puede ver la relación entre varias métricas para sus dimensiones, y graficar los elementos en un diagrama X/Y. Descubra valores atípicos y perspectivas que le ayudarán a tomar decisiones comerciales.
 feature: Visualizaciones
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334459.jpg
 kt: 8188
-source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 11%
