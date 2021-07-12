@@ -1,24 +1,23 @@
 ---
 title: Visualización de mapas en Analysis Workspace
 description: Este vídeo muestra cómo utilizar la nueva visualización de mapas en Analysis Workspace. La vista Mapa le permite ver datos móviles (lat/long) o web (direcciones IP) con un mapa dinámico, lo que le permite hacerse una idea del uso del cliente en el contexto de su ubicación.
-feature: Visualizations
+feature: Visualizaciones
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1771
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-
-#   Visualización de mapas en Analysis Workspace  {#map-visualization-in-analysis-workspace}
+#   Visualización de mapas en Analysis Workspace {#map-visualization-in-analysis-workspace}
 
 Este vídeo muestra cómo utilizar el [!UICONTROL Mapa] [!UICONTROL visualización] en Analysis Workspace. La vista [!UICONTROL Map] le permitirá ver datos [!UICONTROL mobile lat/long] o web (dirección IP) con respecto a un [!UICONTROL map] dinámico, lo que le permitirá tener una idea del uso del cliente en el contexto de su ubicación.
 
