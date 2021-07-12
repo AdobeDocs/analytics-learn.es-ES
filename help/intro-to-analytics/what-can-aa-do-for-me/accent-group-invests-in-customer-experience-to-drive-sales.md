@@ -1,22 +1,21 @@
 ---
 title: 'Caso práctico de cliente: Accent Group invierte en la experiencia del cliente para mejorar las ventas'
 description: Accent Group, el minorista de calzado más importante de Australia, aumenta sus ventas y conversiones al ofrecer una buena experiencia de cliente en puntos de contacto físicos y digitales. Descubra cómo Accent Group utiliza Adobe Experience Cloud para crear experiencias digitales sin problemas.
-feature: Use Cases
+feature: Casos de uso
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4386
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '107'
+exl-id: 86298461-5ced-4ef3-a820-4be0275fd7fe
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
-
 
 # Caso práctico de cliente: [!DNL Accent Group] invierte en la experiencia del cliente para mejorar las ventas
 
