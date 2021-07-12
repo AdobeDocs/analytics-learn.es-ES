@@ -1,22 +1,21 @@
 ---
-title: Configuración de variables globales en la extensión Launch Analytics
-description: Si acaba de empezar a usar Launch, de Adobe y la extensión de Adobe Analytics, este vídeo puede ayudarle a comprender cuándo y dónde se configuran las variables globales, es decir, los valores que desea configurar en cada página o clic.
-feature: Launch Implementation
+title: Configuración de variables globales en Launch Analytics Extension
+description: Si solo está empezando con Launch, por Adobe y la extensión de Adobe Analytics, este vídeo puede ayudarle a comprender cuándo y dónde se configuran las variables globales, es decir, los valores que desea configurar en cada página o clic.
+feature: Implementación de Launch
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2855
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 73ea8c36-66e3-4800-b0b0-f27e94cb4aaa
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 8%
 
 ---
-
 
 # Configuración de [!UICONTROL Variables globales] en la [!DNL Launch Analytics] [!UICONTROL Extensión] {#configuring-global-variables-in-the-launch-analytics-extension}
 
