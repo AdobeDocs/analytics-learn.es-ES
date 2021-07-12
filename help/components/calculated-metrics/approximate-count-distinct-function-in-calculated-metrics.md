@@ -1,24 +1,23 @@
 ---
-title: Función de recuento aproximado distinto en métricas calculadas
+title: Función de recuento distinto aproximado en métricas calculadas
 description: Se ha añadido una función Recuento aproximado distinto al Creador de métricas calculadas. Se trata de una función largamente esperada que devolverá el recuento aproximado distinto de elementos de dimensión para una dimensión seleccionada.
-feature: Calculated Metrics
+feature: Métricas calculadas
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1910
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d3594ed7-b90e-4f97-89c7-3e6c75534136
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 1%
+source-wordcount: '111'
+ht-degree: 14%
 
 ---
 
-
-# [!UICONTROL Función de recuento aproximado ]  distinto en  [!UICONTROL métricas calculadas]{#approximate-count-distinct-function-in-calculated-metrics}
+# Función de recuento distinto aproximado en métricas calculadas{#approximate-count-distinct-function-in-calculated-metrics}
 
 Se ha añadido una función [!UICONTROL Approximate Count Distinct]  al [!UICONTROL Creador de métricas calculadas]. Se trata de una función  largamente esperada que devolverá el [!UICONTROL recuento aproximado distinto] de elementos [!UICONTROL dimension] para una [!UICONTROL dimensión] seleccionada.
 
