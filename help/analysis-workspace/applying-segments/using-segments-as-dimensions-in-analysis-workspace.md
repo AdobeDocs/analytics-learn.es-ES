@@ -1,23 +1,22 @@
 ---
-title: 'Uso de segmentos como dimensiones en Analysis Workspace '
+title: Uso de segmentos como dimensiones en Analysis Workspace
 description: Este vídeo muestra cómo puede comparar y visualizar segmentos utilizándolos como una dimensión en Analysis Workspace.
-feature: Segmentation
+feature: Segmentación
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2009
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 36b564bd-30ae-4474-8b05-9607397e02b8,69901e9c-42e6-423e-bb89-8b8b0763bac7,69901e9c-42e6-423e-bb89-8b8b0763bac7,36b564bd-30ae-4474-8b05-9607397e02b8
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 1%
+source-wordcount: '53'
+ht-degree: 28%
 
 ---
-
 
 # Uso de segmentos como dimensiones en Analysis Workspace {#using-segments-as-dimensions-in-analysis-workspace}
 
