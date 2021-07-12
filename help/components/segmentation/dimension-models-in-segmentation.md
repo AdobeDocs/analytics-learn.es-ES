@@ -1,24 +1,23 @@
 ---
-title: Modelos de dimensión en segmentación
-description: Los modelos de dimensión están disponibles a través del engranaje para cualquier dimensión en la segmentación. Estos modelos son principalmente útiles para la segmentación secuencial y le permiten segmentar valores persistentes de una dimensión (predeterminado), instancias o instancias no repetitivas de una dimensión.
-feature: Segmentation
+title: Modelos de dimensión en la segmentación
+description: Los modelos de Dimension están disponibles a través del engranaje para cualquier dimensión en la segmentación. Estos modelos son principalmente útiles para la segmentación secuencial y le permiten segmentar valores persistentes de una dimensión (predeterminado), instancias o instancias no repetitivas de una dimensión.
+feature: Segmentación
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4846
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d42f74a9-aa77-4f47-a1a2-f14bd6061996
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 1%
+source-wordcount: '87'
+ht-degree: 10%
 
 ---
 
-
-#  Modelos de dimensión en segmentación
+# [!UICONTROL Modelos de dimensión en la segmentación]
 
  Los modelos de dimensión están disponibles a través del engranaje para cualquier   dimensión en la segmentación. Estos modelos son principalmente útiles para la segmentación secuencial y le permiten segmentar valores persistentes de [!UICONTROL dimensión] (predeterminado), instancias o instancias no repetitivas de una [!UICONTROL dimensión].
 
