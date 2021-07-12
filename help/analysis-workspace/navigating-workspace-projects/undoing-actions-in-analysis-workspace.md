@@ -1,22 +1,21 @@
 ---
 title: Deshacer acciones en Analysis Workspace
-description: Analysis Workspace en Adobe Analytics ahora le permite "deshacer" acciones como arrastrar un elemento al lienzo o realizar un desglose. Este vídeo muestra cómo puede utilizar Deshacer para mejorar la eficacia del análisis.
-feature: Workspace Basics
+description: Analysis Workspace en Adobe Analytics ahora permite "deshacer" acciones como arrastrar un elemento al lienzo o realizar un desglose. Este vídeo muestra cómo puede utilizar Deshacer para mejorar la eficacia del análisis.
+feature: Conceptos básicos de Workspace
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2032
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 24775a26-ae0a-4917-bd73-a328cdf7c7ad
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '88'
+ht-degree: 13%
 
 ---
-
 
 # Deshacer acciones en Analysis Workspace {#undoing-actions-in-analysis-workspace}
 
