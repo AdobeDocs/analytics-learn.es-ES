@@ -1,23 +1,22 @@
 ---
 title: Panel de visualizadores simultáneos de medios en Analysis Workspace
 description: Para los clientes de Media Analytics, el panel Visualizadores simultáneos de medios le permite comprender dónde se produjo la concurrencia máxima o dónde se produjeron los descensos para proporcionar una valiosa perspectiva de la calidad del contenido y la participación del visualizador, así como ayudar a solucionar problemas o a planificar el volumen o la escala.
-feature: Panels
+feature: Paneles
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330177.jpg
 kt: 6834
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3ba5f76d-cab4-4014-b377-9083dbfea1a0
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '118'
 ht-degree: 17%
 
 ---
-
 
 # Panel de visualizadores simultáneos de medios en Analysis Workspace
 
