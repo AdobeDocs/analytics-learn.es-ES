@@ -1,24 +1,23 @@
 ---
 title: Métodos abreviados del teclado en Analysis Workspace
 description: 'Este vídeo muestra las opciones de combinaciones de teclas de Analysis Workspace para mostrarle cómo moverse de forma más rápida y eficaz. '
-feature: Workspace Basics
+feature: Conceptos básicos de Workspace
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2031
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f344469b-b925-4978-918f-5204f6f10094
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 2%
 
 ---
 
-
-# Métodos abreviados de teclado en Analysis Workspace {#keyboard-shortcuts-in-analysis-workspace}
+# Métodos abreviados del teclado en Analysis Workspace {#keyboard-shortcuts-in-analysis-workspace}
 
 Este vídeo muestra las opciones de combinaciones de teclas de Analysis Workspace para mostrarle cómo moverse de forma más rápida y eficaz.
 
