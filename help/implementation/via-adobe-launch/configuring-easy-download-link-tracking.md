@@ -1,26 +1,25 @@
 ---
-title: Configuración del seguimiento fácil de vínculos de descarga en Experience Platform Launch
-description: En tan solo unos clics en la extensión de Adobe Analytics en Experience Platform Launch, puede empezar a rastrear los vínculos de descarga de su sitio (vínculos que descargan archivos que no sean del explorador en su equipo). Este vídeo muestra cómo configurarlo.
-feature: Launch Implementation
+title: Configuración del seguimiento de vínculos de descarga sencilla en el Experience Platform Launch
+description: En tan solo unos clics en la extensión de Adobe Analytics en Experience Platform Launch, puede iniciar el seguimiento de los vínculos de descarga del sitio (vínculos que descargan archivos que no sean del explorador en el equipo). Este vídeo muestra cómo configurarlo.
+feature: Implementación de Launch
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1844
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
+# Configuración del seguimiento de vínculos [!UICONTROL de descarga fácil] en [!DNL Experience Platform Launch] {#configuring-easy-download-link-tracking-in-adobe-launch}
 
-# Configuración de la descarga fácil [!UICONTROL Seguimiento de vínculos] en [!DNL Experience Platform Launch] {#configuring-easy-download-link-tracking-in-adobe-launch}
-
-En tan solo unos clics en la [!UICONTROL Extensión] de Adobe Analytics en Adobe [!DNL Experience Platform Launch], puede iniciar el seguimiento de los vínculos de descarga de su sitio (vínculos que descargan archivos que no sean del explorador en su equipo). Este vídeo muestra cómo configurarlo.
+En tan solo unos clics en la [!UICONTROL Extensión] de Adobe Analytics en el Adobe [!DNL Experience Platform Launch], puede iniciar el seguimiento de los vínculos de descarga en su sitio (vínculos que descargan archivos que no sean del explorador en su equipo). Este vídeo muestra cómo configurarlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12)
 
