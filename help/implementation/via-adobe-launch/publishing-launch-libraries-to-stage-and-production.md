@@ -1,22 +1,21 @@
 ---
 title: Publicación de bibliotecas de Launch en fase y producción
 description: Una vez que haya bloqueado la implementación en el servidor de desarrollo, querrá moverla a un entorno de ensayo, probarla allí y luego moverla al entorno de producción. Este vídeo muestra el proceso paso a paso.
-feature: Launch Implementation
+feature: Implementación de Launch
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3595
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
-
 
 # Publicación de bibliotecas de Launch en fase y producción
 
