@@ -1,27 +1,26 @@
 ---
 title: El panel Quick Insights en Analysis Workspace
 description: Quick Insights proporciona una guía a los no analistas y a los nuevos usuarios de Analysis Workspace para aprender a responder preguntas comerciales de forma rápida y sencilla.
-feature: Panels
+feature: Paneles
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37248.jpg
 kt: 5838
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: af6da0a2-9273-480c-a915-bd5bab7d5c5d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 96%
+source-wordcount: '73'
+ht-degree: 100%
 
 ---
 
+# [!UICONTROL El panel Quick Insights en Analysis Workspace]
 
-# El panel Quick Insights en Analysis Workspace
-
-[!UICONTROL Quick Insights proporciona una guía a los no analistas y a los nuevos usuarios de Analysis Workspace para aprender a responder preguntas comerciales de forma rápida y sencilla.]
+Quick Insights proporciona una guía a los no analistas y a los nuevos usuarios de Analysis Workspace para aprender a responder preguntas comerciales de forma rápida y sencilla.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37248/?quality=12&learn=on)
 
