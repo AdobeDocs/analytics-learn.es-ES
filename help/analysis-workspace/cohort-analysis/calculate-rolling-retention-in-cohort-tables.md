@@ -1,23 +1,22 @@
 ---
-title: 'Calcular la retención móvil en tablas de cohorte '
+title: 'Cálculo de la retención móvil en tablas de cohortes '
 description: La configuración Cálculo móvil de las tablas de cohortes se puede utilizar para analizar cohortes entre períodos, para comprender cómo se retienen (o se producen) los mismos usuarios a lo largo del tiempo.
-feature: Visualizations
+feature: Visualizaciones
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25962.jpg
 kt: 2481
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3439b31c-dd4a-4a21-857a-1884463003cf
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 12%
+source-wordcount: '82'
+ht-degree: 29%
 
 ---
-
 
 # Calcular la [!UICONTROL retención] móvil en [!UICONTROL Tablas de cohorte] {#calculate-rolling-retention-in-cohort-tables}
 
