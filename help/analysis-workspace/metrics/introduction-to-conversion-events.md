@@ -1,22 +1,21 @@
 ---
 title: Introducción a los eventos de conversión
 description: 'En este vídeo, obtenga una introducción a los "eventos" de conversión o a la variable que ayude a rastrear las conversiones en su sitio (por ejemplo: pedidos, suscripciones, registros, finalizaciones de formularios, etc.)'
-feature: Metrics
+feature: Métricas
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3578
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3f2876fe-d7da-47d3-a23d-0d8f790f7f5b
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 1%
+source-wordcount: '63'
+ht-degree: 14%
 
 ---
-
 
 # Introducción a los eventos de conversión
 
