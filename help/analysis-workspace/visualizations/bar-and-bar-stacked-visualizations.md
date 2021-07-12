@@ -1,21 +1,21 @@
 ---
-title: Visualizaciones apiladas de barras y barras
+title: Visualizaciones de barra y barras apiladas
 description: En este vídeo, analizamos la adición y configuración de las visualizaciones de barras, barras apiladas, barras horizontales y barras horizontales apiladas en su proyecto en Analysis Workspace. Aunque se consideran básicas, estas visualizaciones pueden ayudar a contar sus historias de datos y proporcionar perspectivas a sus analistas.
 feature: Visualizaciones
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334308.jpg
 kt: 8129
-source-git-commit: 1896c5d47fcb0bdde0e6c854a78004cef32e9d90
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 7%
+ht-degree: 16%
 
 ---
 
 
-# Visualizaciones apiladas de barras y barras
+# Visualizaciones de barra y barras apiladas
 
 En este vídeo, analizamos la adición y configuración de las visualizaciones de barras, barras apiladas, barras horizontales y barras horizontales apiladas en su proyecto en Analysis Workspace. Aunque se consideran básicas, estas visualizaciones pueden ayudar a contar sus historias de datos y proporcionar perspectivas a sus analistas.
 
