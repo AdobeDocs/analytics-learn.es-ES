@@ -1,22 +1,21 @@
 ---
 title: 7 consejos y trucos que facilitan la creación de proyectos de Analytics personalizados
 description: Analysis Workspace es una potente herramienta dentro de Adobe Analytics que puede ayudarle a crear proyectos de análisis más impactantes. Tiene un amplio conjunto de funciones que le permite realizar cualquier tipo de análisis improvisado, pero una sencilla experiencia de usuario que hace esta potencia y escala accesibles.
-feature: Workspace Basics
+feature: Conceptos básicos de Workspace
 topics: topics
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3945
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '1056'
 ht-degree: 0%
 
 ---
-
 
 # 7 consejos y trucos que facilitan la creación de proyectos de Analytics personalizados
 
@@ -33,11 +32,11 @@ Basta con arrastrar y soltar un [!UICONTROL segmento] o cualquier otro component
 
 >[!TIP]
 >
->**Pruebe esto:** hay un mundo de eficiencia esperándole en el menú que aparece al hacer clic con el botón derecho. Desde este menú, puede acceder a muchas herramientas y capacidades directamente en el flujo de trabajo de Analysis Workspace. Cuando tenga dudas, haga clic con el botón derecho para ver si la herramienta o la capacidad que necesita está cerca de la mano
+>**Pruebe esto:** hay un mundo de eficiencia esperándole en el menú que aparece al hacer clic con el botón derecho. Desde este menú, puede acceder a muchas herramientas y funcionalidades directamente en el flujo de trabajo de Analysis Workspace. Cuando tenga dudas, haga clic con el botón derecho para ver si la herramienta o la capacidad que necesita está cerca de la mano
 
 ### ***Sugerencia 2: Crear métricas sencillas sin abandonar el flujo de trabajo***
 
-Con Quick [!UICONTROL Calculated Metrics], puede crear nuevas [!UICONTROL métricas] directamente en Analysis Workspace en lugar de ir al Generador de [!UICONTROL Métricas calculadas]. Simplemente seleccione las columnas [!UICONTROL metric] que desee calcular y, a continuación, en el menú que aparece al hacer clic con el botón derecho, seleccione &quot;[!UICONTROL Crear métrica a partir de la selección]&quot;. Ahora, puedes agregar, restar, dividir, multiplicar, y más, sin abandonar tu proyecto y romper tu tren de pensamiento.
+Con Quick [!UICONTROL Calculated Metrics], puede crear nuevas [!UICONTROL métricas] directamente en Analysis Workspace en lugar de ir al [!UICONTROL Creador de métricas calculadas]. Simplemente seleccione las columnas [!UICONTROL metric] que desee calcular y, a continuación, en el menú que aparece al hacer clic con el botón derecho, seleccione &quot;[!UICONTROL Crear métrica a partir de la selección]&quot;. Ahora, puedes agregar, restar, dividir, multiplicar, y más, sin abandonar tu proyecto y romper tu tren de pensamiento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12)
 
@@ -67,7 +66,7 @@ Cambie fácilmente la vista de tiempo al trabajar con visualizaciones de tendenc
 
 ### ***Sugerencia 5: Crear una variable personalizada  [!DNL Virtual Report Suite] para unidades de negocio específicas***
 
-Adobe Analytics recopila grandes cantidades de datos. La depuración de componentes en [!DNL Virtual Report Suites] permite a los administradores crear un conjunto de datos para cada unidad de negocio de una organización. Esto significa que los analistas que trabajan en Analysis Workspace no tienen que pasar por los datos para encontrar lo que más les importa. Simplemente marque la casilla titulada &quot;[!UICONTROL Habilitar la personalización de componentes del grupo de informes virtuales]&quot; en el [!UICONTROL Creador de grupos de informes virtuales] en [!UICONTROL &quot;Componentes]&quot; y, a continuación, seleccione los [!UICONTROL componentes] que coincidan con lo que mide un equipo específico.
+Adobe Analytics recopila grandes cantidades de datos. La depuración de componentes en [!DNL Virtual Report Suites] permite a los administradores crear un conjunto de datos para cada unidad de negocio de una organización. Esto significa que los analistas que trabajan en Analysis Workspace no tienen que buscar en los datos lo que más les importa. Simplemente marque la casilla titulada &quot;[!UICONTROL Habilitar la personalización de componentes del grupo de informes virtuales]&quot; en el [!UICONTROL Creador de grupos de informes virtuales] en [!UICONTROL &quot;Componentes]&quot; y, a continuación, seleccione los [!UICONTROL componentes] que coincidan con lo que mide un equipo específico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
 
@@ -95,8 +94,8 @@ Ahora puede convertir fácilmente cualquier proyecto en una plantilla personaliz
 >
 >**Capacidad muy solicitada:** varios clientes nos pidieron que guardaramos los proyectos lo más posible como plantillas personalizadas. Ahora, esta capacidad se ha convertido en una de sus favoritas.
 
-[Haga clic aquí para encontrar más sugerencias y trucos en Experience League](https://experienceleague.adobe.com/?search=tips&amp;tag=Analysis+Workspace#recommended/solutions/analytics)
+[Haga clic aquí para encontrar más sugerencias y trucos en el Experience League](https://experienceleague.adobe.com/?search=tips&amp;tag=Analysis+Workspace#recommended/solutions/analytics)
 
 | Acerca del autor |  |
 |------------|------------|
-| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser es administrador del equipo de administración de productos de Adobe Analytics. <br> En esta función, se reúne con los clientes para comprender sus necesidades comerciales,  <br>utilizando lo que aprende para informar a la hoja de ruta del producto de Adobe Analytics  <br>y priorizar las nuevas funciones del producto. Antes de su puesto actual, <br>Jen era consultora principal del equipo de consultoría de Adobe, y trabajaba como <br>experta en la visualización de datos, Analysis Workspace y [!DNL Report Builder]. <br><br>Con la ventaja de su perspectiva del mundo real, hemos seleccionado los siguientes consejos y trucos para  <br>ayudar a facilitar la creación, visualización y uso compartido de sus proyectos de Analysis Workspace |
+| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser es administrador del equipo de administración de productos de Adobe Analytics. <br> En este rol, se reúne con los clientes para comprender sus necesidades comerciales,  <br>utilizando lo que aprende para informar la hoja de ruta del producto de Adobe Analytics  <br>y priorizar las nuevas características del producto. Antes de su puesto actual, <br>Jen era consultora principal del equipo de consultoría de Adobe, y trabajaba como <br>experta en la visualización de datos, Analysis Workspace y [!DNL Report Builder]. <br><br>Con la ventaja de su perspectiva del mundo real, hemos seleccionado los siguientes consejos y trucos para  <br>ayudar a facilitar la construcción, visualización y uso compartido de sus proyectos de Analysis Workspace |
