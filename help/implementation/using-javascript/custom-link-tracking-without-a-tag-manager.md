@@ -1,22 +1,21 @@
 ---
 title: Seguimiento de vínculos personalizados sin un Administrador de etiquetas
-description: Para muchas acciones de la página, el seguimiento no debe tratarse como una vista de página. En este vídeo, aprenderá a codificar una señalización de seguimiento de vínculos en Analytics si no utiliza un administrador de etiquetas (como Experience Platform Launch). Consulte el código, así como una sugerencia importante.
-feature: Appmeasurement Implementation
+description: Para muchas acciones de la página, el seguimiento no debe tratarse como una vista de página. En este vídeo, aprenderá a codificar una señalización de seguimiento de vínculos en Analytics si no utiliza un administrador de etiquetas (como un Experience Platform Launch). Consulte el código, así como una sugerencia importante.
+feature: Implementación De Appmeasurement
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 4%
+source-wordcount: '293'
+ht-degree: 8%
 
 ---
-
 
 # Seguimiento de vínculos personalizados sin un Administrador de etiquetas {#custom-link-tracking-without-a-tag-manager}
 
