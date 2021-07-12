@@ -1,23 +1,22 @@
 ---
 title: Uso del análisis entre fichas para explorar la atribución de marketing básica en Analysis Workspace
 description: Existen muchas maneras de llevar la metodología de atribución al siguiente nivel con Adobe Analytics. En este vídeo, resaltamos cómo puede obtener perspectivas más profundas del informe Canales de marketing mediante el análisis entre pestañas en Workspace.
-feature: Marketing Channels
+feature: Canales de marketing
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39237.jpg
 kt: 6067
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b5843678-6444-453b-a9c9-1e301ffca876
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 33%
+source-wordcount: '292'
+ht-degree: 38%
 
 ---
-
 
 # Uso del análisis entre fichas para explorar la atribución de marketing básica en Analysis Workspace
 
@@ -25,12 +24,12 @@ Existen muchas maneras de llevar la metodología de atribución al siguiente niv
 
 >[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
 
-**ACTUALIZACIÓN**: Desde la publicación de este vídeo, se han realizado varias mejoras en  [!DNL Workspace] el sistema. Dejamos el video en vivo porque tiene algunos consejos geniales que deberían saber de todas maneras.
+**ACTUALIZACIÓN**: Desde la publicación de este vídeo, se han realizado varias mejoras en  [!DNL Workspace] el sistema. Dejamos el video en vivo porque tiene algunos consejos buenos que deberían saber de todas maneras.
 
 **En primer lugar**, asegúrese de consultar las funciones de  [!UICONTROL Attribution ] IQ que ayudarán a llevar su análisis de atribución de marketing aún más lejos. Esto incluye los siguientes vídeos y los vídeos a su alrededor:
 
-* [Uso del panel Attribution IQ](using-the-attribution-iq-panel.md)
-* [Adición de comparaciones paralelas de modelos Attribution IQ](adding-side-by-side-comparisons-of-attribution-iq-models.md)
+* [Uso del panel de Attribution IQ](using-the-attribution-iq-panel.md)
+* [Adición de comparaciones paralelas de modelos de Attribution IQ](adding-side-by-side-comparisons-of-attribution-iq-models.md)
 * [Modelo algorítmico en Attribution IQ](algorithmic-model-in-attribution-iq.md)
 * [Ventanas personalizadas de recuperación en Attribution IQ](custom-lookback-windows-in-attribution-iq.md)
 
