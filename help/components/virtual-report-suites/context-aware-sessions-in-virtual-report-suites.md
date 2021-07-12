@@ -1,5 +1,5 @@
 ---
-title: Sesiones según el contexto en grupos de informes virtuales
+title: Sesiones contextuales en grupos de informes virtuales
 description: Ahora es posible cambiar la definición de una visita en Adobe Analytics de forma no destructiva mediante un grupo de informes virtuales. Le mostramos cómo hacerlo y las diferentes opciones disponibles.
 feature: VRS
 topics: null
@@ -7,18 +7,17 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1775
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: eccd24d8-ed55-49db-894c-ef31de891728
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 7%
 
 ---
 
-
-# Sesiones según el contexto en [!UICONTROL Grupos de informes virtuales] {#context-aware-sessions-in-virtual-report-suites}
+# Sesiones según el contexto en [!UICONTROL grupos de informes virtuales] {#context-aware-sessions-in-virtual-report-suites}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12)
 
