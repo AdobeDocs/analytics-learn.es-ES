@@ -1,24 +1,23 @@
 ---
-title: Sugerencias del producto en Analysis Workspace
+title: Consejos dentro del producto de Analysis Workspace
 description: Las sugerencias de Workspace proporcionan un aprendizaje rápido directamente en Analysis Workspace, con vínculos a vídeos relacionados para que pueda ver cada sugerencia en acción.
-feature: Workspace Basics
+feature: Conceptos básicos de Workspace
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1672
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ad2e2c1a-c87b-4ee2-8b8c-6cc796c22f85
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 0%
+source-wordcount: '57'
+ht-degree: 17%
 
 ---
 
-
-# Consejos en el producto de Analysis Workspace {#analysis-workspace-in-product-tips}
+# Consejos dentro del producto de Analysis Workspace {#analysis-workspace-in-product-tips}
 
 [!UICONTROL Analysis ] WorkspaceTips proporciona un aprendizaje rápido directamente en  [!UICONTROL Analysis Workspace], con vínculos a vídeos relacionados para que pueda ver cada sugerencia en acción.
 
