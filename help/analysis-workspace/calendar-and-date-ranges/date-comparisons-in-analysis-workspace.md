@@ -1,23 +1,22 @@
 ---
 title: Comparaciones de fechas en Analysis Workspace
 description: 'En este vídeo, le mostraremos cómo aprovechar dos funciones de comparación de fechas en tablas de forma libre: "añadir columna de periodo de tiempo" y "comparar periodos de tiempo".'
-feature: Calendar
+feature: Calendario
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23985.jpg
 kt: 2011
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 9%
 
 ---
-
 
 # Comparaciones de fechas en Analysis Workspace {#date-comparisons-in-analysis-workspace}
 
@@ -25,6 +24,6 @@ En este vídeo, le mostraremos cómo aprovechar dos funciones de comparación de
 
 >[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12)
 
-Las comparaciones de fechas son una forma sencilla de añadir profundidad a las tablas actuales de Analysis Workspace, y le ayudarán a poner fácilmente los datos actuales en perspectiva del rendimiento histórico.
+Las comparaciones de fechas son una forma sencilla de agregar profundidad a las tablas actuales de Analysis Workspace y le ayudarán a poner fácilmente los datos actuales en perspectiva del rendimiento histórico.
 
 Para obtener más información sobre esta función, consulte la [documentación](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/time_comparison.html).
