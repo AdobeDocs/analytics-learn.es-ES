@@ -4,9 +4,9 @@ user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analy
 breadcrumb-title: Tutoriales de Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: dbab0f9190e660eadfacdb75ac00994afff375e7
+source-git-commit: aa1627c6f13274e35fcf10f25d709fec484007b2
 workflow-type: tm+mt
-source-wordcount: '2065'
+source-wordcount: '2068'
 ht-degree: 99%
 
 ---
@@ -391,3 +391,4 @@ ht-degree: 99%
       + [Configuración de informes internos de búsqueda del sitio](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Configuración del Análisis de código postal en el mercado](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Plan de estudios de Analytics para universidades](analytics-university/curriculum.md)
++ [Experience League ACTIVO](exl-live/exl-live-overview.md)
