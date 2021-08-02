@@ -132,7 +132,7 @@ ht-degree: 99%
       + [Intravinculación en Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Tema de mapa positivo-negativo](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [Reorganización y cambio del tamaño de las visualizaciones](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
-      + [Personalizar leyendas de visualización](analysis-workspace/visualizations/customize-visualization-legends.md)
+      + [Personalización de leyendas de visualización](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [Visualizaciones 100 % apiladas](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Configuración de fuente de datos de tabla](analysis-workspace/visualizations/table-data-source-settings.md)
       + [Creación de un mapa de calor de partición de tiempo](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
