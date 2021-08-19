@@ -4,9 +4,9 @@ user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analy
 breadcrumb-title: Tutoriales de Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 48da246e50ed658bdb496a8a8a551e8f0454021d
+source-git-commit: a0cf655c7eab8deaf2897746ece4883147888d7a
 workflow-type: tm+mt
-source-wordcount: '2141'
+source-wordcount: '2139'
 ht-degree: 96%
 
 ---
@@ -135,9 +135,8 @@ ht-degree: 96%
       + [Reorganización y cambio del tamaño de las visualizaciones](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Personalización de leyendas de visualización](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [Visualizaciones 100 % apiladas](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
-      + [Configuración de fuente de datos de tabla](analysis-workspace/visualizations/table-data-source-settings.md)
+      + [Configuración de fuentes de datos de visualización y tabla](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Creación de un mapa de calor de partición de tiempo](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-      + [Configuración de la fuente de datos de visualización](analysis-workspace/visualizations/visualization-data-source-settings.md)
    + Aplicación de segmentos {#applying-segments}
       + [Aplicación de segmentos a su proyecto de Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Uso de segmentos en Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
