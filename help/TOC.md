@@ -405,4 +405,4 @@ ht-degree: 96%
       + [Configuración de informes internos de búsqueda del sitio](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Configuración del Análisis de código postal en el mercado](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Plan de estudios de Analytics para universidades](analytics-university/curriculum.md)
-+ [Experience League ACTIVO](exl-live/exl-live-overview.md)
++ [Experience League LIVE](exl-live/exl-live-overview.md)
