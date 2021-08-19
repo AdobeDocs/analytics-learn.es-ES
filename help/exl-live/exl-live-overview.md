@@ -1,6 +1,6 @@
 ---
-title: Eventos LIVE de Experience League
-description: Una colección de vínculos a eventos LIVE del Experience League anterior
+title: Eventos de Experience League LIVE
+description: Una colección de vínculos a eventos pasados de Experience League LIVE
 type: Event
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -9,14 +9,14 @@ hidefromtoc: true
 source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 2%
+ht-degree: 56%
 
 ---
 
 
-# Experience League ACTIVO
+# Experience League LIVE
 
-Experience League LIVE es un programa de transmisión en directo producido por el equipo Experience League y le ofrece consejos, trucos y estrategias útiles que puede aplicar en aplicaciones de Experience Cloud, servicios de aplicaciones y Adobe Experience Platform.
+Experience League LIVE es un programa retransmitido en directo que produce el equipo de Experience League para ofrecerle consejos, trucos y estrategias útiles que puede aplicar en las aplicaciones de Experience Cloud, los servicios de aplicaciones y Adobe Experience Platform.
 
 ## Episodio siguiente: Experience Platform y CDP en tiempo real!
 
@@ -64,7 +64,7 @@ Experience League LIVE es un programa de transmisión en directo producido por e
 
 ## Reproducciones de episodios anteriores
 
-¿Perdiste un episodio de Experience League LIVE? Te perdonamos. Aquí hay vínculos para que pueda ver episodios anteriores.
+¿Se ha perdido algún episodio de Experience League LIVE? Le perdonamos. Aquí encontrará vínculos para poder ver episodios anteriores.
 
 <table>
 <tr>
@@ -84,4 +84,4 @@ Experience League LIVE es un programa de transmisión en directo producido por e
 
 >[!TIP]
 >
->Para métodos adicionales de aprendizaje, consulte nuestros [cursos](https://experienceleague.adobe.com/#dashboard/learning) gratuitos, así como tutoriales [individuales](https://experienceleague.adobe.com/docs/home-tutorials.html).
+>Para descubrir métodos adicionales de aprendizaje, consulte nuestros [cursos](https://experienceleague.adobe.com/#dashboard/learning) gratuitos, así como los [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
