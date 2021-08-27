@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
 source-git-commit: a5e8cb510cff46332297bcc95f94e9792dc4fc88
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '320'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 76%
 
 Adobe se enorgullece de presentar este contenido fundacional de Analytics a su universidad. Dentro del plan de estudios, encontrará 4 módulos distintos diseñados para presentarle la recopilación y generación de informes con Adobe Analytics, que se pueden dividir e incorporar en cursos de marketing o análisis digital. Este manual de introducción permitirá a los profesores y los estudiantes adquirir los conocimientos necesarios para participar en el desafío mundial de Adobe Analytics en otoño.
 
-### Un nuevo curso que le ayudará a preparar
+### Un nuevo curso que le ayudará a prepararse
 
-Para prepararnos para el aprendizaje y la enseñanza del currículo de análisis, hemos lanzado un nuevo curso en Adobe Education Exchange donde puede aprender a enseñar todos los conceptos principales descritos a continuación. Recomendamos comenzar con este curso para asegurarse de que está preparado para educar a sus estudiantes en los 4 módulos principales, y más allá.
+Para prepararse para el aprendizaje y la enseñanza del currículo de análisis, hemos lanzado un nuevo curso en Adobe Education Exchange en el que aprenderá a enseñar todos los conceptos básicos descritos a continuación. Recomendamos empezar este curso para asegurarse de que está preparado para educar a sus estudiantes en los 4 módulos principales, y más allá.
 
 Inscríbase aquí en el curso: [https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 
