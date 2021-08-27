@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: a0cf655c7eab8deaf2897746ece4883147888d7a
 workflow-type: tm+mt
 source-wordcount: '2139'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -217,7 +217,7 @@ ht-degree: 96%
    + Administración de usuarios {#user-management}
       + [Añadir un administrador a Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Límite del acceso al grupo de informes en Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
-      + [Transferir recursos de usuario a otro usuario](administration/user-management/transfer-user-assets-to-a-different-user.md)
+      + [Transferencia de recursos de un usuario a otro](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [Comprobación del ID de IMS vinculado para evitar problemas de inicio de sesión](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Administrar grupos de informes {#manage-report-suites}
       + [Configuración general de la cuenta](administration/manage-report-suites/configuring-general-account-settings.md)
@@ -227,14 +227,14 @@ ht-degree: 96%
       + [Definición de filtros de URL internos](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configuración de los ajustes del código postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configuración de variables en la Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-      + [Habilitar la opción Marca de tiempo opcional](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+      + [Activación de la opción Marca de tiempo opcional](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Configuración de reglas de bots en Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Administración de datos y RGPD {#data-governance-and-gdpr}
       + [Administración de datos y RGPD en Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [Conseguir las personas adecuadas en su equipo de Analytics](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + Administración del tráfico {#traffic-management}
       + [Uso de llamadas al servidor](administration/traffic-management/server-call-usage.md)
-      + [Administrar un pico de tráfico próximo](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
+      + [Administración de un pico de tráfico próximo](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + Registros {#logs}
       + [Seguimiento del registro de uso para Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
       + [Información general sobre los registros de administración de Analytics](administration/logs/overview-of-analytics-admin-logs.md)
@@ -320,10 +320,10 @@ ht-degree: 96%
       + [Exportación a CSV desde Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Introducción a Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
-      + [Enviar solicitud de Data Warehouse a través de SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [Envío de solicitud de Data Warehouse a través de SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
    + Archivo de fuentes de datos {#data-feeds}
       + [IU de administración de fuentes de datos](exporting/data-feeds/data-feeds-management-ui.md)
-      + [Descargar la clave de autenticación de fuente de datos](exporting/data-feeds/download-the-data-feed-authentication-key.md)
+      + [Descarga de la clave de autenticación de la fuente de datos](exporting/data-feeds/download-the-data-feed-authentication-key.md)
       + [Búsqueda del ID de la fuente de datos](exporting/data-feeds/find-your-data-feed-id.md)
       + [Volver a ejecutar un trabajo de fuente de datos](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
