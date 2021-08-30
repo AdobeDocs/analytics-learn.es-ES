@@ -1,7 +1,7 @@
 ---
 title: Intervalos de fechas móviles en segmentos
 description: 'Adobe Analytics le permite responder preguntas como: ¿Cuál era el promedio móvil de 60 días para los ingresos? o - ¿Cuántos visitantes vieron el contenido en mi aplicación más de 5 veces en la semana pasada? al incluir intervalos de fechas móviles en los segmentos. Este vídeo muestra cómo hacerlo.'
-feature: Segmentación
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: 2304
 role: User
 level: Beginner
 exl-id: d90b0284-caef-4271-9f2a-d3cb1fd57e2b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '104'
 ht-degree: 4%
 
 ---
@@ -23,4 +23,3 @@ Adobe Analytics le permite responder preguntas como &quot;¿Cuál era el promedi
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12)
 
-Para obtener más información sobre esta función, visite [la documentación](https://marketing.adobe.com/resources/help/en_US/analytics/segment/index.html?f=seg_build_ui).

@@ -1,7 +1,7 @@
 ---
 title: Seguimiento de vínculos personalizados sin un Administrador de etiquetas
 description: Para muchas acciones de la página, el seguimiento no debe tratarse como una vista de página. En este vídeo, aprenderá a codificar una señalización de seguimiento de vínculos en Analytics si no utiliza un administrador de etiquetas (como un Experience Platform Launch). Consulte el código, así como una sugerencia importante.
-feature: Implementación De Appmeasurement
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 1845
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 8%
+source-wordcount: '271'
+ht-degree: 5%
 
 ---
 
@@ -49,5 +49,3 @@ Este es un ejemplo de código utilizado en el vínculo personalizado del vídeo:
     Click here to share on FaceBook
 </a>
 ```
-
-Para obtener más información sobre los vínculos personalizados, consulte la [documentación](https://marketing.adobe.com/resources/help/es_ES/sc/implement/function_tl.html).

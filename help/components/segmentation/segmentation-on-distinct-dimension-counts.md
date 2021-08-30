@@ -1,7 +1,7 @@
 ---
 title: Segmentación en recuentos distintos de dimensión
 description: Los nuevos operadores de Recuento distinto del Generador de segmentos le permiten segmentar según el número de elementos únicos dentro de cualquier dimensión. Filtre por las visitas en las que se vieron más de 5 páginas o las visitas en las que se compraron más de 5 productos, es decir, dentro de un único pedido.
-feature: Segmentación
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '122'
 ht-degree: 13%
 
 ---
@@ -25,4 +25,4 @@ Los nuevos operadores [!UICONTROL Recuento distinto] del [!UICONTROL Generador d
 
 ¿Podría esta función ser más fría? :)
 
-Para obtener más información, visite la [documentación](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_operators.html).
+Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=en).

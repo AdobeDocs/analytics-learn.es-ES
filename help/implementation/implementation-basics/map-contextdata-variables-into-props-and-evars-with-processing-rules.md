@@ -1,7 +1,7 @@
 ---
 title: Asignar variables contextData a Props y eVars con reglas de procesamiento
 description: Al utilizar variables contextData en la implementación de Adobe Analytics, para que los datos se muestren en informes reales, debe asignar las variables contextData a Props/eVars en la interfaz de reglas de procesamiento. Este vídeo muestra cómo hacerlo.
-feature: Conceptos básicos de implementación
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 1850
 role: User
 level: Intermediate
 exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '117'
-ht-degree: 100%
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '116'
+ht-degree: 91%
 
 ---
 
@@ -23,4 +23,4 @@ Al utilizar variables [!DNL contextData] en la implementación de Adobe Analytic
 
 >[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12)
 
-Para obtener más información, consulte la [documentación](https://marketing.adobe.com/resources/help/es_ES/reference/processing_rules.html).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=en).

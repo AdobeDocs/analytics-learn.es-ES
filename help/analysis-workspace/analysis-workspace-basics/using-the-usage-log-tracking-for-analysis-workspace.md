@@ -1,8 +1,8 @@
 ---
 title: Empleo del Seguimiento de registro de uso para Analysis Workspace
-seo-title: Empleo del Seguimiento de registro de uso para Analysis Workspace
+seo-title: Using the Usage Log Tracking for Analysis Workspace
 description: Este vídeo muestra cómo emplear el Seguimiento de registro de uso en proyectos de Workspace, lo que le ayuda a comprender mejor el uso que hacen los usuarios de Adobe Analytics.
-seo-description: Este vídeo muestra cómo emplear el Seguimiento de registro de uso en proyectos de Workspace, lo que le ayuda a comprender mejor el uso que hacen los usuarios de Adobe Analytics.
+seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users’ usage of Adobe Analytics.
 feature: data configuration and collection
 topics: null
 audience: analyst, marketer
@@ -11,11 +11,10 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '188'
-ht-degree: 100%
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 94%
 
 ---
 
@@ -39,7 +38,7 @@ Las vistas de proyecto es la mejor indicación de si los usuarios están utiliza
 
 ## Recursos adicionales {#additional-resources}
 
-* [Más información sobre los registros](https://marketing.adobe.com/resources/help/es_ES/reference/logs.html)
+* [Más información sobre los registros](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
 * [Descarga del tablero de demostración](https://adobe.ly/2ygP5ws)
 
 PRÓXIMAMENTE: Estamos trabajando para presentar esta información en una IU sencilla (y con más detalles) dentro de [!DNL Analytics].

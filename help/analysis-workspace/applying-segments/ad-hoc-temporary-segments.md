@@ -1,7 +1,7 @@
 ---
 title: Segmentos específicos (temporales) en Analysis Workspace
 description: ¿Alguna vez ha querido crear rápidamente un segmento simple para responder a una pregunta específica y luego descartar el segmento para que no rellene su lista de segmentos guardados? Ahora puede!
-feature: Segmentación
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 2010
 role: User
 level: Beginner
 exl-id: 22c449af-0660-4166-841a-9c1e77924350
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 5%
+source-wordcount: '122'
+ht-degree: 4%
 
 ---
 
@@ -26,4 +26,4 @@ ht-degree: 5%
 
 Los segmentos específicos funcionan dentro del proyecto en el que se crean, pero no se guardan de forma permanente a menos que elija guardarlos.
 
-Para obtener más información sobre esta función, vaya a la [documentación de la función](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform-project-segment.html).
+Para obtener más información sobre esta función, vaya a la [documentación de la función](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en).

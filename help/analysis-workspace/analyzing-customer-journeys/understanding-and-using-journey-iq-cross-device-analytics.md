@@ -10,10 +10,10 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '1664'
-ht-degree: 6%
+source-wordcount: '1641'
+ht-degree: 4%
 
 ---
 
@@ -55,11 +55,11 @@ Siga leyendo para obtener más información:
 
 ## Cómo funciona [!DNL Cross-Device Analytics]
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] se integra con  [!DNL Adobe Experience Platform Identity Service], utilizando  [[!DNL Co-op Graph]](https://docs.adobe.com/content/help/es-ES/device-co-op/using/home.html) o  [!DNL Private Graph] para identificar cómo los dispositivos se asignan a las personas. A continuación, aprovecha esta inteligencia para crear una vista entre dispositivos del comportamiento del usuario. CDA incluye funcionalidades y herramientas sin igual para ayudar a su empresa a comprender el uso de varios dispositivos y la experiencia del cliente en dichos dispositivos en sus interacciones con su marca. Se encuentra como una capa debajo de Analysis Workspace para proporcionar una perspectiva profunda del análisis de audiencia basado en personas y la atribución, segmentación y análisis de recorrido entre dispositivos mediante herramientas poderosas como [!UICONTROL Visitas en el orden previsto], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] y [!DNL Attribution IQ].
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] se integra con  [!DNL Adobe Experience Platform Identity Service], utilizando  [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=es) o  [!DNL Private Graph] para identificar cómo los dispositivos se asignan a las personas. A continuación, aprovecha esta inteligencia para crear una vista entre dispositivos del comportamiento del usuario. CDA incluye funcionalidades y herramientas sin igual para ayudar a su empresa a comprender el uso de varios dispositivos y la experiencia del cliente en dichos dispositivos en sus interacciones con su marca. Se encuentra como una capa debajo de Analysis Workspace para proporcionar una perspectiva profunda del análisis de audiencia basado en personas y la atribución, segmentación y análisis de recorrido entre dispositivos mediante herramientas poderosas como [!UICONTROL Visitas en el orden previsto], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] y [!DNL Attribution IQ].
 
 ### [!DNL Cross-Device Virtual Report Suite]
 
-CDA se presenta a través de un tipo especial de [[!UICONTROL Grupo de informes virtuales]](https://docs.adobe.com/content/help/es-ES/analytics/components/virtual-report-suites/vrs-about.html) entre dispositivos. Esto le permite seguir utilizando el grupo de informes original basado en dispositivos a medida que introduce análisis entre dispositivos en su organización. La configuración de un VRS de CDA es fácil.
+CDA se presenta a través de un tipo especial de [[!UICONTROL Grupo de informes virtuales]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html) entre dispositivos. Esto le permite seguir utilizando el grupo de informes original basado en dispositivos a medida que introduce análisis entre dispositivos en su organización. La configuración de un VRS de CDA es fácil.
 
 En el paso uno del creador de VRS, elija el [!UICONTROL grupo de informes] que ha configurado el Adobe como habilitado para CDA:
 
@@ -98,8 +98,8 @@ Es posible que Isabelle no haya iniciado sesión hasta justo antes de realizar l
 
 CDA se incluye con [[!DNL Analytics Ultimate]](https://helpx.adobe.com/legal/product-descriptions/adobe-analytics.html). A partir de septiembre de 2019, [!DNL Analytics Ultimate] los clientes que cumplan los requisitos previos enumerados a continuación podrán utilizar CDA. Los requisitos previos para CDA son los siguientes:
 
-* Su empresa debe ser miembro de [!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://docs.adobe.com/content/help/en/device-co-op/using/home.html) o utilizar un [!DNL Adobe Experience Platform Identity Service Private Graph].
-* Debe implementar todo lo necesario para [!DNL Co-op Graph] o [!DNL Private Graph], incluido [ID de Experience Cloud (ECID)](https://docs.adobe.com/content/help/es-ES/id-service/using/home.html) y la sincronización de ID con el gráfico. Tenga en cuenta que además de los requisitos técnicos, el [!DNL Co-op Graph] tiene otros requisitos legales y contractuales.
+* Su empresa debe ser miembro de [!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html) o utilizar un [!DNL Adobe Experience Platform Identity Service Private Graph].
+* Debe implementar todo lo necesario para [!DNL Co-op Graph] o [!DNL Private Graph], incluido [ID de Experience Cloud (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es) y la sincronización de ID con el gráfico. Tenga en cuenta que además de los requisitos técnicos, el [!DNL Co-op Graph] tiene otros requisitos legales y contractuales.
 * Actualmente no es posible utilizar dos organizaciones IMS con una sola [!DNL Private Graph], por lo que debe estandarizar en una sola organización IMS. En algunos casos, es posible que un cliente con varias organizaciones IMS utilice el [!DNL Co-op Graph] junto con CDA.
 * Los [!DNL Co-op graph] y [!DNL Private Graph], así como ciertos componentes de CDA, están alojados en [!DNL Microsoft Azure]. Esto significa que [!DNL Analytics] los datos se copian de un lado a otro entre el centro de procesamiento de datos del Adobe y la presencia del Adobe en [!DNL Microsoft Azure]. Algunos [!DNL Analytics] datos se almacenarán en [!DNL Azure]. Su empresa debe aceptar este acuerdo.
 * CDA requiere un [!UICONTROL grupo de informes] entre dispositivos. Es decir, el [!UICONTROL grupo de informes] que utilice para CDA debe incluir datos de varios tipos de dispositivos o &quot;superficies&quot; diferentes, como la web de escritorio, la web móvil y la aplicación móvil. A partir de septiembre de 2019, el volumen de llamadas al servidor para este [!UICONTROL grupo de informes] debe ser de 100 MM de llamadas al servidor al día o menos. (Los límites del volumen de llamadas al servidor aumentarán en los próximos meses).
@@ -114,7 +114,7 @@ Dentro del grupo de informes virtuales [!UICONTROL CDA], verá algunos cambios. 
 *Personas y*
 ![dispositivos únicosMétrica  [!UICONTROL Personas CDA]](assets/cda-people-metric.png)
 
-En el [[!UICONTROL Generador de segmentos]](https://docs.adobe.com/content/help/es-ES/analytics/components/segmentation/segmentation-workflow/seg-build.html), el contenedor de segmento [!UICONTROL Visitante] ha sido reemplazado por un contenedor de segmento [!UICONTROL Persona]. Con un VRS de CDA, puede crear segmentos entre dispositivos como:
+En el [[!UICONTROL Generador de segmentos]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=es), el contenedor de segmento [!UICONTROL Visitante] ha sido reemplazado por un contenedor de segmento [!UICONTROL Persona]. Con un VRS de CDA, puede crear segmentos entre dispositivos como:
 
 * Personas que utilizan más de un dispositivo
 * Personas que empiezan su recorrido en un dispositivo móvil y luego compran más tarde en un dispositivo de escritorio
@@ -136,21 +136,21 @@ ahora persistirá automáticamente de un dispositivo a otro hasta que se active 
 
 ### Análisis de audiencias basadas en personas
 
-¿Alguna vez te has preguntado cuántas personas están interactuando con tu marca? ¿Ha querido comprender cuántos y qué tipo de dispositivos utilizan? ¿Cómo se superpone su uso? Con un VRS de CDA, puede crear [diagramas de Venn](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/visualizations/venn.html) entre dispositivos y [histogramas](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/visualizations/histogram.html) por persona.
+¿Alguna vez te has preguntado cuántas personas están interactuando con tu marca? ¿Ha querido comprender cuántos y qué tipo de dispositivos utilizan? ¿Cómo se superpone su uso? Con un VRS de CDA, puede crear [diagramas de Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=es) entre dispositivos y [histogramas](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=es) por persona.
 
 *Análisis de audiencia basado en*
 ![personasVenn e Histograma](assets/cda-venn-and-histogram.png)
 
 ### Entre dispositivos [!DNL Flow]
 
-Con CDA y Analysis Workspace, puede visualizar cómo se mueven las personas de un dispositivo a otro a lo largo del tiempo en [[!DNL Flow visualization]](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/visualizations/flow/flow.html). Pueden ver dónde abandonan en su recorrido y dónde siguen.
+Con CDA y Analysis Workspace, puede visualizar cómo se mueven las personas de un dispositivo a otro a lo largo del tiempo en [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html). Pueden ver dónde abandonan en su recorrido y dónde siguen.
 
 *[!DNL Flow]con CDA*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
 ### Entre dispositivos [!DNL Fallout]
 
-Es probable que utilice varios [[!DNL Fallout visualizations]](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html) para analizar en qué medida los usuarios avanzan a través de una serie determinada de pasos antes de lograr el éxito. ¿Sabía que su vista de esos [!DNL Fallout visualizations] es limitada al utilizar análisis tradicionales basados en dispositivos? Para que la visita en el orden previsto se realice correctamente, el siguiente paso debe producirse en el mismo explorador o aplicación que el paso anterior. En los análisis basados en dispositivos, no ve a las personas que completan correctamente el siguiente paso en otro dispositivo.
+Es probable que utilice varios [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=es) para analizar en qué medida los usuarios avanzan a través de una serie determinada de pasos antes de lograr el éxito. ¿Sabía que su vista de esos [!DNL Fallout visualizations] es limitada al utilizar análisis tradicionales basados en dispositivos? Para que la visita en el orden previsto se realice correctamente, el siguiente paso debe producirse en el mismo explorador o aplicación que el paso anterior. En los análisis basados en dispositivos, no ve a las personas que completan correctamente el siguiente paso en otro dispositivo.
 
 No hay que preocuparse, CDA te ha cubierto. CDA crea la vista entre dispositivos que hace que [!DNL Fallout visualizations] sea mucho más útil. Después de todo, lo que realmente importa es si la persona tuvo éxito en su tarea en algún lugar.
 
@@ -159,11 +159,11 @@ No hay que preocuparse, CDA te ha cubierto. CDA crea la vista entre dispositivos
 
 ### [!DNL Cross-Device Attribution IQ]
 
-Dado que CDA crea una capa de datos entre dispositivos debajo de Analysis Workspace, todo su análisis se verá condimentado con una perspectiva entre dispositivos. Un ejemplo eficaz es a través de [[!DNL Attribution IQ]](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/attribution/models.html). [!DNL Attribution IQ] en Analysis Workspace permite comparar varios modelos de atribución en paralelo. Con esta capacidad con CDA, ahora puede comparar cómo los distintos dispositivos contribuyen al éxito.
+Dado que CDA crea una capa de datos entre dispositivos debajo de Analysis Workspace, todo su análisis se verá condimentado con una perspectiva entre dispositivos. Un ejemplo eficaz es a través de [[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html). [!DNL Attribution IQ] en Analysis Workspace permite comparar varios modelos de atribución en paralelo. Con esta capacidad con CDA, ahora puede comparar cómo los distintos dispositivos contribuyen al éxito.
 
 Por ejemplo, supongamos que desea comprender con qué frecuencia un teléfono móvil es el primer dispositivo utilizado en una interacción que, en última instancia, conduce al éxito. Representa la &quot;tasa de adquisición&quot; del teléfono móvil. CDA + [!DNL Attribution IQ] le permite realizar este análisis:
 
 *[!DNL Attribution IQ]con CDA*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
-Para obtener más información, consulte la [[!DNL Cross-Device Analytics] documentación de ayuda](https://docs.adobe.com/content/help/es-ES/analytics/components/cda/cda-home.html).
+Para obtener más información, consulte la [[!DNL Cross-Device Analytics] documentación de ayuda](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html).

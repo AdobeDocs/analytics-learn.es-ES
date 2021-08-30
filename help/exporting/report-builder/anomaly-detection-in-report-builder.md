@@ -10,10 +10,10 @@ kt: 1768
 role: User
 level: Intermediate
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 32%
+ht-degree: 30%
 
 ---
 
@@ -27,4 +27,4 @@ Aprenda a añadir [!UICONTROL detección de anomalías] [!UICONTROL métricas] a
 
 En [!UICONTROL Report Builder], puede devolver [!UICONTROL datos reales de la métrica], junto con los valores esperados y los límites superior e inferior, para agregar más profundidad a los datos que está analizando y compartiendo.
 
-Para obtener más información sobre esta función, visite la [documentación](https://marketing.adobe.com/resources/help/en_US/arb/anomaly_detection.html).
+Para obtener más información sobre esta función, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=en).

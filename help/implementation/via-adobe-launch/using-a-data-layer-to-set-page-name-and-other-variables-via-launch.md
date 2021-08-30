@@ -1,7 +1,7 @@
 ---
 title: Uso de una capa de datos para establecer el nombre de página y otras variables en Adobe Analytics mediante Launch
 description: Se considera una práctica recomendada el uso de una capa de datos para Analytics y otras soluciones de Experience Cloud. En este vídeo, verá cómo extraer los valores de la capa de datos y utilizarlos en Launch para rellenar variables en Adobe Analytics.
-feature: Implementación de Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,9 +10,9 @@ kt: 1852
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '365'
 ht-degree: 7%
 
 ---
@@ -23,7 +23,7 @@ El uso de una capa de datos para [!DNL Analytics] y otras soluciones de Experien
 
 ## Capas de datos {#data-layers}
 
-Se recomienda utilizar una capa de datos cuando se trabaja con datos en el sitio y en las soluciones de Adobe Experience Cloud, especialmente con Adobe Analytics. Una _capa de datos_ es un marco de objetos JavaScript que los desarrolladores insertan en las páginas. Las herramientas de seguimiento (incluidos los sistemas de administración de etiquetas como [!DNL Experience Platform Launch]) pueden usar las capas de datos para rellenar los informes. Encontrará información adicional sobre las capas de datos en la [documentación del Experience Cloud](https://marketing.adobe.com/resources/help/en_US/sc/implement/ref-data-layer.html) o en el [sitio W3C](https://www.w3.org/).
+Se recomienda utilizar una capa de datos cuando se trabaja con datos en el sitio y en las soluciones de Adobe Experience Cloud, especialmente con Adobe Analytics. Una _capa de datos_ es un marco de objetos JavaScript que los desarrolladores insertan en las páginas. Las herramientas de seguimiento (incluidos los sistemas de administración de etiquetas como [!DNL Experience Platform Launch]) pueden usar las capas de datos para rellenar los informes. Encontrará información adicional sobre las capas de datos en la [documentación del Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=en) o en el [sitio W3C](https://www.w3.org/).
 
 Además, consulte el blog [Capas de datos: De palabra de moda a práctica recomendada,](https://theblog.adobe.com/data-layers-buzzword-best-practice/), que le proporciona información buena sobre las capas de datos, así como un par de ejemplos.
 
