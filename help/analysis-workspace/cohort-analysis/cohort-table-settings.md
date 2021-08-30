@@ -1,7 +1,7 @@
 ---
 title: Configuración de la tabla de cohortes
 description: 'Existen varias opciones de configuración de tablas de cohorte que permiten personalizar la vista de retención o pérdida. Verlas resaltadas en este vídeo. '
-feature: Visualizaciones
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 14%
+ht-degree: 5%
 
 ---
 
@@ -32,4 +32,4 @@ Las personalizaciones para la [!UICONTROL Tabla de cohorte] incluyen la capacida
 
 La fila promedio es especialmente útil para ver [!UICONTROL retención] o [!UICONTROL producir] en general, en lugar de hacerlo mediante filas [!UICONTROL de cohorte] individuales.
 
-Para obtener más información sobre el análisis de [!UICONTROL cohorte], visite la [documentación](https://docs.adobe.com/help/es-ES/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html).
+Para obtener más información sobre el análisis de [!UICONTROL cohorte], visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=en).

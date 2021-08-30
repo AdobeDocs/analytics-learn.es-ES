@@ -1,7 +1,7 @@
 ---
 title: Configuración general de Launch Analytics Extension
 description: Si acaba de empezar a usar Launch, por Adobe, y la extensión de Adobe Analytics, este vídeo puede ayudarle con la parte de configuración general, incluida la configuración del servidor de seguimiento.
-feature: Implementación de Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 2837
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 21%
+source-wordcount: '126'
+ht-degree: 14%
 
 ---
 
@@ -25,8 +25,8 @@ Si acaba de empezar a usar el Experience Platform Launch y la [!UICONTROL Extens
 
 Para obtener información adicional relacionada con los aspectos de este caso de uso, consulte los siguientes temas de documentación:
 
-[Códigos postales](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
+[Códigos postales](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
 
-[Clasificaciones](https://docs.adobe.com/content/help/es-ES/analytics/components/classifications/c-classifications.html)
+[Clasificaciones](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=es)
 
-[Analysis Workspace](https://docs.adobe.com/content/help/es-ES/analytics/analyze/analysis-workspace/home.html)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
