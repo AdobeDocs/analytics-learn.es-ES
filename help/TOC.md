@@ -4,10 +4,10 @@ user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analy
 breadcrumb-title: Tutoriales de Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: d8ac4494a517608fce4c78769136b684937c7639
+source-git-commit: ff682b772fb0c261bee2e57b75f49ee07a318030
 workflow-type: tm+mt
-source-wordcount: '2192'
-ht-degree: 97%
+source-wordcount: '2197'
+ht-degree: 96%
 
 ---
 
@@ -61,6 +61,7 @@ ht-degree: 97%
       + [Plantillas estándar en Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [Uso de plantillas personalizadas para habilitar a usuarios principiantes de Analysis Workspace](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [Explicación del modo en que los datos llegan a su proyecto de Analysis Workspace](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
+      + [Métricas básicas en Adobe Analytics](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Administración de componentes en Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [Uso de administradores de componentes](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [Selección de un grupo de informes en Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
