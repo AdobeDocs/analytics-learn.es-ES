@@ -4,10 +4,10 @@ user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analy
 breadcrumb-title: Tutoriales de Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: ff682b772fb0c261bee2e57b75f49ee07a318030
+source-git-commit: 54cc440067743e6e198f131a26566ffb32ac5d60
 workflow-type: tm+mt
 source-wordcount: '2197'
-ht-degree: 97%
+ht-degree: 96%
 
 ---
 
@@ -251,7 +251,7 @@ ht-degree: 97%
       + [Creación y mantenimiento de un DRS](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [Uso de una capa de datos en el sitio](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + A través de Experience Platform Launch {#via-adobe-launch}
-      + [Implementación de las soluciones de Experience Cloud en sitios web con Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-cloud/implementing-in-websites-with-launch/index.html?lang=es)
+      + [Implementación de las soluciones de Experience Cloud en sitios web con Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
       + [Configuración básica de Analytics Launch Extension](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Configuración de la administración de bibliotecas para Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Configuración general de Launch Analytics Extension](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
@@ -388,9 +388,9 @@ ht-degree: 97%
       + [Inicialización y visualización de las métricas del ciclo vital con el SDK de Experience Platform](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [Seguimiento de acciones (también conocidos como vínculos personalizados)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [Estado de seguimiento (también conocido como Páginas o Pantallas)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-      + [Implementación en aplicaciones de iOS Swift](https://experienceleague.adobe.com/docs/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-      + [Implementación en aplicaciones iOS Objective-C](https://experienceleague.adobe.com/docs/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-      + [Implementación en aplicaciones Android](https://experienceleague.adobe.com/docs/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
+      + [Implementación en aplicaciones de iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+      + [Implementación en aplicaciones iOS Objective-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+      + [Implementación en aplicaciones Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
    + Medición de Mobile Analytics {#measuring-mobile-analytics}
       + [Introducción a Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Impacto de los puntos de contacto a lo largo del recorrido móvil](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
