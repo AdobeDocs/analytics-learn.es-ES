@@ -7,23 +7,23 @@ level: Beginner
 hide: true
 hidefromtoc: true
 source-git-commit: dcfa04814012434a3f017cd0f06c8707b4d4cf2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '201'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
 
 # Experience League LIVE
 
-## Únete a nosotros para el próximo episodio !
+## ¡Únete a nosotros para el próximo episodio!
 
-<a href="https://www.youtube.com/watch?v=rogVKsTFbWk"><img alt="al hacer clic en se le dirigirá al vestíbulo de YouTube para Experience League Live" src="assets/1440x492.png" /></a>
+<a href="https://www.youtube.com/watch?v=rogVKsTFbWk"><img alt="al hacer clic se le dirigirá al vestíbulo de YouTube para Experience League Live" src="assets/1440x492.png" /></a>
 
-Experience League LIVE es un programa de transmisión en vivo producido por el equipo Experience League.  Es una oportunidad para conectarse con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede aplicar con las aplicaciones de Adobe Experience Cloud.
+Experience League LIVE es un programa de streaming en vivo producido por el equipo Experience League.  Es una oportunidad para conectarse con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede poner en práctica con las aplicaciones de Adobe Experience Cloud.
 
 
-## ¡Próximos eventos en directo del Experience League!
+## Próximos eventos de Experience League LIVE
 
 <table>
 <tr>
@@ -36,7 +36,7 @@ Experience League LIVE es un programa de transmisión en vivo producido por el e
           <em>Septiembre de 2021</em>
      </div>
     <p>
-    <em>Obtenga información de los expertos en productos sobre cómo crear experiencias que se adapten a los clientes en tiempo real</em>
+    <em>Obtenga información de los expertos en productos acerca de cómo crear experiencias que se adapten a los clientes en tiempo real</em>
     <p>
   </td>
   <td>
@@ -60,7 +60,7 @@ Experience League LIVE es un programa de transmisión en vivo producido por el e
           <em>Diciembre de 2021</em>
      </div>    
     <p>
-    <em>Obtenga información de los expertos en productos sobre cómo crear experiencias que se adapten a los clientes en tiempo real</em>
+    <em>Obtenga información de los expertos en productos acerca de cómo crear experiencias que se adapten a los clientes en tiempo real</em>
     <p>
   </td>
 </tr>
@@ -69,17 +69,17 @@ Experience League LIVE es un programa de transmisión en vivo producido por el e
 
 ## Episodios anteriores
 
-¿Se ha perdido algún episodio de Experience League LIVE? Le perdonamos. ¡Echa un vistazo a nuestros episodios pasados!
+¿Se ha perdido algún episodio de Experience League LIVE? Le perdonamos. ¡Eche un vistazo a nuestros episodios anteriores!
 
 <table>
 <tr>
 
 <td>
     <a href="https://www.youtube.com/watch?v=lxOvLCzEGBI">
-      <img height="225" width="400" alt="Experience League ACTIVO" src="assets/exl-live-after2.jpg" />
+      <img height="225" width="400" alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
     </a>
      <div>
-          <strong>Invitados</strong> :  <i>Eric Matisoff y Dasha Fitzpatrick</i>
+          <strong>Invitados</strong>: <i>Eric Matisoff y Dasha Fitzpatrick</i>
      </div>
      <div>
           <em>29 de julio de 2021</em>
