@@ -1,18 +1,18 @@
 ---
 title: Attribution IQ en métricas calculadas
 description: En este vídeo se explica cómo utilizar el Attribution IQ en Métricas calculadas.
-feature: Atribución
+feature: Attribution
 role: User
 level: Intermediate
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23140.jpg
 kt: 1668
-exl-id: 47016dae-2694-4bbe-a23f-ebff9799c239,1789789c-19aa-4e77-999f-15fa11b7f858,1789789c-19aa-4e77-999f-15fa11b7f858,47016dae-2694-4bbe-a23f-ebff9799c239
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+exl-id: 47016dae-2694-4bbe-a23f-ebff9799c239,1789789c-19aa-4e77-999f-15fa11b7f858
+source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 8%
+source-wordcount: '102'
+ht-degree: 7%
 
 ---
 
