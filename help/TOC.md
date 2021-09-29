@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriales de Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 source-git-commit: 54cc440067743e6e198f131a26566ffb32ac5d60
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2197'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -33,10 +33,10 @@ ht-degree: 96%
       + [Registro en Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Introducción a la IU de Analytics](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [Explicación y creación de grupos de informes](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Explicación de las métricas básicas de visitante](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
-      + [Introducción a las variables de tráfico (Props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
-      + [Introducción a las variables de conversión (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
-      + [Introducción a los eventos de conversión](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
+      + [Explicación de las métricas básicas de visitante](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=es)
+      + [Introducción a las variables de tráfico (Props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=es)
+      + [Introducción a las variables de conversión (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=es)
+      + [Introducción a los eventos de conversión](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=es)
    + Personalización de la IU {#customizing-the-ui}
       + [Preferencias de usuario en Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Adición de descripciones de dimensión y métricas](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
@@ -150,7 +150,7 @@ ht-degree: 96%
       + [Uso de segmentos para limitar datos en Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
    + Métricas {#metrics}
       + [Explicación de las métricas básicas de visitante](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Añadir Dimensión y métricas al proyecto en Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
+      + [Añadir Dimensión y métricas al proyecto en Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=es)
       + [Introducción a los eventos de conversión](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [Uso de métricas en una tabla improvisada](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=es)
       + [Uso de métricas de participación en Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
@@ -244,14 +244,14 @@ ht-degree: 96%
 + Implementación {#implementation}
    + Conceptos básicos de implementación {#implementation-basics}
       + [Primera implementación](implementation/implementation-basics/first-time-implementation.md)
-      + [Explicación y creación de grupos de informes](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
+      + [Explicación y creación de grupos de informes](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=es)
       + [Asignar variables contextData a Props y eVars con reglas de procesamiento](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Cómo identificar el servidor de seguimiento y los grupos de informes de Analytics](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Creación de un documento de requisitos empresariales](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Creación y mantenimiento de un DRS](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [Uso de una capa de datos en el sitio](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + A través de Experience Platform Launch {#via-adobe-launch}
-      + [Implementación de las soluciones de Experience Cloud en sitios web con Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
+      + [Implementación de las soluciones de Experience Cloud en sitios web con Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=es)
       + [Configuración básica de Analytics Launch Extension](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Configuración de la administración de bibliotecas para Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Configuración general de Launch Analytics Extension](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
@@ -388,9 +388,9 @@ ht-degree: 96%
       + [Inicialización y visualización de las métricas del ciclo vital con el SDK de Experience Platform](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [Seguimiento de acciones (también conocidos como vínculos personalizados)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [Estado de seguimiento (también conocido como Páginas o Pantallas)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-      + [Implementación en aplicaciones de iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-      + [Implementación en aplicaciones iOS Objective-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-      + [Implementación en aplicaciones Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
+      + [Implementación en aplicaciones de iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=es)
+      + [Implementación en aplicaciones iOS Objective-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=es)
+      + [Implementación en aplicaciones Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=es)
    + Medición de Mobile Analytics {#measuring-mobile-analytics}
       + [Introducción a Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Impacto de los puntos de contacto a lo largo del recorrido móvil](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
