@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analytics.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
+source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
 workflow-type: tm+mt
-source-wordcount: '2209'
+source-wordcount: '2208'
 ht-degree: 99%
 
 ---
@@ -160,8 +160,8 @@ ht-degree: 99%
       + [Trabajo con Dimensiones en una tabla improvisada](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=es)
    + Calendario e intervalos de fechas {#calendar-and-date-ranges}
       + [Uso de fechas en Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
+      + [Aplicación de intervalos de fechas reutilizables en el proyecto](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
       + [Uso de intervalos de fechas y comparaciones en Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
-      + [Uso de intervalos de fechas y calendarios en Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
       + [Creación de intervalos de fechas personalizados](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Comparaciones de fechas en Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Incorporación de comparaciones de meses y años anteriores con tendencias](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
