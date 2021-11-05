@@ -1,6 +1,6 @@
 ---
 title: Se han retirado los aspectos básicos de Analytics para usuarios empresariales
-description: Analytics Fundamentals para usuarios empresariales se ha retirado por varias razones.
+description: Se han retirado los aspectos básicos de Analytics para usuarios empresariales por varias razones.
 feature: Workspace Basics
 role: User
 level: Beginner
@@ -9,9 +9,9 @@ kt: 9167
 hide: true
 hidefromtoc: true
 source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '191'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
@@ -20,19 +20,19 @@ ht-degree: 19%
 
 Hemos retirado este curso por varias razones, entre ellas:
 
-* Contenido obsoleto e inpreciso
+* Contenido obsoleto e impreciso
 * Falta de organización general
-* El curso original era demasiado amplio
+* Curso original demasiado amplio
 
-Por todas estas razones, decidimos que le serviría a usted, a nuestros clientes maravillosos, mejor si reorganizáramos, regrabamos y republicáramos cursos que están más específicamente titulados, para que pueda saber exactamente lo que está obteniendo a medida que pasa por los cursos.
+Por todas estas razones, decidimos que sería más útil para usted y para nuestros maravillosos clientes si reorganizamos, regrabamos y republicamos cursos con títulos más específicos, para que pueda saber exactamente lo que obtiene a medida que avanza por los cursos.
 
-Si se encuentra en una función de usuario empresarial, profesional profesional u otra similar, le recomendamos que siga los siguientes cursos para conocer los aspectos básicos que le ayudarán a utilizar Analysis Workspace de forma destacada:
+Si su función es la de usuario empresarial, profesional o similar, le recomendamos que realice los siguientes cursos para conocer los aspectos básicos que le ayudarán a dominar Analysis Workspace:
 
-1. [Introducción a Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
+1. [Introducción a Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=es)
 1. [Tablas improvisadas: la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-1. [Uso de visualizaciones para contar sus historias de datos](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)
-1. [Atribución de valor a puntos de contacto digital en Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)
+1. [Uso de visualizaciones para contar sus historias de datos](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=es)
+1. [Atribución de valor a puntos de contacto digital en Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=es)
 
-Hay cursos adicionales relacionados con [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) disponibles para su Experience League.
+Hay cursos adicionales relacionados con [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=es) disponibles para usted en Experience League.
 
 ¡Gracias!
