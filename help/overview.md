@@ -10,9 +10,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: c6cb1238e3e2da656976154445992e34bfa011ae
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '292'
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Bienvenido al sitio de tutoriales de [!DNL Analytics].  El uso de estos tutorial
 
 ## Novedades
 
-* **[Haga clic con el botón derecho para aumentar la eficiencia de Workspace (vídeo)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
+* **[Haga clic con el botón derecho para aumentar la eficiencia del Espacio de trabajo (vídeo)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
    *Obtenga información sobre todos nuestros clics favoritos en Analysis Workspace y cómo usarlos. Desde las [!UICONTROL Tablas improvisadas] hasta las [!UICONTROL Visualizaciones de visitas], hacer clic con el botón derecho le hará ser más eficiente y competente en [!DNL Workspace].*
