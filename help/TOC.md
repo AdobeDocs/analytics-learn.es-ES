@@ -4,9 +4,9 @@ user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analy
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 source-git-commit: acc9965df12599640462302becd18d82e7dcbc33
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2231'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
