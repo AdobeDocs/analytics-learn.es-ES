@@ -6,23 +6,24 @@ topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 24036.jpg
 kt: 2008
 role: User
 level: Beginner
 exl-id: d07ba0a5-735b-43f2-ad67-31520ac897bd
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 8%
 
 ---
 
-#  Mejoras en la zona de SegmentDrop en Analysis Workspace {#segment-drop-zone-improvements-in-analysis-workspace}
+# [!UICONTROL Segmento] Mejoras en la zona de colocación de Analysis Workspace {#segment-drop-zone-improvements-in-analysis-workspace}
 
- Se han mejorado las zonas de colocación de segmentos para que pueda colocar cualquier cosa en cualquier parte de un proyecto.
+[!UICONTROL Segmento] se han mejorado las zonas de colocación para que pueda soltar cualquier cosa en un proyecto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12)
 
-Ahora puede soltar [!UICONTROL dimensiones] y [!UICONTROL métricas] completas, además de la compatibilidad existente con los elementos [!UICONTROL dimensión], [!UICONTROL intervalos de fechas] y [!UICONTROL segmentos]. Además, hemos mejorado el modo en que se gestionan los elementos [!UICONTROL dimension] de &quot;sin especificar&quot; y &quot;ninguno&quot; al soltarlos en la zona de colocación [!UICONTROL segment].
+Ahora puede soltar completo [!UICONTROL dimensiones] y [!UICONTROL métricas], además de la compatibilidad existente con [!UICONTROL dimensión] elementos, [!UICONTROL intervalos de fechas] y [!UICONTROL segmentos]. Además, hemos mejorado el modo de [!UICONTROL dimensión] los elementos de &quot;sin especificar&quot; y &quot;ninguno&quot; se gestionan al soltarlos en la variable [!UICONTROL segmento] zona de colocación.
 
-Para obtener más información sobre esta función, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en).
+Para obtener más información acerca de esta función, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en).
