@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analytics.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: decddf7d0623120b9d2ee9620c922cf280476086
-workflow-type: ht
-source-wordcount: '2235'
-ht-degree: 100%
+source-git-commit: c04177fead4f2f7d3187907172ed916accaeecc6
+workflow-type: tm+mt
+source-wordcount: '2248'
+ht-degree: 99%
 
 ---
 
@@ -227,6 +227,9 @@ ht-degree: 100%
       + [Personalización de la configuración de calendario](administration/manage-report-suites/customize-calendar-settings.md)
       + [Configurar la detección de búsqueda de pago](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Personalización de menús en Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
+      + [Manipulación de datos entrantes con reglas de procesamiento](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
+      + [Configuración de variables de tráfico (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
+      + [Configuración de variables de lista](administration/manage-report-suites/configuring-list-variables.md)
       + [Configuración de métodos de búsqueda](administration/manage-report-suites/configure-finding-methods.md)
       + [Definición de filtros de URL internos](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configuración de los ajustes del código postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
