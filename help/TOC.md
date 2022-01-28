@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analytics.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: 376accf865e72799c0238250ac1e17f000c8d5b5
+source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
 workflow-type: tm+mt
-source-wordcount: '2251'
+source-wordcount: '2254'
 ht-degree: 99%
 
 ---
@@ -230,11 +230,12 @@ ht-degree: 99%
       + [Manipulación de datos entrantes con reglas de procesamiento](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Configuración de variables de tráfico (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configurar clasificaciones de tráfico](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [Configuración de variables en la Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Configurar clasificaciones de conversión](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Configuración de variables de lista](administration/manage-report-suites/configuring-list-variables.md)
       + [Configuración de métodos de búsqueda](administration/manage-report-suites/configure-finding-methods.md)
       + [Definición de filtros de URL internos](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configuración de los ajustes del código postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [Configuración de variables en la Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Activación de la opción Marca de tiempo opcional](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Configuración de reglas de bots en Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Administración de datos y RGPD {#data-governance-and-gdpr}
