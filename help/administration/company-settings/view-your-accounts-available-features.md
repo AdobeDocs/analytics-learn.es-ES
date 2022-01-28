@@ -1,20 +1,19 @@
 ---
-title: 'Ver las funciones disponibles de la cuenta '
+title: Ver las funciones disponibles de la cuenta
 description: La configuración Ver niveles de acceso de funciones de la sección Administración de Analytics permite ver el nivel de acceso a los paquetes y las funciones de Adobe Analytics a los que tiene derecho su empresa. Esto incluye Activity Map, Advertising Analytics, detección de anomalías en alertas, etc.
-feature: Configuración de la empresa
-topic: 'Administración '
+feature: Company Settings
+topic: Administration
 role: User, Admin
 level: Beginner
-doc-type: feature video
 thumbnail: 335742.jpg
-kt: KT-8463
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
+kt: 8463
+exl-id: a8397a6b-0cbf-4a7e-b3dc-9f347b01b1f3
+source-git-commit: f53d322ca18abdd0c7f0f46de7a0146c5af14e6f
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 3%
+source-wordcount: '92'
+ht-degree: 10%
 
 ---
-
 
 # Ver las funciones disponibles de la cuenta
 
