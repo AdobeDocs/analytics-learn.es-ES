@@ -1,7 +1,7 @@
 ---
 title: Seguimiento de acciones (también conocidos como vínculos personalizados) en una aplicación móvil con el SDK de Experience Platform
 description: 'Las acciones son eventos que se producen en la aplicación móvil. En este vídeo aprenderá a utilizar la API trackAction para rastrear y medir una acción. '
-feature: SDK móvil
+feature: Mobile SDK
 topics: null
 activity: implement
 doc-type: technical video
@@ -13,7 +13,7 @@ level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '177'
+source-wordcount: '174'
 ht-degree: 100%
 
 ---
