@@ -11,20 +11,20 @@ role: User
 level: Intermediate
 exl-id: eccd24d8-ed55-49db-894c-ef31de891728
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
-# Sesiones según el contexto en [!UICONTROL grupos de informes virtuales] {#context-aware-sessions-in-virtual-report-suites}
+# Sesiones contextuales en [!UICONTROL grupos de informes virtuales] {#context-aware-sessions-in-virtual-report-suites}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12)
 
 Secciones de este vídeo:
 
-0:00: Descripción general de características y configuración
+0:00: Descripción general de funcionalidades y configuración
 
-2:45 - Uso de VRS en Analysis Workspace
+2:45: uso de grupos de informes virtuales en Analysis Workspace
 
-Para obtener más información sobre esta función, visite [la documentación](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=en).
+Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=es).
