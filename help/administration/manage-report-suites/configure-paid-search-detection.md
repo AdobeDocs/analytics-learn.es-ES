@@ -1,6 +1,6 @@
 ---
 title: Configurar la detección de búsqueda de pago
-description: Obtenga información sobre cómo recorrer la configuración de la sección Detección de búsqueda paga en la consola de administración de Adobe Analytics, incluidas algunas recomendaciones.
+description: Obtenga información sobre cómo recorrer la configuración de la sección Detección de búsqueda de pago en Admin Console de Adobe Analytics, incluidas algunas recomendaciones.
 feature: Admin Tools
 topic: Administration
 role: Admin
@@ -8,18 +8,18 @@ level: Beginner
 doc-type: feature video
 thumbnail: 339302.jpg
 kt: 9493
-source-git-commit: 0399f863d9690a098a63dacc424b1d069cf19add
-workflow-type: tm+mt
+exl-id: 21a12c5e-0313-4169-bf0b-f0d21202dd64
+source-git-commit: 73c7b351a182f4dd2b6bea12cd09ef2bd92d9a8f
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-
 # Configurar la detección de búsqueda de pago
 
-Obtenga información sobre cómo recorrer la configuración de la sección Detección de búsqueda paga en la consola de administración de Adobe Analytics, incluidas algunas recomendaciones.
+Obtenga información sobre cómo recorrer la configuración de la sección Detección de búsqueda de pago en Admin Console de Adobe Analytics, incluidas algunas recomendaciones.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339302/?quality=12&learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html?lang=en#section_0C2CFA0AF77B47098BE37CB024665D0D).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html?lang=es#section_0C2CFA0AF77B47098BE37CB024665D0D).
