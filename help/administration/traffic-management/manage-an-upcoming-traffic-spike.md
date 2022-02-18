@@ -1,24 +1,24 @@
 ---
-title: Administrar un pico de tráfico próximo
-description: El Adobe intenta asociarse con los clientes para garantizar que un evento de alto tráfico se realice correctamente. La programación de picos de tráfico es el punto de partida de ese proceso de asociación. La sección Programar picos permite avisar a Adobe de los picos de tráfico temporales, para que se puedan asignar los recursos adecuados.
-feature: Configuración y recopilación de datos, administración del tráfico
-topic: Colaboración
+title: Administración de un pico de tráfico próximo
+description: Adobe intenta asociarse con los clientes para garantizar que un evento de alto tráfico se realice correctamente. La programación de los picos de tráfico es el punto de partida de ese proceso de asociación. La sección Programación de pico permite alertar a Adobe de los picos de tráfico temporales para que se puedan asignar los recursos adecuados para administrarlos.
+feature: Data Configuration and Collection, Traffic Management
+topic: Collaboration
 role: User
 level: Intermediate, Experienced
 doc-type: feature video
 thumbnail: 335744.jpg
 kt: KT-8462
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
-workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 40%
+exl-id: fd28c2dc-4f4e-430a-a88b-42e44e3e6dda
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '104'
+ht-degree: 100%
 
 ---
 
+# Administración de un pico de tráfico próximo
 
-# Administrar un pico de tráfico próximo
-
-El Adobe intenta asociarse con los clientes para garantizar que un evento de alto tráfico se realice correctamente. La programación de picos de tráfico es el punto de partida de ese proceso de asociación. La sección Programar picos permite avisar a Adobe de los picos de tráfico temporales, para que se puedan asignar los recursos adecuados.
+Adobe intenta asociarse con los clientes para garantizar que un evento de alto tráfico se realice correctamente. La programación de los picos de tráfico es el punto de partida de ese proceso de asociación. La sección Programación de pico permite alertar a Adobe de los picos de tráfico temporales para que se puedan asignar los recursos adecuados para administrarlos.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335744/?quality=12&learn=on)
