@@ -1,7 +1,7 @@
 ---
 title: Cambio de la escala o el eje en las visualizaciones de Analysis Workspace
-description: Este vídeo muestra cómo se puede cambiar fácilmente la escala (o los límites del eje) del eje Y en un gráfico de líneas de Analysis Workspace para que los datos sean más difíciles de interpretar.
-feature: Visualizaciones
+description: Este vídeo muestra cómo se puede cambiar fácilmente la escala (o los límites del eje) del eje Y en un gráfico de líneas de Analysis Workspace para que los datos no se malinterpreten.
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: c76d8252-d6b7-48d7-b75e-3f8bedc50815
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 1%
+workflow-type: ht
+source-wordcount: '86'
+ht-degree: 100%
 
 ---
 
 # Cambio de la escala/eje en [!UICONTROL visualizaciones] en Analysis Workspace {#changing-the-scale-axis-on-visualizations-in-analysis-workspace}
 
-Este vídeo muestra cómo puede cambiar fácilmente la escala (o los límites del eje) del eje Y en un gráfico de [!UICONTROL línea] en Analysis Workspace para que los datos sean más difíciles de interpretar de forma errónea para usted y otros usuarios.
+Este vídeo muestra cómo puede cambiar fácilmente la escala (o los límites de eje) para el eje Y en un gráfico de [!UICONTROL líneas] en Analysis Workspace para que los datos sean más difíciles de malinterpretar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12)
