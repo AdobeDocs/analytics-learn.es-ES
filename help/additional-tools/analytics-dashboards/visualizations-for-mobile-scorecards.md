@@ -1,6 +1,6 @@
 ---
-title: Visualizaciones para informes de valoración móviles
-description: Cuando visualice análisis en su dispositivo móvil, el uso de las visualizaciones adecuadas es más importante que nunca. En este vídeo, aprenderá a añadir visualizaciones a proyectos de informes de valoración móviles.
+title: Visualizaciones para cuadros de resultados móviles
+description: Cuando visualice análisis en su dispositivo móvil, el uso de las visualizaciones adecuadas es más importante que nunca. En este vídeo, aprenderá a añadir visualizaciones a proyectos de cuadros de resultados móviles.
 feature: Analytics Dashboards
 topic: Mobile
 role: User
@@ -8,16 +8,16 @@ level: Beginner
 doc-type: feature video
 thumbnail: 337570.jpg
 kt: 9126
-source-git-commit: 808129e3d71b11446eadac44862e6a879c9e95b7
-workflow-type: tm+mt
+exl-id: cf9c1f6a-ac07-42f2-be57-305006de86cd
+source-git-commit: c69aecd34b297ab1dd0cbb00a5ed3e3a6212be93
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Visualizaciones para cuadros de resultados móviles
 
-# Visualizaciones para informes de valoración móviles
-
-Cuando visualice análisis en su dispositivo móvil, el uso de las visualizaciones adecuadas es más importante que nunca. En este vídeo, aprenderá a añadir visualizaciones a proyectos de informes de valoración móviles.
+Cuando visualice análisis en su dispositivo móvil, el uso de las visualizaciones adecuadas es más importante que nunca. En este vídeo, aprenderá a añadir visualizaciones a proyectos de cuadros de resultados móviles.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337570/?quality=12&learn=on)
