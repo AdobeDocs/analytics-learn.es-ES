@@ -1,7 +1,7 @@
 ---
 title: Impacto de los puntos de contacto en el recorrido móvil
 description: Descubra cómo los usuarios de aplicaciones móviles se ven influidos por los puntos de contacto y cuáles son los canales que mueven la aguja para su aplicación móvil mediante Attribution IQ. Conozca qué canales colaboran entre sí para impulsar eventos de éxito en la aplicación móvil.
-feature: Conceptos básicos de Workspace
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video
@@ -13,7 +13,7 @@ level: Beginner
 exl-id: 6ed070ff-cd13-45be-968f-067f0436eab8
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '92'
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
