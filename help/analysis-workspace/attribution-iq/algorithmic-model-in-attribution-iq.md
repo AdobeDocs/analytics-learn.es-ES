@@ -1,6 +1,6 @@
 ---
 title: Modelo algorítmico en Attribution IQ
-description: El modelo de atribución algorítmica de Analysis Workspace utiliza técnicas estadísticas para determinar dinámicamente la asignación óptima de crédito para la métrica seleccionada.
+description: El Modelo algorítmico en Attribution de Analysis Workspace utiliza técnicas estadísticas para determinar dinámicamente la asignación óptima de crédito para la métrica seleccionada.
 feature: Attribution
 topics: null
 activity: use
@@ -12,7 +12,7 @@ role: User
 level: Intermediate
 exl-id: fc7a4eda-0e1b-45a5-876d-022b97ef6e42
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 # Modelo algorítmico en Attribution IQ
 
-El modelo de atribución algorítmica de Analysis Workspace utiliza técnicas estadísticas para determinar dinámicamente la asignación óptima de crédito para la métrica seleccionada.
+El Modelo algorítmico en Attribution de Analysis Workspace utiliza técnicas estadísticas para determinar dinámicamente la asignación óptima de crédito para la métrica seleccionada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
 
