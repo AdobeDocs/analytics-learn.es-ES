@@ -7,13 +7,13 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 339440.jpg
 kt: 9529
-source-git-commit: c04177fead4f2f7d3187907172ed916accaeecc6
-workflow-type: tm+mt
+exl-id: 630864be-b60e-4ed0-b675-77bd20567ec1
+source-git-commit: b6ba0e9a2291e30cb0ac979bbac79714dc981fca
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
-
 
 # Manipulación de datos entrantes con reglas de procesamiento
 
