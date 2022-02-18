@@ -1,6 +1,6 @@
 ---
-title: Uso del análisis entre fichas para explorar la atribución de marketing básica en Analysis Workspace
-description: Existen muchas maneras de llevar la metodología de atribución al siguiente nivel con Adobe Analytics. En este vídeo, resaltamos cómo puede obtener perspectivas más profundas del informe Canales de marketing mediante el análisis entre pestañas en Workspace.
+title: Uso del análisis entre pestañas para explorar la atribución de marketing básica en Analysis Workspace
+description: Existen muchas maneras de llevar la metodología de atribución al siguiente nivel con Adobe Analytics. En este vídeo, resaltamos cómo puede obtener perspectivas más profundas del informe Canales de marketing mediante el análisis entre pestañas en el espacio de trabajo.
 feature: Marketing Channels
 topics: null
 activity: use
@@ -12,31 +12,31 @@ role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '288'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
-# Uso del análisis entre fichas para explorar la atribución de marketing básica en Analysis Workspace
+# Uso del análisis entre pestañas para explorar la atribución de marketing básica en Analysis Workspace
 
-Existen muchas maneras de llevar la metodología de atribución al siguiente nivel con Adobe Analytics. En este vídeo, resaltamos cómo puede obtener perspectivas más profundas del informe Canales de marketing mediante el análisis entre pestañas en Workspace.
+Existen muchas maneras de llevar la metodología de atribución al siguiente nivel con Adobe Analytics. En este vídeo, resaltamos cómo puede obtener perspectivas más profundas del informe Canales de marketing mediante el análisis entre pestañas en el espacio de trabajo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
 
-**ACTUALIZACIÓN**: Desde la publicación de este vídeo, se han realizado varias mejoras en  [!DNL Workspace] el sistema. Dejamos el video en vivo porque tiene algunos consejos buenos que deberían saber de todas maneras.
+**ACTUALIZACIÓN**: se han realizado varias mejoras en [!DNL Workspace] desde que se publicó este vídeo. Dejamos el vídeo publicado porque tiene algunos buenos consejos que debería saber de todas maneras.
 
-**En primer lugar**, asegúrese de consultar las funciones de  [!UICONTROL Attribution ] IQ que ayudarán a llevar su análisis de atribución de marketing aún más lejos. Esto incluye los siguientes vídeos y los vídeos a su alrededor:
+**Primero**, asegúrese de consultar las funciones de [!UICONTROL Attribution IQ], que le ayudarán a llevar su análisis de atribución de marketing aún más lejos. Esto incluye los siguientes vídeos y los vídeos relacionados:
 
 * [Uso del panel de Attribution IQ](using-the-attribution-iq-panel.md)
 * [Adición de comparaciones paralelas de modelos de Attribution IQ](adding-side-by-side-comparisons-of-attribution-iq-models.md)
 * [Modelo algorítmico en Attribution IQ](algorithmic-model-in-attribution-iq.md)
 * [Ventanas personalizadas de recuperación en Attribution IQ](custom-lookback-windows-in-attribution-iq.md)
 
-**En segundo lugar**, si está siguiendo los pasos de este vídeo, tenga en cuenta que puede  [utilizar el ](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md) Generador de tablas improvisadas para configurar la tabla.
+**Segundo**, si está siguiendo los pasos de este vídeo, tenga en cuenta que puede [usar el Generador de tablas de forma libre](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md) para configurar la tabla.
 
-* 3:20 - Las dimensiones entre fichas son dinámicas automáticamente cuando se sueltan, lo que significa que sus valores pueden cambiar con el tiempo. Para este análisis, es mejor traer columnas estáticas en su lugar. Obtenga más información sobre las columnas dinámicas en las 6:33 del vídeo: [Configuración de fila y columna en tablas improvisadas](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
-* 4:30 - La configuración de columna se puede actualizar de forma masiva ahora, en lugar de 1 por 1. Obtenga más información en las 8:45 del vídeo: [Configuración de fila y columna en tablas improvisadas](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+* 3:20: las dimensiones entre pestañas son dinámicas automáticamente cuando se sueltan, lo que significa que sus valores pueden cambiar con el tiempo. Para este análisis, es mejor colocar columnas estáticas en su lugar. Obtenga más información acerca de las columnas dinámicas en el minuto 6:33 del vídeo: [Configuración de fila y columna en tablas de forma libre](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+* 4:30: la configuración de columna se puede actualizar por lotes ahora, en lugar de una a una. Obtenga más información en el minuto 8:45 del vídeo: [configuración de fila y columna en tablas de forma libre](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 
-Para obtener más información sobre este tema, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=es).
+Para obtener más información acerca de este tema, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=es).
