@@ -13,16 +13,16 @@ role: User
 level: Intermediate
 exl-id: 2dad80ba-4032-490f-b7b4-30f0c2f0d608
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
-# [!DNL Analytics for Target] Panel (A4T) en Analysis Workspace
+# Panel [!DNL Analytics for Target] (A4T) en Analysis Workspace
 
-El [!DNL Analytics for Target][!UICONTROL panel  ( (A4T) le permite analizar con confianza las actividades y experiencias de Adobe Target en Analysis Workspace].
+El panel [!DNL Analytics for Target] (A4T) le permite analizar con confianza las actividades y experiencias de Adobe Target en [!UICONTROL Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
-Obtenga más información en la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html).
+Obtenga más información en la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html?lang=es).
