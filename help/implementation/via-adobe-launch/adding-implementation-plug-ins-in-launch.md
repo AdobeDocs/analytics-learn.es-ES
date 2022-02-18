@@ -1,7 +1,7 @@
 ---
-title: Adición de plug-ins de implementación en Launch
-description: Los complementos de implementación son fragmentos de código JavaScript que puede agregar a su implementación de Analytics para rastrear datos personalizados adicionales. En este vídeo, aprenderá a cómo y dónde añadir el código en Launch.
-feature: Implementación de Launch
+title: Adición de plugins de implementación en Launch
+description: Los plugins de implementación son fragmentos de código JavaScript que puede añadir a su implementación de Analytics para rastrear datos adicionales personalizados. En este vídeo, aprenderá cómo y dónde añadir el código en Launch.
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
@@ -12,14 +12,14 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: ffc3863c-4875-4502-a572-b344a5ec34dc
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 43%
+workflow-type: ht
+source-wordcount: '80'
+ht-degree: 100%
 
 ---
 
-# Adición de plug-ins de implementación en Launch
+# Adición de plugins de implementación en Launch
 
-Los complementos de implementación son fragmentos de código JavaScript que puede agregar a su implementación de Analytics para rastrear datos personalizados adicionales. En este vídeo, aprenderá a cómo y dónde añadir el código en Launch.
+Los plugins de implementación son fragmentos de código JavaScript que puede añadir a su implementación de Analytics para rastrear datos adicionales personalizados. En este vídeo, aprenderá cómo y dónde añadir el código en Launch.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28772/?quality=12&learn=on)
