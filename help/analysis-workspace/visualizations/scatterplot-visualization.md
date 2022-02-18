@@ -1,24 +1,24 @@
 ---
-title: Visualización de diagrama de puntos
-description: Con esta visualización, puede ver la relación entre varias métricas para sus dimensiones, y graficar los elementos en un diagrama X/Y. Descubra valores atípicos y perspectivas que le ayudarán a tomar decisiones comerciales.
-feature: Visualizaciones
+title: Visualización del diagrama de dispersión
+description: Con esta visualización, puede ver la relación entre varias métricas para sus dimensiones y los elementos representados en un diagrama X/Y. Descubra valores periféricos e información que le ayudarán a tomar decisiones empresariales.
+feature: Visualizations
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334459.jpg
 kt: 8188
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 11%
+exl-id: 6c9aa05b-ada3-489c-832f-bf9438dd3572
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '87'
+ht-degree: 100%
 
 ---
 
+# Visualización del diagrama de dispersión
 
-# Diagrama de dispersión visualización
-
-Con esta visualización, puede ver la relación entre varias métricas para sus dimensiones, y graficar los elementos en un diagrama X/Y. Descubra valores atípicos y perspectivas que le ayudarán a tomar decisiones comerciales.
+Con esta visualización, puede ver la relación entre varias métricas para sus dimensiones y los elementos representados en un diagrama X/Y. Descubra valores periféricos e información que le ayudarán a tomar decisiones empresariales.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/scatterplot.html?lang=en).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/scatterplot.html?lang=es).
