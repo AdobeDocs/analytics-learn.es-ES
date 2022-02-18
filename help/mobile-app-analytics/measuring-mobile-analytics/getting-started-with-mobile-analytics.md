@@ -1,7 +1,7 @@
 ---
 title: Introducción a Adobe Mobile Analytics
 description: Sepa cómo empezar a usar Adobe Analytics para aplicaciones móviles mediante plantillas. Las plantillas estándar creadas previamente le ayudan a comprender la participación del usuario y las métricas de rendimiento de la aplicación en Analysis Workspace. También puede aprender a personalizar su proyecto con nuestra sencilla interfaz de arrastrar y soltar.
-feature: Conceptos básicos de Workspace
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 80d3545c-3c3c-4003-a92a-39a410c76996
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '98'
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
