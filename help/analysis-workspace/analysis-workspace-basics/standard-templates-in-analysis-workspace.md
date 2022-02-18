@@ -26,4 +26,4 @@ Analysis Workspace le proporciona una ventaja inicial en su análisis con las [!
 
 >[!VIDEO](https://video.tv.adobe.com/v/23960/?quality=12)
 
-Las [!DNL Standard Templates] son plantillas totalmente personalizables y compartibles, diseñadas en torno a temas comerciales comunes con visualizaciones hermosas e intuitivas para facilitar la búsqueda de perspectivas. Para obtener más información sobre esta función, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=es).
+Las [!DNL Standard Templates] son plantillas totalmente personalizables y compartibles, diseñadas en torno a temas comerciales comunes con visualizaciones hermosas e intuitivas para facilitar la búsqueda de perspectivas. Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=es).
