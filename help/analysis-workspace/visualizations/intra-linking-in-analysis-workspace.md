@@ -9,15 +9,15 @@ role: User
 level: Beginner
 exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
 source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 # Intravinculación en Analysis Workspace {#intra-linking-in-analysis-workspace}
 
-Los intravínculos permiten a los analistas crear proyectos en Analysis Workspace para dirigir a los lectores del proyecto a paneles exactos y [!UICONTROL visualizaciones] dentro del proyecto.
+La intravinculación permite a los analistas crear proyectos en Analysis Workspace para llevar a los lectores del proyecto a paneles y [!UICONTROL visualizaciones] dentro del proyecto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
 
