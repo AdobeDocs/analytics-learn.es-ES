@@ -1,7 +1,7 @@
 ---
 title: IU de administración de fuentes de datos
 description: La fuente de datos de Adobe Analytics le permite exportar datos del flujo de navegación sin procesar para importarlos y combinarlos con otras fuentes de datos en un EDW o lago de datos. Puede crear y administrar sus propias fuentes de datos en Adobe Analytics. Este vídeo le mostrará cómo.
-feature: Fuentes de datos
+feature: Data Feeds
 topics: null
 activity: use
 doc-type: feature video
@@ -11,16 +11,16 @@ role: User
 level: Beginner
 exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
 source-git-commit: c25fa27046e5dd573e4dfb07535e319afe27c478
-workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 8%
+workflow-type: ht
+source-wordcount: '115'
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL IU de administración de fuentes de datos] {#data-feeds-management-ui}
+# IU de administración de [!UICONTROL fuentes de datos] {#data-feeds-management-ui}
 
-La [!UICONTROL Fuente de datos] de Adobe Analytics le permite exportar datos del flujo de navegación sin procesar para importarlos y fusionarlos con otras fuentes de datos en un EDW o lago de datos. Puede crear y administrar sus propias [!UICONTROL Fuentes de datos] dentro de Adobe Analytics. Este vídeo le mostrará cómo.
+La [!UICONTROL Fuente de datos] de Adobe Analytics permite exportar datos del flujo de navegación sin procesar para importarlos y combinarlos con otras fuentes de datos en un EDW o lago de datos. Puede crear y administrar sus propias [!UICONTROL Fuentes de datos] en Adobe Analytics. Este vídeo le mostrará cómo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12)
 
-Para obtener más información sobre esta función, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=en#).
+Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=es#).
