@@ -1,6 +1,6 @@
 ---
-title: Segmentos específicos (temporales) en Analysis Workspace
-description: ¿Alguna vez ha querido crear rápidamente un segmento simple para responder a una pregunta específica y luego descartar el segmento para que no rellene su lista de segmentos guardados? Ahora puede!
+title: Segmentos ad hoc (temporales) en Analysis Workspace
+description: ¿Alguna vez ha querido crear rápidamente un segmento simple para responder a una pregunta específica y luego descartar el segmento para que no rellene su lista de segmentos guardados? ¡Ahora puede!
 feature: Segmentation
 topics: null
 activity: use
@@ -12,18 +12,18 @@ role: User
 level: Beginner
 exl-id: 22c449af-0660-4166-841a-9c1e77924350
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# Segmentos específicos (temporales) en Analysis Workspace {#ad-hoc-temporary-segments-in-analysis-workspace}
+# Segmentos ad hoc (temporales) en Analysis Workspace {#ad-hoc-temporary-segments-in-analysis-workspace}
 
-¿Alguna vez ha querido crear rápidamente un segmento simple para responder a una pregunta específica y luego descartar el segmento para que no rellene su lista de segmentos guardados? Ahora puede!
+¿Alguna vez ha querido crear rápidamente un segmento simple para responder a una pregunta específica y luego descartar el segmento para que no rellene su lista de segmentos guardados? ¡Ahora puede!
 
 >[!VIDEO](https://video.tv.adobe.com/v/23978/?quality=12)
 
-Los segmentos específicos funcionan dentro del proyecto en el que se crean, pero no se guardan de forma permanente a menos que elija guardarlos.
+Los segmentos ad hoc funcionan dentro del proyecto en el que se crean, pero no se guardan de forma permanente a menos que elija guardarlos.
 
-Para obtener más información sobre esta función, vaya a la [documentación de la función](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en).
+Para obtener más información sobre esta funcionalidad, vaya a la [documentación de funcionalidades](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=es).
