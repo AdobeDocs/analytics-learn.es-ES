@@ -1,7 +1,7 @@
 ---
 title: Creación de un documento de requisitos empresariales
 description: 'En este vídeo se analiza el paso más importante de definir lo que se quiere rastrear con Adobe Analytics. ¿Qué aspectos desea conocer acerca de su sitio? Podemos anotarlos y empezar a decidir cómo hacer el seguimiento de estos. '
-feature: Conceptos básicos de implementación
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
