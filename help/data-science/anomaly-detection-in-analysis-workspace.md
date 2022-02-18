@@ -1,6 +1,6 @@
 ---
 title: Detección de anomalías en Analysis Workspace
-description: Analysis Workspace detecta automáticamente las anomalías de los datos de cualquier visualización de series temporales o tabla de datos. Atrapa a los "desconocidos" sin ningún esfuerzo adicional por tu parte.
+description: Analysis Workspace detecta automáticamente las anomalías de los datos de cualquier visualización de series temporales o tabla de datos. Capture las “incógnitas” sin ningún esfuerzo adicional por su parte.
 feature: Data Science
 topics: null
 activity: use
@@ -11,16 +11,16 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 175c91e5-6ae5-4e52-acb5-6c8fc2731bea
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Detección de anomalías en Analysis Workspace] {#anomaly-detection-in-analysis-workspace}
+# [!UICONTROL Detección de anomalías] en Analysis Workspace {#anomaly-detection-in-analysis-workspace}
 
-Analysis Workspace detecta automáticamente las anomalías en los datos de cualquier [!UICONTROL visualización] o tabla de datos de la serie temporal. Atrapa a los &quot;desconocidos&quot; sin ningún esfuerzo adicional por tu parte.
+Analysis Workspace detecta automáticamente las anomalías de los datos de cualquier [!UICONTROL visualización] de series temporales o tabla de datos. Capture las “incógnitas” sin ningún esfuerzo adicional por su parte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12)
 
-Para obtener más información sobre esta función, visite [la documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).
+Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=es).
