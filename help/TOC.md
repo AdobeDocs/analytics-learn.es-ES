@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: fe6f05a290666634db50e0b5053cf0ea99bcf1d5
 workflow-type: tm+mt
 source-wordcount: '2280'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -215,7 +215,7 @@ ht-degree: 98%
    + [Creación de informes en tiempo real en Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administración {#administration}
    + Habilidades clave del administrador {#key-admin-skills}
-      + [Creación de una comunidad con poder](administration/key-admin-skills/empowered-community.md)
+      + [Creación de una comunidad empoderada](administration/key-admin-skills/empowered-community.md)
       + [Simplificar y dedicar menos tiempo a formar usuarios](administration/key-admin-skills/simplify-training-users.md)
       + [Conseguir las personas adecuadas en su equipo de Analytics](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + Configuración de la empresa {#company-settings}
@@ -237,7 +237,7 @@ ht-degree: 98%
       + [Configuración de variables de tráfico (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configurar clasificaciones de tráfico](administration/manage-report-suites/configure-traffic-classifications.md)
       + [Configurar variables de jerarquía](administration/manage-report-suites/configure-hierarchy-variables.md)
-      + [Configuración de variables en la Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Configuración de variables en Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Configurar clasificaciones de conversión](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Configuración de variables de lista](administration/manage-report-suites/configuring-list-variables.md)
       + [Configuración de métodos de localización](administration/manage-report-suites/configure-finding-methods.md)
