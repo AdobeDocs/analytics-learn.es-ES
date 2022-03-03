@@ -8,13 +8,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 340078.jpg
 kt: 9576
-source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
-workflow-type: tm+mt
+exl-id: ae7760e6-5ec3-4e2a-a717-cf63b760bba0
+source-git-commit: 099b919c0c2060d727b65888644ed3ce3642e66f
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 21%
+ht-degree: 100%
 
 ---
-
 
 # Configurar clasificaciones de conversión
 
