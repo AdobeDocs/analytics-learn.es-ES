@@ -7,13 +7,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 34749.jpg
 kt: 9830
-source-git-commit: 404ec61f8e1ad389f9d0f51d60ce5d9634b0a38c
+exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
+source-git-commit: de78868e07b0fa59a7babc092c463bbe4d8e2da7
 workflow-type: tm+mt
-source-wordcount: '3644'
+source-wordcount: '3690'
 ht-degree: 1%
 
 ---
-
 
 # Guía completa para la transición de Google Analytics a Adobe Analytics
 
@@ -116,7 +116,7 @@ En Adobe, los segmentos (esencialmente los filtros de datos) se aplican de forma
 
 Las tablas improvisadas permiten varias columnas y segmentación, según sea necesario, para visualizar los datos como desee.
 
-A partir de lo anterior, ¿no desea ver un desglose por fecha? Basta con arrastrar y soltar otra dimensión o segmento para ver los datos de una manera diferente... como quizá usar segmentos para el tipo de dispositivo y, a continuación, agregar un desglose por sistema operativo para los usuarios de dispositivos móviles/tableta:
+A partir de lo anterior, ¿no desea ver un desglose por fecha? Basta con arrastrar y soltar otra dimensión o segmento para ver los datos de una manera diferente... como quizá usar segmentos para el tipo de dispositivo y, a continuación, agregar un desglose por sistema operativo para los usuarios de Mobile/Tablet:
 
 ![image3](assets/ga-to-aa_4.png)
 
@@ -170,7 +170,7 @@ Aquí también encontrará informes de &quot;bots&quot;, el tráfico de bots se 
 
 El contenido del sitio es una agrupación de dimensiones estándar de Adobe: Nombre de página, Secciones del sitio (canales), Jerarquías (una forma de crear informes de desglose personalizados de la organización dentro del sitio web), Servidores (esto es especialmente útil si tiene varios subdominios en el sitio o si está etiquetando varios sitios juntos en un grupo de seguimiento), etc. Todas estas opciones están disponibles en Workspace.
 
-Mobile es una agrupación de datos específicos de dispositivos móviles, como dispositivos, tipos de dispositivos, etc. Todas estas opciones están disponibles en Workspace.
+Mobile es una agrupación de datos específicos de dispositivos de Mobile, como dispositivos, tipos de dispositivos, etc. Todas estas opciones están disponibles en Workspace.
 
 Las rutas son otro de los elementos &quot;no disponibles en Workspace&quot;... mientras que Workspace sí tiene un diagrama de flujo, solo puede ver los flujos de entrada y salida de una sola página o valor... mientras que las rutas le permiten ver las rutas más comunes utilizadas en su sitio web. De forma predeterminada, Páginas es el primer informe de ruta configurado por usted, pero puede activarlo para propiedades personalizadas (por ejemplo, si rastreara un valor &quot;Tipo de página&quot;, podría observar las rutas dentro de los tipos de página). La otra cosa que me gusta personalmente de las Rutas es la forma sencilla en que se presenta la información... El diagrama de flujo en el espacio de trabajo (dependiendo de cuánto esté tratando de ver) puede ser abrumador. Recomiendo probar ambos... cada uno tiene un uso y valor dependiendo de lo que esté tratando de lograr. Debe tenerse en cuenta que cualquier dimensión se puede utilizar en Flujos, mientras que el control de rutas debe configurarse en una propiedad en el panel Administrador.
 
@@ -268,20 +268,19 @@ Sin embargo, subrayaré que recomendaría utilizar tanto Adobe Analytics como Go
 
 Hay muchos recursos disponibles más allá de esta guía que pueden ayudar a mejorar su estrategia:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/?lang=es#home) (que contiene tutoriales, vídeos, documentación y foros de la comunidad)
-* [Grupos de usuarios de Adobe](https://analytics-augs.adobe.com/) (este es un centro de eventos de ejecución de la comunidad para ayudar a los usuarios a conectarse entre sí y mejorar sus implementaciones; simplemente porque se basan en una zona horaria determinada, es mejor comprobar qué otras regiones se están ejecutando también).
-* Canal de YouTube
-   * [Grupos de usuarios de Adobe Analytics](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA)
-* Canales del Slack
-   * [Medir chat](https://www.measure.chat/)
-* y más
+* [Adobe Experience League](https://experienceleague.adobe.com/?lang=es#home) : contiene tutoriales, vídeos, documentación y foros de la comunidad
+* [Grupos de usuarios de Adobe](https://analytics-augs.adobe.com/) : centro de eventos de ejecución comunitaria para ayudar a los usuarios a conectarse entre sí y mejorar sus implementaciones. Puesto que estos eventos se basan en un huso horario específico, es mejor comprobar qué otras regiones se están ejecutando también.
+* [Canal de YouTube de grupos de usuarios de Adobe Analytics](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - ¿No se pudo hacer una sesión de grupo de usuarios de Adobe Analytics? Vuelva a ver las sesiones de grupos de usuarios anteriores en todo el mundo para obtener más información sobre cómo utilizan la herramienta sus compañeros.
+* [Medir el canal del Slack de chat](https://www.measure.chat/) : conéctese con usuarios de Adobe Analytics de todo el mundo y comparta las lecciones aprendidas en la industria, haga preguntas con sus colegas y únase a grupos de interés centrados en la medición.
+* y más!
 
 ## Autor
 
 Este documento fue escrito por:
 
-![Jennifer Dugan](assets/Jennifer_Dungan_Headshot150.png)
+![Jennifer Dungan](assets/Jennifer_Dungan_Headshot150.png)
+
+Jennifer Dungan, responsable de optimización de Analytics en Torstar
 
 Campeón de Adobe Analytics
 
-Jennifer Dugan, administrador de optimización de Analytics en Torstar
