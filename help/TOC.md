@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analytics.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: cbdee5b0a5968edfdc19cbcfaaebe63af270bd34
+source-git-commit: d0ea66f585fbe2d4e54495ada024f8f39cdc8472
 workflow-type: tm+mt
-source-wordcount: '2288'
+source-wordcount: '2292'
 ht-degree: 98%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 98%
       + [Supersesión de la cumbre de 2019: Viajes y hospitalidad](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Supersesión de la cumbre de 2019: Ventas minoristas](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Supersesión de la cumbre de 2019: Alta tecnología](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + Transición desde otras plataformas {#transitioning-from-other-platforms}
+   + Transitioning from other platforms {#transitioning-from-other-platforms}
       + [Transición desde Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Aspectos básicos de Analytics {#analytics-basics}
       + [Botón Probar en el Espacio de trabajo de Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
@@ -78,6 +78,7 @@ ht-degree: 98%
       + [Creación de una tabla de contenido](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Haga clic con el botón derecho para aumentar la eficiencia del Espacio de trabajo](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Métodos abreviados de teclado](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
+      + [Anotaciones en Analysis Workspace](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Barra de menús](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [Administración de proyectos](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
       + [Deshacer acciones en Analysis Workspace](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
