@@ -2,25 +2,24 @@
 title: Uso compartido de componentes incrustados en Analysis Workspace
 description: A veces desea compartir un proyecto de Analysis Workspace, pero también olvida compartir los segmentos y las métricas que ha incluido con sus colegas. Este vídeo muestra cómo ahora puede compartir segmentos y métricas en el proceso de compartir sus proyectos para que sus compañeros vean lo que pretendía cada vez.
 feature: Curate and Share
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2295
+topic: Collaboration
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 341273.jpg
+kt: 2295
 exl-id: 14af33e2-659e-4d78-923f-20752e26067b
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+source-git-commit: eb553f8a90a4f53329a1907e78d837fdb1d49f85
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 
 ---
 
-# Uso compartido de componentes incrustados en Analysis Workspace {#share-embedded-components-in-analysis-workspace}
+# Uso compartido de componentes incrustados en Analysis Workspace
 
-A veces desearía compartir un proyecto de Analysis Workspace, pero olvidó compartir los [!UICONTROL segmentos] y [!UICONTROL métricas] que ha incluido con sus colegas. Este vídeo muestra cómo ahora puede compartir [!UICONTROL segmentos] y [!UICONTROL métricas] en el proceso de compartir sus proyectos para que sus compañeros vean lo que pretendía cada vez.
+A veces desea compartir un proyecto de Analysis Workspace, pero también olvida compartir los segmentos y las métricas que ha incluido con sus colegas. Este vídeo muestra cómo ahora puede compartir segmentos y métricas en el proceso de compartir sus proyectos para que sus compañeros vean lo que pretendía cada vez.
 
->[!VIDEO](https://video.tv.adobe.com/v/24713/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/341273/?quality=12&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=es).
