@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
 workflow-type: tm+mt
 source-wordcount: '2286'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -217,10 +217,10 @@ ht-degree: 98%
 + Reports and Analytics {#reports-and-analytics}
    + [Creación de informes en tiempo real en Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administración {#administration}
-   + Habilidades clave del administrador {#key-admin-skills}
+   + Habilidades clave de administración {#key-admin-skills}
       + [Creación de una comunidad empoderada](administration/key-admin-skills/empowered-community.md)
-      + [Simplificar y dedicar menos tiempo a formar usuarios](administration/key-admin-skills/simplify-training-users.md)
-      + [Conseguir las personas adecuadas en su equipo de Analytics](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
+      + [Simplificación de la formación de usuarios para dedicarle menos tiempo](administration/key-admin-skills/simplify-training-users.md)
+      + [Captación de las personas adecuadas en su equipo de Analytics](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + Configuración de la empresa {#company-settings}
       + [Aplicación de restricciones de dominios de correo electrónico](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Consulta de las funciones disponibles de la cuenta](administration/company-settings/view-your-accounts-available-features.md)
@@ -234,12 +234,12 @@ ht-degree: 98%
       + [Personalización de la configuración de calendario](administration/manage-report-suites/customize-calendar-settings.md)
       + [Configurar la detección de búsqueda de pago](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Configuración de canales de marketing](administration/manage-report-suites/set-up-marketing-channels.md)
-      + [Creación de reglas de procesamiento del canal de marketing](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
+      + [Creación de reglas de procesamiento de canal de marketing](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [Personalización de menús en Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Manipulación de datos entrantes con reglas de procesamiento](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Configuración de variables de tráfico (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configurar clasificaciones de tráfico](administration/manage-report-suites/configure-traffic-classifications.md)
-      + [Configurar variables de jerarquía](administration/manage-report-suites/configure-hierarchy-variables.md)
+      + [Configuración de variables de jerarquía](administration/manage-report-suites/configure-hierarchy-variables.md)
       + [Configuración de variables en Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Configurar clasificaciones de conversión](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Configuración de variables de lista](administration/manage-report-suites/configuring-list-variables.md)
