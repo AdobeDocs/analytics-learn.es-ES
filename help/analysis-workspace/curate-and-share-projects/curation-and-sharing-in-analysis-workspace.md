@@ -1,5 +1,5 @@
 ---
-title: Depurar y compartir en Analysis Workspace
+title: Depuración y uso compartido en Analysis Workspace
 description: Una vez que haya creado un proyecto en Analysis Workspace, puede depurarlo (simplificarlo) y compartirlo con otros equipos e individuos de sus organizaciones para que puedan explorarlo y autoabastecerlo con datos. Este vídeo muestra cómo trabajar con la depuración y el uso compartido.
 feature: Curate and Share
 topic: Collaboration
@@ -9,13 +9,13 @@ doc-type: feature video
 thumbnail: 341021.jpg
 kt: 2294
 source-git-commit: 8cba2c4f9d7daa5befe4f6bd90afed066dbbfea9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
-# Depurar y compartir en Analysis Workspace
+# Depuración y uso compartido en Analysis Workspace
 
 Una vez que haya creado un proyecto en Analysis Workspace, puede [!UICONTROL depurarlo] (simplificarlo) y compartirlo con otros equipos e individuos de sus organizaciones para que puedan explorarlo y autoabastecerlo con datos. Este vídeo le muestra cómo trabajar con [!UICONTROL depuración] y uso compartido.
 
