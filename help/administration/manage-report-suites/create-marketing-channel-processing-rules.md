@@ -1,6 +1,6 @@
 ---
-title: Creación de reglas de procesamiento del canal de marketing
-description: En este vídeo explicamos cómo configurar las reglas de procesamiento de los canales de marketing.
+title: Creación de reglas de procesamiento de canal de marketing
+description: En este vídeo, explicamos cómo configurar las reglas de procesamiento para los canales de marketing.
 feature: Marketing Channels
 topic: Administration
 role: Admin
@@ -8,18 +8,18 @@ level: Beginner
 doc-type: feature video
 thumbnail: 340792.jpg
 kt: 9624
-source-git-commit: fe6f05a290666634db50e0b5053cf0ea99bcf1d5
-workflow-type: tm+mt
+exl-id: fc07dd0f-76dd-40a6-b8f2-e777eac2473b
+source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
+# Creación de reglas de procesamiento de canal de marketing
 
-# Creación de reglas de procesamiento del canal de marketing
-
-En este vídeo explicamos cómo configurar las reglas de procesamiento de los canales de marketing.
+En este vídeo, explicamos cómo configurar las reglas de procesamiento para los canales de marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340792/?quality=12&learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-rules.html?lang=en).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-rules.html?lang=es).
