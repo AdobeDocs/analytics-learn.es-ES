@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 341027.jpg
 kt: 2296
 source-git-commit: 5791ddd8ef948d74148bc4c2d4834a69ce879858
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ Este vídeo muestra cómo democratizar mejor el análisis mediante la creación 
 
 >[!VIDEO](https://video.tv.adobe.com/v/341027/?quality=12&learn=on)
 
-Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=en).
+Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=es).
