@@ -1,6 +1,6 @@
 ---
-title: Configurar variables de jerarquía
-description: Aprenda cuándo y cómo configurar y configurar variables de jerarquía para el sitio, una función que se puede usar para mostrar una vista jerárquica de las páginas del sitio y cuánto tráfico llega a cada nodo.
+title: Configuración de variables de jerarquía
+description: Aprenda cuándo y cómo definir y configurar variables de jerarquía para el sitio, una función que se puede usar para mostrar una vista jerárquica de las páginas de este y de cuánto tráfico llega a cada nodo.
 feature: Variables
 topic: Administration
 role: Admin
@@ -8,18 +8,18 @@ level: Beginner
 doc-type: feature video
 thumbnail: 340680.jpg
 kt: 9793
-source-git-commit: 55ab1f97bcc06c497c7f367a3d56bdd21763be45
-workflow-type: tm+mt
+exl-id: 607c9ade-c060-4484-a45a-5f50172cee6a
+source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
+# Configuración de variables de jerarquía
 
-# Configurar variables de jerarquía
-
-Aprenda cuándo y cómo configurar y configurar variables de jerarquía para el sitio, una función que se puede usar para mostrar una vista jerárquica de las páginas del sitio y cuánto tráfico llega a cada nodo.
+Aprenda cuándo y cómo definir y configurar variables de jerarquía para el sitio, una función que se puede usar para mostrar una vista jerárquica de las páginas de este y de cuánto tráfico llega a cada nodo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340680/?quality=12&learn=on)
 
-Para obtener más información, visite el [documentación](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html?lang=es).
+Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html?lang=es).
