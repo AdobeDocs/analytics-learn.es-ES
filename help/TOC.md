@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analytics.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
+source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
 workflow-type: tm+mt
-source-wordcount: '2286'
+source-wordcount: '2294'
 ht-degree: 99%
 
 ---
@@ -343,6 +343,7 @@ ht-degree: 99%
    + Data Warehouse {#data-warehouse}
       + [Introducción a Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [Envío de solicitud de Data Warehouse a través de SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [Enviar informes de Data Warehouse en Tableau Data Extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Archivo de fuentes de datos {#data-feeds}
       + [IU de administración de fuentes de datos](exporting/data-feeds/data-feeds-management-ui.md)
       + [Descarga de la clave de autenticación de la fuente de datos](exporting/data-feeds/download-the-data-feed-authentication-key.md)
