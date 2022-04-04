@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analytics.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: f9e9a8e194305d382c8090c212656d3019fb0a2b
+source-git-commit: 7caea7a0194180dd1d4489703adc0356d9564609
 workflow-type: tm+mt
-source-wordcount: '2299'
-ht-degree: 99%
+source-wordcount: '2321'
+ht-degree: 98%
 
 ---
 
@@ -222,6 +222,10 @@ ht-degree: 99%
       + [Creación de una comunidad empoderada](administration/key-admin-skills/empowered-community.md)
       + [Simplificación de la formación de usuarios para dedicarle menos tiempo](administration/key-admin-skills/simplify-training-users.md)
       + [Captación de las personas adecuadas en su equipo de Analytics](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
+      + [Conseguir un asiento en la mesa](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+      + [Contar historias impactantes con datos](administration/key-admin-skills/telling-impactful-stories-with-data.md)
+      + [Traducción del lenguaje técnico de Adobe Analytics de forma no técnica](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+      + [Trabajo entre funciones](administration/key-admin-skills/working-cross-functionally.md)
    + Configuración de la empresa {#company-settings}
       + [Aplicación de restricciones de dominios de correo electrónico](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Consulta de las funciones disponibles de la cuenta](administration/company-settings/view-your-accounts-available-features.md)
