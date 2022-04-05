@@ -1,6 +1,6 @@
 ---
 title: 'Vídeo: Cómo puede cambiar Adobe Analysis Workspace su negocio'
-landing-page-description: Con Analysis Workspace, puede realizar análisis específicos, análisis flexible, análisis de cohortes y análisis de abandonos.
+landing-page-description: Aprenda a realizar análisis específicos, análisis flexibles, análisis de cohorte y análisis de visitas en el orden previsto mediante Analysis Workspace.
 description: Analysis Workspace es una interfaz nueva y fácil de usar en Adobe Analytics. En Analysis Workspace, puede hacer análisis ad hoc, flexible, de cohortes y de abandonos. También puede compartir el entorno de trabajo del análisis con todos los usuarios de la compañía, y su función de arrastrar y soltar permite a todos analizar los datos fácilmente y obtener perspectivas rápidamente.
 feature: Workspace Basics
 topics: null
@@ -11,10 +11,10 @@ kt: 4382
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '162'
-ht-degree: 100%
+source-git-commit: f08de1c175fc5d77d574b8abd9ad3e826661237d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
