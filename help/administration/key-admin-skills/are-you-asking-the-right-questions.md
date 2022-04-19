@@ -7,9 +7,9 @@ role: Admin
 level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
-source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
+source-git-commit: b5cda911edf548886cc0aeb404a8289bcea4f454
 workflow-type: tm+mt
-source-wordcount: '1080'
+source-wordcount: '1082'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Envíe una lista de preguntas para que su parte interesada las revise antes de l
 
 Las preguntas variarán según la capacidad técnica o analítica, la estructura de la empresa o la complejidad del tema de recopilación de datos. A menudo es útil empezar a un alto nivel, con preguntas acerca de toda la organización, luego discutir el rol de sus partes interesadas en apoyo de esos objetivos organizativos, y así sucesivamente en niveles de detalle crecientes. A continuación, puede asegurarse de que los puntos de datos granulares analizados admitan de forma eficaz los objetivos generales de la organización. También le permite pensar de manera creativa y sugerir nuevas ideas para datos que apoyen sus objetivos.
 
-[Explorar esta plantilla](assets/stakeholder-questionnaire.pdf) contiene varias preguntas de muestra para las entrevistas con los interesados. Vuelva a utilizarlos o hágalo para preparar las preguntas relevantes para sus discusiones.
+[Explorar esta plantilla](assets/stakeholder-questionnaire.pdf){target=&quot;_blank&quot;} que contiene varias preguntas de muestra para entrevistas de partes interesadas. Vuelva a utilizarlos o hágalo para preparar las preguntas relevantes para sus discusiones.
 
 ### 2. Solicitar informes de muestra
 
