@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analytics.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: 0c61d08819b6a6d2fa15f287b9f6d88b6f5ef246
+source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
 workflow-type: tm+mt
-source-wordcount: '2346'
-ht-degree: 97%
+source-wordcount: '2364'
+ht-degree: 96%
 
 ---
 
@@ -56,6 +56,8 @@ ht-degree: 97%
    + Conceptos básicos de Analysis Workspace {#analysis-workspace-basics}
       + [Introducción a Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Información general de Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
+      + [Desplazamiento por la nueva página de aterrizaje](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Actualizaciones de la página de aterrizaje de Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [Creación de nuevos proyectos de Analysis Workspace](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Creación de un proyecto del Espacio de trabajo desde cero](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Creación y administración de plantillas personalizadas en Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
@@ -95,6 +97,7 @@ ht-degree: 97%
       + [Uso de paneles para organizar los proyectos de Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Mejoras en la zona de colocación de segmentos](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Varios grupos de informes en Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
+      + [Paneles e informes del espacio de trabajo de resumen de página siguiente/anterior](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Creación de tablas de forma libre {#building-freeform-tables}
       + [Comprenda sus datos: tablas de forma libre](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Uso del carril izquierdo para crear tablas de forma libre en Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
