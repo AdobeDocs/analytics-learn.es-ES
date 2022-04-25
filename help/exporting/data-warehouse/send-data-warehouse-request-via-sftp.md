@@ -1,5 +1,5 @@
 ---
-title: Envío de solicitud de Data Warehouse a través de SFTP
+title: Envío de solicitudes del almacén de datos mediante SFTP
 description: El Data Warehouse hace referencia a la copia de datos de Analytics para almacenarlos y elaborar informes personalizados, que se pueden ejecutar filtrando los datos. Puede solicitar informes para mostrar las relaciones de datos avanzadas que hay entre los datos sin procesar en función de sus propias preguntas. Los informes del almacén de datos se envían por correo electrónico o mediante FTP y pueden tardar hasta 72 horas en procesarse. El tiempo de procesamiento dependerá de la complejidad de la consulta y de la cantidad de datos solicitados.
 feature: Data Warehouse
 topic: Administration
@@ -9,16 +9,16 @@ doc-type: feature video
 thumbnail: 335751.jpg
 kt: KT-8467
 exl-id: 76ae8c9f-def3-4da5-ad39-49bd74e5bd8a
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
-workflow-type: ht
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 100%
+ht-degree: 81%
 
 ---
 
 # Envío de solicitud de Data Warehouse a través de SFTP
 
-El Data Warehouse hace referencia a la copia de datos de Analytics para almacenarlos y elaborar informes personalizados, que se pueden ejecutar filtrando los datos. Puede solicitar informes para mostrar las relaciones de datos avanzadas que hay entre los datos sin procesar en función de sus propias preguntas. Los informes del almacén de datos se envían por correo electrónico o mediante FTP y pueden tardar hasta 72 horas en procesarse. El tiempo de procesamiento dependerá de la complejidad de la consulta y de la cantidad de datos solicitados.
+El almacén de datos hace referencia a la copia de datos de análisis para almacenarlos y elaborar informes personalizados, que se pueden ejecutar filtrando los datos. Puede solicitar informes para mostrar las relaciones de datos avanzadas que hay entre los datos sin procesar en función de sus propias preguntas. Los informes del almacén de datos se envían por correo electrónico o mediante FTP y pueden tardar hasta 72 horas en procesarse. El tiempo de procesamiento dependerá de la complejidad de la consulta y de la cantidad de datos solicitados.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)
