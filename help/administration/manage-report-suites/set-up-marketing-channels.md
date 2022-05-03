@@ -1,6 +1,6 @@
 ---
 title: Configuración de canales de marketing en el grupo de informes
-description: En este vídeo, se muestra cómo configurar los informes de canales de marketing en el grupo de informes de Analytics.
+description: En este vídeo, demostramos cómo configurar los informes de canales de marketing en su grupo de informes de Analytics.
 feature: Marketing Channels
 topic: Administration
 role: Admin
@@ -10,20 +10,20 @@ thumbnail: 340789.jpg
 kt: 9623
 exl-id: 986707b8-3af4-4157-9afb-4ff95cb8705a
 source-git-commit: 9836913129127648ffda01fec5b60240f5de5870
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 44%
+ht-degree: 100%
 
 ---
 
 # Configuración de canales de marketing en el grupo de informes
 
-En este vídeo, se muestra cómo configurar los informes de canales de marketing en el grupo de informes de Analytics.
+En este vídeo, demostramos cómo configurar los informes de canales de marketing en su grupo de informes de Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340789/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Para maximizar la eficacia de los canales de marketing para Attribution IQ y Customer Journey Analytics, publicamos algunas [prácticas recomendadas revisadas](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=es).
+>Para maximizar la eficacia de los canales de marketing para Attribution IQ y Customer Journey Analytics, hemos publicado algunas [prácticas recomendadas revisadas](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=es).
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html?lang=es).
