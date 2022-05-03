@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
 workflow-type: tm+mt
 source-wordcount: '2364'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -226,9 +226,9 @@ ht-degree: 96%
       + [Simplificación de la formación de usuarios para dedicarle menos tiempo](administration/key-admin-skills/simplify-training-users.md)
       + [Captación de las personas adecuadas en su equipo de Analytics](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
       + [Conseguir un asiento en la mesa](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
-      + [Contar historias impactantes con datos](administration/key-admin-skills/telling-impactful-stories-with-data.md)
+      + [contar historias impactantes con datos](administration/key-admin-skills/telling-impactful-stories-with-data.md)
       + [Traducción del lenguaje técnico de Adobe Analytics de forma no técnica](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
-      + [Trabajo entre funciones](administration/key-admin-skills/working-cross-functionally.md)
+      + [Trabajo multifuncional](administration/key-admin-skills/working-cross-functionally.md)
       + [¿Estás haciendo las preguntas correctas?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Configuración de la empresa {#company-settings}
       + [Aplicación de restricciones de dominios de correo electrónico](administration/company-settings/enforce-email-domain-restrictions.md)
@@ -352,7 +352,7 @@ ht-degree: 96%
    + Data Warehouse {#data-warehouse}
       + [Introducción a Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [Envío de solicitud de Data Warehouse a través de SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [Enviar informes de Data Warehouse en Tableau Data Extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [Envío de informes de Data Warehouse en Tableau Data Extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Archivo de fuentes de datos {#data-feeds}
       + [IU de administración de fuentes de datos](exporting/data-feeds/data-feeds-management-ui.md)
       + [Descarga de la clave de autenticación de la fuente de datos](exporting/data-feeds/download-the-data-feed-authentication-key.md)
