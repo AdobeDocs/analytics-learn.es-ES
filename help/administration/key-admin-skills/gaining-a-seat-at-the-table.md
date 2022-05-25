@@ -7,13 +7,13 @@ role: Admin
 level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
-source-git-commit: 5c1a78ea47373af78e3ad33e48f1401405e8bd88
-workflow-type: ht
+exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
+source-git-commit: e00df8fba0101dff2a8a0a1640b107f0497fabb1
+workflow-type: tm+mt
 source-wordcount: '1263'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
-
 
 # Conseguir un asiento en la mesa
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ## Por qué debe estar en la mesa
 
-Primero, vamos a hablar de algo. La función de administrador de Analytics ha evolucionado. Los administradores ya no pueden permanecer sentados detrás de las pantallas de sus equipos, centrándose únicamente en eVars, eventos y sProps. Usted, como administrador, tiene la responsabilidad de asegurarse de que su empresa esté tomando las decisiones correctas basadas en datos. Pero para ello, necesitas estar donde se toman esas decisiones, no haciendo cálculos en el escritorio.
+Primero, vamos a hablar de algo. El papel de los analistas de datos ha evolucionado. Los analistas ya no pueden quedarse atrás de las pantallas de sus equipos, centrándose únicamente en eVars, eventos y sProps. Usted, como administrador, tiene la responsabilidad de asegurarse de que su empresa esté tomando las decisiones correctas basadas en datos. Pero para ello, necesitas estar donde se toman esas decisiones, no haciendo cálculos en el escritorio.
 
 Estas son tres razones por las que necesitas estar ahí.
 
