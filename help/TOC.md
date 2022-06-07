@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
 workflow-type: tm+mt
 source-wordcount: '2365'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 98%
    + Conceptos básicos de Analysis Workspace {#analysis-workspace-basics}
       + [Introducción a Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Información general de Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [Desplazamiento por la nueva página de aterrizaje](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Navegación por la nueva página de aterrizaje](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Actualizaciones de la página de aterrizaje de Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [Creación de nuevos proyectos de Analysis Workspace](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Creación de un proyecto del Espacio de trabajo desde cero](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
@@ -229,7 +229,7 @@ ht-degree: 98%
       + [contar historias impactantes con datos](administration/key-admin-skills/telling-impactful-stories-with-data.md)
       + [Traducción del lenguaje técnico de Adobe Analytics de forma no técnica](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Trabajo multifuncional](administration/key-admin-skills/working-cross-functionally.md)
-      + [¿Estás haciendo las preguntas correctas?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+      + [¿Plantea las preguntas correctas?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Configuración de la empresa {#company-settings}
       + [Aplicación de restricciones de dominios de correo electrónico](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Consulta de las funciones disponibles de la cuenta](administration/company-settings/view-your-accounts-available-features.md)
@@ -364,8 +364,8 @@ ht-degree: 98%
       + [Edición de métricas en varias solicitudes](exporting/report-builder/edit-metrics-across-requests.md)
       + [Uso de Report Builder para conocer la API de Adobe Analytics](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
       + [Introducción a Report Builder](exporting/report-builder/get-started-with-report-builder.md)
-      + [Programar una solicitud de Report Builder](exporting/report-builder/schedule-a-report-builder-request.md)
-      + [Uso de las opciones de envío avanzadas del Report Builder para la Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
+      + [Programación de una solicitud de Report Builder](exporting/report-builder/schedule-a-report-builder-request.md)
+      + [Uso de las opciones de entrega avanzadas de Report Builder para Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Integraciones {#integrations}
    + Experience Cloud {#experience-cloud}
       + [Publicación de audiencias de Experience Cloud mejorada](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
