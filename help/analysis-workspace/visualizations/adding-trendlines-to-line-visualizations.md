@@ -26,4 +26,4 @@ En [!UICONTROL Configuración de visualización], puede elegir añadir una regre
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=es#analysis-workspace).
 
-Si desea exportar promedios móviles o si desea agregar muchos promedios a una tabla a la vez, puede crear métricas calculadas en su lugar. Obtenga más información en [este vídeo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html?lang=es).
+Si desea exportar promedios móviles o si desea agregar muchos promedios a una tabla a la vez, puede crear métricas calculadas en su lugar. Obtenga más información en [este vídeo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html?lang=es#analysis-workspace).
