@@ -26,4 +26,4 @@ Este vídeo explica cómo implementar las plantillas de seguimiento desde [!DNL 
 
 ## Recursos adicionales {#additional-resources}
 
-* [Configuración [!DNL Advertising Analytics] en Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/configuring-advertising-analytics.html?lang=es)
+* [Configuración  [!DNL Advertising Analytics]  en Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/configuring-advertising-analytics.html?lang=es)
