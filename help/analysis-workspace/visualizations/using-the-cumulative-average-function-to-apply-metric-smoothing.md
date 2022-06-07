@@ -20,6 +20,6 @@ ht-degree: 100%
 
 # Uso de la [!UICONTROL función] [!UICONTROL media acumulativa] para aplicar el suavizado de [!UICONTROL métricas] {#using-the-cumulative-average-function-to-apply-metric-smoothing}
 
-Cuanto más largo sea el período de tiempo en el que se realiza la tendencia de una [!UICONTROL métrica], más difícil es contar las tendencias direccionales para la variable [!UICONTROL métrica]. Para resolver esto, la [!UICONTROL función]Media acumulada en [!UICONTROL Métricas calculadas] se puede usar para aplicar suavizado a [!UICONTROL métricas] en Analysis Workspace.
+Cuanto más largo sea el período de tiempo en el que se realiza la tendencia de una [!UICONTROL métrica], más difícil es contar las tendencias direccionales para la variable [!UICONTROL métrica]. Para resolver esto, la [!UICONTROL función] [!UICONTROL Media acumulada] en [!UICONTROL Métricas calculadas] se puede usar para aplicar suavizado a [!UICONTROL métricas] en Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=9)
