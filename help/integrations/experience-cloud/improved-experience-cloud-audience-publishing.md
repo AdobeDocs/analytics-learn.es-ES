@@ -1,7 +1,7 @@
 ---
 title: Publicación de audiencias de Experience Cloud mejorada
 landing-page-description: Conozca las audiencias de publicación (segmentos) y haga que estén disponibles más rápido que nunca.
-description: Se ha mejorado la publicación de Audiencias de Experience Cloud. Ahora puede publicar audiencias (segmentos) y habilitarlas seis veces más rápido, lo que reduce el tiempo de latencia actual de 48 horas a aproximadamente 8 horas y posiblemente más rápido, según el tráfico y el tamaño del segmento.
+description: Se ha mejorado la publicación de audiencias de Experience Cloud. Ahora puede publicar audiencias (segmentos) y habilitarlas seis veces más rápido, lo que reduce el tiempo de latencia actual de 48 horas a aproximadamente ocho, y posiblemente más rápido, según el tráfico y el tamaño del segmento.
 feature: Experience Cloud Integration
 topics: null
 activity: setup
