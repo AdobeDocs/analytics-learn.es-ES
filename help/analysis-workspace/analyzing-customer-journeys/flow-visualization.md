@@ -20,4 +20,4 @@ Las visualizaciones de flujo se utilizan para explorar los recorridos exactos qu
 
 >[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12&learn=on)
 
-Para obtener más información acerca de esta función, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=es).
+Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=es).
