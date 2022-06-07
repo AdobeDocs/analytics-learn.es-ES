@@ -42,7 +42,7 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
   <td>
       <img alt="Servicios de contenido" src="./assets/content.png" />
      <div>
-          <strong>Content and Commerce de </strong>
+          <strong>Content and Commerce</strong>
      <div>
           <em>Octubre de 2021</em>
      </div>
