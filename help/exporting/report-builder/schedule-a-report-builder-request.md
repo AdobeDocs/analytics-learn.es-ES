@@ -1,5 +1,5 @@
 ---
-title: Programar una solicitud de Report Builder
+title: Programación de una solicitud de Report Builder
 description: En este vídeo, aprenderá a configurar una programación básica para un libro de Report Builder.
 feature: Report Builder
 role: User
@@ -7,18 +7,18 @@ level: Beginner
 doc-type: feature video
 thumbnail: 342376.jpg
 kt: 9873
-source-git-commit: 73dfeab6c698d2637e54d9b7e0a280d51e155e7e
-workflow-type: tm+mt
+exl-id: 087565b7-6f73-4667-ae29-446e9a0a6fab
+source-git-commit: fd823be4eb59136ceec1f583bb7bbc405dd1f3ea
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
+# Programación de una solicitud de [!DNL Report Builder]
 
-# Programar una [!DNL Report Builder] solicitud
-
-En este vídeo, aprenderá a configurar una programación básica para un [!DNL Report Builder] libro de trabajo.
+En este vídeo, aprenderá a configurar una programación básica para un libro de [!DNL Report Builder].
 
 >[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
 
-Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=en).
+Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=es).
