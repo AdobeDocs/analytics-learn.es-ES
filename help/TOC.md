@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analytics.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
+source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
 workflow-type: tm+mt
-source-wordcount: '2365'
-ht-degree: 99%
+source-wordcount: '2392'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,10 @@ ht-degree: 99%
       + [Supersesión de la cumbre de 2019: Viajes y hospitalidad](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Supersesión de la cumbre de 2019: Ventas minoristas](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Supersesión de la cumbre de 2019: Alta tecnología](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + Estrategia y liderazgo mental{#strategy}
+      + [Parte 1: Hackers simples para la buena eficiencia](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+      + [Parte 2: Hackers simples para la buena eficiencia](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+      + [Dominar la inteligencia de los clientes con Virtual Analyst y Segment IQ en Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
    + Transición desde otras plataformas {#transitioning-from-other-platforms}
       + [Transición desde Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Aspectos básicos de Analytics {#analytics-basics}
@@ -442,3 +446,4 @@ ht-degree: 99%
 + [Plan de estudios de Analytics para universidades](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
 + [Se han retirado los aspectos básicos de Analytics para usuarios empresariales](retired-courses/retire-fundamentals-for-business-users-course.md)
+
