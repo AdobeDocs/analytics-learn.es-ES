@@ -25,8 +25,8 @@ Para muchas acciones de la página, el seguimiento no debe tratarse como una vis
 
 Existen dos funciones que envían datos a Adobe Analytics:
 
-1. s.t() : una señalización de “seguimiento”, que es una visita de vista de páginas, que incrementa las vistas de página para el nombre de página dado, así como otras variables
-1. s.tl() : una señalización de “seguimiento de vínculos”, que a menudo se denomina visita/señalización de “vínculo personalizado”, que no incrementa las vistas de página, e ignora la variable pageName. Esto se utiliza comúnmente para rastrear acciones más pequeñas en la página que no cargan una nueva página o pantalla, u otras acciones que no resultan en una nueva carga de página.
+1. s.t() - una señalización de “seguimiento”, que es una visita de vista de páginas, que incrementa las vistas de página para el nombre de página dado, así como otras variables
+1. s.tl() - una señalización de “seguimiento de vínculos”, que a menudo se denomina visita/señalización de “vínculo personalizado”, que no incrementa las vistas de página, e ignora la variable pageName. Esto se utiliza comúnmente para rastrear acciones más pequeñas en la página que no cargan una nueva página o pantalla, u otras acciones que no resultan en una nueva carga de página.
 
 >[!NOTE]
 >
