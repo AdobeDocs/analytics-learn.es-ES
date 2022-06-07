@@ -1,5 +1,5 @@
 ---
-title: Detección de anomalías en el Report Builder
+title: Detección de anomalías en Report Builder
 description: Aprenda a añadir métricas de detección de anomalías a sus solicitudes de datos, así como a representar gráficamente los datos de forma creativa.
 feature: Report Builder
 role: User
@@ -9,9 +9,9 @@ thumbnail: 25444.jpg
 kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
 source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
