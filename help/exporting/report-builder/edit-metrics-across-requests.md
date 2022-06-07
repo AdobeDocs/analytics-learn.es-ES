@@ -1,5 +1,5 @@
 ---
-title: Editar métricas entre solicitudes en Report Builder
+title: Edición de métricas entre solicitudes en Report Builder
 description: Ahora puede editar métricas en varias solicitudes de datos de Report Builder a la vez, con las opciones añadir, reemplazar y quitar.
 feature: Report Builder
 role: User
@@ -9,13 +9,13 @@ thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
 source-git-commit: 4c6120752763383727ddec5e9bbc8e391bfec4d9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
-# Editar [!UICONTROL métricas] en todas las solicitudes [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}
+# Edición de [!UICONTROL métricas] entre solicitudes en [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}
 
 Ahora puede editar [!UICONTROL métricas] en varias solicitudes de datos de [!UICONTROL Report Builder] a la vez, con las opciones añadir, reemplazar y quitar.
 
