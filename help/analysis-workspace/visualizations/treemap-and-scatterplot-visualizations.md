@@ -1,6 +1,6 @@
 ---
-title: Visualizaciones de gráficos de rectángulos y diagramas de dispersión en Analysis Workspace
-description: 'Analysis Workspace en Adobe Analytics incluye dos tipos de visualización populares: diagrama de árbol y diagrama de puntos. En este vídeo se explica cómo utilizar ambos tipos de visualización en el análisis.'
+title: Visualizaciones de Gráficos de rectángulos y Diagramas de dispersión en Analysis Workspace
+description: 'Analysis Workspace de Adobe Analytics incluye dos tipos de visualización populares: Gráfico de rectángulos y Diagrama de dispersión. En este vídeo se explica cómo utilizar ambos tipos de visualización en el análisis.'
 feature: Visualizations
 topics: null
 activity: use
@@ -11,18 +11,18 @@ role: User
 level: Beginner
 exl-id: 149bf674-2444-488a-aafe-2a1df0a0315c
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-#  Diagrama de    dispersión de rectángulosVisualizaciones en Analysis Workspace {#treemap-and-scatterplot-visualizations-in-analysis-workspace}
+# [!UICONTROL Visualizaciones] [!UICONTROL Gráfico de rectángulos] y [!UICONTROL Diagrama de dispersión] en Analysis Workspace {#treemap-and-scatterplot-visualizations-in-analysis-workspace}
 
-Analysis Workspace en Adobe Analytics incluye dos tipos de [!UICONTROL visualización] populares: [!UICONTROL diagrama de árbol] y [!UICONTROL diagrama de puntos]. En este vídeo se explica cómo utilizar ambos tipos de [!UICONTROL visualización] en el análisis.
+Analysis Workspace de Adobe Analytics incluye dos tipos de [!UICONTROL visualización] populares: [!UICONTROL Gráfico de rectángulos] y [!UICONTROL Diagrama de dispersión]. En este vídeo se explica cómo utilizar ambos tipos de [!UICONTROL visualización] en el análisis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23988/?quality=12)
 
-Para obtener más información sobre estas [!UICONTROL visualizaciones], vaya a la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/treemap.html?lang=en).
+Para obtener más información acerca de estas [!UICONTROL visualizaciones], consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/treemap.html?lang=es).
 
-Para otra buena [!UICONTROL visualización] que puede utilizar en Analysis Workspace, pruebe el [[!UICONTROL gráfico de viñetas]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/bullet-graph-visualization.html?lang=es).
+Otra interesante [!UICONTROL visualización] que puede usar en Analysis Workspace es el [[!UICONTROL Gráfico de] viñetas](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/bullet-graph-visualization.html?lang=es).
