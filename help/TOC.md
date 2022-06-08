@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analytics.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
 workflow-type: tm+mt
-source-wordcount: '2392'
-ht-degree: 98%
+source-wordcount: '2430'
+ht-degree: 97%
 
 ---
 
@@ -234,6 +234,14 @@ ht-degree: 98%
       + [Traducción del lenguaje técnico de Adobe Analytics de forma no técnica](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Trabajo multifuncional](administration/key-admin-skills/working-cross-functionally.md)
       + [¿Plantea las preguntas correctas?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+   + Consejos de administración y prácticas recomendadas {#admin-tips}
+      + [Descargar el manual de implementación](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [Crear convenciones de nomenclatura estandarizadas](administration/admin-tips/create-standardized-naming-conventions.md)
+      + [Creación de plantillas de código estandarizadas](administration/admin-tips/create-standardized-code-templates.md)
+      + [Crear vídeos y formación básicos](administration/admin-tips/create-basic-videos-and-training.md)
+      + [Crear un sitio Adobe Analytics interno](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+      + [Usar un grupo de informes globales](administration/admin-tips/use-a-global-report-suite.md)
+      + [Crear un proyecto de noticias y anuncios](administration/admin-tips/create-a-news-and-announcements-project.md)
    + Configuración de la empresa {#company-settings}
       + [Aplicación de restricciones de dominios de correo electrónico](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Consulta de las funciones disponibles de la cuenta](administration/company-settings/view-your-accounts-available-features.md)
