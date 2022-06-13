@@ -1,28 +1,26 @@
 ---
 title: Creación de un documento de requisitos empresariales
-description: 'En este vídeo se analiza el paso más importante de definir lo que se quiere rastrear con Adobe Analytics. ¿Qué aspectos desea conocer acerca de su sitio? Podemos anotarlos y empezar a decidir cómo hacer el seguimiento de estos. '
+description: 'Obtenga información sobre el paso más importante de la definición de los datos de comportamiento que desea capturar y analizar en Adobe Analytics. ¿Qué debe comprender su empresa sobre cómo los visitantes utilizan sus propiedades digitales? Primero anote estos requisitos y luego decida cómo se capturarán usando eventos, dimensiones y métricas de Analytics. '
 feature: Implementation Basics
-topics: null
-activity: implement
-doc-type: feature video
 team: Technical Marketing
 kt: 3580
+thumbnail: 28758.jpg
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 6%
 
 ---
 
 # Creación de un documento de requisitos empresariales
 
-En este vídeo se analiza el paso más importante de definir lo que se quiere rastrear con Adobe Analytics. ¿Qué aspectos desea conocer acerca de su sitio? Podemos anotarlos y empezar a decidir cómo hacer el seguimiento de estos.
+Obtenga información sobre el paso más importante de la definición de los datos de comportamiento que desea capturar y analizar en Adobe Analytics. ¿Qué debe comprender su empresa sobre cómo los visitantes utilizan sus propiedades digitales? Primero anote estos requisitos y luego decida cómo se capturarán usando eventos, dimensiones y métricas de Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
 
-[Descargar](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) un BRD/SDR de ejemplo que pueda usar para definir el sitio.
+[Descargar](assets/aa-implementation-playbook.xlsx) una plantilla de Excel de ejemplo para documentar los requisitos y el diseño de recopilación de datos para sus propiedades digitales.
 
-[Descargue](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) el BRD/SDR de este vídeo (y el [vídeo de SDR](creating-and-maintaining-an-sdr.md)).
+[Descargar](assets/geometrixx-clothiers-brd-sdr.xlsx) el documento de Excel presentado en este vídeo y/o ver el [vídeo de referencia del diseño de la solución](creating-and-maintaining-an-sdr.md).
