@@ -1,10 +1,11 @@
 ---
 title: Sencillos hacks para buena eficacia y autoservicio - segunda parte
-description: 'Conozca los desafíos clave a los que se enfrentan los equipos de Analytics hoy en día, y nuestras recomendaciones para superarlos mediante estrategias integradas en la herramienta. '
+description: Conozca los desafíos clave a los que se enfrentan los equipos de Analytics hoy en día, y nuestras recomendaciones para superarlos mediante estrategias integradas en la herramienta.
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
+source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '802'
 ht-degree: 6%
 
 ---
@@ -94,3 +95,5 @@ Utilice anotaciones para crear referencias de documentación de soluciones inter
 Aproveche la API de informes para mover informes estándar de [!UICONTROL Espacio de trabajo] a informes programados y tableros. Además, aproveche [!UICONTROL Analysis Workspace] para crear solicitudes de API.
 
 Esperamos que haya encontrado valioso este artículo sobre estrategias internas. Para obtener más información sobre soluciones eficaces para la buena eficacia fuera de la plataforma Adobe Analytics, haga clic en [here](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
+
+Obtenga más información sobre la estrategia y el liderazgo mental en [Éxito del cliente](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.

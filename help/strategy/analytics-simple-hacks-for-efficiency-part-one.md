@@ -1,10 +1,11 @@
 ---
 title: Hackks simples para buena eficacia y autoservicio - parte 1
-description: 'Conozca los desafíos clave que enfrentan los equipos de análisis hoy en día, y nuestras recomendaciones para superarlos usando estrategias fuera de la interfaz de usuario de Adobe Analytics. '
+description: Conozca los desafíos clave que enfrentan los equipos de análisis hoy en día, y nuestras recomendaciones para superarlos usando estrategias fuera de la interfaz de usuario de Adobe Analytics.
 solution: Analytics
-source-git-commit: 70097d69b165d63fe5a99d5083208b19725ad263
+exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
+source-git-commit: dad200fdb5c5d15c00254d693fb47bbcec80afaf
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '712'
 ht-degree: 0%
 
 ---
@@ -84,3 +85,5 @@ Otros desafíos clave a los que se enfrentan los analistas:
    * Establecer PYME en los distintos equipos de la organización
    * Construya su presencia ayudando a socializar versiones y ganancias
    * Utilice horarios de oficina regulares para ayudar a capacitar a los formadores y reducir las tareas ad hoc
+
+Obtenga más información sobre la estrategia y el liderazgo mental en [Éxito del cliente](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.
