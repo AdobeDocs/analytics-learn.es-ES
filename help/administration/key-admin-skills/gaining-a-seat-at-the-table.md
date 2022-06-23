@@ -9,9 +9,9 @@ thumbnail: 342070.jpg
 kt: 10132
 exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
 source-git-commit: 17a07f0734b9bb36ce1b2f95e1678abac5c823bf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1283'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 94%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
-“Consiguiendo un asiento en la mesa”. Esta frase popular ha sido un tema candente en el mundo empresarial desde hace años. ¿Pero qué quiere decir? Conseguir un asiento en la mesa significa que usted está incluido en las conversiones de alto nivel en cuanto a toma de decisiones. No solo está invitado, sino que su aportación es valorada y apreciada. Voy a mostrarle cómo conseguir un puesto en la mesa ayudará a su empresa y a su carrera como usuario avanzado de Adobe Analytics, ya sea que su función oficial sea la de administrador, analista de datos o cualquier otra cosa que diga su tarjeta de presentación.
+“Consiguiendo un asiento en la mesa”. Esta frase popular ha sido un tema candente en el mundo empresarial desde hace años. ¿Pero qué quiere decir? Conseguir un asiento en la mesa significa que usted está incluido en las conversiones de alto nivel en cuanto a toma de decisiones. No solo está invitado, sino que su aportación es valorada y apreciada. Voy a mostrarle cómo conseguir un puesto en la mesa ayudará a su empresa y a su propia carrera como usuario avanzado de Adobe Analytics, sea cual sea su cargo: administrador, analista de datos, etcétera.
 
 ## Por qué debe estar en la mesa
 
-Primero, vamos a hablar de algo. El papel de los profesionales de los datos ha evolucionado. Ya no pueden sentarse detrás de las pantallas de sus equipos centrándose únicamente en eVars, eventos y sProps. Usted, como administrador, tiene la responsabilidad de asegurarse de que su empresa esté tomando las decisiones correctas basadas en datos. Pero para ello, necesitas estar donde se toman esas decisiones, no haciendo cálculos en el escritorio.
+Primero, vamos a hablar de algo. El papel de los profesionales de los datos ha evolucionado. Ya no pueden quedarse sentados detrás de las pantallas de sus equipos y centrarse únicamente en eVars, eventos y sProps. Usted, como administrador, tiene la responsabilidad de asegurarse de que su empresa esté tomando las decisiones correctas basadas en datos. Pero para ello, necesitas estar donde se toman esas decisiones, no haciendo cálculos en el escritorio.
 
 Estas son tres razones por las que necesitas estar ahí.
 
