@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analytics.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
+source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
 workflow-type: tm+mt
-source-wordcount: '2430'
+source-wordcount: '2432'
 ht-degree: 97%
 
 ---
@@ -150,6 +150,17 @@ ht-degree: 97%
       + [Visualizaciones 100 % apiladas](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Configuración de fuentes de datos de visualización y tabla](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Creación de un mapa de calor de partición de tiempo](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
+   + Análisis de recorridos del cliente {#analyzing-customer-journeys}
+      + [Comprenda sus datos: visitas en orden previsto y flujo](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Journey IQ: Análisis entre dispositivos](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [Visualización de visitas en el orden previsto](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [Mejoras en la visualización de visitas en el orden previsto](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
+      + [Visitas multidimensionales en el orden previsto](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
+      + [Comparación de segmentos en visitas en el orden previsto](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
+      + [Visualización de flujo](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [Ampliación de la visualización de flujo](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
+      + [Mejoras de flujo en 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [Ajuste de texto y flujo multidimensional](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Aplicación de segmentos {#applying-segments}
       + [Aplicación de segmentos a su proyecto de Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Uso de segmentos en Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
@@ -177,16 +188,6 @@ ht-degree: 97%
       + [Creación de intervalos de fechas personalizados](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Comparaciones de fechas en Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Incorporación de comparaciones de meses y años anteriores a tendencias](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + Análisis de recorridos del cliente {#analyzing-customer-journeys}
-      + [Comprenda sus datos: visitas en orden previsto y flujo](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [Journey IQ: Análisis entre dispositivos](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [Visualización de visitas en el orden previsto](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Mejoras en la visualización de visitas en el orden previsto](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
-      + [Visitas multidimensionales en el orden previsto](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
-      + [Comparación de segmentos en visitas en el orden previsto](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
-      + [Visualización de flujo](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Ampliación de la visualización de flujo](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [Ajuste de texto y flujo multidimensional](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Depuración y uso compartido de proyectos {#curate-and-share-projects}
       + [Guardado, uso compartido y colaboración en proyectos en Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Revisión y uso compartido en Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
