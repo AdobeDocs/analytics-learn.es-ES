@@ -4,9 +4,9 @@ user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analy
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2432'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 97%
       + [Supersesión de la cumbre de 2019: Viajes y hospitalidad](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Supersesión de la cumbre de 2019: Ventas minoristas](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Supersesión de la cumbre de 2019: Alta tecnología](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + Estrategia y liderazgo mental{#strategy}
-      + [Parte 1: Hackers simples para la buena eficiencia](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
-      + [Parte 2: Hackers simples para la buena eficiencia](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
-      + [Dominar la inteligencia de los clientes con Virtual Analyst y Segment IQ en Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
+   + Estrategia y liderazgo mental {#strategy}
+      + [Parte 1: Trucos sencillos para aumentar la eficacia](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+      + [Parte 2: Trucos sencillos para aumentar la eficacia](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+      + [Dominio del conocimiento del cliente con Analista virtual y Segment IQ en Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
    + Transición desde otras plataformas {#transitioning-from-other-platforms}
       + [Transición desde Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Aspectos básicos de Analytics {#analytics-basics}
@@ -236,13 +236,13 @@ ht-degree: 97%
       + [Trabajo multifuncional](administration/key-admin-skills/working-cross-functionally.md)
       + [¿Plantea las preguntas correctas?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Consejos de administración y prácticas recomendadas {#admin-tips}
-      + [Descargar el manual de implementación](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
-      + [Crear convenciones de nomenclatura estandarizadas](administration/admin-tips/create-standardized-naming-conventions.md)
-      + [Creación de plantillas de código estandarizadas](administration/admin-tips/create-standardized-code-templates.md)
-      + [Crear vídeos y formación básicos](administration/admin-tips/create-basic-videos-and-training.md)
-      + [Crear un sitio Adobe Analytics interno](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
-      + [Usar un grupo de informes globales](administration/admin-tips/use-a-global-report-suite.md)
-      + [Crear un proyecto de noticias y anuncios](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [Descargue el manual de implementación](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [Cree convenciones de nomenclatura estandarizada](administration/admin-tips/create-standardized-naming-conventions.md)
+      + [Cree plantillas de código estandarizadas](administration/admin-tips/create-standardized-code-templates.md)
+      + [Cree vídeos y formación básicos](administration/admin-tips/create-basic-videos-and-training.md)
+      + [Cree un sitio de Adobe Analytics interno](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+      + [Use un grupo de informes globales](administration/admin-tips/use-a-global-report-suite.md)
+      + [Creación de un proyecto de noticias y anuncios](administration/admin-tips/create-a-news-and-announcements-project.md)
    + Configuración de la empresa {#company-settings}
       + [Aplicación de restricciones de dominios de correo electrónico](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Consulta de las funciones disponibles de la cuenta](administration/company-settings/view-your-accounts-available-features.md)
