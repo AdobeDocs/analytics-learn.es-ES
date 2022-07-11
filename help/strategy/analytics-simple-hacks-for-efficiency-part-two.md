@@ -1,22 +1,22 @@
 ---
-title: Sencillos hacks para buena eficacia y autoservicio - segunda parte
+title: 'Trucos sencillos para aumentar la eficacia y el autoservicio: segunda parte'
 description: Conozca los desafíos clave a los que se enfrentan los equipos de Analytics hoy en día, y nuestras recomendaciones para superarlos mediante estrategias integradas en la herramienta.
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
 source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '802'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# Adobe Analytics: Sencillos hacks para buena eficacia y autoservicio
+# Adobe Analytics: Trucos sencillos para aumentar la eficacia y el autoservicio
 
 **Parte 2: Estrategias integradas en la herramienta**
 
-En este artículo se describen los principales desafíos a los que se enfrentan los equipos de análisis en la actualidad y nuestras recomendaciones para superarlos mediante estrategias internas en la herramienta. Ir [here](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md) para la primera parte.
+En este artículo se describen los desafíos clave a los que se enfrentan los equipos de Analytics hoy en día, y nuestras recomendaciones para superarlos mediante estrategias integradas en la herramienta. Vaya [aquí](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md) para la primera parte.
 
-Para obtener más información sobre las soluciones eficaces fuera de la plataforma Adobe Analytics, haga clic en [here](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
+Para obtener más información sobre soluciones eficaces fuera de la plataforma de Adobe Analytics, haga clic [aquí](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
 
 ## Claves para la eficacia: Estrategias integradas en la herramienta
 
@@ -26,17 +26,17 @@ El autoservicio eficaz suele ser un ejercicio para eliminar las barreras percibi
 
 1. Plantillas estándar:
 
-   * Están listos para usar y abarcan casos de uso comunes, lo que lo convierte en un ahorro de tiempo si el usuario busca un acceso rápido a KPI comunes.
+   * Están listas para usarse y cubren casos de uso comunes, por lo que suponen un ahorro de tiempo si el usuario busca un acceso rápido a indicadores clave de rendimiento (KPI) comunes.
    * Se agrupan por la vertical a la que pertenecen y se rellenan con diferentes dimensiones, segmentos, métricas y visualizaciones.
 
 1. Plantillas personalizadas:
 
-   * Cualquier proyecto se puede guardar como plantilla personalizada (debe ser administrador o tener los permisos de uso adecuados).
-   * Esta es una buena opción si se encuentra generando el mismo tipo de informe repetidamente con cambios menores.
+   * Cualquier proyecto se puede guardar como una plantilla personalizada (debe ser administrador o tener los permisos de uso adecuados).
+   * Es una buena opción si genera a menudo el mismo tipo de informe con cambios menores.
 
-1. Pulse con el botón derecho del ratón.
+1. Domine el botón derecho del ratón.
 
-   * Hay varias opciones con el botón derecho en [!UICONTROL Espacio de trabajo] para ahorrarle tiempo.
+   * Hay varias opciones con el botón derecho en el [!UICONTROL espacio de trabajo] para ahorrarle tiempo.
 
 1. Filtros desplegables.
 
@@ -44,56 +44,56 @@ El autoservicio eficaz suele ser un ejercicio para eliminar las barreras percibi
 
 ## Optimización del rendimiento de Workspace
 
-La variable [!UICONTROL Analysis Workspace] la página de ayuda de rendimiento muestra los factores de red, explorador y proyecto que afectan al rendimiento del proyecto. Mejore la adopción creando tableros más rápidos. También se vincula a sugerencias para la optimización y se puede acceder a ellas en la [!UICONTROL Espacio de trabajo] menú bajo **[!UICONTROL Ayuda]** > **[!UICONTROL Rendimiento]**.
+La página de ayuda de rendimiento de [!UICONTROL Analysis Workspace] muestra los factores de red, explorador y proyecto que afectan al rendimiento del proyecto. Mejore la adopción creando paneles más rápidos. También se vincula a sugerencias para la optimización y se puede acceder a ellas en el menú [!UICONTROL Espacio de trabajo] bajo **[!UICONTROL Ayuda]** > **[!UICONTROL Rendimiento]**.
 
-## Vinculación entre paneles de Workspace
+## Vinculación de paneles dentro/fuera del espacio de trabajo
 
-Usar la vinculación de paneles para mejorar [!UICONTROL Espacio de trabajo] rendimiento. Utilice los paneles contraídos para desglosar informes de gran tamaño sin sobrecargar a los usuarios con la necesidad de comprender e intercambiar entre varios proyectos de Workspace.
+Use la vinculación de paneles para mejorar el rendimiento del [!UICONTROL espacio de trabajo]. Utilice los paneles contraídos para desglosar los informes grandes sin que los usuarios tengan que entender varios proyectos del espacio de trabajo y cambiar entre ellos.
 
 ## Creación de un repositorio de conocimientos
 
 * Establezca el espacio de trabajo predeterminado de todos en una biblioteca permanente de recursos de autohabilitación.
-* Depure vínculos buenos de Adobe Experience League.
-* Comparta los vídeos de la versión del canal YouTube de Adobe Analytics.
+* Seleccione los mejores vínculos de Adobe Experience League.
+* Comparta los vídeos de las versiones del canal YouTube de Adobe Analytics.
 * Comparta un horario de oficina.
-* Vínculo a información sobre [!DNL Analytics] versión y correcciones de errores.
+* Vínculo a información acerca de la versión de [!DNL Analytics] y correcciones de errores.
 
-## Tutorial de formación de Workspace
+## Tutorial de formación del espacio de trabajo
 
-La variable [!UICONTROL Analysis Workspace] tutorial de formación guía a los usuarios por la terminología común y por los pasos para crear su primer proyecto de análisis en [!UICONTROL Espacio de trabajo]. Esta plantilla está disponible como plantilla estándar en la variable [!UICONTROL Nuevo proyecto] y le permite crear sus propios tutoriales, adaptándolos a los casos de uso y a la estructura de datos únicos de su organización (eVars, eventos personalizados, etc.). Se trata de una forma de habilitación automatizada y escalable.
+El tutorial de formación de [!UICONTROL Analysis Workspace] guía a los usuarios por la terminología común y los pasos necesarios para crear su primer proyecto de análisis en el [!UICONTROL espacio de trabajo]. Esta plantilla está disponible como plantilla estándar en el modal [!UICONTROL Nuevo proyecto] y le permite crear sus propios tutoriales y adaptarlos a los casos de uso y a la estructura de datos únicos de su organización (eVars, eventos personalizados, etc.). Se trata de una forma de habilitación automatizada y escalable.
 
-## [!UICONTROL Información rápida] panel
+## Panel [!UICONTROL Quick insights]
 
-[[!UICONTROL Información rápida]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=en) proporciona instrucciones a los no analistas y a los nuevos usuarios de Analysis Workspace para que aprendan a responder preguntas comerciales de forma rápida y sencilla. También es una buena herramienta para usuarios avanzados que desean responder a una pregunta simple rápida y fácilmente sin tener que crear una tabla ellos mismos.
+[[!UICONTROL Quick Insights]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=es) proporciona una guía a los no analistas y a los nuevos usuarios de Analysis Workspace para aprender a responder preguntas comerciales de forma rápida y sencilla. También es una buena herramienta para usuarios avanzados que desean responder a una pregunta simple de forma sencilla y rápida sin tener que crear una tabla ellos mismos.
 
-## Aprovechar [!UICONTROL Descripciones] en las variables
+## Aproveche las [!UICONTROL Descripciones] en las variables
 
-Utilice la variable [!UICONTROL Descripción] en variables para comunicarse con los usuarios y ayudarles a extraer los datos tal como se pretendía extraer. El contexto está disponible en Analysis Workspace sin tener que voltear entre documentos o hacer ping en el equipo principal para obtener ayuda.
+Utilice el campo [!UICONTROL Descripción] en las variables para comunicarse con los usuarios y ayudarlos a extraer los datos tal como se pretende. El contexto está disponible en Analysis Workspace sin tener que cambiar entre documentos o llamar al equipo principal para obtener ayuda.
 
 ## Mejore las plantillas con anotaciones
 
-Impulse la adopción de plantillas y mejore la autosuficiencia con plantillas mediante [!UICONTROL Anotaciones]. Fomentar el uso de anotaciones para mejorar el aspecto narrativo de la historia al compartir análisis.
+Impulse la adopción de plantillas y mejore la autosuficiencia con ellas mediante [!UICONTROL Anotaciones]. Fomente el uso de anotaciones para mejorar el aspecto narrativo de compartir análisis.
 
-## Aprovechar la depuración
+## Aproveche la depuración
 
 La depuración permite limitar los componentes (dimensiones, métricas, segmentos e intervalos de fechas) antes de compartir un proyecto. Cuando un destinatario abre el proyecto, verá un conjunto limitado de componentes que ha seleccionado para ellos. La depuración es un paso opcional pero recomendado antes de compartir un proyecto.
 
 Al depurar [!UICONTROL Grupos de informes virtuales], puede crear etiquetas de dimensión, métrica y segmento descriptivas. Cree etiquetas personalizadas y fáciles de usar para subconjuntos de usuarios. Tenga en cuenta que las etiquetas no cambian el registro maestro (nombre).
 
-## Crear espacios de trabajo de referencia de soluciones
+## Cree espacios de trabajo de referencia de soluciones
 
-Utilice anotaciones para crear referencias de documentación de soluciones internas del producto. Tener espacios de trabajo en el producto además de plantillas puede ayudar a centralizar el conocimiento y proporcionar un contexto inestimable. Utilice la vinculación entre espacios de trabajo e internos para crear recursos fáciles de escalar y fáciles de explorar.
+Utilice anotaciones para crear referencias de documentación de soluciones en el producto. Tener espacios de trabajo en el producto, además de plantillas, puede ayudar a centralizar el conocimiento y proporcionar un contexto inestimable. Utilice la vinculación entre espacios de trabajo y dentro de ellos para crear recursos fáciles de escalar y de explorar.
 
 ## Las ventajas de los paneles de Adobe Analytics
 
-| Democratización de datos | Tiempo de acción más rápido | Perspectivas concisas | Facilidad de uso |
+| Democratización de los datos | Tiempo de acción más rápido | Perspectivas concisas | Facilidad de uso |
 | --- | --- | --- | --- |
-| Los usuarios empresariales que no son analistas pueden autoabastecerse fácilmente | Tomar decisiones basadas en datos en los momentos importantes | Acceda a perspectivas relevantes y explore en profundidad según sea necesario sobre la marcha | Experiencia sin complicaciones a través de la intuitiva interfaz móvil |
+| Los usuarios empresariales no analistas pueden autogestionar fácilmente los datos | Tome decisiones basadas en datos en los momentos importantes | Acceda a perspectivas relevantes y explore en profundidad según necesite sobre la marcha | Experiencia sin complicaciones a través de la intuitiva interfaz móvil |
 
 ## API de informes de Adobe 2.0
 
-Aproveche la API de informes para mover informes estándar de [!UICONTROL Espacio de trabajo] a informes programados y tableros. Además, aproveche [!UICONTROL Analysis Workspace] para crear solicitudes de API.
+Aproveche la API de informes para mover informes estándar del [!UICONTROL espacio de trabajo] a informes programados y paneles. Además, aproveche [!UICONTROL Analysis Workspace] para crear solicitudes de API.
 
-Esperamos que haya encontrado valioso este artículo sobre estrategias internas. Para obtener más información sobre soluciones eficaces para la buena eficacia fuera de la plataforma Adobe Analytics, haga clic en [here](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
+Esperamos que haya encontrado útil este artículo sobre estrategias en la herramienta. Para obtener más información sobre soluciones eficaces para una mayor eficiencia fuera de la plataforma de Adobe Analytics, haga clic [aquí](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
-Obtenga más información sobre la estrategia y el liderazgo mental en [Éxito del cliente](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Obtenga más información acerca de la estrategia y el liderazgo mental en el centro [Éxito del cliente](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html).
