@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analytics.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
-workflow-type: ht
-source-wordcount: '2432'
-ht-degree: 100%
+source-git-commit: eac3aedaf58c56a1607ef6ba8b6ca361e26ccd56
+workflow-type: tm+mt
+source-wordcount: '2422'
+ht-degree: 99%
 
 ---
 
@@ -151,15 +151,12 @@ ht-degree: 100%
       + [Configuración de fuentes de datos de visualización y tabla](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Creación de un mapa de calor de partición de tiempo](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Análisis de recorridos del cliente {#analyzing-customer-journeys}
-      + [Comprenda sus datos: visitas en orden previsto y flujo](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [Journey IQ: Análisis entre dispositivos](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [Comprender sus datos: visitas en el orden previsto y flujo](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [IQ de recorrido: análisis entre dispositivos](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [Visualización de visitas en el orden previsto](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Mejoras en la visualización de visitas en el orden previsto](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
-      + [Visitas multidimensionales en el orden previsto](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
-      + [Comparación de segmentos en visitas en el orden previsto](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
       + [Visualización de flujo](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Ampliación de la visualización de flujo](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [Mejoras de flujo en 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [Expansión en la visualización de flujo](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
+      + [Mejoras de flujo de 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
       + [Ajuste de texto y flujo multidimensional](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Aplicación de segmentos {#applying-segments}
       + [Aplicación de segmentos a su proyecto de Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)

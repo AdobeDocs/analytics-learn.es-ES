@@ -1,27 +1,24 @@
 ---
-title: Visualización de visitas en orden previsto en Analysis Workspace
-description: Este vídeo lo acompaña durante la visualización de visitas en orden previsto disponible en Analysis Workspace en Adobe Analytics. Utilice Visitas en el orden previsto para crear canales o mostrar el flujo de trabajo del usuario en los flujos de trabajo clave de la aplicación o del sitio.
+title: Creación de un informe de visualización de abandonos
+description: Obtenga información sobre los casos de uso de informes de visitas en el orden previsto y cómo configurar este informe en Analysis Workspace. Obtenga información sobre cómo añadir varios tipos de puntos de contacto y cómo crear y utilizar segmentos en este componente.
 feature: Visualizations
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 24042.jpg
-kt: 2275
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 345883.jpg
+kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: 1b141ab4e15a6db80a6de3cc80bef22dc3499302
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 21%
 
 ---
 
-# [!DNL Fallout Visualization] en Analysis Workspace {#fallout-visualization-in-analysis-workspace}
+# Creación de un informe de visualización de abandonos
 
-Este vídeo le guía por el [!DNL Fallout visualization] disponible en Analysis Workspace en Adobe Analytics. Use [!DNL Fallout] para crear canales o mostrar el flujo de trabajo del usuario en flujos de trabajo clave de aplicaciones o sitios.
+Obtenga información sobre los casos de uso de informes de visitas en el orden previsto y cómo configurar este informe en [!DNL Analysis Workspace]. Obtenga información sobre cómo añadir varios tipos de puntos de contacto y cómo crear y utilizar segmentos en este componente.
 
->[!VIDEO](https://video.tv.adobe.com/v/24042/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=es).
