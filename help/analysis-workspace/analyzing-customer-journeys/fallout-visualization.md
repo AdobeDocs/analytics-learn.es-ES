@@ -1,6 +1,6 @@
 ---
-title: Creación de un informe de visualización de abandonos
-description: Obtenga información sobre los casos de uso de informes de visitas en el orden previsto y cómo configurar este informe en Analysis Workspace. Obtenga información sobre cómo añadir varios tipos de puntos de contacto y cómo crear y utilizar segmentos en este componente.
+title: Creación de una visualización de abandonos
+description: Las visualizaciones de visitas en el orden previsto en Analysis Workspace se utilizan para explorar dónde se encuentran los clientes o dónde se encuentran los flujos clave en sus propiedades digitales. Aprenda a añadir varios tipos de puntos de contacto y a crear y utilizar segmentos en este componente.
 feature: Visualizations
 role: User
 level: Beginner
@@ -8,16 +8,16 @@ doc-type: feature video
 thumbnail: 345883.jpg
 kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: 1b141ab4e15a6db80a6de3cc80bef22dc3499302
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 21%
+source-wordcount: '110'
+ht-degree: 18%
 
 ---
 
-# Creación de un informe de visualización de abandonos
+# Creación de una visualización de abandonos
 
-Obtenga información sobre los casos de uso de informes de visitas en el orden previsto y cómo configurar este informe en [!DNL Analysis Workspace]. Obtenga información sobre cómo añadir varios tipos de puntos de contacto y cómo crear y utilizar segmentos en este componente.
+Visualizaciones de visitas en el orden previsto en [!DNL Analysis Workspace] se utilizan para explorar el punto en el que los clientes caen o salen de flujos clave en sus propiedades digitales. Aprenda a añadir varios tipos de puntos de contacto y a crear y utilizar segmentos en este componente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 

@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analytics.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: eac3aedaf58c56a1607ef6ba8b6ca361e26ccd56
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
 workflow-type: tm+mt
-source-wordcount: '2422'
+source-wordcount: '2416'
 ht-degree: 99%
 
 ---
@@ -151,13 +151,10 @@ ht-degree: 99%
       + [Configuración de fuentes de datos de visualización y tabla](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Creación de un mapa de calor de partición de tiempo](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Análisis de recorridos del cliente {#analyzing-customer-journeys}
-      + [Comprender sus datos: visitas en el orden previsto y flujo](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Creación de una visualización de abandonos](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [Creación de una visualización de flujo](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [Utilizar visitas en el orden previsto y flujos juntos](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [IQ de recorrido: análisis entre dispositivos](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [Visualización de visitas en el orden previsto](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Visualización de flujo](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Expansión en la visualización de flujo](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [Mejoras de flujo de 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
-      + [Ajuste de texto y flujo multidimensional](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Aplicación de segmentos {#applying-segments}
       + [Aplicación de segmentos a su proyecto de Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Uso de segmentos en Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)

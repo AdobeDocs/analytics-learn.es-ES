@@ -3,10 +3,10 @@ title: 'Trucos sencillos para aumentar la eficacia y el autoservicio: segunda pa
 description: Conozca los desafíos clave a los que se enfrentan los equipos de Analytics hoy en día, y nuestras recomendaciones para superarlos mediante estrategias integradas en la herramienta.
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: ht
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+workflow-type: tm+mt
 source-wordcount: '802'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -96,4 +96,4 @@ Aproveche la API de informes para mover informes estándar del [!UICONTROL espac
 
 Esperamos que haya encontrado útil este artículo sobre estrategias en la herramienta. Para obtener más información sobre soluciones eficaces para una mayor eficiencia fuera de la plataforma de Adobe Analytics, haga clic [aquí](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
-Obtenga más información acerca de la estrategia y el liderazgo mental en el centro [Éxito del cliente](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html).
+Obtenga más información acerca de la estrategia y el liderazgo mental en el centro [Éxito del cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).

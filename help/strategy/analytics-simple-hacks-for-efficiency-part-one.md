@@ -3,10 +3,10 @@ title: 'Trucos sencillos para aumentar la eficacia y el autoservicio: primera pa
 description: Conozca los principales retos a los que se enfrentan los equipos de análisis hoy en día y nuestras recomendaciones para superarlos mediante estrategias fuera de la IU de Adobe Analytics.
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
-source-git-commit: dad200fdb5c5d15c00254d693fb47bbcec80afaf
-workflow-type: ht
+source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
+workflow-type: tm+mt
 source-wordcount: '712'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -86,4 +86,4 @@ Otros desafíos clave a los que se enfrentan los analistas:
    * Aumente su presencia ayudando a socializar versiones y ganancias
    * Utilice horarios de oficina regulares para ayudar a preparar a los formadores y reducir las tareas ad hoc
 
-Obtenga más información acerca de la estrategia y el liderazgo mental en el centro [Éxito del cliente](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html).
+Obtenga más información acerca de la estrategia y el liderazgo mental en el centro [Éxito del cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
