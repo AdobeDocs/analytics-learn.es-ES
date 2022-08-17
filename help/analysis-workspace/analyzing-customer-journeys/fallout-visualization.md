@@ -1,6 +1,6 @@
 ---
-title: Creación de una visualización de abandonos
-description: Las visualizaciones de visitas en el orden previsto en Analysis Workspace se utilizan para explorar dónde se encuentran los clientes o dónde se encuentran los flujos clave en sus propiedades digitales. Aprenda a añadir varios tipos de puntos de contacto y a crear y utilizar segmentos en este componente.
+title: Crear una visualización de visitas en orden previsto
+description: Las visualizaciones de visitas en el orden previsto de Analysis Workspace se utilizan para explorar en qué punto los clientes abandonan los flujos clave en sus propiedades digitales. Aprenda a añadir varios tipos de puntos de contacto y a crear y utilizar segmentos en este componente.
 feature: Visualizations
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ thumbnail: 345883.jpg
 kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
-# Creación de una visualización de abandonos
+# Crear una visualización de visitas en orden previsto
 
-Visualizaciones de visitas en el orden previsto en [!DNL Analysis Workspace] se utilizan para explorar el punto en el que los clientes caen o salen de flujos clave en sus propiedades digitales. Aprenda a añadir varios tipos de puntos de contacto y a crear y utilizar segmentos en este componente.
+Las visualizaciones de visitas en el orden previsto en [!DNL Analysis Workspace] se utilizan para explorar en qué punto los clientes abandonan los flujos clave en sus propiedades digitales. Aprenda a añadir varios tipos de puntos de contacto y a crear y utilizar segmentos en este componente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 
