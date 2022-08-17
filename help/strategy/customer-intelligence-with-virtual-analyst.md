@@ -4,9 +4,9 @@ description: Aprenda la importancia de utilizar la inteligencia artificial y el 
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1104'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -123,4 +123,4 @@ Manténgase informado de anomalías en los datos en todo momento, en la oficina 
 
 Para obtener más información, vea nuestro [seminario web](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
 
-Obtenga más información acerca de la estrategia y el liderazgo mental en el centro [Éxito del cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Obtenga más información acerca de la estrategia y el liderazgo mental en el centro [Éxito del cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=es).
