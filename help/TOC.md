@@ -4,9 +4,9 @@ user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analy
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2416'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 99%
       + [Navegación por la nueva página de aterrizaje](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Actualizaciones de la página de aterrizaje de Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [Creación de nuevos proyectos de Analysis Workspace](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
-      + [Creación de un proyecto del Espacio de trabajo desde cero](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
+      + [Creación de un proyecto de Workspace desde cero](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Creación y administración de plantillas personalizadas en Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Plantillas estándar en Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [Uso de plantillas personalizadas para habilitar a usuarios principiantes de Analysis Workspace](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -82,7 +82,7 @@ ht-degree: 99%
       + [Plantilla de tutorial de formación en Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Copia e inserción en Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Creación de una tabla de contenido](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [Haga clic con el botón derecho para aumentar la eficiencia del Espacio de trabajo](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [Haga clic con el botón derecho para aumentar la eficiencia del Workspace](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Métodos abreviados de teclado](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Anotaciones en Analysis Workspace](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Barra de menús](analysis-workspace/navigating-workspace-projects/menu-bar.md)
@@ -151,9 +151,9 @@ ht-degree: 99%
       + [Configuración de fuentes de datos de visualización y tabla](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Creación de un mapa de calor de partición de tiempo](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Análisis de recorridos del cliente {#analyzing-customer-journeys}
-      + [Creación de una visualización de abandonos](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Creación de una visualización de flujo](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Utilizar visitas en el orden previsto y flujos juntos](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Crear una visualización de visitas en orden previsto](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [Crear una visualización de flujo](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [Utilizar visitas en el orden previsto y flujos conjuntamente](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ: análisis entre dispositivos](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + Aplicación de segmentos {#applying-segments}
       + [Aplicación de segmentos a su proyecto de Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
