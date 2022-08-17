@@ -4,9 +4,9 @@ description: Conozca los desafíos clave a los que se enfrentan los equipos de A
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '802'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ El autoservicio eficaz suele ser un ejercicio para eliminar las barreras percibi
 
 1. Domine el botón derecho del ratón.
 
-   * Hay varias opciones con el botón derecho en el [!UICONTROL espacio de trabajo] para ahorrarle tiempo.
+   * Hay varias opciones con el botón derecho en e [!UICONTROL Workspace] para ahorrarle tiempo.
 
 1. Filtros desplegables.
 
@@ -46,9 +46,9 @@ El autoservicio eficaz suele ser un ejercicio para eliminar las barreras percibi
 
 La página de ayuda de rendimiento de [!UICONTROL Analysis Workspace] muestra los factores de red, explorador y proyecto que afectan al rendimiento del proyecto. Mejore la adopción creando paneles más rápidos. También se vincula a sugerencias para la optimización y se puede acceder a ellas en el menú [!UICONTROL Espacio de trabajo] bajo **[!UICONTROL Ayuda]** > **[!UICONTROL Rendimiento]**.
 
-## Vinculación de paneles dentro/fuera del espacio de trabajo
+## Vinculación de paneles dentro/fuera de Workspace
 
-Use la vinculación de paneles para mejorar el rendimiento del [!UICONTROL espacio de trabajo]. Utilice los paneles contraídos para desglosar los informes grandes sin que los usuarios tengan que entender varios proyectos del espacio de trabajo y cambiar entre ellos.
+Use la vinculación de paneles para mejorar el rendimiento de [!UICONTROL Workspace]. Utilice los paneles contraídos para desglosar los informes grandes sin que los usuarios tengan que entender varios proyectos de Workspace y cambiar entre ellos.
 
 ## Creación de un repositorio de conocimientos
 
@@ -58,7 +58,7 @@ Use la vinculación de paneles para mejorar el rendimiento del [!UICONTROL espac
 * Comparta un horario de oficina.
 * Vínculo a información acerca de la versión de [!DNL Analytics] y correcciones de errores.
 
-## Tutorial de formación del espacio de trabajo
+## Tutorial de formación de Workspace
 
 El tutorial de formación de [!UICONTROL Analysis Workspace] guía a los usuarios por la terminología común y los pasos necesarios para crear su primer proyecto de análisis en el [!UICONTROL espacio de trabajo]. Esta plantilla está disponible como plantilla estándar en el modal [!UICONTROL Nuevo proyecto] y le permite crear sus propios tutoriales y adaptarlos a los casos de uso y a la estructura de datos únicos de su organización (eVars, eventos personalizados, etc.). Se trata de una forma de habilitación automatizada y escalable.
 
@@ -92,8 +92,8 @@ Utilice anotaciones para crear referencias de documentación de soluciones en el
 
 ## API de informes de Adobe 2.0
 
-Aproveche la API de informes para mover informes estándar del [!UICONTROL espacio de trabajo] a informes programados y paneles. Además, aproveche [!UICONTROL Analysis Workspace] para crear solicitudes de API.
+Aproveche la API de informes para mover informes estándar de [!UICONTROL Workspace] a informes programados y paneles. Además, aproveche [!UICONTROL Analysis Workspace] para crear solicitudes de API.
 
 Esperamos que haya encontrado útil este artículo sobre estrategias en la herramienta. Para obtener más información sobre soluciones eficaces para una mayor eficiencia fuera de la plataforma de Adobe Analytics, haga clic [aquí](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
-Obtenga más información acerca de la estrategia y el liderazgo mental en el centro [Éxito del cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Obtenga más información acerca de la estrategia y el liderazgo mental en el centro [Éxito del cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=es).
