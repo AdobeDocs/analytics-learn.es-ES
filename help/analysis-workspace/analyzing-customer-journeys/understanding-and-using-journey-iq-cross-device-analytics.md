@@ -10,10 +10,10 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '1641'
-ht-degree: 100%
+source-git-commit: 01e6e84f748e359aeb42c9be3afa52088f41018b
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -55,7 +55,7 @@ Siga leyendo para obtener más información sobre lo siguiente:
 
 ## Funcionamiento del [!DNL Cross-Device Analytics]
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] se integra con [!DNL Adobe Experience Platform Identity Service], utilizando [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=es) o [!DNL Private Graph] para identificar cómo se asignan los dispositivos a las personas. Entonces, aprovecha esta inteligencia para crear una vista multidispositivo del comportamiento del usuario. El análisis multidispositivo incluye funcionalidades y herramientas sin igual para ayudar a su empresa a comprender el uso de varios dispositivos y la experiencia del cliente en dichos dispositivos en sus interacciones con su marca. Se encuentra como una capa debajo de Analysis Workspace para proporcionar un conocimiento profundo del análisis de audiencias basado en personas y la atribución, segmentación y análisis de recorrido multidispositivo mediante herramientas potentes como [!UICONTROL visita en orden previsto], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] y [!DNL Attribution IQ].
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] se integra con [!DNL Adobe Experience Platform Identity Service], utilizando el [!DNL Device Graph] para identificar cómo se asignan los dispositivos a las personas. Entonces, aprovecha esta inteligencia para crear una vista multidispositivo del comportamiento del usuario. El análisis multidispositivo incluye funcionalidades y herramientas sin igual para ayudar a su empresa a comprender el uso de varios dispositivos y la experiencia del cliente en dichos dispositivos en sus interacciones con su marca. Se encuentra como una capa debajo de Analysis Workspace para proporcionar un conocimiento profundo del análisis de audiencias basado en personas y la atribución, segmentación y análisis de recorrido multidispositivo mediante herramientas potentes como [!UICONTROL visita en orden previsto], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] y [!DNL Attribution IQ].
 
 ### El [!DNL Cross-Device Virtual Report Suite]
 
@@ -82,13 +82,13 @@ Tercer paso del ![[!UICONTROL grupo de informes virtuales]](assets/cda-vrs-step-
 
 ### Restauración del historial
 
-A veces, sus usuarios tardan un tiempo en iniciar sesión y en que [!DNL Co-op Graph] o [!DNL Private Graph] los identifique y asigne a sus dispositivos. El análisis multidispositivo utiliza una ventana retrospectiva de 30 días, que le permite restaurar a un visitante no identificado previamente como una persona hasta 30 días antes.
+A veces, sus usuarios tardan un tiempo en iniciar sesión y en que [!DNL Device Graph] para identificarlos y asignar juntos sus dispositivos. El análisis multidispositivo utiliza una ventana retrospectiva de 30 días, que le permite restaurar a un visitante no identificado previamente como una persona hasta 30 días antes.
 
 ¿Cómo ayuda esto? Recuerde el recorrido de Isabelle de la discusión anterior:
 
 ![[!DNL Cross-Device Analytics] Recorrido ](assets/cda-isabelle-journey-cross-device-analytics.png)
 
-Es posible que Isabelle no haya iniciado sesión hasta justo antes de realizar la compra, y que el [!DNL Co-op Graph] o [!DNL Private Graph] no haya asignado juntos los dispositivos de Isabelle hasta poco después de su compra. Pero la retrospección de 30 días del análisis multidispositivo le permite restaurar el comportamiento pasado de Isabelle en el nivel de persona, lo que le proporciona la visión multidispositivo de su recorrido que usted necesita.
+Es posible que Isabelle no haya iniciado sesión hasta justo antes de realizar la compra, y que la [!DNL Device Graph] no mapeó juntos los dispositivos de Isabelle hasta poco después de su compra. Pero la retrospección de 30 días del análisis multidispositivo le permite restaurar el comportamiento pasado de Isabelle en el nivel de persona, lo que le proporciona la visión multidispositivo de su recorrido que usted necesita.
 
 >[!NOTE]
 >
@@ -98,12 +98,11 @@ Es posible que Isabelle no haya iniciado sesión hasta justo antes de realizar l
 
 El análisis multidispositivo se incluye con [[!DNL Analytics Ultimate]](https://helpx.adobe.com/es/legal/product-descriptions/adobe-analytics.html). A partir de septiembre de 2019, los clientes de [!DNL Analytics Ultimate] que cumplan los requisitos previos enumerados a continuación pueden utilizar el análisis multidispositivo. Los requisitos previos para el análisis multidispositivo son los siguientes:
 
-* Su compañía debe ser abonada de un [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=es) de [!DNL Adobe Experience Platform Identity Service], o usar un [!DNL Adobe Experience Platform Identity Service Private Graph].
-* Debe implementar todo lo necesario para el [!DNL Co-op Graph] o el [!DNL Private Graph], incluido [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es) y sincronización de ID con el gráfico. Tenga en cuenta que, además de los requisitos técnicos, el [!DNL Co-op Graph] tiene otros requisitos legales y contractuales.
-* Actualmente, no es posible utilizar dos organizaciones IMS con un solo [!DNL Private Graph], por lo que debe estandarizar una sola organización de IMS. En algunos casos, un cliente con varias organizaciones de IMS puede usar el [!DNL Co-op Graph] conjuntamente con el análisis multidispositivo.
-* El [!DNL Co-op graph] y el [!DNL Private Graph], así como ciertos componentes del análisis multidispositivo, están alojados en [!DNL Microsoft Azure]. Esto significa que los datos de [!DNL Analytics] se copian de un lado a otro entre el centro de procesamiento de datos de Adobe y la presencia de Adobe en [!DNL Microsoft Azure]. Algunos datos de [!DNL Analytics] se almacenarán en [!DNL Azure]. Su compañía debe aceptar este acuerdo.
+* Su empresa debe usar la variable [!DNL Adobe Experience Platform Identity Service Device Graph].
+* Debe implementar todo lo necesario para la variable [!DNL Device Graph] incluido [ID de Experience Cloud (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es) y sincronización de ID con el gráfico.
+* Actualmente, no es posible utilizar dos organizaciones IMS con un solo [!DNL Device Graph], por lo que debe estandarizar una sola organización de IMS.
+* La variable [!DNL Device Graph], así como ciertos componentes de CDA están alojados en [!DNL Microsoft Azure]. Esto significa que los datos de [!DNL Analytics] se copian de un lado a otro entre el centro de procesamiento de datos de Adobe y la presencia de Adobe en [!DNL Microsoft Azure]. Algunos datos de [!DNL Analytics] se almacenarán en [!DNL Azure]. Su compañía debe aceptar este acuerdo.
 * El análisis multidispositivo requiere un [!UICONTROL grupo de informes] “multidispositivo”. Es decir, el [!UICONTROL grupo de informes] que use para el análisis multidispositivo debe incluir datos de varios tipos de dispositivos o “superficies” diferentes, como la web de escritorio, la web móvil y la aplicación móvil. A partir de septiembre de 2019, el volumen de llamadas al servidor para este [!UICONTROL grupo de informes] debe ser igual o inferior a 100 MM/día de llamadas al servidor. Los límites del volumen de llamadas al servidor aumentarán en los próximos meses.
-* Desde septiembre de 2019, el [!DNL Co-op Graph] y el [!DNL Private Graph] solo están disponibles en Norteamérica. La programación de la presencia de gráficos en EMEA y APAC se anunciará en el futuro. Si está en esas regiones, le recomendamos que empiece a consultar estos requisitos previos ahora para que esté listo cuando el gráfico esté disponible.
 
 ## Interpretación de datos multidispositivo
 
