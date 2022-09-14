@@ -1,15 +1,15 @@
 ---
 title: Gráficos combinados en Analysis Workspace
-description: Obtenga información sobre la visualización de gráficos combinados en Analysis Workspace. La visualización de gráficos combinados facilita la creación rápida de una visualización de comparación sin tener que generar una tabla primero. Puede ver fácilmente las tendencias en sus datos en una combinación de líneas/barras. (Debe tener entre 60 y 160 caracteres, pero tiene 258)
+description: Obtenga información sobre la visualización de gráficos combinados en Analysis Workspace. La visualización de gráficos combinados facilita la creación rápida de una visualización de comparación sin tener que generar una tabla primero. Puede ver fácilmente las tendencias en sus datos en una combinación de líneas/barras.
 feature: Visualizations
 role: User
 level: Beginner
 kt: 11111
-thumbnail: 3409159.jpeg
-source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
+thumbnail: 3409159.jpg
+source-git-commit: 7bfb42fa1896b31ec291fd1cddc02da73da3af8c
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 69%
+source-wordcount: '109'
+ht-degree: 66%
 
 ---
 
