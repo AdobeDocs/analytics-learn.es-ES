@@ -7,9 +7,9 @@ level: Beginner
 kt: 11111
 thumbnail: 3409159.jpg
 source-git-commit: 7bfb42fa1896b31ec291fd1cddc02da73da3af8c
-workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 66%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -20,4 +20,4 @@ Obtenga información sobre la visualización de gráficos combinados en Analysis
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409159/?quality=12&learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/combo-charts.html).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/combo-charts.html?lang=es).
