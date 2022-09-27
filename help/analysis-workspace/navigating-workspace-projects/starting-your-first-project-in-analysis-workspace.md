@@ -10,10 +10,10 @@ kt: 4102
 role: User
 level: Beginner
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
+workflow-type: tm+mt
+source-wordcount: '103'
+ht-degree: 82%
 
 ---
 
@@ -24,3 +24,7 @@ En este vídeo aprenderá a crear un proyecto en Analysis Workspace utilizando p
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=es).
+
+>[!INFO]
+>
+> Este vídeo forma parte de un curso: [Introducción a Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=es), disponible de forma gratuita en Experience League!
