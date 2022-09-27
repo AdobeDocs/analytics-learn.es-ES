@@ -2,19 +2,15 @@
 title: Uso de Attribution IQ en tablas de forma libre
 description: Attribution IQ le permite cambiar el modelo de atribución a cualquiera de los diez modelos basados en reglas en una columna de forma libre sobre la marcha.
 feature: Attribution
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 23136.jpg
 kt: 1661
 role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
-source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+workflow-type: tm+mt
+source-wordcount: '104'
+ht-degree: 81%
 
 ---
 
@@ -32,3 +28,7 @@ Cada [!UICONTROL modelo] de atribución admite totalmente la segmentación y los
 * [!DNL Adobe Analytics Select]
 * [!DNL Adobe Analytics Prime]
 * [!DNL Adobe Analytics Ultimate]
+
+>[!INFO]
+>
+> Este vídeo forma parte de un curso: [Tablas improvisadas, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible de forma gratuita en Experience League!

@@ -1,24 +1,20 @@
 ---
-title: Trabajo con Dimensiones en una tabla improvisada
+title: Trabajo con Dimensiones en una tabla de forma libre
 description: Obtenga información acerca de cómo trabajar con dimensiones en tablas de forma libre, incluyendo cómo añadirlas, ordenarlas, filtrarlas, desglosarlas por otras dimensiones, etc.
 feature: Dimensions
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 83%
 
 ---
 
-# Trabajo con Dimensiones en una tabla improvisada
+# Trabajo con Dimensiones en una tabla de forma libre
 
 Obtenga información acerca de cómo trabajar con dimensiones en tablas de forma libre, incluyendo cómo añadirlas, ordenarlas, filtrarlas, desglosarlas por otras dimensiones, etc.
 
@@ -36,3 +32,7 @@ Temas tratados en el vídeo, incluyendo tiempos:
 * Dimensiones como filtros (8:30)
 * Desgloses (9:48)
 * Informes de tendencias, de clasificación y de datos acumulados (13:11)
+
+>[!INFO]
+>
+> Este vídeo forma parte de un curso: [Tablas improvisadas, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible de forma gratuita en Experience League!
