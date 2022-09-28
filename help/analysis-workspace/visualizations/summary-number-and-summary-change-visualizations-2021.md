@@ -4,14 +4,13 @@ description: Este vídeo le muestra cómo añadir y configurar las visualizacion
 feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 335564.jpg
 kt: 2136
 exl-id: 3d60ecdc-4161-4b2d-9615-de410d89358e
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
-workflow-type: ht
-source-wordcount: '111'
-ht-degree: 100%
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 85%
 
 ---
 
@@ -22,3 +21,7 @@ Este vídeo le muestra cómo añadir y configurar las visualizaciones Número de
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html?lang=es).
+
+>[!INFO]
+>
+> Este vídeo forma parte de un curso: [Uso de visualizaciones para contar sus historias de datos](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=es), disponible de forma gratuita en Experience League!
