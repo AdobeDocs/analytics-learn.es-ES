@@ -2,7 +2,6 @@
 title: Uso del análisis entre pestañas para explorar la atribución de marketing básica en Analysis Workspace
 description: Existen muchas maneras de llevar la metodología de atribución al siguiente nivel con Adobe Analytics. En este vídeo, resaltamos cómo puede obtener perspectivas más profundas del informe Canales de marketing mediante el análisis entre pestañas en el espacio de trabajo.
 feature: Marketing Channels
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +10,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '288'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '314'
+ht-degree: 92%
 
 ---
 
@@ -38,5 +37,8 @@ Existen muchas maneras de llevar la metodología de atribución al siguiente niv
 * 3:20: las dimensiones entre pestañas son dinámicas automáticamente cuando se sueltan, lo que significa que sus valores pueden cambiar con el tiempo. Para este análisis, es mejor colocar columnas estáticas en su lugar. Obtenga más información acerca de las columnas dinámicas en el minuto 6:33 del vídeo: [Configuración de fila y columna en tablas de forma libre](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 * 4:30: la configuración de columna se puede actualizar por lotes ahora, en lugar de una a una. Obtenga más información en el minuto 8:45 del vídeo: [configuración de fila y columna en tablas de forma libre](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
-
 Para obtener más información acerca de este tema, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=es).
+
+>[!INFO]
+>
+> Este vídeo es parte de un curso [Atribución de valor a puntos de contacto digital en el Recorrido del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=es), disponible de forma gratuita en Experience League!

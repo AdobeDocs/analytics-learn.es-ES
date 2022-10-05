@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 332454.jpg
 kt: 7440
 exl-id: feb04719-8d70-403d-9546-f42a32442113
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '112'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 82%
 
 ---
 
@@ -23,3 +23,7 @@ Este vídeo muestra cómo administrar las distintas opciones de intervalos de fe
 >[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html?lang=es).
+
+>[!INFO]
+>
+> Este vídeo es parte de un curso [Exportar y democratizar datos de Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible de forma gratuita en Experience League!

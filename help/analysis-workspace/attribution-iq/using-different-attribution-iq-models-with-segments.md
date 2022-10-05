@@ -2,20 +2,15 @@
 title: Uso de diferentes modelos de Attribution IQ con segmentos en Analysis Workspace
 description: En este vídeo aprenderá a utilizar modelos de Attribution IQ junto con segmentos de Adobe Analytics en el sitio.
 feature: Attribution
-topics: null
-activity: use
-doc-type: feature video
-author: Doug Moore
-team: Technical Marketing
 thumbnail: 23743.jpg
 kt: 1707
 role: User
 level: Intermediate
 exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: e021df988079334ecd81b8c320f9e3d9a43da2e4
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 84%
 
 ---
 
@@ -26,3 +21,8 @@ En este vídeo aprenderá a utilizar [!DNL Attribution IQ] [!UICONTROL modelos] 
 >[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12)
 
 Al realizar análisis en el sitio, a menudo se usan segmentos para centrarse en un grupo específico de visitantes, visitas o visitas individuales. Al hacerlo, debería agregar un paso para considerar qué modelo de atribución funciona mejor junto con el segmento, las métricas y el informe general.
+
+>[!INFO]
+>
+> Este vídeo es parte de un curso [Filtrado de datos con segmentación y fechas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=es), disponible de forma gratuita en Experience League!
+

@@ -10,10 +10,10 @@ kt: 3566
 role: User
 level: Beginner
 exl-id: a7c5c6ba-7517-4407-a914-e125ef9db862
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '49'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '69'
+ht-degree: 76%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 En este vídeo, le guiaremos a través de un inicio de sesión para que pueda entrar y administrar [!DNL Analytics], y realizar el procedimiento de análisis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12)
+
+>[!INFO]
+>
+> Este vídeo es parte de un curso [Implementación guiada de Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible de forma gratuita en Experience League!

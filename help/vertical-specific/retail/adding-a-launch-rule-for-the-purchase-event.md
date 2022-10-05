@@ -10,10 +10,10 @@ kt: 3593
 role: Developer, Data Engineer
 level: Beginner
 exl-id: d5f29523-5726-4c49-8ce6-a21c0a7a6c73
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '71'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 82%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 Este vídeo muestra cómo utilizar la [!UICONTROL extensión] de cadena de producto en [!DNL Experience Platform Launch] para rastrear compras en el sitio, lo que da como resultado las [!UICONTROL métricas] de los [!UICONTROL Ingresos], [!UICONTROL Pedidos] y [!UICONTROL Unidades] en el análisis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12)
+
+>[!INFO]
+>
+> Este vídeo es parte de un curso [Implementación guiada de Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible de forma gratuita en Experience League!

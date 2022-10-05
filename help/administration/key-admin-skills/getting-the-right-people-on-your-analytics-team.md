@@ -10,10 +10,10 @@ kt: 3563
 role: Admin
 level: Beginner
 exl-id: ea671adf-c290-4cbe-b65d-2ebdf980b76b
-source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
-workflow-type: ht
-source-wordcount: '97'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 86%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 Es muy importante contar con las personas adecuadas en su equipo a medida que implementa Adobe Analytics y analiza la actividad en el sitio. Este vídeo le ofrece una breve descripción de las diferentes funciones que desea completar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12)
+
+>[!INFO]
+>
+> Este vídeo es parte de un curso [Implementación guiada de Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible de forma gratuita en Experience League!

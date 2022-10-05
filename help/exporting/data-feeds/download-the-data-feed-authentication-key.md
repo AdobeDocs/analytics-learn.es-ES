@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 335739.jpg
 kt: KT-8436
 exl-id: d5f7e2a7-ef6e-415e-a59f-1315edba4d8e
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
-workflow-type: ht
-source-wordcount: '138'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '162'
+ht-degree: 85%
 
 ---
 
@@ -20,5 +20,8 @@ ht-degree: 100%
 
 La creación de una fuente de datos permite a Adobe saber dónde enviar archivos de datos sin procesar y qué desea incluir en cada archivo. La compatibilidad con SFTP para las fuentes de datos está disponible en Analytics. Se necesita un host SFTP, un nombre de usuario y el sitio de destino que contenga una clave pública RSA o DSA válida. Puede descargar la clave pública adecuada al crear la fuente.
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/335739/?quality=12&learn=on)
+
+>[!INFO]
+>
+> Este vídeo es parte de un curso [Exportar y democratizar datos de Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible de forma gratuita en Experience League!

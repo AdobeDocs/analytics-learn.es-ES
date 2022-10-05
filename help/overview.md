@@ -1,6 +1,6 @@
 ---
 title: Vídeos y tutoriales de Analytics
-description: 'Saque el máximo partido a Adobe Analytics. Con estos tutoriales dominará las funciones de Analytics y obtendrá ventajas para su empresa. Este contenido es adecuado para administradores, analistas de datos, especialistas en marketing, desarrolladores y arquitectos. '
+description: Saque el máximo partido a Adobe Analytics. Utilice estos tutoriales para conocer las funciones de Analytics y aprovechar las ventajas para su empresa. Este contenido es adecuado para administradores, analistas de datos, especialistas en marketing, desarrolladores y arquitectos.
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -8,10 +8,10 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
-workflow-type: ht
-source-wordcount: '345'
-ht-degree: 100%
+source-git-commit: 2e20de678e255981b8fc8f230ddf420793e3b4a5
+workflow-type: tm+mt
+source-wordcount: '320'
+ht-degree: 80%
 
 ---
 
@@ -19,9 +19,10 @@ ht-degree: 100%
 
 # Tutoriales de Analytics
 
-Saque el máximo partido a [!DNL Adobe Analytics]. Con estos tutoriales dominará las funciones de Analytics y obtendrá ventajas para su empresa. Este contenido es adecuado para administradores, analistas de datos, especialistas en marketing, desarrolladores y arquitectos.
+Saque el máximo partido a [!DNL Adobe Analytics]. Utilice estos tutoriales para conocer las funciones de Analytics y aprovechar las ventajas para su empresa. Este contenido es adecuado para administradores, analistas de datos, especialistas en marketing, desarrolladores y arquitectos.
 
 En primer lugar,
+
 * Consulte la sección **&quot;Novedades&quot;** para conocer las actualizaciones y funciones más recientes
 * **Selección de personal** destaca algunos de nuestros contenidos favoritos
 * Explore el contenido por tema y subtema en la navegación de la **izquierda**
@@ -31,14 +32,11 @@ En la sección de cursos también se ofrecen experiencias de aprendizaje organiz
 
 ## Novedades
 
-* **[Generador de cuadros de resultados móviles de Adobe Analytics (vídeo)](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
-   *Aprenda a crear y compartir cuadros de resultados móviles creados en [!DNL Analysis Workspace] para sus usuarios ejecutivos.*
-
 * **[Aplicación de cuadros de resultados móviles de Adobe Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
    *Aprenda a descargar la aplicación de cuadros de resultados móviles y vea los creados en [!DNL Analysis Workspace].*
 
 * **[Anotaciones en el espacio de trabajo (vídeo)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *Las anotaciones en [!DNL Analysis Workspace] le permiten comunicar de forma eficaz los matices y las perspectivas de datos contextuales a los usuarios de su organización. Anote una fecha o un intervalo de fechas con problemas de datos conocidos, festivos, lanzamientos de campañas, etcétera, para informar mejor a los usuarios de por qué ven lo que ven en gráficos de líneas, tablas y mucho más.*
+   *Las anotaciones en [!DNL Analysis Workspace] le permiten comunicar de forma eficaz los matices y las perspectivas de datos contextuales a los usuarios de su organización. Realice anotaciones en una fecha o un intervalo de fechas con problemas de datos conocidos, días festivos, lanzamientos de campañas, etc. Esto informa a los usuarios de por qué ven irregularidades en gráficos de líneas, tablas y más.*
 
 ## Selección de personal
 

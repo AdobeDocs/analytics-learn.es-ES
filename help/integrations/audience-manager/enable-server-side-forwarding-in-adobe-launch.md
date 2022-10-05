@@ -1,6 +1,6 @@
 ---
 title: Habilitación del reenvío desde el lado del servidor en Experience Platform Launch
-description: 'Aprenda a utilizar Experience Platform Launch para que las visitas de Adobe Analytics se envíen automáticamente a Adobe Audience Manager mediante el reenvío del lado del servidor. '
+description: Aprenda a utilizar Experience Platform Launch para que las visitas de Adobe Analytics se envíen automáticamente a Adobe Audience Manager mediante el reenvío del lado del servidor.
 feature: Experience Cloud Integration
 topics: null
 activity: use
@@ -12,10 +12,10 @@ topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '55'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 73%
 
 ---
 
@@ -24,3 +24,7 @@ ht-degree: 100%
 Aprenda a utilizar Adobe [!DNL Experience Platform Launch] para que las visitas de Adobe Analytics se envíen automáticamente a Adobe Audience Manager mediante el reenvío del lado del servidor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12)
+
+>[!INFO]
+>
+> Este vídeo es parte de un curso [Configuración y administración de grupos de informes en Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=es), disponible de forma gratuita en Experience League!

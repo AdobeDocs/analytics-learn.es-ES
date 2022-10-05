@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 342373.jpg
 kt: 9872
 exl-id: d7b81d6d-1b8a-4796-ae13-3359d5949457
-source-git-commit: fd823be4eb59136ceec1f583bb7bbc405dd1f3ea
-workflow-type: ht
-source-wordcount: '50'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '74'
+ht-degree: 67%
 
 ---
 
@@ -22,3 +22,7 @@ Aprenda los aspectos básicos del uso de [!DNL Report Builder], incluida la inst
 >[!VIDEO](https://video.tv.adobe.com/v/342373/?quality=12&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=es).
+
+>[!INFO]
+>
+> Este vídeo es parte de un curso [Exportar y democratizar datos de Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible de forma gratuita en Experience League!

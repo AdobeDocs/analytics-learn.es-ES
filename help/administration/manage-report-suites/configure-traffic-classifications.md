@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 340024.jpg
 kt: 9575
 exl-id: dc7cd4c7-a085-4d09-aca0-12c41282aa16
-source-git-commit: 90cd422c063bb10744ef556e4093b9a57a561744
-workflow-type: ht
-source-wordcount: '67'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 76%
 
 ---
 
@@ -23,3 +23,7 @@ En este vídeo, analizamos la configuración de clasificaciones para variables d
 >[!VIDEO](https://video.tv.adobe.com/v/340024/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-classifications.html?lang=es).
+
+>[!INFO]
+>
+> Este vídeo es parte de un curso [Configuración y administración de grupos de informes en Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=es), disponible de forma gratuita en Experience League!

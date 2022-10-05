@@ -1,43 +1,44 @@
 ---
-title: Uso de una capa de datos para establecer el nombre de la página y otras variables en Adobe Analytics mediante Launch
-description: Se considera una práctica recomendada el uso de una capa de datos para Analytics y otras soluciones de Experience Cloud. En este vídeo, verá cómo extraer los valores de la capa de datos y utilizarlos en Launch para rellenar variables en Adobe Analytics.
+title: Usar una capa de datos para establecer variables de Analytics mediante Etiquetas
+description: Obtenga información sobre el uso de una capa de datos para obtener datos de Analytics y otras soluciones de Experience Cloud.
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: technical video
-team: Technical Marketing
-kt: 1852
 role: Developer, Data Engineer
 level: Beginner
+kt: 1852
+thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '365'
-ht-degree: 100%
+source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
+workflow-type: tm+mt
+source-wordcount: '324'
+ht-degree: 9%
 
 ---
 
-# Uso de una capa de datos para establecer el nombre de la página y otras variables mediante [!DNL Experience Platform Launch] {#using-a-data-layer-to-set-page-name-and-other-variables-in-adobe-analytics-via-launch}
+# Usar una capa de datos para establecer variables de Analytics mediante [!DNL Tags] {#use-a-data-layer-to-set-analytics-variables-in-adobe-analytics-via-tags}
 
-Se considera una práctica recomendada el uso de una capa de datos para [!DNL Analytics] y otras soluciones de Experience Cloud. En este vídeo, verá cómo extraer sus valores de la capa de datos y utilizarlos en [!DNL Experience Platform Launch] para rellenar variables en Adobe Analytics.
+Uso de una capa de datos para [!DNL Analytics] y otras soluciones de Experience Cloud es una práctica recomendada. En este vídeo, aprenderá a extraer valores de la capa de datos y utilizarlos en [!DNL Experience Platform Tags] para rellenar variables en Adobe Analytics.
 
 ## Capas de datos {#data-layers}
 
-Una práctica recomendada es utilizar una capa de datos cuando se trabaja con datos en el sitio y en las soluciones de Adobe Experience Cloud, especialmente con Adobe Analytics. Una _capa de datos_ es un marco de objetos JavaScript que los desarrolladores insertan en las páginas. Las herramientas de seguimiento (incluidos los sistemas de administración de etiquetas como [!DNL Experience Platform Launch]) pueden utilizar las capas de datos para rellenar informes. Busque información adicional acerca de las capas de datos en la [documentación de Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=es) o en el [sitio W3C](https://www.w3.org/).
+A _capa de datos_ es un marco de objetos JavaScript que los desarrolladores agregan a las páginas web digitales. Las soluciones de Analytics utilizan finalmente la capa de datos para rellenar informes. Sistemas de gestión de etiquetas, incluidos [!DNL Experience Platform Tags]) son los intermediarios que leen la capa de datos, asignan los valores a variables y envían esos datos a soluciones de experiencia digital.
 
-Además, consulte la entrada de blog [Capas de datos: de palabra de moda a práctica recomendada](https://theblog.adobe.com/data-layers-buzzword-best-practice/), que proporciona información interesante sobre las capas de datos y un par de ejemplos.
+Revise información adicional sobre las capas de datos en la [documentación del Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=es) y el blog [Capas de datos: De palabra de moda a práctica recomendada](https://blog.adobe.com/en/2014/03/13/data-layers-buzzword-best-practice).
 
-## Capas de datos, [!DNL Experience Platform Launch] y Adobe Analytics {#data-layers-launch-and-adobe-analytics-oh-my}
+## Capas de datos, [!DNL Experience Platform Tags]y Adobe Analytics{#data-layers-launch-and-adobe-analytics}
 
-1. Cree un estándar de capa de datos para usar en el sitio, al que se pueda hacer referencia mediante [!DNL Experience Platform Launch].
+1. Defina o identifique un estándar de capa de datos para usar en el sitio.
 
-   1. Coloque esta capa de datos lo más alto posible en el encabezado de la página, antes de la llamada a [!DNL Experience Platform Launch], de modo que los valores se puedan usar inmediatamente por parte de [!DNL Launch], y por soluciones de Adobe que deben estar arriba en la página, como Adobe Target.
+   1. Coloque la capa de datos lo más alto posible en la sección del encabezado de la página y antes de la llamada a [!DNL Experience Platform Tags]. Esto garantiza que se acceda a los valores inmediatamente mediante [!DNL Tags] y por soluciones de Adobe que necesitan estar en primer plano en la página, como Adobe Target.
 
 1. Rellene los datos en la capa de datos.
-1. En [!DNL Experience Platform Launch], cree [!UICONTROL elementos de datos] que hagan referencia a los puntos de datos de la capa de datos y que puedan utilizarse en [!DNL Experience Platform Launch] en [!UICONTROL reglas], [!UICONTROL extensiones], etc.
-1. Utilice la variable [!UICONTROL elementos de datos] en las variables globales de la extensión de [!DNL Analytics] o en una regla, y asigne los valores a [!UICONTROL props], [!UICONTROL eVars], [!UICONTROL pageName] u otras variables de [!DNL Analytics].
+1. En [!DNL Experience Platform Tags], crear &quot;[!UICONTROL elementos de datos]&quot; que asignan los puntos de datos de la capa de datos. Estos elementos de datos se utilizan en todas las [!DNL Experience Platform Tags] en [!UICONTROL reglas] y [!UICONTROL extensiones].
+1. En [!DNL Analytics] variables globales de la extensión o en una [!DNL Tags rule], asigne los valores de [!UICONTROL elementos de datos] a [!UICONTROL props], [!UICONTROL eVars], [!UICONTROL pageName]y otros [!DNL Analytics] variables.
 1. Active una baliza que envíe los datos a [!DNL Analytics].
 
 El siguiente vídeo le muestra el proceso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12)
+
+>[!NOTE]
+>
+>Es posible que la capa de datos específica utilizada en este vídeo no se considere una &quot;práctica recomendada&quot; para su organización. Se recomienda utilizar una capa de datos para enviar datos importantes a las soluciones de marketing digital.

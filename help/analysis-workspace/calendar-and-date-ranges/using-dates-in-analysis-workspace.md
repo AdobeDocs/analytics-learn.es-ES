@@ -1,6 +1,6 @@
 ---
 title: Uso de fechas en Analysis Workspace
-description: '"Este vídeo explica tres formas de trabajar con fechas en análisis de forma libre: los elementos calendario, intervalo de fechas y granularidad. No se muestra, de alguna manera vergonzoso: cómo usar fechas para habilitar gráficos de líneas. "'
+description: "Este vídeo explica tres formas de trabajar con fechas en análisis de forma libre: los elementos calendario, intervalo de fechas y granularidad. No se muestra, de alguna manera vergonzoso: cómo usar fechas para habilitar gráficos de líneas. "
 feature: Calendar
 topics: null
 activity: use
@@ -10,10 +10,10 @@ kt: 2014
 role: User
 level: Beginner
 exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '105'
+ht-degree: 80%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 Este vídeo explica tres formas de trabajar con fechas en [!DNL Freeform] Análisis: el calendario, los elementos de [!UICONTROL intervalo de fechas] y los elementos de granularidad. No se muestra, de alguna manera vergonzoso: cómo usar fechas para habilitar gráficos de líneas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12)
+
+>[!INFO]
+>
+> Este vídeo es parte de un curso [Filtrado de datos con segmentación y fechas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=es), disponible de forma gratuita en Experience League!
