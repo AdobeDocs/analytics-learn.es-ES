@@ -7,10 +7,10 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 85%
+source-wordcount: '149'
+ht-degree: 84%
 
 ---
 
@@ -26,4 +26,9 @@ Para obtener más información acerca de esta funcionalidad, visite la [document
 
 >[!INFO]
 >
-> Este vídeo forma parte de un curso: [Tablas improvisadas, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte de dos cursos:
+>
+> * [Tablas improvisadas: la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
+> * [Filtrado de datos con segmentación y fechas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=es)
+>
+> Ambos están disponibles de forma gratuita en Experience League.
