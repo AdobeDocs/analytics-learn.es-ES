@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
 source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ Para obtener más información sobre los filtros disponibles, visite la [documen
 
 >[!INFO]
 >
-> Este vídeo forma parte de un curso: [Tablas improvisadas, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte de un curso: [Tablas de forma libre, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), ¡disponible de forma gratuita en Experience League!
