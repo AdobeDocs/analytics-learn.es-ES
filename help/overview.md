@@ -8,7 +8,7 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 2e20de678e255981b8fc8f230ddf420793e3b4a5
+source-git-commit: 983b5b828a1c189dff0da90f3e0f1b3747576766
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 80%
@@ -30,6 +30,8 @@ En primer lugar,
 
 En la sección de cursos también se ofrecen experiencias de aprendizaje organizadas por función y nivel de habilidad. Solo tiene que iniciar sesión con su Adobe ID e ir a **Formación > Cursos recomendados** en la barra de navegación superior.
 
+<div id="whats-new-section">
+
 ## Novedades
 
 * **[Aplicación de cuadros de resultados móviles de Adobe Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
@@ -37,6 +39,10 @@ En la sección de cursos también se ofrecen experiencias de aprendizaje organiz
 
 * **[Anotaciones en el espacio de trabajo (vídeo)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
    *Las anotaciones en [!DNL Analysis Workspace] le permiten comunicar de forma eficaz los matices y las perspectivas de datos contextuales a los usuarios de su organización. Realice anotaciones en una fecha o un intervalo de fechas con problemas de datos conocidos, días festivos, lanzamientos de campañas, etc. Esto informa a los usuarios de por qué ven irregularidades en gráficos de líneas, tablas y más.*
+
+</div>
+
+<div id="staff-picks-section">
 
 ## Selección de personal
 
@@ -83,6 +89,8 @@ En la sección de cursos también se ofrecen experiencias de aprendizaje organiz
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Recursos adicionales
 
