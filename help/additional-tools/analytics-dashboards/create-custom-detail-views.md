@@ -9,8 +9,8 @@ kt: 11271
 thumbnail: 3410002.jpg
 source-git-commit: ef4186a07d4e835a97300e62890ccc1106a82d93
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 7%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 En este vídeo, aprenderá a personalizar las vistas de detalles, incluido el texto de los paneles de Adobe Analytics. Esto le permite refinar aún más los datos que muestra y la historia que desea contar a sus interesados a través de proyectos de informes de valoración móviles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/Cannot find MPC Link/?quality=12&amp;learn=on)
