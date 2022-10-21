@@ -8,9 +8,9 @@ thumbnail: 332507.jpg
 kt: 7441
 exl-id: 61d00599-c719-4bd7-8e74-ef0c2c89a55c
 source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Al añadir visualizaciones en Analysis Workspace, existen varias formas de agreg
 
 >[!INFO]
 >
-> Este vídeo forma parte de un curso: [Uso de visualizaciones para contar sus historias de datos](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=es), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte del curso [Uso de visualizaciones para contar historias de datos](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=es), disponible de forma gratuita en Experience League.
