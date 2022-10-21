@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 338293.jpg
 kt: 9293
 exl-id: a49b4bf3-a28e-4125-a8f9-d46f5531affa
-source-git-commit: ca2683e56d101f540680713483ec3ff6aac57492
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: ht
-source-wordcount: '114'
+source-wordcount: '140'
 ht-degree: 100%
 
 ---
@@ -22,3 +22,7 @@ El uso de fechas e intervalos de fechas personalizadas en el producto puede ayud
 >[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=es).
+
+>[!INFO]
+>
+> Este vídeo forma parte del curso [Filtrado de datos con segmentación y fechas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=es), disponible de forma gratuita en Experience League.
