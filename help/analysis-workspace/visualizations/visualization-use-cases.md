@@ -8,9 +8,9 @@ thumbnail: 334096.jpg
 kt: 8062
 exl-id: b1fcbd2f-d03e-4cc1-80ba-f76fe66551e5
 source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Para obtener más información, consulte la [documentación](https://experiencel
 
 >[!INFO]
 >
-> Este vídeo forma parte de un curso: [Uso de visualizaciones para contar sus historias de datos](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=es), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte del curso [Uso de visualizaciones para contar historias de datos](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=es), disponible de forma gratuita en Experience League.
