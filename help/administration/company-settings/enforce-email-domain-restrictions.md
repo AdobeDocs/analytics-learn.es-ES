@@ -9,9 +9,9 @@ thumbnail: 335741.jpg
 kt: 8461
 exl-id: fc5f251b-120b-487c-a415-1949df62d32f
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '159'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ El Administrador de seguridad permite controlar el acceso a los datos de creaci�
 
 >[!INFO]
 >
-> Este vídeo es parte de un curso [Configuración y administración de grupos de informes en Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=es), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte del curso [Configuración y administración de grupos de informes en Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=es), disponible de forma gratuita en Experience League.
