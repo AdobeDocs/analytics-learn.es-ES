@@ -10,9 +10,9 @@ thumbnail: 335739.jpg
 kt: KT-8436
 exl-id: d5f7e2a7-ef6e-415e-a59f-1315edba4d8e
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '162'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ La creación de una fuente de datos permite a Adobe saber dónde enviar archivos
 
 >[!INFO]
 >
-> Este vídeo es parte de un curso [Exportar y democratizar datos de Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte del curso [Exportación y democratización de datos de Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=es), disponible de forma gratuita en Experience League.
