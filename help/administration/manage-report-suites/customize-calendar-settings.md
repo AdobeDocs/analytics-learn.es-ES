@@ -10,9 +10,9 @@ thumbnail: 333003.jpg
 kt: 7654
 exl-id: d04273ec-58e1-4dd7-b0b2-84708e059a62
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ En este vídeo, aprenda algunos consejos y trucos, así como la mecánica de per
 
 >[!INFO]
 >
-> Este vídeo es parte de un curso [Configuración y administración de grupos de informes en Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=es), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte del curso [Configuración y administración de grupos de informes en Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=es), disponible de forma gratuita en Experience League.
