@@ -9,9 +9,9 @@ thumbnail: 335749.jpg
 kt: 8466
 exl-id: ce096b45-a7bf-4ebd-96e9-b2e10c2c175b
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Los ID de IMS vinculados incorrectos o no presentes en Adobe Analytics pueden pr
 
 >[!INFO]
 >
-> Este vídeo es parte de un curso [Configuración y administración de grupos de informes en Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=es), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte del curso [Configuración y administración de grupos de informes en Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=es), disponible de forma gratuita en Experience League.
