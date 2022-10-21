@@ -9,9 +9,9 @@ thumbnail: 333604.jpg
 kt: 7996
 exl-id: 379c1a3d-2fd0-40d9-8736-05bd0f0c29c8
 source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ En este vídeo, veremos los pasos para implementar variables de búsqueda intern
 
 >[!INFO]
 >
-> Este vídeo es parte de un curso [Implementación y medición de la búsqueda interna del sitio](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte del curso [Implementing and Measuring Internal Site Search](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), disponible de forma gratuita en Experience League.
