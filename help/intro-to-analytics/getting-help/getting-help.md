@@ -11,9 +11,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8ea4295b-c374-4f89-b0aa-2fd09376c689
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ En algún momento, todos vamos a necesitar ayuda con Adobe Analytics. Este víde
 
 >[!INFO]
 >
-> Este vídeo es parte de un curso [Implementación guiada de Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte del curso [Implementación guiada de Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible de forma gratuita en Experience League.
