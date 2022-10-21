@@ -9,9 +9,9 @@ thumbnail: 25444.jpg
 kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ La [!UICONTROL detección de anomalías] usa el modelado estadístico para busca
 
 En [!UICONTROL Report Builder], puede devolver los datos reales de la [!UICONTROL métrica], junto con los valores esperados y los límites superior e inferior, para añadir más profundidad a los datos que está analizando y compartiendo.
 
-Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=es).
+Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=es).
 
 >[!INFO]
 >
-> Este vídeo es parte de un curso [Exportar y democratizar datos de Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte del curso [Exportación y democratización de datos de Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=es), disponible de forma gratuita en Experience League.
