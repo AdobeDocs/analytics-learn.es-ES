@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 7c7fc1f3-63b3-42cd-a9b8-bd300d8d1921
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Este vídeo le ayuda a comprender cuáles son los [!UICONTROL grupos de informes
 
 >[!INFO]
 >
-> Este vídeo es parte de un curso [Implementación guiada de Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte del curso [Implementación guiada de Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible de forma gratuita en Experience League.
