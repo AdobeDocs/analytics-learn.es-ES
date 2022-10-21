@@ -7,9 +7,9 @@ thumbnail: 25401.jpg
 role: User
 level: Beginner
 exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: ht
-source-wordcount: '90'
+source-wordcount: '116'
 ht-degree: 100%
 
 ---
@@ -21,3 +21,7 @@ Al crear segmentos, los contenedores de visita individual, visita y visitante co
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=es).
+
+>[!INFO]
+>
+> Este vídeo forma parte del curso [Filtrado de datos con segmentación y fechas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=es), disponible de forma gratuita en Experience League.
