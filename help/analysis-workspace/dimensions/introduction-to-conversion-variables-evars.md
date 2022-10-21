@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 4f7bedec-efca-46e8-981a-18118982012f
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ En este vídeo, obtenga una introducción a las variables de conversión, tambi�
 
 >[!INFO]
 >
-> Este vídeo es parte de un curso [Implementación guiada de Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte del curso [Implementación guiada de Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible de forma gratuita en Experience League.
