@@ -11,9 +11,9 @@ role: Admin
 level: Beginner
 exl-id: ea671adf-c290-4cbe-b65d-2ebdf980b76b
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Es muy importante contar con las personas adecuadas en su equipo a medida que im
 
 >[!INFO]
 >
-> Este vídeo es parte de un curso [Implementación guiada de Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte del curso [Implementación guiada de Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible de forma gratuita en Experience League.
