@@ -13,9 +13,9 @@ role: User
 level: Beginner
 exl-id: da173124-ce09-4be3-9418-8791acd16240
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ Este vídeo muestra cómo activar y desactivar el truncamiento de etiquetas en s
 
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12)
 
-Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=es).
+Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=es).
 
 >[!INFO]
 >
-> Este vídeo es parte de un curso [Atribución de valor a puntos de contacto digital en el Recorrido del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=es), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte del curso [Atribución de valor a los puntos de contacto digitales en el recorrido del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=es), disponible de forma gratuita en Experience League.
