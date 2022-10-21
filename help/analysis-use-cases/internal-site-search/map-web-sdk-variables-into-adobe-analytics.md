@@ -9,9 +9,9 @@ thumbnail: 333606.jpg
 kt: 7998
 exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
 source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ Para obtener una lista de las variables asignadas automáticamente desde el SDK 
 
 >[!INFO]
 >
-> Este vídeo forma parte de varios cursos, [Configuración y administración de grupos de informes en Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=es) y [Implementación y medición de la búsqueda interna del sitio](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), disponible de forma gratuita en Experience League!
+> Este vídeo es parte de varios cursos [Configuración y administración de grupos de informes en Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=es) e [Implementación y medición de la búsqueda interna del sitio](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search&amp;lang=es), disponibles de forma gratuita en Experience League.
