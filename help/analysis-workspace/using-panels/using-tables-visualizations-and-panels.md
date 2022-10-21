@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 38b360d2-ce4a-4442-8a19-366c090eb717,a273d1a8-3b58-4bf2-b683-638d26a1cc4e
 source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -27,4 +27,4 @@ Para obtener más información, consulte la documentación de [paneles](https://
 
 >[!INFO]
 >
-> Este vídeo forma parte de un curso: [Introducción a Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=es), disponible de forma gratuita en Experience League!
+> Este vídeo forma parte del curso [Introducción a Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=es), disponible de forma gratuita en Experience League.
