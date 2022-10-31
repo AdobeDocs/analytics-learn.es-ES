@@ -15,7 +15,7 @@ ht-degree: 99%
 
 + [Tutoriales de Analytics](overview.md)
 + Introducción a Analytics {#intro-to-analytics}
-   + [¿Qué es analytics?](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
+   + [Qué es el análisis](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
    + ¿Qué puede hacer Adobe Analytics por mí? {#what-can-aa-do-for-me}
       + [Vídeo: Cómo puede cambiar Adobe Analysis Workspace su negocio](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [Es más que datos. Es conocimiento del cliente](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
@@ -136,7 +136,7 @@ ht-degree: 99%
       + [Añadir líneas de tendencia a las visualizaciones de líneas](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Visualización de mapas](analysis-workspace/visualizations/map-visualization.md)
       + [Visualizaciones de Número de resumen y Cambio de resumen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
-      + [Visualización de resumen de métricas clave](analysis-workspace/visualizations/key-metric-summary.md)
+      + [Visualización del resumen de métricas clave](analysis-workspace/visualizations/key-metric-summary.md)
       + [Visualización del texto](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Visualización del diagrama de dispersión](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Visualización de gráficos de rectángulos](analysis-workspace/visualizations/treemap-visualization.md)
@@ -356,7 +356,7 @@ ht-degree: 99%
       + [Visualizaciones para cuadros de resultados móviles](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Aplicación de intervalos de fechas personalizados](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Experiencia en la aplicación de los paneles de Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
-      + [Crear vistas de detalles personalizadas](additional-tools/analytics-dashboards/create-custom-detail-views.md)
+      + [Creación de vistas de detalles personalizadas](additional-tools/analytics-dashboards/create-custom-detail-views.md)
 + Exportación {#exporting}
    + Desde la IU {#from-the-ui}
       + [Exportación a CSV desde Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
