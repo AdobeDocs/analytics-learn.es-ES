@@ -10,15 +10,15 @@ kt: 1988
 role: User
 level: Beginner
 exl-id: 6778e714-3fe9-479f-aacd-d1e702e2c584
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '66'
-ht-degree: 100%
+source-git-commit: de2adda096458119c3de42e85de4d49898576113
+workflow-type: tm+mt
+source-wordcount: '53'
+ht-degree: 71%
 
 ---
 
 # Administración de componentes en Analysis Workspace {#component-management-in-analysis-workspace}
 
-Puede administrar [!UICONTROL dimensiones], [!UICONTROL segmentos], [!UICONTROL métricas] e [!UICONTROL intervalos de fechas] directamente en Analysis Workspace. No es necesario que abandone el proyecto durante la búsqueda de un segmento para compartir.
+Aprenda a compartir y administrar componentes (p. ej. dimensiones, métricas, segmentos, etc.) en Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24095/?quality=12)
