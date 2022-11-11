@@ -1,24 +1,22 @@
 ---
-title: Personalización del menú en Reports and Analytics
-description: Este vídeo explica cómo personalizar los menús en Analytics para su empresa.
+title: Personalizar el menú en Reports & Analytics
+description: Obtenga información sobre cómo personalizar el menú Informes y análisis para los usuarios de su organización.
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2365
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 333035.jpg
+kt: 2365
 exl-id: e07dd703-0e68-473c-a764-145019bf671f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '40'
-ht-degree: 100%
+source-git-commit: 1b57a173b65903c83ccee4a0ea127568b51b4a93
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Personalización del menú en [!DNL Reports & Analytics] {#customizing-the-menu-in-reports-analytics}
+# Personalización del menú en [!DNL Reports & Analytics] {#custome-the-menu-in-reports-analytics}
 
-Este vídeo explica cómo personalizar los menús en [!DNL Analytics] para su negocio.
+Aprenda a personalizar el [!DNL Reports & Analytics] para los usuarios de su organización. Esto ayuda a los usuarios a encontrar los informes que usan con mayor frecuencia.
 
->[!VIDEO](https://video.tv.adobe.com/v/25457/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333035/?quality=12)
