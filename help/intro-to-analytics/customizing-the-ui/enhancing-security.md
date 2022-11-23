@@ -1,24 +1,23 @@
 ---
-title: Mejora de la seguridad en Adobe Analytics
-description: Adobe Analytics está a la altura de los estándares de seguridad más recientes. Si su organización desea ampliar esa seguridad con elementos como contraseñas seguras y restricciones de inicio de sesión con IP, este vídeo le mostrará cómo hacerlo.
+title: Mejorar la seguridad
+description: Obtenga información sobre la configuración del Administrador de seguridad en Configuración de la empresa para controlar el acceso a Adobe Analytics.
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2366
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25458.jpg
+team: Technical Marketing
+kt: 2366
 exl-id: b50f383f-2eb2-4671-a841-0b5b98a7e3db
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '73'
-ht-degree: 100%
+source-git-commit: 846450b63ef18cb275a8a08ec3324223044fdaac
+workflow-type: tm+mt
+source-wordcount: '47'
+ht-degree: 0%
 
 ---
 
-# Mejora de la seguridad en Adobe Analytics {#enhancing-security-in-adobe-analytics}
+# Mejorar la seguridad {#enhance-security}
 
-Adobe Analytics está a la altura de los estándares de seguridad más recientes. Si su organización desea ampliar esa seguridad con elementos como contraseñas seguras y restricciones de inicio de sesión con IP, este vídeo le mostrará cómo hacerlo.
+Obtenga información sobre la configuración del Administrador de seguridad en Configuración de la empresa para controlar el acceso a Adobe Analytics. Esto incluye contraseñas seguras, funciones de caducidad y recuperación de contraseñas y restricciones de dominio de correo electrónico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12)

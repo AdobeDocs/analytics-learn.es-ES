@@ -1,29 +1,26 @@
 ---
-title: Inicio del primer proyecto en Analysis Workspace
-description: En este vídeo aprenderá a crear un proyecto en Analysis Workspace utilizando plantillas predeterminadas y personalizadas, así como a copiar elementos entre proyectos.
+title: Creación de proyectos mediante plantillas
+description: Aprenda a crear proyectos de Analysis Workspace mediante plantillas
 feature: Projects
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 4102
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 30368.jpg
+team: Technical Marketing
+kt: 4102
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
+workflow-type: tm+mt
+source-wordcount: '71'
+ht-degree: 32%
 
 ---
 
-# Inicio del primer proyecto en Analysis Workspace
+# Creación de proyectos mediante plantillas
 
-En este vídeo aprenderá a crear un proyecto en Analysis Workspace utilizando plantillas predeterminadas y personalizadas, así como a copiar elementos entre proyectos.
+Aprenda a crear proyectos de Analysis Workspace mediante plantillas. Se trata de una técnica que ahorra tiempo en comparación con la creación manual de proyectos y que puede ayudar a los nuevos usuarios a ponerse al día rápidamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
-
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=es).
 
 >[!INFO]
 >
