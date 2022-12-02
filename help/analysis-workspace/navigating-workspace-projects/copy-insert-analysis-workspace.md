@@ -1,26 +1,21 @@
 ---
-title: Copia e inserción en Analysis Workspace
-description: Copiar + Insertar permite copiar visualizaciones de un panel o proyecto a otro, así como copiar paneles completos entre proyectos.
+title: Copiar e insertar paneles y visualizaciones
+description: Obtenga información sobre cómo copiar e insertar paneles y visualizaciones en Analysis Workspace
 feature: Panels
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 1698
 role: User
 level: Beginner
+kt: 1698
+thumbnail: 23230.jpg
 exl-id: 972d49a3-af5e-4f57-bb50-90b6b16bc7d8
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '75'
-ht-degree: 100%
+source-git-commit: 980e3069b31ee572366e269143d2f45387f2b682
+workflow-type: tm+mt
+source-wordcount: '54'
+ht-degree: 0%
 
 ---
 
-# Copia e inserción en Analysis Workspace {#copy-and-insert-in-analysis-workspace}
+# Copiar e insertar paneles y visualizaciones {#copy-and-insert-panels-and-visualizations}
 
-Copiar + Insertar permite copiar visualizaciones de un panel o proyecto a otro, así como copiar paneles completos entre proyectos.
+Obtenga información sobre cómo copiar e insertar paneles y visualizaciones en Analysis Workspace. Estas son técnicas que ahorran tiempo para perfeccionar un proyecto actual o para comenzar con uno nuevo.
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12)
-
-Utilice esta funcionalidad para organizar sus análisis en historias y proyectos de datos lógicos, o para empezar copiándolos de las plantillas.
+>[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)

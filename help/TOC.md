@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda a sacar el máximo partido a sus datos.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: f0569db5990d9766f57fcedb6a84ce3f7c03487d
+source-git-commit: 9dfd262512ea4c36e5fad6c335b176b269c20652
 workflow-type: tm+mt
-source-wordcount: '2394'
-ht-degree: 96%
+source-wordcount: '2377'
+ht-degree: 95%
 
 ---
 
@@ -72,18 +72,18 @@ ht-degree: 96%
       + [Consejos para continuar el recorrido de aprendizaje de Adobe Analytics](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Navegación por proyectos del Espacio de trabajo {#navigating-workspace-projects}
       + [Creación de proyectos mediante plantillas](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
-      + [Plantilla de tutorial de formación en Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
-      + [Copia e inserción en Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
-      + [Creación de una tabla de contenido](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [Haga clic con el botón derecho para aumentar la eficiencia del Workspace](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [Plantilla del tutorial de formación](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [Copiar e insertar paneles y visualizaciones](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
+      + [Crear una tabla de contenido](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
+      + [Haga clic con el botón derecho para aumentar la eficacia de Workspace](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Métodos abreviados de teclado](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
-      + [Anotaciones en Analysis Workspace](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
-      + [Barra de menús](analysis-workspace/navigating-workspace-projects/menu-bar.md)
+      + [Anotaciones](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
+      + [Barra de menú](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [Administración de proyectos](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
-      + [Deshacer acciones en Analysis Workspace](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
-      + [Densidad de vistas en Analysis Workspace](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
+      + [Deshacer acciones](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
+      + [Ver densidad](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Mejoras de estado cero](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
-      + [Uso de filtros (etiquetas) en el carril izquierdo](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [Usar filtros](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + Uso de paneles {#using-panels}
       + [Uso de tablas, visualizaciones y paneles en Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [El panel Quick Insights en Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
