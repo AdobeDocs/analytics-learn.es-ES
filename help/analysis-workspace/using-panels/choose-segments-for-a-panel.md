@@ -1,21 +1,22 @@
 ---
-title: Elegir segmentos para un panel
-description: Conozca algunas sugerencias y estrategias para aplicar segmentos a un panel en Analysis Workspace.
+title: Selección de segmentos para un panel
+description: Descubra consejos y estrategias para aplicar segmentos a un panel en Analysis Workspace.
 feature: Panels
 kt: 11550
 role: User
 level: Beginner
 thumbnail: 3412023.jpg
-source-git-commit: c2f8a60d6508557dd04ac835f096209a0b945cf4
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: 087ee2f8-4eb6-4b3a-a7aa-96e65f1c1fa3
+source-git-commit: d314fbed28fddcdafec52643ad310656c35b4b3c
+workflow-type: ht
+source-wordcount: '64'
+ht-degree: 100%
 
 ---
 
-# Elegir segmentos para un panel {#choose-segments-for-a-panel}
+# Selección de segmentos para un panel {#choose-segments-for-a-panel}
 
-Conozca algunas sugerencias y estrategias para aplicar segmentos a un panel en Analysis Workspace.
+Descubra consejos y estrategias para aplicar segmentos a un panel en Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412023/?quality=12&learn=on)
 
