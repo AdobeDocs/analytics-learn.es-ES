@@ -1,7 +1,7 @@
 ---
 title: Implementación de plantillas de seguimiento de Advertising Analytics en motores de búsqueda
 description: Este vídeo le guiará por los pasos de implementación de las plantillas de seguimiento de Advertising Analytics en los motores de búsqueda admitidos. La implementación de la plantilla de seguimiento es el paso fundamental para recopilar y pasar los datos a Adobe Analytics.
-feature: Advertising Cloud Integration
+feature: Advertising Integration
 topics: null
 activity: implement
 doc-type: feature video
@@ -11,8 +11,8 @@ topic: Integrations
 role: Admin
 level: Intermediate
 exl-id: a6b3371f-eaf0-483b-8580-f3bb8d287573
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 
