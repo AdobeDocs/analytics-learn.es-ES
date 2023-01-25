@@ -1,5 +1,5 @@
 ---
-title: Trabajo con Dimensiones en una tabla de forma libre
+title: Trabajar con Dimension en una tabla improvisada
 description: Obtenga información acerca de cómo trabajar con dimensiones en tablas de forma libre, incluyendo cómo añadirlas, ordenarlas, filtrarlas, desglosarlas por otras dimensiones, etc.
 feature: Dimensions
 thumbnail: 40179.jpg
@@ -7,14 +7,14 @@ kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
+source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
-# Trabajo con Dimensiones en una tabla de forma libre
+# Trabajar con Dimension en una tabla improvisada
 
 Obtenga información acerca de cómo trabajar con dimensiones en tablas de forma libre, incluyendo cómo añadirlas, ordenarlas, filtrarlas, desglosarlas por otras dimensiones, etc.
 
@@ -35,4 +35,4 @@ Temas tratados en el vídeo, incluyendo tiempos:
 
 >[!INFO]
 >
-> Este vídeo forma parte de un curso: [Tablas de forma libre, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), ¡disponible de forma gratuita en Experience League!
+> Este vídeo forma parte de un curso: [Tablas de forma libre, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=es), ¡disponible de forma gratuita en Experience League!
