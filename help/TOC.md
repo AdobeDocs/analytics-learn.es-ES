@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda a sacar el máximo partido a sus datos.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
 workflow-type: tm+mt
 source-wordcount: '2347'
 ht-degree: 97%
@@ -98,6 +98,7 @@ ht-degree: 97%
       + [Trabajo con dimensiones en una tabla improvisada](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [Trabajo con métricas en una tabla improvisada](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Configuración de filas y columnas en tablas improvisadas](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [Totales de tabla de forma libre](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [Uso del generador de tablas improvisadas](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Haga clic con el botón derecho para aumentar la eficacia del espacio de trabajo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [Reordenamiento de las filas estáticas](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -105,7 +106,6 @@ ht-degree: 97%
       + [Análisis de ventas cruzadas](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [Filtros de tablas de forma libre](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Dimensiones de partición de tiempo](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
-      + [Totales de tabla de forma libre](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
    + Visualizaciones {#visualizations}
       + [Visualización de datos en Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [Tipos de visualización](analysis-workspace/visualizations/visualization-types.md)
