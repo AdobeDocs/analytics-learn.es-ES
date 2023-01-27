@@ -1,26 +1,22 @@
 ---
-title: Creación de un análisis de campaña previo al lanzamiento con Adobe Analytics
-description: Cómo usar Adobe Analytics para establecer las bases para lanzar una campaña de medios de pago de Advertising
+title: Crear un análisis de campaña previo al lanzamiento con Adobe Analytics
+description: Aprenda a utilizar Adobe Analytics para establecer las bases para lanzar una campaña de medios de pago de Advertising Cloud.
 feature: Advertising Integration
-topics: null
-activity: setup
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35114.jpg
-kt: 5471
 topic: Integrations
 role: Admin
 level: Intermediate
+thumbnail: 35114.jpg
+kt: 5471
 exl-id: dc363748-713e-4a68-a686-99a65076f1dc
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Creación de un análisis de campaña previo al lanzamiento con Adobe Analytics
+# Crear un análisis de campaña previo al lanzamiento con Adobe Analytics
 
-Cómo usar Adobe Analytics para establecer las bases para lanzar una campaña de medios de pago de Advertising Cloud.
+Aprenda a utilizar Adobe Analytics para establecer las bases para lanzar una campaña de medios de pago de Advertising Cloud.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35114/?quality=12&learn=on)
