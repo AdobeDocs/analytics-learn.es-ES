@@ -1,25 +1,25 @@
 ---
-title: Análisis de venta cruzada en Analysis Workspace
-description: El informe Venta cruzada de Reports & Analytics muestra la relación entre los productos de la misma cadena de productos, para que pueda analizar cuáles se compran juntos. En este vídeo, le mostramos cómo crear el informe Venta cruzada en Analysis Workspace y cómo ampliarlo incluso más a cualquier dimensión o clasificación de varios valores.
+title: Análisis de ventas cruzadas en Analysis Workspace
+description: En este vídeo, aprenderá a crear un informe de venta cruzada en Analysis Workspace y a ampliarlo aún más a cualquier dimensión o clasificación multivalor.
 feature: Freeform Tables
 thumbnail: 25864.jpg
 kt: 2367
 role: User
 level: Beginner
 exl-id: b9c01772-8c48-4baf-a85d-faabf5bdb846
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
-source-wordcount: '139'
-ht-degree: 100%
+source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 27%
 
 ---
 
-# [!UICONTROL Análisis de venta cruzada] en Analysis Workspace {#cross-sell-analysis-in-analysis-workspace}
+# Análisis de ventas cruzadas en Analysis Workspace {#cross-sell-analysis-in-analysis-workspace}
 
-El informe [!UICONTROL Venta cruzada] en [!DNL Reports & Analytics] muestra la relación entre los productos de la misma cadena de productos, para que pueda analizar cuáles se compran juntos. En este vídeo, le mostramos cómo crear el informe [!UICONTROL Venta cruzada] en Analysis Workspace y cómo ampliarlo incluso más a cualquier dimensión o clasificación de varios valores.
+En este vídeo, aprenderá a crear un informe de venta cruzada en Analysis Workspace y a ampliarlo aún más a cualquier dimensión o clasificación multivalor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12)
 
 >[!INFO]
 >
-> Este vídeo forma parte de un curso: [Tablas de forma libre, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), ¡disponible de forma gratuita en Experience League!
+> Este vídeo forma parte de un curso: [Tablas de forma libre, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=es), disponible de forma gratuita en Experience League.

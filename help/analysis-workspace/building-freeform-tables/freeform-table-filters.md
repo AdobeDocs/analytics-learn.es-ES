@@ -1,5 +1,5 @@
 ---
-title: Filtros de tablas de forma libre en Analysis Workspace
+title: Filtros de tabla improvisada en Analysis Workspace
 description: Los filtros proporcionan más control sobre qué filas de datos se comparten en una tabla de forma libre.
 feature: Freeform Tables
 thumbnail: 23232.jpg
@@ -7,14 +7,14 @@ kt: 1699
 role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 89%
 
 ---
 
-# Filtros de [!DNL Freeform Table] en Analysis Workspace {#freeform-table-filters-in-analysis-workspace}
+# Filtros de tabla improvisada en Analysis Workspace
 
 Los filtros proporcionan más control sobre qué filas de datos se comparten en una [!DNL freeform table].
 

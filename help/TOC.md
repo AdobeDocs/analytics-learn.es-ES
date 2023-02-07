@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda a sacar el máximo partido a sus datos.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
+source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
 workflow-type: tm+mt
-source-wordcount: '2347'
-ht-degree: 97%
+source-wordcount: '2344'
+ht-degree: 93%
 
 ---
 
@@ -112,32 +112,31 @@ ht-degree: 97%
       + [Casos de uso de visualización](analysis-workspace/visualizations/visualization-use-cases.md)
       + [Selección de datos para visualizar](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Introducción de datos en visualizaciones](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [Uso de componentes desplegables en el Espacio de trabajo](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [Visualizaciones de área y de áreas apiladas](analysis-workspace/visualizations/area-and-area-stacked.md)
-      + [Visualizaciones de barra y de barras apiladas](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
+      + [Uso de desplegables de componentes en Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [Visualizaciones de áreas y áreas apiladas](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [Visualizaciones apiladas de barras y barras](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Visualización de gráficos de viñetas](analysis-workspace/visualizations/bullet-graph-visualization.md)
-      + [Visualización del anillo](analysis-workspace/visualizations/using-the-donut-visualization.md)
+      + [Visualización de anillo](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Visualización del histograma](analysis-workspace/visualizations/histogram-visualization.md)
-      + [Visualización de las líneas](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Visualización de líneas](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Gráficos combinados](analysis-workspace/visualizations/combo-charts.md)
-      + [Añadir líneas de tendencia a las visualizaciones de líneas](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [Adición de líneas de tendencia a visualizaciones de líneas](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Visualización de mapas](analysis-workspace/visualizations/map-visualization.md)
-      + [Visualizaciones de Número de resumen y Cambio de resumen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+      + [Número de resumen y visualizaciones de cambio de resumen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [Visualización del resumen de métricas clave](analysis-workspace/visualizations/key-metric-summary.md)
-      + [Visualización del texto](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [Visualización de texto](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Visualización del diagrama de dispersión](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Visualización de gráficos de rectángulos](analysis-workspace/visualizations/treemap-visualization.md)
-      + [Visualización del diagrama de Venn](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [Uso de la función promedio acumulativa para aplicar el suavizado de métricas](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
-      + [Diseños flexibles](analysis-workspace/visualizations/flexible-layouts.md)
+      + [Visualización de diagrama de Venn](analysis-workspace/visualizations/venn-diagram-visualization.md)
+      + [Uso de la función de promedio acumulativo para aplicar suavizado de métrica](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [Presentaciones flexibles](analysis-workspace/visualizations/flexible-layouts.md)
       + [Cambio de la escala/eje en visualizaciones](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
-      + [Vinculación en directo de dimensión-gráfico](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [Conmutación de la granularidad](analysis-workspace/visualizations/granularity-toggle.md)
+      + [vinculación en directo de Dimension](analysis-workspace/visualizations/dimension-graph-live-linking.md)
+      + [Alternancia de granularidad](analysis-workspace/visualizations/granularity-toggle.md)
       + [Intravinculación en Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
-      + [Tema de mapa positivo-negativo](analysis-workspace/visualizations/positive-negative-map-theme.md)
-      + [Reorganización y cambio del tamaño de las visualizaciones](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
+      + [Reorganización y cambio de tamaño de las visualizaciones](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Personalización de leyendas de visualización](analysis-workspace/visualizations/customize-visualization-legends.md)
-      + [Visualizaciones 100 % apiladas](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
+      + [Visualizaciones apiladas al 100 %](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Configuración de fuentes de datos de visualización y tabla](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Creación de un mapa de calor de partición de tiempo](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Análisis de recorridos del cliente {#analyzing-customer-journeys}
