@@ -1,6 +1,6 @@
 ---
-title: Crear segmentos de análisis para la activación y el sistema de informes
-description: Utilice dimensiones de Advertising Cloud para crear segmentos para informes y análisis.
+title: Creación de segmentos de Analytics para la activación y creación de informes
+description: Use dimensiones de Advertising Cloud para crear segmentos para la creación de informes y análisis.
 feature: Advertising Integration
 topic: Integrations
 role: User
@@ -9,14 +9,14 @@ thumbnail: 35117.jpg
 kt: 5474
 exl-id: 0df46be9-bae9-4792-912a-7c95a7fce4ee
 source-git-commit: eabf80121425753fb3f6ab00d188a29669f94908
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '36'
+ht-degree: 100%
 
 ---
 
-# Crear segmentos de análisis para la activación y el sistema de informes
+# Creación de segmentos de Analytics para la activación y creación de informes
 
-Utilice dimensiones de Advertising Cloud para crear segmentos para informes y análisis.
+Use dimensiones de Advertising Cloud para crear segmentos para la creación de informes y análisis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35117/?quality=12&learn=on)
