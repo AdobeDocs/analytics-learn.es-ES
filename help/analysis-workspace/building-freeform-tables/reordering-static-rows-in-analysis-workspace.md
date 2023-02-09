@@ -1,6 +1,6 @@
 ---
-title: Reordenar filas estáticas en Analysis Workspace
-description: Puede reordenar manualmente filas estáticas en el generador de tablas improvisadas. Esto le permite organizar filas estáticas de tabla en el orden exacto en que las necesite, por ejemplo, visitas, pedidos y luego tasa de conversión.
+title: Reordenación de filas estáticas en Analysis Workspace
+description: Descubra cómo reordenar manualmente filas estáticas en el generador de tablas de forma libre. Esto le permitirá organizar filas estáticas de tabla en el orden exacto que las necesite, por ejemplo, visitas, pedidos y tasa de conversión.
 feature: Freeform Tables
 thumbnail: 31319.jpg
 kt: 4218
@@ -8,15 +8,15 @@ role: User
 level: Beginner
 exl-id: 1a4e82fe-12ac-4c44-afec-60010f1214f6
 source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 22%
+ht-degree: 100%
 
 ---
 
-# Reordenar filas estáticas en Analysis Workspace
+# Reordenación de filas estáticas en Analysis Workspace
 
-Puede reordenar manualmente filas estáticas en el generador de tablas improvisadas. Esto le permite organizar filas estáticas de tabla en el orden exacto en que las necesite, por ejemplo, visitas, pedidos y luego tasa de conversión.
+Descubra cómo reordenar manualmente filas estáticas en el generador de tablas de forma libre. Esto le permitirá organizar filas estáticas de tabla en el orden exacto que las necesite, por ejemplo, visitas, pedidos y tasa de conversión.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31319/?quality=12)
 
