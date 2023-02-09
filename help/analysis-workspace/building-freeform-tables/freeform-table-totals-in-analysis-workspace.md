@@ -1,6 +1,6 @@
 ---
-title: Totales de tabla improvisada en Analysis Workspace
-description: Aprenda qué afecta a los totales de las tablas improvisadas, así como cómo activarlos y desactivarlos.
+title: Totales de tablas de forma libre en Analysis Workspace
+description: Descubra qué afecta a los totales de las tablas de forma libre, y cómo activarlas y desactivarlas.
 feature: Freeform Tables
 thumbnail: 29273.jpg
 kt: 3857
@@ -8,15 +8,15 @@ role: User
 level: Beginner
 exl-id: 22c1f256-041a-49e1-b8e8-47cfd4fb801d
 source-git-commit: 0f81e30dbee6bc52b3fcbf7f6c91a6c85cc33755
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
-# Totales de tabla improvisada en Analysis Workspace
+# Totales de tablas de forma libre en Analysis Workspace
 
-Aprenda qué afecta a los totales de las tablas improvisadas, así como cómo activarlos y desactivarlos.
+Descubra qué afecta a los totales de las tablas de forma libre, y cómo activarlas y desactivarlas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)
 
