@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
 workflow-type: tm+mt
 source-wordcount: '2344'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -92,17 +92,17 @@ ht-degree: 93%
       + [Varios grupos de informes en Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [Paneles e informes del espacio de trabajo de resumen de página siguiente/anterior](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Creación de tablas de forma libre {#building-freeform-tables}
-      + [Comprender los datos: tablas improvisadas](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
-      + [Utilice el carril izquierdo para crear tablas de forma libre](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
-      + [Arrastrar y soltar fácilmente proyectos en blanco](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
-      + [Trabajo con dimensiones en una tabla improvisada](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
-      + [Trabajo con métricas en una tabla improvisada](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [Configuración de filas y columnas en tablas improvisadas](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [Cómo comprender sus datos: tablas de forma libre](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
+      + [Utilización del carril izquierdo para crear tablas de forma libre](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [Cómo arrastrar y soltar contenido fácilmente a proyectos en blanco](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
+      + [Cómo trabajar con dimensiones en una tabla de forma libre](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [Cómo trabajar con métricas en una tabla de forma libre](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Configuración de fila y columna en tablas de forma libre](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Totales de tabla de forma libre](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
-      + [Uso del generador de tablas improvisadas](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [Haga clic con el botón derecho para aumentar la eficacia del espacio de trabajo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
+      + [Cómo usar el generador de tablas de forma libre](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
+      + [Cómo usar el clic con el botón derecho para aumentar la eficiencia del espacio de trabajo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=es)
       + [Reordenamiento de las filas estáticas](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [Usar Attribution IQ en tablas improvisadas](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=es)
+      + [Cómo usar Attribution IQ en tablas de forma libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=es)
       + [Análisis de ventas cruzadas](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [Filtros de tablas de forma libre](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Dimensiones de partición de tiempo](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
