@@ -1,5 +1,5 @@
 ---
-title: Recopilación de datos de análisis
+title: Cómo se recopilan los datos de Analytics
 description: ¿Cómo llegan los datos de la página a los informes de Adobe Analytics? Este vídeo muestra cómo hacerlo.
 feature: Analytics Basics
 kt: 3565
@@ -7,13 +7,13 @@ role: User
 level: Beginner
 exl-id: 9d823311-8679-4d5b-873d-1ae0a49bbd7a
 source-git-commit: 53db4c11ce54076099f1d38e2005103a2fe82d72
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# Recopilación de datos de análisis
+# Cómo se recopilan los datos de Analytics
 
 ¿Cómo llegan los datos de la página a los informes de Adobe Analytics? Este vídeo muestra cómo hacerlo.
 
@@ -21,4 +21,4 @@ ht-degree: 84%
 
 >[!INFO]
 >
-> Este vídeo forma parte del curso [Implementación guiada de Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible de forma gratuita en Experience League.
+> Este vídeo forma parte del curso [Implementación guiada de Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=es), disponible de forma gratuita en Experience League.
