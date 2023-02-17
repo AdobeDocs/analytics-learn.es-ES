@@ -1,5 +1,5 @@
 ---
-title: Filtros de tabla improvisada en Analysis Workspace
+title: Filtros de tablas de forma libre en Analysis Workspace
 description: Los filtros proporcionan más control sobre qué filas de datos se comparten en una tabla de forma libre.
 feature: Freeform Tables
 thumbnail: 23232.jpg
@@ -8,13 +8,13 @@ role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
 source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# Filtros de tabla improvisada en Analysis Workspace
+# Filtros de tablas de forma libre en Analysis Workspace
 
 Los filtros proporcionan más control sobre qué filas de datos se comparten en una [!DNL freeform table].
 
@@ -28,4 +28,4 @@ Para obtener más información sobre los filtros disponibles, visite la [documen
 
 >[!INFO]
 >
-> Este vídeo forma parte de un curso: [Tablas de forma libre, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), ¡disponible de forma gratuita en Experience League!
+> Este vídeo forma parte de un curso: [Tablas de forma libre, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=es), ¡disponible de forma gratuita en Experience League!
