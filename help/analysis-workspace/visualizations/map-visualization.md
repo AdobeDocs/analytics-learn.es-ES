@@ -1,6 +1,6 @@
 ---
-title: Visualización de mapas en Analysis Workspace
-description: Este vídeo muestra cómo utilizar la visualización de mapas en Analysis Workspace. La visualización del mapa le permite ver datos móviles (latidos/largos) o web (direcciones IP) con respecto a un mapa dinámico, lo que le permite hacerse una idea del uso del cliente en el contexto de su ubicación.
+title: La visualización de mapas en Analysis Workspace
+description: Este vídeo le muestra cómo usar la Visualización de mapas en Analysis Workspace. La visualización de mapas le permite ver datos móviles (lat/long) o web (direcciones IP) con un mapa dinámico, lo que le permite hacerse una idea del uso del cliente en el contexto de su ubicación.
 feature: Visualizations
 thumbnail: 23559.jpg
 kt: 1771
@@ -8,19 +8,19 @@ role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
 source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 22%
+ht-degree: 100%
 
 ---
 
-# Visualización de mapas en Analysis Workspace
+# La visualización de mapas en Analysis Workspace
 
-Este vídeo muestra cómo utilizar la visualización de mapas en Analysis Workspace. La visualización del mapa le permite ver cualquiera de las opciones siguientes: [!UICONTROL lat/long móvil] o datos web (dirección IP) con respecto a un mapa dinámico, lo que le permite tener una idea del uso del cliente en el contexto de su ubicación.
+Este vídeo le muestra cómo usar la Visualización de mapas en Analysis Workspace. La visualización de mapas le permitirá ver cualquiera de los datos [!UICONTROL lat/long móvil] o web (dirección IP) con respecto a un mapa dinámico, lo que le permite obtener una idea del uso del cliente en el contexto de su ubicación.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12)
 
-Para obtener más información sobre esta visualización, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=es).
+Para obtener más información acerca de esta visualización, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=es).
 
 >[!INFO]
 >
