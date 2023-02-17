@@ -7,9 +7,9 @@ role: User
 level: Beginner
 exl-id: e5ccac21-d0ac-4882-b8aa-0da749cbf6e7
 source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ En este vídeo, obtenga una introducción a las variables de tráfico, como [!UI
 
 >[!INFO]
 >
-> Este vídeo forma parte del curso [Implementación guiada de Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible de forma gratuita en Experience League.
+> Este vídeo forma parte del curso [Implementación guiada de Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=es), disponible de forma gratuita en Experience League.
