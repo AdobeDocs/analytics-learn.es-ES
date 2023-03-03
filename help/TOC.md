@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda a sacar el máximo partido a sus datos.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
+source-git-commit: 525d6e2c4828f9fda07cf389b5e8e58331e494de
 workflow-type: tm+mt
-source-wordcount: '2344'
-ht-degree: 100%
+source-wordcount: '2349'
+ht-degree: 99%
 
 ---
 
@@ -342,6 +342,7 @@ ht-degree: 100%
       + [Aplicación de intervalos de fechas personalizados](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Experiencia en la aplicación de los paneles de Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
       + [Creación de vistas de detalles personalizadas](additional-tools/analytics-dashboards/create-custom-detail-views.md)
+      + [Historias de datos para paneles de Analytics](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
 + Exportación {#exporting}
    + Desde la IU {#from-the-ui}
       + [Exportación a CSV desde Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
