@@ -10,9 +10,9 @@ thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
-source-wordcount: '1805'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1803'
+ht-degree: 99%
 
 ---
 
@@ -101,7 +101,7 @@ Se recomienda mantener este documento lo más simple posible y no saturarlo con 
 >
 >Cree una dimensión de nombre/propiedad de sitio en Adobe Analytics. Tener una dimensión dedicada (normalmente un eVar) en Adobe Analytics que identifique el nombre del sitio o la aplicación facultará la segmentación, la resolución de problemas, la creación de grupos de informes virtuales, etc. Las ventajas son infinitas, sobre todo cuando se combinan varios sitios en un grupo de informes (global). La clave es garantizar que los equipos de desarrollo siempre fijen este valor en la dimensión de propiedades, incluidas todas las cargas de página (llamadas s.t/trackState) y todos los eventos personalizados (llamadas s.tl/trackAction). Las reglas de procesamiento pueden ser una herramienta útil para configurar estos valores de forma correcta y coherente.
 
-[Vea este vídeo de Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=es){target=&quot;_blank&quot;} para obtener más información sobre cómo rellenar el manual de implementación.
+[Vea este vídeo de Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=es){target="_blank"} para obtener más información sobre cómo rellenar el manual de implementación.
 
 ## Autores
 

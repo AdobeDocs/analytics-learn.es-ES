@@ -8,13 +8,13 @@ doc-type: article
 kt: 9167
 hide: true
 hidefromtoc: true
-source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
-workflow-type: ht
+exl-id: 0d7f8185-817c-4474-9655-a867beb7d454
+source-git-commit: a4cfd7ce71ff32976451b52fc51fe9c56a3dad9c
+workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 100%
 
 ---
-
 
 # Se han retirado los aspectos básicos de Analytics para usuarios empresariales
 

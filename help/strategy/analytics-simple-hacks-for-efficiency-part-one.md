@@ -4,7 +4,7 @@ description: Conozca los principales retos a los que se enfrentan los equipos de
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 100%
 

@@ -9,9 +9,9 @@ thumbnail: 342361.jpg
 kt: 10272
 exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
 source-git-commit: 4dfe75cb35b8beb92f947884a92aa4bfd579e4b8
-workflow-type: ht
-source-wordcount: '1082'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1080'
+ht-degree: 99%
 
 ---
 
@@ -50,7 +50,7 @@ Envíe una lista de preguntas para que la otra parte las revise antes de la reun
 
 Las preguntas variarán según la capacidad técnica o analítica, la estructura de la empresa o la complejidad del tema de recopilación de datos. Con frecuencia, resulta útil empezar en un nivel alto, con preguntas acerca de toda la organización, pasar luego a tratar el papel de la parte interesada en el apoyo a estos objetivos organizativos e ir luego aumentando el nivel de detalle. A continuación, puede asegurarse de que los puntos de datos granulares analizados apoyen de manera eficaz los objetivos generales de la organización. Además, esto le permite pensar de forma creativa y sugerir nuevas ideas de datos que apoyen los objetivos.
 
-[Examine esta plantilla](assets/stakeholder-questionnaire.pdf) {target=&quot;_blank&quot;}, que contiene varias preguntas de ejemplo para entrevistas con partes interesadas. Reutilícelas o modifíquelas para preparar preguntas relevantes propias.
+[Explorar esta plantilla](assets/stakeholder-questionnaire.pdf){target="_blank"} que contiene varias preguntas de ejemplo para entrevistas con las partes interesadas. Reutilícelas o modifíquelas para preparar preguntas relevantes propias.
 
 ### 2. Solicite informes de ejemplo
 

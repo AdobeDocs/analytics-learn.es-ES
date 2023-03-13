@@ -10,15 +10,15 @@ thumbnail: 10534.jpg
 kt: 10534
 exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
-source-wordcount: '300'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '298'
+ht-degree: 92%
 
 ---
 
 # Cree un sitio de Adobe Analytics interno (Confluencia u otro)
 
-**QUÉ:** Si ha seguido la recomendación de [esta sugerencia](create-basic-videos-and-training.md){target=&quot;_blank&quot;} de crear documentos de formación, obviamente, no puede guardárselos en el disco duro. Cree una ubicación central desde donde puedan compartirse con todos los usuarios para su consulta: un sitio interno de Adobe Analytics (Confluencia u otro) donde pueda publicar todos estos documentos y actualizar las diferentes versiones.
+**QUÉ:** Si ha seguido la recomendación de [esta sugerencia](create-basic-videos-and-training.md){target="_blank"} para crear documentos de formación, obviamente no se pueden guardar en el disco duro. Cree una ubicación central desde donde puedan compartirse con todos los usuarios para su consulta: un sitio interno de Adobe Analytics (Confluencia u otro) donde pueda publicar todos estos documentos y actualizar las diferentes versiones.
 
 **POR QUÉ:** La configuración de un único repositorio compartido le proporcionará un lugar al que dirigir a todos los usuarios nuevos y donde ofrecer una única fuente fiable en términos de las últimas versiones de todos sus documentos. Permite una colaboración y administración de versiones óptimas.
 

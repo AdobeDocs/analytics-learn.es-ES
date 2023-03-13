@@ -13,7 +13,7 @@ role: User
 level: Beginner
 exl-id: da173124-ce09-4be3-9418-8791acd16240
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 
@@ -29,4 +29,4 @@ Para obtener más información acerca de esta funcionalidad, consulte la [docume
 
 >[!INFO]
 >
-> Este vídeo forma parte del curso [Atribución de valor a los puntos de contacto digitales en el recorrido del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=es), disponible de forma gratuita en Experience League.
+> Este vídeo forma parte del curso [Atribución de valor a puntos de contacto digitales en el recorrido del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=es), disponible de forma gratuita en Experience League.
