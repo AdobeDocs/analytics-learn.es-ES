@@ -10,8 +10,8 @@ kt: 4384
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 9aeb8371-3fac-41db-bea3-35c7ca3deeef
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Para convertirse en un negocio experto, el marketing basado en datos es clave. Lleve su madurez analítica a un nuevo nivel: de los datos a las ideas, y de ahí a la acción.
 
->[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12&learn=on)
 
 Descubra de qué forma Adobe puede ayudarle a conocer a su cliente desde cualquier ángulo: [https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)
