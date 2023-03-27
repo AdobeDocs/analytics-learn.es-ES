@@ -11,7 +11,7 @@ kt: 2477
 role: User
 level: Intermediate
 exl-id: 3c0b0814-61b0-43ad-b69c-9e55555d4edd
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 La configuración del [!UICONTROL Cálculo móvil] en [!UICONTROL Tablas de cohorte] se puede utilizar para analizar [!UICONTROL cohortes] período tras período, para comprender cómo se retienen los mismos usuarios (o [!UICONTROL se pierden]) a lo largo del tiempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=es).
 

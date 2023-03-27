@@ -10,7 +10,7 @@ kt: 1844
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 En solo unos clics en la [!UICONTROL Extensión] de Adobe Analytics en Adobe [!DNL Experience Platform Launch], puede iniciar el seguimiento de los vínculos de descarga del sitio (vínculos que descargan archivos que no sean del explorador en el equipo). Este vídeo muestra cómo configurarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 
 Tanto si son documentos técnicos, manuales, archivos de audio o vídeo, como si son muchos otros, puede colocar vínculos en el sitio para descargar archivos que no se abran en un explorador. Como mínimo, aunque se abran en un explorador (como un archivo de texto), no puede haber código [!DNL Analytics] en la página para seguimiento. Por lo tanto, debe rastrear el vínculo al archivo de descarga.
 

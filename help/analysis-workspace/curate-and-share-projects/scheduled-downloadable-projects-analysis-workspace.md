@@ -10,7 +10,7 @@ kt: 2298
 role: User
 level: Beginner
 exl-id: 742d81be-9fa1-47bc-8afe-a4ce0b4763e9
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Analysis Workspace le permite programar y descargar proyectos a PDF y CSV. Este vídeo muestra cómo puede programar proyectos para su entrega a usted o a sus compañeros, así como cómo puede descargar PDF de los proyectos en los que está trabajando.
 
->[!VIDEO](https://video.tv.adobe.com/v/24709/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24709/?quality=12&learn=on)

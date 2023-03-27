@@ -10,7 +10,7 @@ kt: 2345
 role: User
 level: Intermediate
 exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL Report Builder] es algo que todos conocemos y amamos. ¿Y si les dijera que podrían usar lo que saben sobre [!UICONTROL Report Builder] para avanzar aún más en sus habilidades con Adobe Analytics? En este vídeo, explicaremos cómo realizar solicitudes de [!UICONTROL Report Builder] de depuración y utilizarlas para aprender a crear sus propias consultas de [!DNL Analytics] API.
 
->[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12&learn=on)
 
 **ACTUALIZACIÓN**: [!UICONTROL Report Builder] ha actualizado el modo en que solicita los datos ligeramente. Puede seguir utilizando el enfoque de este vídeo, pero la información será ligeramente diferente en un depurador.
 

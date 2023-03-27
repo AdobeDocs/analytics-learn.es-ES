@@ -14,7 +14,7 @@ topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
@@ -25,6 +25,6 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a configurar el [!UICONTROL código postal] para poder realizar análisis basados en los datos de esta región.
 
->[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
 Para obtener más información sobre la configuración del [!UICONTROL código postal], consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=es).

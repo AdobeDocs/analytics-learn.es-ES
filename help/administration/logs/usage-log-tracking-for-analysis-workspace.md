@@ -11,7 +11,7 @@ topic: Administration
 role: Admin
 level: Beginner
 exl-id: 397cfb51-7d7d-49dd-8b54-e928fe77d39e
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 100%
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 En [!UICONTROL Administración] - [!UICONTROL Registros] - [!UICONTROL Uso y acceso], puede comprender mejor el uso de Adobe Analytics por parte de sus usuarios. Este vídeo se centra específicamente en la medición del uso de proyectos de [!DNL Workspace]. Nota: Desde que se publicó este vídeo, se ha publicado en adobe.ly/aausage una sugerencia acerca de cómo realizar análisis de uso sólidos en Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=es).

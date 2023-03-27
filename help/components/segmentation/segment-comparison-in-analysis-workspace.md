@@ -7,7 +7,7 @@ kt: 2103
 role: User
 level: Beginner
 exl-id: 35ac587e-33af-4bd3-8d68-7683d09a54ee
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Comprender las verdaderas diferencias entre segmentos de marketing siempre ha sido un proceso difícil y laborioso. [!DNL Segment IQ], parte de Analysis Workspace en Adobe Analytics, simplifica este análisis al examinar dos[!DNL Analytics] [!UICONTROL segmentos] cualquiera de Analytics en todas sus [!UICONTROL dimensiones] y [!UICONTROL métricas] para descubrir automáticamente sus diferencias más significativas estadísticamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/23976/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23976/?quality=12&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=es).
 

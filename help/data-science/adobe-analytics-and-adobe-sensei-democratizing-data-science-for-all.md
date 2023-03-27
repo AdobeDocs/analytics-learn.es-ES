@@ -10,7 +10,7 @@ kt: 2339
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 32f5ad95-1995-494f-9857-165bb81ae04f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Descubra cómo el aprendizaje automático y las tecnologías de IA de Adobe Sensei en Adobe Analytics pueden ayudar a los usuarios empresariales a mantenerse al día con sus datos y utilizarlos de forma práctica, cuando y donde realmente importa.
 
->[!VIDEO](https://video.tv.adobe.com/v/25838/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25838/?quality=12&learn=on)

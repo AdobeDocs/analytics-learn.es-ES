@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 34545.jpg
 kt: 5287
 exl-id: ba29664f-da1a-49c7-8c73-ae5b65f11b4a
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a usar los paneles de Adobe Analytics (aplicación móvil) para acceder y visualizar los “cuadros de resultados” creados por usted o compartidos con usted.
 
->[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=es).
 

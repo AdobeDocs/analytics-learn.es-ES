@@ -10,7 +10,7 @@ kt: 2350
 role: User
 level: Beginner
 exl-id: bca1c26b-d3dc-4f70-a406-0fe0bdf8d0a8
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Las [!UICONTROL Clasificaciones] son una forma eficaz de agregar metadatos (atributos descriptivos) a productos, campañas, páginas, clientes, etc. Estos atributos pueden ayudarle a comprender mejor sus esfuerzos de marketing y experiencia, ya que le permiten agrupar elementos similares y desglosar datos para profundizar en lo que sí funciona para usted o no.
 
->[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=es).

@@ -10,7 +10,7 @@ kt: 4387
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 97221e6f-24c6-4d03-a0b9-69e1944bb775
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!DNL HomeDepot.com], un sitio de comercio electrónico valorado en 7000 millones de dólares que pertenece a una compañía de 100 000 millones de dólares, se mantiene a la cabeza de la competencia porque garantiza una experiencia del cliente adecuada. Descubra cómo [!DNL Home Depot] utiliza las soluciones de Adobe para mejorar la lealtad de marca y la satisfacción del cliente gracias a una experiencia de compra personalizada.
 
->[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12&learn=on)

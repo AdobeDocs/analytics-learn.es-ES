@@ -10,7 +10,7 @@ kt: 3054
 role: User
 level: Beginner
 exl-id: 4caefb24-c8a9-468e-9ab4-9422e7dcca69
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Identifique las audiencias que interactúan mediante el uso de [!UICONTROL Cohortes] y conozca las causas subyacentes que generan problemas en las aplicaciones móviles. Utilice algoritmos de ciencia de datos en [!UICONTROL Segment IQ] para conocer las diferencias y similitudes entre los segmentos.
 
->[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12&learn=on)

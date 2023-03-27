@@ -10,7 +10,7 @@ kt: 2014
 role: User
 level: Beginner
 exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Este vídeo explica tres formas de trabajar con fechas en [!DNL Freeform] Análisis: el calendario, los elementos de [!UICONTROL intervalo de fechas] y los elementos de granularidad. No se muestra, de alguna manera vergonzoso: cómo usar fechas para habilitar gráficos de líneas.
 
->[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12&learn=on)
 
 >[!INFO]
 >

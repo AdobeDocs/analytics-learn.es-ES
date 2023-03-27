@@ -13,10 +13,10 @@ topic: Integrations
 role: User
 level: Intermediate
 exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
-source-git-commit: 3b037de31160f7741cc10429ea4e97864f2863a8
+source-git-commit: c2728e42ffe14d738d440ac74293285ba54e37b8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '165'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Se ha mejorado la publicación de audiencias de Experience Cloud. Ahora puede publicar audiencias ([!UICONTROL segmentos]) y habilitarlas seis veces más rápido, lo que reduce el tiempo de latencia actual de 48 horas a aproximadamente 8, y posiblemente más rápido, según el tráfico y el tamaño del [!UICONTROL segmento].
 
->[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12&learn=on)
 
 Además, el número de [!UICONTROL segmentos] que se pueden publicar al mismo tiempo ha aumentado de 20 a 75 por [!UICONTROL grupo de informes].
 Para obtener más información, consulte [Publicación de segmentos en Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=es) en la ayuda de Analytics.
