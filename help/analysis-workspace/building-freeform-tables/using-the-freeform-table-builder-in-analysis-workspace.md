@@ -7,8 +7,8 @@ kt: 4217
 role: User
 level: Beginner
 exl-id: 4cf94512-e4e4-418f-b759-db5feff272e6
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!DNL Freeform table builder] le permite arrastrar y soltar varias dimensiones, desgloses, métricas y segmentos para crear tablas que respondan a preguntas comerciales más complejas. Los datos no se actualizarán sobre la marcha; en su lugar, se actualizarán cuando haga clic en &quot;Generar&quot;, lo que le ahorra tiempo, ya que la tabla solo se actualiza una vez.
 
->[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12&learn=on)
 
 >[!INFO]
 >
