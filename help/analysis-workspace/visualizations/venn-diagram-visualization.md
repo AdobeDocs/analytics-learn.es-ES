@@ -7,8 +7,8 @@ role: User
 level: Beginner
 thumbnail: 335798.jpg
 exl-id: 655034a6-42b9-4437-961b-02ad3da57d83
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Puede mostrar visualmente la superposición y la intersección de segmentos en Analysis Workspace mediante la visualización de diagrama de Venn. Es fácil crear impresionantes y reveladores diagramas de Venn en cuestión de segundos. Este vídeo le mostrará cómo.
 
->[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=es).
 
