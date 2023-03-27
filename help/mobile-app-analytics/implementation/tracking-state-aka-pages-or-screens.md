@@ -11,8 +11,8 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '164'
 ht-degree: 100%
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Los estados representan pantallas o vistas en la aplicación. Cada vez que se muestra un nuevo estado en la aplicación, por ejemplo, cuando un usuario va de la página principal al suministro de noticias, se puede llamar a `trackState` para que envíe el Nombre de estado (Nombre de página en [!DNL Analytics]), así como datos adicionales. Este vídeo le explicará cómo hacerlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12&learn=on)
 
 Para obtener más información sobre trackState, consulte la [documentación](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference).
