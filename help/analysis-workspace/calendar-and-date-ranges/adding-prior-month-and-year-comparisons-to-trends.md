@@ -10,8 +10,8 @@ kt: 5031
 role: User
 level: Beginner
 exl-id: ea65bc06-c725-4115-bb62-f8e646bc1164
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '56'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda a aplicar intervalos de fechas personalizados para crear comparaciones de tendencias mensuales y anuales para cualquier métrica en Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/33772/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33772/?quality=12&learn=on)
