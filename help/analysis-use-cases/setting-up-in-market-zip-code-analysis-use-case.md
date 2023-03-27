@@ -13,8 +13,8 @@ kt: 2846
 role: User
 level: Beginner
 exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '148'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 En este caso de uso, configuraremos el sistema para que incorpore códigos postales, los clasifique como dentro o fuera del mercado y, a continuación, utilice estos datos en Analysis Workspace para que podamos ver la eficacia de nuestras campañas de marketing con objetivo geográfico.
 
->[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
 
 Para obtener información adicional relacionada con los aspectos de este caso de uso, consulte los siguientes temas de la documentación:
 
