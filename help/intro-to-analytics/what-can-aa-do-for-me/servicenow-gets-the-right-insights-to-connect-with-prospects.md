@@ -10,8 +10,8 @@ kt: 4385
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: f25a9539-4596-4f22-8c6b-224273e185e4
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '95'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Descubra cómo [!DNL ServiceNow] obtiene datos procesables de sus canales de marketing y aumenta el retorno de la inversión en la publicidad de búsqueda de pago con Adobe Advertising Cloud y Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12&learn=on)
 
 Adobe Experience Cloud le ofrece las herramientas integradas que necesita para destacarse en marketing en canales múltiples, publicidad digital, optimización de audiencia y datos, y mucho más.
