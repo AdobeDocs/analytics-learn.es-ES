@@ -10,8 +10,8 @@ kt: 2340
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8b59b6d3-3754-464d-ac87-7b57ce442676
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '158'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 El conocimiento del cliente nunca ha sido más prometedor. Pero reunir datos que puedan ser útiles para los usuarios empresariales de toda la organización y captar las tendencias importantes a tiempo para actuar en consecuencia, es algo que ni siquiera un equipo experto en ciencia de datos puede manejar a solas. El uso en su favor de los datos que ya está recopilando es donde se destacan estas capacidades de la IA y el aprendizaje automático de Adobe Sensei en Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12&learn=on)
