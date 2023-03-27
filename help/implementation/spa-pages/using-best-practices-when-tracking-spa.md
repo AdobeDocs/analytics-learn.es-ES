@@ -11,8 +11,8 @@ topic: SPA
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '1313'
 ht-degree: 100%
 
@@ -88,7 +88,7 @@ Cuando se carga contenido nuevo o se produce una acción en la página de la SPA
 
 Consulte las páginas y los documentos a los que se hace referencia arriba para obtener más información acerca de cómo y cuándo se activan estos eventos. No es necesario que utilice los mismos nombres de evento en la implementación. El caso de uso funcional del método usado es esencial para entenderlo como la mejor práctica recomendada para cada uno. El siguiente vídeo presenta una página de SPA y código de muestra en [!DNL Experience Platform Tags] que escucha los eventos personalizados.
 
->[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12&learn=on)
 
 ## Ejecución de s.t() o s.tl() en [!DNL Experience Platform Tags] {#running-s-t-or-s-tl-in-the-launch-rule}
 
@@ -102,7 +102,7 @@ Un concepto importante a entender de [!DNL Analytics] al trabajar con una SPA es
 
 El siguiente vídeo muestra dónde y cómo activar `s.t()` o `s.tl()` en Etiquetas.
 
->[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12&learn=on)
 
 ## Borrar variables {#clear-variables}
 
@@ -114,7 +114,7 @@ El diagrama anterior muestra las variables borradas *después* de que envíe los
 
 El siguiente vídeo muestra dónde y cómo borrar variables en [!DNL Tags].
 
->[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12&learn=on)
 
 ## Consideraciones adicionales {#additional-considerations}
 
