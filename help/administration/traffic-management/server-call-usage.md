@@ -14,8 +14,8 @@ topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 8ada68ff-c7fc-45e3-a663-c477519f557f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '186'
 ht-degree: 100%
 
@@ -25,6 +25,6 @@ ht-degree: 100%
 
 La creación de informes de [!UICONTROL Uso de llamada al servidor] le permitirán realizar un seguimiento exacto de la asignación de llamada al servidor que ha utilizado en cualquier momento, y también le avisarán de forma proactiva cuando se aproxime a su compromiso total.
 
->[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12&learn=on)
 
 Puede ser difícil mantenerse al día con el consumo de llamada al servidor de su organización, lo que provoca frustración en torno a los cargos adicionales. Con la creación de informes de [!UICONTROL Uso de llamada al servidor], puede realizar un seguimiento de la cantidad exacta de la asignación de llamada al servidor que ha utilizado en cualquier momento, y también le avisará de forma proactiva cuando se aproxime a su asignación total. El tablero que lo acompaña le permite analizar dónde se están utilizando las llamadas al servidor, de modo que pueda corregir implementaciones fuera de ejecución o trabajar con compañeros para reducir la escala en lugares donde se podrían recopilar grandes volúmenes de datos de menor valor.
