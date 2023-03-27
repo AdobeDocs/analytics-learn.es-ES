@@ -12,7 +12,7 @@ author: Doug Moore
 team: Technical Marketing
 kt: 1597
 source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
 ht-degree: 100%
 
