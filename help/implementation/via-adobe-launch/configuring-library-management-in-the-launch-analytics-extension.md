@@ -10,8 +10,8 @@ kt: 2836
 role: Developer, Data Engineer
 level: Beginner
 exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Si acaba de empezar a usar Experience Platform Launch y la [!UICONTROL extensión] de Adobe Analytics, este vídeo puede ayudarle con la [!UICONTROL administración de la biblioteca], incluida la selección de los [!UICONTROL grupos de informes] a los que desea enviar datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)
 
 Para obtener información adicional relacionada con los aspectos de este caso de uso, consulte los siguientes temas de la documentación:
 
