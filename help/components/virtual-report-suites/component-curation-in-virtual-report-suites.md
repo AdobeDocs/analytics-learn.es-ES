@@ -10,8 +10,8 @@ kt: 1774
 role: User
 level: Intermediate
 exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '143'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Los [!UICONTROL grupos de informes virtuales] se puede revisar para que incluyan y excluyan [!UICONTROL dimensiones], [!UICONTROL métricas] y [!UICONTROL segmentos] en Analysis Workspace, lo que resulta muy útil si los comparte con otros equipos que solo necesitan una fracción específica de los datos o utilizan una nomenclatura de datos diferente.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 Si la personalización de componentes está habilitada, el [!UICONTROL grupo de informes virtuales] solo estará accesible de forma exclusiva en Analysis Workspace.
 
