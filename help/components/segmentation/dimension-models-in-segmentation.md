@@ -7,8 +7,8 @@ kt: 4846
 role: User
 level: Beginner
 exl-id: d42f74a9-aa77-4f47-a1a2-f14bd6061996
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Los modelos de [!UICONTROL dimensión] están disponibles a través del engranaje para cualquier [!UICONTROL dimensión] en la segmentación. Estos modelos son principalmente útiles para la segmentación secuencial y le permiten segmentar valores persistentes de una [!UICONTROL dimensión] (predeterminado), instancias o instancias no repetitivas de una [!UICONTROL dimensión].
 
->[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12&learn=on)
 
 >[!INFO]
 >
