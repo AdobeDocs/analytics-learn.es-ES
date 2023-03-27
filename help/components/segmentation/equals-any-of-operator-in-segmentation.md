@@ -7,8 +7,8 @@ kt: 4844
 role: User
 level: Beginner
 exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '164'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Se han agregado los operadores de segmento “Es igual a cualquiera de” y “No es igual a ninguno de” al generador de segmentos. Utilice estos operadores para filtrar a una lista de elementos específicos, en lugar de utilizar varias instrucciones OR “Contiene algo de”. El uso de estos operadores en lugar de “contiene algo de” también ayudará a mejorar la velocidad de las consultas.
 
->[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=es)
 
