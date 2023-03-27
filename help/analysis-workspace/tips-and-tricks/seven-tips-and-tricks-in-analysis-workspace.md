@@ -10,8 +10,8 @@ kt: 3945
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '1054'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Analysis Workspace es una potente herramienta dentro de Adobe Analytics que pued
 
 Basta con arrastrar y soltar un [!UICONTROL segmento] o cualquier otro componente en la zona de colocación de [!UICONTROL segmentos] en la parte superior de cualquier panel, y puede segmentar rápidamente ese panel hasta determinados puntos de datos. Por ejemplo, puede segmentar el panel para que muestre solo las visitas individuales en las que existan pedidos soltando la [!UICONTROL métrica] “pedidos” en la zona de colocación de [!UICONTROL segmentos]. Incluso puede segmentar por datos que no existan dentro de un componente (para ver visitas sin pedidos, por ejemplo) soltando el elemento de dimensión “sin especificar” o “ninguno” en la zona.
 
->[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ Basta con arrastrar y soltar un [!UICONTROL segmento] o cualquier otro component
 
 Con las [!UICONTROL métricas calculadas] rápidas, puede crear nuevas [!UICONTROL métricas] directamente en Analysis Workspace, en lugar de ir al Generador de [!UICONTROL métricas calculadas]. Solo tiene que seleccionar las columnas de [!UICONTROL métrica] que desea calcular y, a continuación, en el menú del botón derecho, seleccione [!UICONTROL Crear métrica a partir de la selección]. Ahora puede añadir, restar, dividir, multiplicar y más sin abandonar su proyecto ni romper el hilo de sus pensamientos.
 
->[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -50,7 +50,7 @@ Con las [!UICONTROL métricas calculadas] rápidas, puede crear nuevas [!UICONTR
 
 Copie fácilmente visualizaciones y paneles de un lugar y añádalos a otro, incluso a un proyecto diferente. Esto significa que puede mover fácilmente los datos a medida que su proyecto crezca y compartir sus conclusiones con nuevos usuarios para que no tengan que iniciar un análisis desde cero. Simplemente, haga clic con el botón derecho en el panel o la visualización que desee copiar, seleccione [!UICONTROL Copiar visualización] y haga clic con el botón derecho en un panel en blanco para insertarla.
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -60,7 +60,7 @@ Copie fácilmente visualizaciones y paneles de un lugar y añádalos a otro, inc
 
 Cambie fácilmente la vista de tiempo al trabajar con visualizaciones de tendencias. En iteraciones anteriores de Analysis Workspace, cambiar el tiempo significaba mostrar una tabla de origen y arrastrar una nueva [!UICONTROL dimensión] y, a continuación, volver a ocultar la tabla. Ahora, es tan fácil como seleccionar la granularidad de tiempo que desea mostrar directamente desde el menú desplegable [!UICONTROL Configuración de visualizaciones] (engranaje superior derecho).
 
->[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
 ## Comparta: facilite a otros el uso y la comprensión de los hallazgos
 
@@ -68,7 +68,7 @@ Cambie fácilmente la vista de tiempo al trabajar con visualizaciones de tendenc
 
 Adobe Analytics recopila grandes cantidades de datos. La revisión de componentes en [!DNL Virtual Report Suites] permite a los administradores crear un conjunto de datos para cada unidad comercial de una organización. Esto significa que los analistas que trabajan en Analysis Workspace no tienen que hurgar en los datos para encontrar lo que más les importa. Solo marque la casilla titulada [!UICONTROL Habilitar la personalización de componentes de grupos de informes virtuales] en el generador de [!UICONTROL grupos de informes virtuales] en [!UICONTROL Componentes] y, a continuación, seleccione los [!UICONTROL componentes] que coinciden con lo que mide un equipo específico.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -78,7 +78,7 @@ Adobe Analytics recopila grandes cantidades de datos. La revisión de componente
 
 Cree vínculos que lleven a las audiencias a cualquier lugar dentro de Analysis Workspace. Haga clic con el botón derecho en el panel al que desee vincular, seleccione [!UICONTROL Obtener vínculo del panel] y copie. A continuación, resalte el texto desde el que desea vincular, seleccione el icono de vínculo en el editor de un cuadro de texto o descripción y pegue. Para vincular a un proyecto completo, solo tiene que hacer clic en la pestaña [!UICONTROL Compartir], seleccionar [!UICONTROL Obtener vínculo del proyecto] y seguir los mismos pasos que arriba.
 
->[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -88,7 +88,7 @@ Cree vínculos que lleven a las audiencias a cualquier lugar dentro de Analysis 
 
 Ahora puede convertir fácilmente cualquier proyecto en una plantilla personalizada. Simplemente, seleccione &quot;[!UICONTROL Guardar como plantilla]&quot; del menú desplegable &quot;[!UICONTROL Proyecto]&quot;, añada etiquetas que faciliten la búsqueda de la plantilla y haga clic en &quot;[!UICONTROL Guardar proyecto como plantilla]&quot;. Ahora, la plantilla estará disponible para todos los usuarios de Analysis Workspace en la pestaña &quot;[!UICONTROL Plantillas personalizadas]&quot;. Esto permite a los analistas iniciar sus proyectos con puntos de datos significativos, en lugar de empezar desde el cuadrado uno.
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
 
 >[!TIP]
 >
