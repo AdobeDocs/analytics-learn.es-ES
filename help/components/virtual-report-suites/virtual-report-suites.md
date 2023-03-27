@@ -10,8 +10,8 @@ kt: 2325
 role: User
 level: Intermediate
 exl-id: db1c229a-96a0-4ca0-8c4e-a04721564c7d
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Adobe Analytics le permite crear [!UICONTROL Grupos de informes virtuales] para los usuarios, que segmentan los datos y limitan los usuarios/grupos únicamente a los segmentos de datos permitidos. Este vídeo le muestra cómo crear y trabajar con [!UICONTROL Grupos de informes virtuales].
 
->[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=es).
