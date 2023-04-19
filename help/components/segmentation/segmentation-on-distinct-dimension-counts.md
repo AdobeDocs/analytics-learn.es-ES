@@ -7,7 +7,7 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Los nuevos operadores de [!UICONTROL Recuento distinto] del [!UICONTROL Generador de segmentos] le permiten segmentar según el número de elementos únicos dentro de cualquier [!UICONTROL dimensión]. Filtre por las visitas en las que se vieron más de cinco páginas o las visitas en las que se compraron más de cinco productos (dentro de un único pedido).
 
->[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
 
 ¿Podría molar más esta funcionalidad? :)
 
