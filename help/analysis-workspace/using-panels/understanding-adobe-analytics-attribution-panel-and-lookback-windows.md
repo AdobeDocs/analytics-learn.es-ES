@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: d7b1fac5c98080f9ca786ea21a3700d2937c7ebc
+source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
 workflow-type: tm+mt
 source-wordcount: '1883'
 ht-degree: 2%
@@ -92,7 +92,7 @@ Si han visto TODAS las películas de Back to the Future, entonces saben que Mart
 
 1. Un poco antes **1:30 a.m.** en **26 de octubre de 1985**, Marty McFly regresa en el tiempo a **5 de noviembre de 1955**, donde corre por primera vez sobre un pinar en un viejo DeLorean.  A lo largo de la semana y media siguiente, interactúa con varias personas, incluidos sus padres, afectando en última instancia al futuro al influir en su padre para que se enfrente a un matón llamado Biff, para que su padre pueda realizar su propio potencial para convertirse en un autor exitoso de ciencia ficción.
 1. Más tarde esa misma mañana el **26 de octubre de 1985**, el doctor Emmett Brown llega a la carretera de Marty McFly para informarle a él y a su novia que algo ha salido terriblemente mal con sus hijos y deben correr hacia el futuro para arreglar sus problemas.  Mientras se van, su partida es presenciada por Biff, que encuentra extraño ver a un volador DeLorean.  Más tarde, en el futuro, mientras Biff vuelve a ser testigo de un volante DeLorean e incluso después ve &quot;dos versiones&quot; de Marty, comienza a juntar cosas.   Cuando escucha a Doc Brown y Marty argumentando cómo la &quot;máquina del tiempo&quot; nunca debería ser usada para beneficio personal y solamente para investigación (porque Marty había estado discutiendo acerca de tomar un almanaque deportivo de vuelta al pasado para hacer algunas apuestas personales), Biff roba la máquina del tiempo mientras que los dos están distraídos para entregar el almanaque deportivo a su yo más joven en el pasado.
-1. Después de su viaje al futuro, Doc Brown y Marty regresan a un **26 de octubre de 1985** ellos no reconocen, y deducirán los cronogramas ha sido alterado por un malvado Biff.  Al darse cuenta que deben arreglar lo que pasó, Doc y Marty deciden regresar a **12 de noviembre de 1955**, la fatídica noche en que todo cambió por Marty cuando visitó por primera vez **1955**.  Doc y Marty finalmente salvaron el día robando el almanaque deportivo que Old Biff del futuro entregó a Young Biff en **1955**, pero no sin otro giro, realmente necesitas ver la trilogía completa de las películas para realmente disfrutar y entender.
+1. Después de su viaje al futuro, Doc Brown y Marty regresan a un **26 de octubre de 1985** no reconocen, y deducen la línea de tiempo ha sido alterada por un malvado Biff.  Al darse cuenta que deben arreglar lo que pasó, Doc y Marty deciden regresar a **12 de noviembre de 1955**, la fatídica noche en que todo cambió por Marty cuando visitó por primera vez **1955**.  Doc y Marty finalmente salvaron el día robando el almanaque deportivo que Old Biff del futuro entregó a Young Biff en **1955**, pero no sin otro giro, realmente necesitas ver la trilogía completa de las películas para realmente disfrutar y entender.
 
 Dependiendo de nuestra **Modelo de atribución** y **Ventana retroactiva**, podemos terminar con algunos escenarios interesantes:
 
@@ -109,7 +109,7 @@ Entonces, ¿qué significa todo esto para nosotros como analistas?
 
 La variable **Panel de Attribution** y **Ventana retroactiva** nos da el poder de mirar más allá de los datos simples y superficiales y profundizar en el recorrido del cliente. Al comprender qué puntos de contacto tuvieron el impacto bueno en las conversiones, podemos tomar decisiones informadas sobre nuestras estrategias de marketing y asignar recursos de manera más efectiva.
 
-Recuerde, después de tener su **Modelos de atribución** y **Ventanas retroactivas** seleccionado, aún tiene la capacidad de manipular aún más los datos filtrándolos con un segmento o con cualquier otro componente que desee.  Además, una vez que se haya presentado el Panel, tendrá toda la funcionalidad de una **Espacio de trabajo**, lo que significa que su licencia oficial para conducir 88 mph!
+Recuerde, después de tener su **Modelos de atribución** y **Ventanas retroactivas** seleccionado, aún tiene la capacidad de manipular aún más los datos filtrándolos con un segmento o con cualquier otro componente que desee.  Además, una vez que se haya presentado el Panel, tendrá toda la funcionalidad de una **Espacio de trabajo**, lo que significa que tienes licencia oficial para conducir 88 mph!
 
 ## Finalmente, ponerlo en práctica
 
@@ -117,7 +117,7 @@ Ahora que ya tiene los conceptos, imaginen que está ejecutando una campaña de 
 
 Ahora que han visto lo que pueden hacer, no se dejen intimidar por las características aparentemente complejas del **Panel de Attribution**.  **Cara** es así.  **Abrazo** es así.  **Comprender** es así.  Sobre todo, utilícelo en su beneficio. La variable **Panel de Attribution** y **Ventana retroactiva** son las claves para desbloquear una comprensión más profunda de sus clientes y su recorrido con su marca.
 
-Ahora, podemos viajar &quot;de vuelta en el tiempo&quot; con confianza y usar el poder de nuestra máquina del tiempo de confianza (también conocida como,  **Adobe Analytics**) para tomar decisiones basadas en datos; y, lo más importante, recuerden, &quot;¡A dónde vamos, no necesitamos carreteras!&quot; (Sólo un condensador de flujo, y un ojo agudo para la atribución!).
+Ahora, podemos viajar &quot;de vuelta en el tiempo&quot; con confianza y usar el poder de nuestra máquina del tiempo de confianza (también conocida como,  **Adobe Analytics**) para tomar decisiones basadas en datos; y, lo más importante, recuerden, &quot;¡A dónde vamos, no necesitamos carreteras!&quot; (Sólo un condensador de flujo, ¡y un ojo activo para la atribución!)
 
 ![Volver al futuro](assets/back-to-the-future3.png)
 
