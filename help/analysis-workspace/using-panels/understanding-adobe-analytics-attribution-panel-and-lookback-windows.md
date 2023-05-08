@@ -8,9 +8,9 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
+source-git-commit: 48dbac6921a69dbdba1e98bf412ff55ceb27baf5
 workflow-type: tm+mt
-source-wordcount: '1883'
+source-wordcount: '1881'
 ht-degree: 2%
 
 ---
@@ -72,7 +72,7 @@ En pocas palabras, si 10 personas presionan un botón para atravesar una puerta,
 * **Último toque**: También como suena.   Este modelo da 100% de crédito a la última persona que entró por la puerta.  Este modelo se utiliza a menudo para analizar elementos como la búsqueda y campañas de ciclo de marketing a corto plazo.
 * **Lineal**: Esto da igual crédito a cada persona que caminó por la puerta.  Así es - tienes un DeLorean, y tienes un DeLorean, y obtienes un DeLorean.  ¡¡¡TODO EL MUNDO TIENE UN DELOREANO!!!
 * **Forma de U**: Este da el 40% del crédito al primero de la puerta, distribuye el 20% del crédito a todos los que están entre medias y luego da el 40% al último.  Piense en una situación en la que desee reconocer las conversiones mayoritarias tanto en el front-end como en el back-end, pero también desee rociar una pequeña cantidad de crédito en algunas de las interacciones de contribución intermedias.
-* **Deterioro de tiempo**: Sería negligente si no compartiera esta con ustedes antes de enviarles a la documentación oficial para revisar los modelos restantes.  Como el plutonio de Doc Brown, este modelo literalmente tiene una vida media que se desciende exponencialmente.  En este caso, el parámetro predeterminado para la semivida de este modelo es de 7 días.  La forma en que funciona es aplicar peso a cada canal de marketing, en función de la cantidad de tiempo que transcurra después del punto de contacto inicial y de cuándo el cliente se convierte.
+* **Deterioro de tiempo**: Sería negligente si no compartiera esta con ustedes antes de enviarles la documentación oficial para revisar los modelos restantes.  Como el plutonio de Doc Brown, este modelo literalmente tiene una vida media que se desciende exponencialmente.  En este caso, el parámetro predeterminado para la semivida de este modelo es de 7 días.  La forma en que funciona es aplicar peso a cada canal de marketing, en función de la cantidad de tiempo que transcurra después del punto de contacto inicial y de cuándo el cliente se convierte.
 
 Para obtener información adicional sobre esto y el resto de **Modelos de atribución**, [haga clic aquí](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=es).
 
@@ -82,7 +82,7 @@ Sí, aquí vamos - ¡¡VUELVAN EN EL TIEMPO!!  ¡Porque aquí es donde comienza 
 
 Adobe define **Ventanas retroactivas** como &quot;la cantidad de tiempo que una conversión debe mirar hacia atrás para incluir puntos de contacto. Los modelos de atribución que dan más crédito a las primeras interacciones ven diferencias mayores al tener ventanas retrospectivas distintas.&quot;
 
-* **Ventana retrospectiva de visita**: Busca hasta el principio de una visita cuando se produjo una conversión
+* **Ventana retrospectiva de visita**: Busca hasta el principio de una visita cuando se produjo una conversión.
 * **Ventana retrospectiva de visitante**: Busca todas las visitas hasta el primer día del mes del intervalo de fechas actual.
 * **Ventana retrospectiva personalizada**: Permite expandir la ventana de atribución más allá del intervalo de fechas del informe hasta un máximo de **90 días**.
 
