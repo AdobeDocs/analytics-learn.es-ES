@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
-source-git-commit: 5988e9d68f0c2200168da56373259bdf9f4f901b
+source-git-commit: 1b82bc495f72b099c44a1118145a63c255dcc62a
 workflow-type: tm+mt
 source-wordcount: '1110'
 ht-degree: 17%
@@ -34,7 +34,7 @@ Rendimiento digital actual
 1. Las visitas por primera vez se convierten a una tasa ligeramente más alta que las visitas de retorno para ambas, un 11,6% vs. un 11,4%.
 1. En comparación con 2021, las tasas de conversión se redujeron en ambos segmentos.
 
-![Tabla de visitas](assets/visits-table.png)
+![Tabla de visitas](assets/cohort1.png)
 
 ## Parte 2: Análisis de cohorte: Visitas: Disposiciones Comestibles, Producto Global
 
@@ -70,14 +70,14 @@ Configuración de la tabla de cohorte
 1) Los meses con el mayor volumen incluyen febrero y mayo
 1) Hay cerca de 1000 visitantes que regresan al sitio cada mes
 
-![Tabla de retención de 2022](assets/2022-retention-table.png)
+![Tabla de retención de 2022](assets/cohort2.png)
 
 **En 2021:**
 
 1) Los meses con tasas de retención más altas +1 mes incluyen abril, enero y marzo
 1) Los meses con el mayor volumen incluyen febrero y mayo
 
-![Tabla de retención de 2021](assets/2021-retention-table.png)
+![Tabla de retención de 2021](assets/cohort3.png)
 
 **Elementos de acción:**
 
@@ -128,7 +128,7 @@ Advertencia: El análisis de cohorte no se puede usar para métricas calculadas 
 
 Investigar la experiencia del usuario del sitio para que los usuarios creen una cuenta durante el cierre de compra
 
-![Tabla de cohorte 4](assets/cohort-table-4.png)
+![Tabla de cohorte 4](assets/cohort4.png)
 
 ## Parte 4: Cohorte de Dimension personalizada
 
@@ -156,7 +156,7 @@ La tabla Cohorte de Dimension personalizado resalta los productos que generan ta
 1) Product 2
 1) Product 3 con frecuencia supera el rendimiento con una tasa de retención mayor que la retención media.
 
-![Tabla de cohorte 5](assets/cohort-table-5.png)
+![Tabla de cohorte 5](assets/cohort5.png)
 
 ## Conclusión
 
