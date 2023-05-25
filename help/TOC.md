@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda a sacar el máximo partido a sus datos.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: b11a329ca3f5c676aea08c7037e5ee87003edfe6
+source-git-commit: db4cbbb061f4d0d4d1bc75463e7018ee55a8655e
 workflow-type: tm+mt
-source-wordcount: '2434'
+source-wordcount: '2435'
 ht-degree: 97%
 
 ---
@@ -58,6 +58,7 @@ ht-degree: 97%
       + [Introducción rápida a Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Información general de Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navegar a la nueva página de aterrizaje](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Inicie el análisis con un informe generado previamente](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
       + [Creación de un proyecto del Espacio de trabajo desde cero](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Creación y administración de plantillas personalizadas en Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Explicación de cómo se obtienen los datos en el proyecto de Analysis Workspace](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -86,7 +87,7 @@ ht-degree: 97%
       + [Uso de tablas, visualizaciones y paneles en Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [El panel Quick Insights en Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Uso del panel de Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=es)
-      + [Explicación del panel Atribución de Adobe Analytics y las ventanas de retrospectiva](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
+      + [Explicación del Panel de atribución de Adobe Analytics y las ventanas retroactivas](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + [Panel de visualizadores simultáneos de medios en Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Panel Tiempo invertido en la reproducción de medios](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=es)
       + [Uso de filtros desplegables](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -128,7 +129,7 @@ ht-degree: 97%
       + [Visualizaciones de número de resumen y cambio de resumen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [Visualización del resumen de métricas clave](analysis-workspace/visualizations/key-metric-summary.md)
       + [Visualización del texto](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
-      + [Más que palabras: Uso de visualizaciones de texto y descripciones](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
+      + [Más que palabras: uso de visualizaciones de texto y descripciones](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
       + [Visualización del diagrama de dispersión](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Visualización de gráficos de rectángulos](analysis-workspace/visualizations/treemap-visualization.md)
       + [Visualización del diagrama de Venn](analysis-workspace/visualizations/venn-diagram-visualization.md)
@@ -156,14 +157,14 @@ ht-degree: 97%
       + [Uso de segmentos como dimensiones en Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Uso de segmentos para limitar datos en Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Segmentos rápidos en Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
-      + [Generación de segmentos de Recorrido del cliente](analysis-workspace/applying-segments/building-customer-journey-segments.md)
+      + [Generación de segmentos de Customer Recorrido](analysis-workspace/applying-segments/building-customer-journey-segments.md)
    + Métricas {#metrics}
       + [Explicación de las métricas básicas de visitante](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Añadir Dimensión y métricas al proyecto en Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=es)
       + [Introducción a los eventos de conversión](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [Uso de métricas en una tabla de forma libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=es)
       + [Uso de métricas de participación en Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
-      + [Adiós Excel, saludar métricas calculadas](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
+      + [Adiós Excel, hola métricas calculadas](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensiones {#dimensions}
       + [Añadir Dimensión y métricas al proyecto en Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Introducción a las variables de tráfico (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
@@ -205,7 +206,7 @@ ht-degree: 97%
       + [Análisis de cohorte con cualquier dimensión](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [Análisis de latencia con tablas de cohorte](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [Cálculo de la retención móvil en tablas de cohortes](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
-      + [Utilice el análisis de cohorte para comprender el comportamiento del cliente](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
+      + [Uso del análisis de cohorte para comprender el comportamiento del cliente](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
    + Análisis de voz {#voice-analytics}
       + [Cómo administrar y rastrear los datos de la aplicación del Asistente de voz](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [Explicación de las diferencias entre dispositivos con asistencia por voz](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
@@ -233,7 +234,6 @@ ht-degree: 97%
       + [Cree un sitio de Adobe Analytics interno](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [Use un grupo de informes globales](administration/admin-tips/use-a-global-report-suite.md)
       + [Creación de un proyecto de noticias y anuncios](administration/admin-tips/create-a-news-and-announcements-project.md)
-      + [Lograr el éxito con los paneles de resumen ejecutivos](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + Configuración de la empresa {#company-settings}
       + [Aplicación de restricciones de dominios de correo electrónico](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Consulta de las funciones disponibles de la cuenta](administration/company-settings/view-your-accounts-available-features.md)
@@ -323,7 +323,7 @@ ht-degree: 97%
       + [Modelos de dimensión en la segmentación](components/segmentation/dimension-models-in-segmentation.md)
       + [Operador Es equivalente a en la segmentación](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Seminario web de Analytics Insider: estrategias de segmentación de clientes](components/segmentation/customer-segmentation-strategies.md)
-      + [Ahora espere un segmento... Usando la segmentación para descubrir nuevas perspectivas](components/segmentation/segmentation-to-discover-new-insights.md)
+      + [Espere un segmento... Use la segmentación para descubrir nuevas perspectivas](components/segmentation/segmentation-to-discover-new-insights.md)
    + Métricas calculadas {#calculated-metrics}
       + [Función de recuento distinto aproximado en métricas calculadas](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ en métricas calculadas](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=es)
