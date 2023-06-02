@@ -7,9 +7,9 @@ kt: 4217
 role: User
 level: Beginner
 exl-id: 4cf94512-e4e4-418f-b759-db5feff272e6
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 [!DNL Freeform table builder] le permite arrastrar y soltar varias dimensiones, desgloses, métricas y segmentos para crear tablas que respondan a preguntas comerciales más complejas. Los datos no se actualizarán sobre la marcha; en su lugar, se actualizarán cuando haga clic en &quot;Generar&quot;, lo que le ahorra tiempo, ya que la tabla solo se actualiza una vez.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12&learn=on)
-
->[!INFO]
->
-> Este vídeo forma parte de un curso: [Tablas de forma libre, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=es), disponible de forma gratuita en Experience League.

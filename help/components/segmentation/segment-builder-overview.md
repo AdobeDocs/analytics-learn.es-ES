@@ -7,9 +7,9 @@ kt: 2300
 role: User
 level: Beginner
 exl-id: 763c9504-0692-4d56-ba5e-a3af7e2e607a
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Corte y fragmente sus datos con segmentación en Adobe Analytics. Este vídeo le guía por el Generador de segmentos y le ofrece una descripción general básica.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12&learn=on)
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Filtrado de datos con segmentación y fechas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=es), disponible de forma gratuita en Experience League.

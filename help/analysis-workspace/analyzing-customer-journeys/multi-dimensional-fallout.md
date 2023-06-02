@@ -11,9 +11,9 @@ kt: 2277
 role: User
 level: Beginner
 exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
@@ -25,9 +25,5 @@ Las [!DNL Fallout] en Analysis Workspace le permiten mezclar y hacer coincidir d
 >[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12&learn=on)
 
 Esta potente capacidad le proporciona una mayor flexibilidad para definir los pasos del usuario que desea investigar.
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Atribución de valor a puntos de contacto digitales en el recorrido del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=es), disponible de forma gratuita en Experience League.
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/configuring-interdimensional-fallout.html?lang=es).

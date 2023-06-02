@@ -10,9 +10,9 @@ kt: 2014
 role: User
 level: Beginner
 exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
-workflow-type: ht
-source-wordcount: '105'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ ht-degree: 100%
 Este vídeo explica tres formas de trabajar con fechas en [!DNL Freeform] Análisis: el calendario, los elementos de [!UICONTROL intervalo de fechas] y los elementos de granularidad. No se muestra, de alguna manera vergonzoso: cómo usar fechas para habilitar gráficos de líneas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12&learn=on)
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Filtrado de datos con segmentación y fechas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=es), disponible de forma gratuita en Experience League.

@@ -7,9 +7,9 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ Los nuevos operadores de [!UICONTROL Recuento distinto] del [!UICONTROL Generado
 ¿Podría molar más esta funcionalidad? :)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=es).
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Filtrado de datos con segmentación y fechas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=es), disponible de forma gratuita en Experience League.

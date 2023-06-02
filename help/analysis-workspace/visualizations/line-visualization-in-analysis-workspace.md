@@ -7,9 +7,9 @@ kt: 6277
 role: User
 level: Beginner
 exl-id: 7d638458-0e52-4824-8667-873045cfc372
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ La visualización de línea ilustra las métricas a lo largo de un periodo de te
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
 Obtenga más información en la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=es).
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Uso de visualizaciones para contar historias de datos](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=es), disponible de forma gratuita en Experience League.

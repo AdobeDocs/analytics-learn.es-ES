@@ -7,9 +7,9 @@ kt: 1666
 role: User
 level: Beginner
 exl-id: 461dc5f8-b52e-47ce-b2c4-afe4426dab16
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
-workflow-type: ht
-source-wordcount: '145'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Ahora puede crear [!UICONTROL métricas calculadas] sobre la marcha dentro de Analysis Workspace.  Si desea realizar un cambio o una división porcentual de forma rápida con algunas [!UICONTROL métricas] en la [!UICONTROL tabla de forma libre], solo tiene que seleccionarlas en el encabezado, hacer clic con el botón secundario y elegir el operador que desee.  La nueva [!UICONTROL métrica calculada] aparecerá a la derecha.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)
-
->[!INFO]
->
-> Este vídeo forma parte de un curso: [Tablas de forma libre, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), ¡disponible de forma gratuita en Experience League!

@@ -10,9 +10,9 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '288'
 ht-degree: 100%
 
 ---
@@ -38,7 +38,3 @@ Existen muchas maneras de llevar la metodología de atribución al siguiente niv
 * 4:30: la configuración de columna se puede actualizar por lotes ahora, en lugar de una a una. Obtenga más información en el minuto 8:45 del vídeo: [configuración de fila y columna en tablas de forma libre](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 Para obtener más información acerca de este tema, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=es).
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=es), disponible de forma gratuita en Experience League.

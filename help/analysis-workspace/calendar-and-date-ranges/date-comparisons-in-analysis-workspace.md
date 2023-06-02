@@ -7,9 +7,9 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '111'
 ht-degree: 100%
 
 ---
@@ -22,13 +22,4 @@ En este vídeo, le mostraremos cómo aprovechar dos funciones de comparación de
 
 Comparar fechas es una forma sencilla de dar profundidad a las tablas actuales de Analysis Workspace y le ayudarán a poner en perspectiva fácilmente los datos actuales del rendimiento histórico.
 
-Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison.html?lang=es).
-
->[!INFO]
->
-> Este vídeo es parte de dos cursos:
->
-> * [Tablas improvisadas: la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-> * [Filtrado de datos con segmentación y fechas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=es)
->
-> Ambos están disponibles de forma gratuita en Experience League.
+Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison.html?lang=es).

@@ -10,9 +10,9 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,3 @@ Las personalizaciones para [!UICONTROL Tabla de cohorte] incluyen la capacidad d
 La fila promedio es especialmente útil para ver [!UICONTROL retención] o [!UICONTROL pérdida] en general, no por filas de [!UICONTROL cohorte] individuales.
 
 Para obtener más información sobre el análisis de [!UICONTROL cohorte], visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=es).
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Atribución de valor a puntos de contacto digitales en el recorrido del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=es), disponible de forma gratuita en Experience League.

@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 335751.jpg
 kt: KT-8467
 exl-id: 76ae8c9f-def3-4da5-ad39-49bd74e5bd8a
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '154'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ ht-degree: 100%
 Data Warehouse hace referencia a la copia de datos de Analytics para almacenarlos y elaborar informes personalizados, que se pueden ejecutar filtrando los datos. Puede solicitar informes para mostrar las relaciones de datos avanzadas que hay entre los datos sin procesar en función de sus propias preguntas. Los informes del almacén de datos se envían por correo electrónico o mediante FTP y pueden tardar hasta 72 horas en procesarse. El tiempo de procesamiento dependerá de la complejidad de la consulta y de la cantidad de datos solicitados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Exportación y democratización de datos de Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=es), disponible de forma gratuita en Experience League.

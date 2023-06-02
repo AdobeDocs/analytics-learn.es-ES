@@ -7,9 +7,9 @@ kt: 1661
 role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
-workflow-type: ht
-source-wordcount: '130'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
@@ -29,10 +29,3 @@ Cada [!UICONTROL modelo] de atribución admite totalmente la segmentación y los
 * [!DNL Adobe Analytics Prime]
 * [!DNL Adobe Analytics Ultimate]
 
->[!INFO]
->
-> Este vídeo forma parte de un curso: [Tablas de forma libre, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), ¡disponible de forma gratuita en Experience League!
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Atribución de valor a puntos de contacto digitales en el recorrido del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=es), disponible de forma gratuita en Experience League.

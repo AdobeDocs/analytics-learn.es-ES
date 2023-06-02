@@ -7,9 +7,9 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '177'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ La zona de colocación del panel ahora tiene funcionalidades de filtrado despleg
 Los desplegables también son una forma útil de consolidar proyectos y paneles. Por ejemplo, si tiene varias versiones de un proyecto que proporciona informes específicos de países, ahora puede contraer esos proyectos en uno solo y añadir una lista desplegable de países entre los que los usuarios puedan alternar.
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=es).
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Filtrado de datos con segmentación y fechas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=es), disponible de forma gratuita en Experience League.

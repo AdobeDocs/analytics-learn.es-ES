@@ -7,9 +7,9 @@ kt: 1903
 role: User
 level: Beginner
 exl-id: 4d754c86-92cd-49cd-91b4-6711fbb61bf7
-source-git-commit: fc7c66520340fc5f71bd65a800e1d60a03a3ce95
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ La [!DNL Time-parting] toma la marca de hora de las visitas recogidas y la divid
 >[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/dimensions/time-parting-dimensions.html?lang=es).
-
->[!INFO]
->
-> Este vídeo forma parte de un curso: [Tablas de forma libre, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible de forma gratuita en Experience League.

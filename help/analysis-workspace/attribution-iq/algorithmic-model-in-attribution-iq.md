@@ -11,9 +11,9 @@ kt: 5554
 role: User
 level: Intermediate
 exl-id: fc7a4eda-0e1b-45a5-876d-022b97ef6e42
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '68'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ El Modelo algorítmico en Attribution de Analysis Workspace utiliza técnicas es
 >[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html?lang=es)
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Atribución de valor a puntos de contacto digitales en el recorrido del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=es), disponible de forma gratuita en Experience League.

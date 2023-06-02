@@ -7,9 +7,9 @@ kt: 1908
 role: User
 level: Beginner
 exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
-workflow-type: ht
-source-wordcount: '104'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ La intravinculación permite a los analistas crear proyectos en Analysis Workspa
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 Los intravínculos también se pueden usar para crear tablas de contenido y contar historias de datos más efectivas en general. La vinculación entre proyectos también es ahora posible debido a la nueva funcionalidad de hipervinculación.
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Uso de visualizaciones para contar sus historias de datos](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=es), disponible de forma gratuita en Experience League.

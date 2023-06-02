@@ -7,9 +7,9 @@ kt: 1670
 role: User
 level: Beginner
 exl-id: 7b775e43-2495-4851-8e16-ab6d93c75dd1
-source-git-commit: fc1de005c13705a41a229403bfc0444f1538ec51
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ Aprenda a establecer las visualizaciones apiladas como porcentajes en lugar de s
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
 Los gráficos apilados son útiles para representar partes de un todo en una tendencia. La configuración de visualización apilada al 100 % ayuda a ver rápidamente cómo contribuye cada parte al total, en términos de un valor porcentual en lugar de un valor sin procesar. Esta configuración está disponible en el símbolo de configuración de visualización en la parte superior derecha de las visualizaciones de área apilada, barra apilada y barra horizontal apilada.
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Uso de visualizaciones para contar historias de datos](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=es), disponible de forma gratuita en Experience League.

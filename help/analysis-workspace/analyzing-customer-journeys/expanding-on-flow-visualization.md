@@ -11,9 +11,9 @@ kt: 2280
 role: User
 level: Beginner
 exl-id: 080edb20-1005-4a9e-8067-167a2dd575be
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -26,6 +26,3 @@ Este vídeo muestra las distintas opciones disponibles al hacer clic con el bot�
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=es#analysis-workspace).
 
->[!INFO]
->
-> Este vídeo forma parte del curso [Atribución de valor a puntos de contacto digitales en el recorrido del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=es), disponible de forma gratuita en Experience League.

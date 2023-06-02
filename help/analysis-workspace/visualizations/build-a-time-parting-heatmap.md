@@ -7,9 +7,9 @@ kt: 2813
 role: User
 level: Beginner
 exl-id: 1bf591a4-fdce-4053-80d4-a9cd87e04ec6
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Aprenda a llevar el análisis de partición de tiempo al siguiente nivel creando una [!UICONTROL visualización] de mapa de calor de los comportamientos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12&learn=on)
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Uso de visualizaciones para contar historias de datos](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=es), disponible de forma gratuita en Experience League.

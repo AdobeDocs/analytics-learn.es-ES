@@ -7,9 +7,9 @@ kt: 6161
 role: User
 level: Beginner
 exl-id: 60611747-80c7-4bd0-88b8-a36fb420d290
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Aprenda a usar el carril izquierdo de Analysis Workspace para buscar, crear y agregar elementos a las tablas de forma libre.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40089/?quality=12&learn=on)
-
->[!INFO]
->
-> Este vídeo forma parte de un curso: [Tablas de forma libre, la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=es), disponible de forma gratuita en Experience League.

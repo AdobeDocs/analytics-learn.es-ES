@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: 334096.jpg
 kt: 8062
 exl-id: b1fcbd2f-d03e-4cc1-80ba-f76fe66551e5
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '72'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=es).
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Uso de visualizaciones para contar historias de datos](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=es), disponible de forma gratuita en Experience League.

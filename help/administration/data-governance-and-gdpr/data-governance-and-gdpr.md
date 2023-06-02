@@ -7,9 +7,9 @@ kt: 2361
 role: Admin, Architect
 level: Intermediate
 exl-id: b78c2b02-a4cb-413d-83c1-ec6a6ef61630
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ Este vídeo le guiará por la gobernanza de datos y por cómo encaja el etiqueta
 >[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=es).
-
->[!INFO]
->
-> Este vídeo forma parte del curso [Configuración y administración de grupos de informes en Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=es), disponible de forma gratuita en Experience League.
