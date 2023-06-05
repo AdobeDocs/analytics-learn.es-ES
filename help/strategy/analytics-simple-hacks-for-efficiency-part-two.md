@@ -3,9 +3,9 @@ title: 'Trucos sencillos para aumentar la eficacia y el autoservicio: segunda pa
 description: Conozca los desafíos clave a los que se enfrentan los equipos de Analytics hoy en día, y nuestras recomendaciones para superarlos mediante estrategias integradas en la herramienta.
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '730'
 ht-degree: 100%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 100%
 **Parte 2: Estrategias integradas en la herramienta**
 
 En este artículo se describen los desafíos clave a los que se enfrentan los equipos de Analytics hoy en día, y nuestras recomendaciones para superarlos mediante estrategias integradas en la herramienta. Vaya [aquí](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md) para la primera parte.
-
-Para obtener más información sobre soluciones eficaces fuera de la plataforma de Adobe Analytics, haga clic [aquí](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
 
 ## Claves para la eficacia: Estrategias integradas en la herramienta
 
@@ -93,7 +91,5 @@ Utilice anotaciones para crear referencias de documentación de soluciones en el
 ## API de informes de Adobe 2.0
 
 Aproveche la API de informes para mover informes estándar de [!UICONTROL Workspace] a informes programados y paneles. Además, aproveche [!UICONTROL Analysis Workspace] para crear solicitudes de API.
-
-Esperamos que haya encontrado útil este artículo sobre estrategias en la herramienta. Para obtener más información sobre soluciones eficaces para una mayor eficiencia fuera de la plataforma de Adobe Analytics, haga clic [aquí](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
 Obtenga más información acerca de la estrategia y el liderazgo mental en el centro [Éxito del cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=es).

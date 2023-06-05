@@ -7,10 +7,10 @@ level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 100%
+source-wordcount: '310'
+ht-degree: 96%
 
 ---
 
@@ -22,7 +22,7 @@ Se considera una práctica recomendada el uso de una capa de datos para [!DNL An
 
 Una _capa de datos_ es un marco de objetos JavaScript que los desarrolladores insertan en páginas web digitales. Básicamente, las soluciones de Analytics utilizan la capa de datos para rellenar informes. Los sistemas de administración de etiquetas, como [!DNL Experience Platform Tags], son los intermediarios que leen la capa de datos, asignan los valores a variables y envían esos datos a las soluciones de experiencia digital.
 
-Puede consultar información adicional sobre las capas de datos en la [documentación de Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=es) y en la entrada de blog [Data Layers: From Buzzword to Best Practice](https://blog.adobe.com/en/2014/03/13/data-layers-buzzword-best-practice).
+Consulte información adicional sobre las capas de datos en la [Documentación del Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=es).
 
 ## Capas de datos, [!DNL Experience Platform Tags] y Adobe Analytics{#data-layers-launch-and-adobe-analytics}
 
