@@ -11,10 +11,10 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 4d467928756950074620388645523021b21fb0d5
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -28,4 +28,4 @@ Utilice esta API para rastrear todas las acciones que no sean de carga de pantal
 
 Estos datos se incluyen como `contextData`, lo que también significa que deberá utilizar [!UICONTROL Reglas de procesamiento] para tomar los datos móviles de esas variables `contextData` y asignarlos a [!DNL eVars], [!DNL Props], Eventos, etc. en Adobe Analytics.
 
-Para obtener más información sobre trackAction, consulte la [documentación](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference).
+Para obtener más información sobre trackAction, consulte la [documentación](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-user-actions-for-adobe-analytics).
