@@ -1,24 +1,22 @@
 ---
 title: 'Métricas calculadas: métricas segmentadas'
-description: Aprenda a crear métricas segmentadas en Adobe Analytics
+description: Aprenda a crear métricas calculadas basadas en segmentos para poder analizar de forma más eficaz los visitantes, las visitas y las vistas de página que le pertenecen.
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2319
 role: User
 level: Beginner
 exl-id: c02b968d-aa0e-4a93-acd4-d8797533b182
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 18d3c3105c2c536a1f4e40b663bfcdf25934acaa
 workflow-type: tm+mt
-source-wordcount: '26'
-ht-degree: 100%
+source-wordcount: '75'
+ht-degree: 25%
 
 ---
 
-# [!UICONTROL Métricas calculadas]: métricas segmentadas {#calculated-metrics-segmented-metrics}
+# [!UICONTROL Métricas calculadas]: Métricas segmentadas {#calculated-metrics-segmented-metrics}
 
-Aprenda a crear métricas segmentadas en Adobe Analytics
+Aprenda a crear métricas calculadas basadas en segmentos para poder analizar de forma más eficaz los visitantes, las visitas y las vistas de página que le pertenecen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12&learn=on)
+
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html?lang=es).
