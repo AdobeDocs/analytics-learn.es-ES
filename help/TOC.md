@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda a sacar el máximo partido a sus datos.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: 5f49401fd82602a7d6c046a33623698c4eb45397
+source-git-commit: 87bd18f19597e910195db6b23ba2d6ab0fe4bdcc
 workflow-type: tm+mt
 source-wordcount: '2446'
 ht-degree: 96%
@@ -330,12 +330,12 @@ ht-degree: 96%
       + [Espere un segmento... Use la segmentación para descubrir nuevas perspectivas](components/segmentation/segmentation-to-discover-new-insights.md)
    + Métricas calculadas {#calculated-metrics}
       + [Resumen del creador de métricas calculadas](components/calculated-metrics/calculated-metrics-metric-builder.md)
-      + [Métricas calculadas: Funciones](components/calculated-metrics/calculated-metrics-functions.md)
       + [Métricas calculadas: Métricas sin implementación](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Métricas calculadas: Métricas segmentadas](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
+      + [Métricas calculadas: funciones](components/calculated-metrics/calculated-metrics-functions.md)
+      + [Función de recuento distinto aproximado en métricas calculadas](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Métricas calculadas de forma rápida en Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Administrar las métricas calculadas](components/calculated-metrics/manage-your-calculated-metrics.md)
-      + [Función de recuento distinto aproximado en métricas calculadas](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ en métricas calculadas](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=es)
       + [Uso de dimensiones en métricas calculadas](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
       + [Lleve su análisis de datos al siguiente nivel con Métricas calculadas](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
