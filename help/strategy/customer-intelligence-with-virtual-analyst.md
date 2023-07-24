@@ -1,9 +1,12 @@
 ---
 title: Dominio del conocimiento del cliente con Analista virtual y Segment IQ
 description: Aprenda la importancia de utilizar la inteligencia artificial y el aprendizaje automático (AI/ML). Vea las ventajas y aprenda de los casos de éxito del mundo real de los clientes globales que utilizan Analista virtual y Segment IQ para detectar anomalías, evitar periféricos y maximizar el ROI.
+feature: AI Tools
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '1104'
 ht-degree: 100%

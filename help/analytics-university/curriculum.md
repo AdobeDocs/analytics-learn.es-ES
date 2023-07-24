@@ -1,13 +1,16 @@
 ---
 title: Programa de Adobe Analytics para el sector educativo
 description: Adobe se enorgullece de presentar este contenido fundacional de Analytics a su universidad. Dentro del plan de estudios, encontrará 4 módulos distintos diseñados para presentarle la recopilación y generación de informes con Adobe Analytics, que se pueden dividir e incorporar en cursos de marketing o análisis digital. Este manual de introducción permitirá a los profesores y los estudiantes adquirir los conocimientos necesarios para participar en el desafío mundial de Adobe Analytics en otoño.
+feature: Analytics Basics
+role: Leader
+level: Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: a5e8cb510cff46332297bcc95f94e9792dc4fc88
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 100%
+ht-degree: 79%
 
 ---
 

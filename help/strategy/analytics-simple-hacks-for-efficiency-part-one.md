@@ -1,9 +1,12 @@
 ---
 title: 'Trucos sencillos para aumentar la eficacia y el autoservicio: primera parte'
 description: Conozca los principales retos a los que se enfrentan los equipos de análisis hoy en día y nuestras recomendaciones para superarlos mediante estrategias fuera de la IU de Adobe Analytics.
+feature: Analytics Basics
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
-source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 100%
