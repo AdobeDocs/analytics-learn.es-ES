@@ -1,26 +1,28 @@
 ---
-title: Habilitación del reenvío desde el lado del servidor en Experience Platform Launch
-description: Aprenda a utilizar Experience Platform Launch para que las visitas de Adobe Analytics se envíen automáticamente a Adobe Audience Manager mediante el reenvío del lado del servidor.
+title: Integración de Adobe Analytics con Adobe Audience Manager mediante el reenvío del lado del servidor
+description: Obtenga información sobre cómo enviar datos de Adobe Analytics a Adobe Audience Manager mediante el reenvío del lado del servidor.
 feature: Experience Cloud Integration
-topics: null
-activity: use
-doc-type: feature video
+topic: Integrations
 team: Technical Marketing
 thumbnail: 25172.jpg
 kt: 1993
-topic: Integrations
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: Leader, Architect, Admin, Developer
 level: Intermediate
+badgeIntegration: label="Integración" type="positive"
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 520c7d01a2d0238d53fcace4b5a2bc41fb76abee
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 100%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
-# Habilitación del reenvío desde el lado del servidor en [!DNL Launch] {#enable-server-side-forwarding-in-adobe-launch}
+# Integrar [!DNL Adobe Analytics] con [!DNL Adobe Audience Manager] uso del reenvío del lado del servidor
 
-Aprenda a utilizar Adobe [!DNL Experience Platform Launch] para que las visitas de Adobe Analytics se envíen automáticamente a Adobe Audience Manager mediante el reenvío del lado del servidor.
+Obtenga información sobre cómo enviar [!DNL Adobe Analytics] datos a [!DNL Adobe Audience Manager] uso del reenvío del lado del servidor.
+
+>[!NOTE]
+>
+>&quot;[!UICONTROL Launch]&quot; ha pasado a llamarse &quot;[!UICONTROL etiquetas]&quot; en la interfaz de Experience Cloud. Seleccionar [!UICONTROL Recopilación de datos] desde el [!UICONTROL conmutador de aplicaciones] para abrir las etiquetas y realizar los pasos que se indican en este vídeo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)
