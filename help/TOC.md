@@ -4,9 +4,9 @@ user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2448'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -164,7 +164,7 @@ ht-degree: 98%
       + [Generación de segmentos de recorrido del cliente](analysis-workspace/applying-segments/building-customer-journey-segments.md)
       + [Generación de segmentos de recorrido del cliente: parte 2](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + Métricas {#metrics}
-      + [Explicación de las métricas básicas de visitante](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
+      + [Explicación de las métricas básicas del visitante](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Adición de dimensiones y métricas al proyecto](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=es)
       + [Introducción a los eventos de conversión](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [Uso de métricas en una tabla de forma libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=es)
