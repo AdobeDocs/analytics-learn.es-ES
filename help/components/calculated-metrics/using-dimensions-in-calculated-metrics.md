@@ -1,28 +1,24 @@
 ---
 title: Uso de dimensiones en métricas calculadas
-description: Las dimensiones ya están disponibles en el Creador de métricas calculadas. Se pueden agregar a cualquier fórmula de métrica calculada para crear un segmento interno sobre la marcha.
+description: Los Dimension están disponibles en el creador de métricas calculadas y se pueden agregar a cualquier fórmula de métrica calculada para limitar la nueva métrica a una dimensión o valor de dimensión.
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1904
 role: User
 level: Beginner
 exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
-workflow-type: ht
-source-wordcount: '93'
-ht-degree: 100%
+source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
+workflow-type: tm+mt
+source-wordcount: '97'
+ht-degree: 31%
 
 ---
 
-# Uso de [!UICONTROL dimensiones] en [!UICONTROL métricas calculadas] {#using-dimensions-in-calculated-metrics}
+# Uso de dimensiones en métricas calculadas {#using-dimensions-in-calculated-metrics}
 
-Las [!UICONTROL Dimensiones] ya están disponibles en el [!UICONTROL Creador de métricas calculadas]. Pueden agregarse a cualquier [!UICONTROL fórmula] de [!UICONTROL métrica calculada] para crear un segmento interno sobre la marcha.
+Los Dimension están disponibles en el creador de métricas calculadas y se pueden agregar a cualquier fórmula de métrica calculada para limitar la nueva métrica a una dimensión o valor de dimensión.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
-Esta funcionalidad optimiza el flujo de trabajo para crear y utilizar [!UICONTROL segmentos] en [!UICONTROL métricas calculadas].
+Esta funcionalidad optimiza el flujo de trabajo para crear y utilizar segmentos en métricas calculadas.
 
-Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-workflow/cm-build-metrics.html?lang=es).
+Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-workflow/cm-build-metrics.html?lang=es).
