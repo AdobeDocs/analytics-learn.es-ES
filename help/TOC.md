@@ -4,9 +4,9 @@ user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2448'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -334,12 +334,12 @@ ht-degree: 98%
       + [Métricas calculadas: métricas sin implementación](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Métricas calculadas: métricas segmentadas](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
       + [Métricas calculadas: funciones](components/calculated-metrics/calculated-metrics-functions.md)
-      + [Función aproximada de recuento distinto en métricas calculadas](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [Métricas calculadas rápidas en Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [Función de recuento distinto aproximado en métricas calculadas](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [Métricas calculadas de forma rápida en Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Administrar sus métricas calculadas](components/calculated-metrics/manage-your-calculated-metrics.md)
       + [Attribution IQ en métricas calculadas](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=es)
       + [Uso de dimensiones en métricas calculadas](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [Lleve el análisis de datos al siguiente nivel con métricas calculadas](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [Lleve su análisis de datos al siguiente nivel con las métricas calculadas](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Clasificaciones {#classifications}
       + [Información general sobre las clasificaciones](components/classifications/overview-of-classifications.md)
       + [Uso del Generador de clasificación de reglas](components/classifications/using-the-classification-rule-builder.md)
