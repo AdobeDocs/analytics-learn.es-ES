@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Adobe Analytics
 user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda a sacar el máximo partido a sus datos.
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
-source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
-workflow-type: ht
-source-wordcount: '2448'
-ht-degree: 100%
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+workflow-type: tm+mt
+source-wordcount: '2458'
+ht-degree: 99%
 
 ---
 
@@ -126,6 +126,7 @@ ht-degree: 100%
       + [Visualización de gráfico de viñetas](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Visualización de anillo](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Visualización del histograma](analysis-workspace/visualizations/histogram-visualization.md)
+      + [Desbloquear perspectivas con histogramas](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [Visualización de líneas](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Gráficos combinados](analysis-workspace/visualizations/combo-charts.md)
       + [Añadir líneas de tendencia a las visualizaciones de líneas](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -141,7 +142,7 @@ ht-degree: 100%
       + [Diseños flexibles](analysis-workspace/visualizations/flexible-layouts.md)
       + [Cambio de la escala/eje en visualizaciones](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [Vinculación en directo de dimensión-gráfico](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [Conmutación de la granularidad](analysis-workspace/visualizations/granularity-toggle.md)
+      + [Establecer la granularidad de las visualizaciones](analysis-workspace/visualizations/granularity-toggle.md)
       + [Intravinculación en Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Reorganización y cambio del tamaño de las visualizaciones](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Personalización de leyendas de visualización](analysis-workspace/visualizations/customize-visualization-legends.md)
@@ -239,6 +240,7 @@ ht-degree: 100%
       + [Use un grupo de informes globales](administration/admin-tips/use-a-global-report-suite.md)
       + [Creación de un proyecto de noticias y anuncios](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [Dirija el éxito con los paneles de resumen ejecutivo](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+      + [Creación de paneles operativos](administration/admin-tips/create-operational-dashboards.md)
    + Configuración de la empresa {#company-settings}
       + [Aplicación de restricciones de dominios de correo electrónico](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Consulta de las funciones disponibles de la cuenta](administration/company-settings/view-your-accounts-available-features.md)

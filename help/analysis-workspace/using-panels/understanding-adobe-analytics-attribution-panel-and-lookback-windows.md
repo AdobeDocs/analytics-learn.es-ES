@@ -8,9 +8,9 @@ doc-type: Article
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: 486a708f735eeb87240c37306350ac0f69ffca84
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
 workflow-type: tm+mt
-source-wordcount: '1682'
+source-wordcount: '1681'
 ht-degree: 3%
 
 ---
@@ -48,7 +48,7 @@ Según [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/
 
 >[!WARNING]
 >
->**⛔** Solo una nota rápida para decir eso **modelos de atribución** se asocian con tanta frecuencia con **canales de marketing** que yo a propósito *tachado* ❷CANAL en la imagen anterior para ilustrar que es posible realizar **atribución** análisis frente a casi cualquier otro ***dimensión***.
+>Sólo una nota rápida para decir eso **modelos de atribución** se asocian con tanta frecuencia con **canales de marketing** que yo a propósito *tachado* ❷ CANAL en la imagen anterior para ilustrar que es posible realizar **atribución** análisis frente a casi cualquier otro ***dimensión***.
 
 
 De hecho, rara vez un recorrido determinado del cliente es verdaderamente lineal y con menor frecuencia aún predecible.  Además, cada cliente seguirá su propio ritmo; a menudo, puede duplicarse, paralizarse, abandonarse o participar en otro comportamiento no lineal. Estas acciones orgánicas hacen que sea difícil o prácticamente imposible conocer el impacto de los esfuerzos de marketing en todo el recorrido del cliente. También obstaculiza los esfuerzos por unir múltiples canales de datos.
@@ -63,9 +63,9 @@ En pocas palabras, si **10 personas** pulse a **BOTÓN ROJO GRANDE** para atrave
 
 ![Botón](assets/button.png)
 
-Teniendo esto en cuenta, aquí hay algunos ejemplos de cómo ❷ **modelos de atribución** podría afectar a esos **10 personas**:
+Teniendo esto en cuenta, aquí hay algunos ejemplos de cómo ❸ **modelos de atribución** podría afectar a esos **10 personas**:
 
-- **Primer contacto**: Este modelo funciona exactamente como suena al dar **100% de crédito** a la *primero* la persona que entró por la puerta.  Los especialistas en marketing son más propensos a utilizar este enfoque para tácticas como ***medios sociales*** o ***exhibición***; sin embargo, también es una táctica buena que se utiliza a menudo para la efectividad de recomendaciones de productos en el sitio.
+- **Primer contacto**: Este modelo funciona exactamente como suena al dar **100% de crédito** a la *primero* la persona que entró por la puerta.  Los especialistas en marketing son más propensos a utilizar este enfoque para tácticas como ***medios sociales*** o ***exhibición***; sin embargo, también es una buena táctica para utilizar a menudo para la eficacia de recomendaciones de productos en el sitio.
 - **Último contacto**: Esta táctica también funciona exactamente como suena, pero en su lugar da **100% de crédito** a la ÚLTIMA persona que entró por la puerta.  Este modelo se utiliza generalmente para analizar cosas como ***búsqueda natural (orgánica)*** y otros *a corto plazo* campañas del ciclo de marketing.
 - **Lineal**: Este modelo distribuye el crédito igual entre CADA PERSONA QUE entró por la puerta.
 
@@ -93,7 +93,7 @@ Para hacer esto aún más interesante, ¡hablemos de volver atrás el reloj!
 
 Ahora es el momento de empezar a llevar tu mente al siguiente nivel.  Aquí es donde literalmente agregamos el elemento de viaje en el tiempo a nuestro análisis -y nuevamente, estamos empezando con lo básico.
 
-***Adobe*** define **ventanas retrospectivas** como &quot;la cantidad de tiempo que una conversión debe devolverse hacia atrás para incluir los puntos de contacto. Los modelos de atribución que dan más crédito a las primeras interacciones ven diferencias mayores al tener ventanas retrospectivas distintas.&quot;
+***Adobe*** define ❹ **ventanas retrospectivas** como &quot;la cantidad de tiempo que una conversión debe devolverse hacia atrás para incluir los puntos de contacto. Los modelos de atribución que dan más crédito a las primeras interacciones ven diferencias mayores al tener ventanas retrospectivas distintas.&quot;
 
 
 En otras palabras, **ventanas retrospectivas** determinar el período de tiempo durante el cual *conversiones* se tienen en cuenta y proporcionan *contexto* al análisis de atribución. ***Adobe Analytics*** ofrece tres tipos de **ventanas retrospectivas**:
@@ -104,13 +104,13 @@ En otras palabras, **ventanas retrospectivas** determinar el período de tiempo 
 - **Ventana retrospectiva de visitantes:** Se parece a todo ***visitas*** realizar una copia de seguridad hasta el primer día del mes dentro del **intervalo de fecha**, que ofrece una vista mucho más amplia de las interacciones del cliente y ayuda a identificar patrones a lo largo del tiempo.
 - **Ventana retrospectiva personalizada:** Permite expandir el **ventana de atribución** más allá de los informes **intervalo de fecha** hasta un *maximum* de **90 días**.  Proporciona lo siguiente *flexibilidad* al capturar los puntos de contacto que se produjeron *exterior* el seleccionado **intervalo de fecha**, lo que garantiza un análisis exhaustivo.
 
-Ajustando un determinado **ventana retrospectiva** Por lo tanto, los analistas pueden examinar el impacto de uno o más puntos de contacto dentro de marcos de tiempo específicos y obtener buenas perspectivas sobre cómo las diferentes duraciones afectan a los resultados de atribución.
+Ajustando un determinado **ventana retrospectiva** Por lo tanto, los analistas pueden examinar el impacto de uno o más puntos de contacto dentro de marcos de tiempo específicos y obtener una mayor perspectiva sobre cómo las diferentes duraciones afectan a los resultados de atribución.
 
 ## **Para juntar todo**
 
 Entonces, ¿qué significa todo esto para nosotros como analistas?
 
-El **panel de atribución** y **ventana retrospectiva** danos el poder de mirar más allá de los datos mundanos y superficiales, y profundizar en el recorrido del cliente. Al comprender qué puntos de contacto tuvieron el bueno impacto en *conversiones*, podemos tomar decisiones informadas sobre nuestras estrategias de marketing y asignar recursos de forma más eficaz.
+El **panel de atribución** y **ventana retrospectiva** danos el poder de mirar más allá de los datos mundanos y superficiales, y profundizar en el recorrido del cliente. Al comprender qué puntos de contacto tuvieron el mayor impacto en *conversiones*, podemos tomar decisiones informadas sobre nuestras estrategias de marketing y asignar recursos de forma más eficaz.
 
 Recuerde, después de que tenga su **modelos de atribución** y **ventanas retrospectivas** seleccionados, aún puede manipular aún más los datos filtrándolos con una ❺ **segmento,** o cualquier otro componente que desee en este momento.  Además, una vez procesado el panel, tendrá a su disposición toda la funcionalidad de un espacio de trabajo tradicional.
 
