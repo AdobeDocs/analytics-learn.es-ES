@@ -4,9 +4,9 @@ user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2450'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -116,7 +116,7 @@ ht-degree: 99%
    + Visualizaciones {#visualizations}
       + [Información general y tipos de visualización](analysis-workspace/visualizations/visualization-types.md)
       + [Casos de uso de visualización](analysis-workspace/visualizations/visualization-use-cases.md)
-      + [Guía de visualización de datos](analysis-workspace/visualizations/data-visualization-playbook.md)
+      + [Manual de tácticas de visualización de datos](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [Introducción de datos en visualizaciones](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Uso de desplegables de componentes en Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Visualizaciones de áreas y de áreas apiladas](analysis-workspace/visualizations/area-and-area-stacked.md)
