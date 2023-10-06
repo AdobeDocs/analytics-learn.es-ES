@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 00d89f74344be15eb4e8583cfd9c91e921b797a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2435'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -310,7 +310,7 @@ ht-degree: 97%
       + [Uso de las prácticas recomendadas al rastrear SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Componentes {#components}
    + Segmentación {#segmentation}
-      + [Resumen del generador de segmentos](components/segmentation/segment-builder-overview.md)
+      + [Información general del generador de segmentos](components/segmentation/segment-builder-overview.md)
       + [Búsqueda y creación de segmentos](components/segmentation/finding-and-creating-segments.md)
       + [Intervalos de fechas móviles en segmentos](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Comparación de segmentos en Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
@@ -321,10 +321,10 @@ ht-degree: 97%
       + [Uso de segmentos para limitar datos](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=es)
       + [Diferencias entre el generador de segmentos y los segmentos rápidos](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Segmentación secuencial](components/segmentation/sequential-segmentation.md)
-      + [Secuencias Antes/Después en la segmentación secuencial](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
-      + [Segmentación en recuentos de dimensiones diferentes](components/segmentation/segmentation-on-distinct-dimension-counts.md)
-      + [Modelos de Dimension en la segmentación](components/segmentation/dimension-models-in-segmentation.md)
-      + [Operador &quot;Es igual a cualquiera de&quot; en la segmentación](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [Secuencias antes/después en la segmentación secuencial](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
+      + [Segmentación en recuentos distintos de dimensión](components/segmentation/segmentation-on-distinct-dimension-counts.md)
+      + [Modelos de dimensión en la segmentación](components/segmentation/dimension-models-in-segmentation.md)
+      + [Operador “Es igual a cualquiera de” en la segmentación](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Seminario web de Analytics Insider: estrategias de segmentación de clientes](components/segmentation/customer-segmentation-strategies.md)
       + [Ahora espere un segmento... Use la segmentación para descubrir nuevos Insights](components/segmentation/segmentation-to-discover-new-insights.md)
    + Métricas calculadas {#calculated-metrics}
