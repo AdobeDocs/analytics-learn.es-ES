@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2436'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -277,7 +277,7 @@ ht-degree: 98%
 + Implementación {#implementation}
    + Conceptos básicos de implementación {#implementation-basics}
       + [Explicación y creación de grupos de informes](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=es)
-      + [Asignar variables contextData a props y eVars con reglas de procesamiento](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
+      + [Asignación de variables contextData a Props y eVars con reglas de procesamiento](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Cómo identificar el servidor de seguimiento y el ID del grupo de informes de Analytics](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Creación de un documento de requisitos empresariales](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Creación y mantenimiento de un DRS](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
