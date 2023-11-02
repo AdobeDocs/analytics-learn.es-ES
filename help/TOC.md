@@ -4,10 +4,10 @@ user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
-workflow-type: ht
-source-wordcount: '2429'
-ht-degree: 100%
+source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
+workflow-type: tm+mt
+source-wordcount: '2428'
+ht-degree: 99%
 
 ---
 
@@ -362,7 +362,7 @@ ht-degree: 100%
    + Desde la IU {#from-the-ui}
       + [Exportación a CSV desde Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
-      + [Introducción a Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
+      + [Exportación del Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [Envío de solicitud de Data Warehouse a través de SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
       + [Envío de informes de Data Warehouse en Tableau Data Extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Archivo de fuentes de datos {#data-feeds}

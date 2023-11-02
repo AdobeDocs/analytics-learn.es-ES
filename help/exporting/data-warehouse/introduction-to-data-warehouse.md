@@ -1,22 +1,21 @@
 ---
-title: Introducción a Data Warehouse
-description: La herramienta de solicitud de Data Warehouse de Adobe Analytics le permite consultar los datos sin procesar. Data Warehouse pude procesar un número ilimitado de filas en una única solicitud para informes programados y descargados individuales. Este vídeo es una introducción a la herramienta, e incluye una introducción a la creación de un informe de Data Warehouse.
+title: Introducción a la exportación de Data Warehouse
+description: Obtenga información sobre cómo aprovechar al máximo la interfaz de usuario de los informes de Data Warehouse y las cuentas y ubicaciones de exportación. En este vídeo se explica el flujo de trabajo básico de un envío de informes tanto al correo electrónico como a Amazon S3.
 feature: Data Warehouse
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 7%
 
 ---
 
-# Introducción a [!UICONTROL Data Warehouse] {#introduction-to-data-warehouse}
+# Introducción a la exportación de Data Warehouse
 
-La herramienta de solicitud de [!UICONTROL Data Warehouse] de Adobe Analytics le permite consultar los datos sin procesar. [!UICONTROL Data Warehouse] pude procesar un número ilimitado de filas en una única solicitud para informes programados y descargados individuales. Este vídeo es una introducción a la herramienta, e incluye una introducción a la creación de un informe de [!UICONTROL Data Warehouse].
+Obtenga información sobre cómo aprovechar al máximo la interfaz de usuario de los informes de Data Warehouse y las cuentas y ubicaciones de exportación. En este vídeo se explica el flujo de trabajo básico de un envío de informes tanto al correo electrónico como a Amazon S3. Para obtener documentación detallada, consulte [información general de Data Warehouse](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=es) y los documentos circundantes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)
