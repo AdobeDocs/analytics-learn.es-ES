@@ -4,10 +4,10 @@ user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
-workflow-type: ht
-source-wordcount: '2428'
-ht-degree: 100%
+source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
+workflow-type: tm+mt
+source-wordcount: '2425'
+ht-degree: 99%
 
 ---
 
@@ -170,10 +170,10 @@ ht-degree: 100%
       + [Uso de métricas de participación en Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Adiós, Excel. Hola, métricas calculadas](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensiones {#dimensions}
-      + [Añadir Dimensión y métricas al proyecto en Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
-      + [Introducción a las variables de tráfico (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
+      + [Adición de dimensiones y métricas al proyecto](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [Introducción a las variables de tráfico (props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Introducción a las variables de conversión (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [Trabajo con Dimensiones en una tabla de forma libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=es)
+      + [Trabajo con dimensiones en una tabla de forma libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=es)
    + Calendario e intervalos de fechas {#calendar-and-date-ranges}
       + [Uso de fechas en Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Aplicación de intervalos de fechas reutilizables en el proyecto](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
