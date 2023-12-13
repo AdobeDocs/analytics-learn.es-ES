@@ -4,7 +4,7 @@ user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 3dd6fd5f97f2fac3651891e35113e72e89e2261f
+source-git-commit: a3eaa0feedb826c176e233e8d243ae617b816cab
 workflow-type: tm+mt
 source-wordcount: '2264'
 ht-degree: 99%
@@ -287,7 +287,7 @@ ht-degree: 99%
       + [Configuración básica de la extensión Analytics](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Configuración de la administración de bibliotecas para la extensión de Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Configurar ajustes generales para la extensión de Analytics](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [Configuración de variables globales en Launch Analytics Extension](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
+      + [Configure las variables globales para la extensión de Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Configuración de cookies en la extensión Launch Analytics](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Uso del código personalizado al configurar Launch Analytics Extension](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
       + [Uso de una capa de datos para establecer el nombre de la página y otras variables mediante Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)

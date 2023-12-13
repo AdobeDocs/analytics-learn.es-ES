@@ -1,24 +1,20 @@
 ---
-title: Configuración de variables globales en Launch Analytics Extension
-description: Si solo está empezando con Experience Platform Launch, y la extensión de Adobe Analytics, este vídeo puede ayudarle a comprender cuándo y dónde se configuran las variables globales, es decir, los valores que desea configurar en cada página o clic.
+title: Configure las variables globales para la extensión de Analytics
+description: Obtenga información sobre cómo configurar las variables globales en la extensión de etiquetas de Analytics para un sitio web básico.
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: technical video
-team: Technical Marketing
 kt: 2855
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 73ea8c36-66e3-4800-b0b0-f27e94cb4aaa
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: a7c86bd13b48e2549fe64240397514b84c77b3be
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 1%
 
 ---
 
-# Configuración de [!UICONTROL variables globales] en [!DNL Launch Analytics] [!UICONTROL Extensión] {#configuring-global-variables-in-the-launch-analytics-extension}
+# Configuración de variables globales para la extensión de Analytics en Etiquetas de Experience Platform {#configuring-global-variables-in-the-launch-analytics-extension}
 
-Si acaba de empezar a usar Experience Platform Launch y Adobe Analytics [!UICONTROL Extensión], este vídeo puede ayudarle a comprender cuándo y dónde se configuran [!UICONTROL variables globales], como valores que desea configurar en cada página o clic.
+Obtenga información sobre cómo configurar las variables globales en la extensión de etiquetas de Analytics para un sitio web básico. Para obtener documentación detallada, consulte [Información general sobre la extensión Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=es){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27181/?quality=12&learn=on)
