@@ -1,6 +1,6 @@
 ---
-title: Proyectos de solo vista en Analysis Workspace
-description: Los proyectos de Workspace se pueden compartir con los usuarios solo como Puede ver. Cuando un destinatario de Vista abre el proyecto compartido, recibe una experiencia de proyecto más restrictiva sin carril izquierdo y con interacciones limitadas.
+title: Uso compartido de un proyecto de solo lectura en Analysis Workspace
+description: Obtenga información sobre cómo compartir proyectos de análisis del Espacio de trabajo de solo lectura con usuarios y comprenda las funciones disponibles para este nivel de permisos.
 feature: Curate and Share
 topics: null
 activity: use
@@ -11,16 +11,16 @@ kt: 5556
 role: User
 level: Beginner
 exl-id: c6884dcd-4e0c-4a7a-aa6e-670db4111145
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 75%
+source-wordcount: '59'
+ht-degree: 11%
 
 ---
 
-# Proyectos de solo vista en Analysis Workspace
+# Uso compartido de un proyecto de solo lectura en Analysis Workspace
 
-Los proyectos de Workspace se pueden compartir con los usuarios solo como Puede ver. Cuando un destinatario de Vista abre el proyecto compartido, recibe una experiencia de proyecto más restrictiva sin carril izquierdo y con interacciones limitadas.
+Obtenga información sobre cómo compartir proyectos de análisis del Espacio de trabajo de solo lectura con usuarios y comprenda las funciones disponibles para este nivel de permisos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 
