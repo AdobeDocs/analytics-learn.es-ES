@@ -7,7 +7,7 @@ auto-video-transcripts: true
 source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
 workflow-type: tm+mt
 source-wordcount: '2227'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -180,15 +180,15 @@ ht-degree: 98%
       + [Comparaciones de fechas en Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Incorporación de comparaciones de meses y años anteriores a tendencias](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + Depuración y uso compartido de proyectos {#curate-and-share-projects}
-      + [Guardar, compartir y colaborar en proyectos](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
-      + [Depurar y compartir proyectos](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
+      + [Guarde, comparta y colabore en proyectos](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
+      + [Depure y comparta proyectos](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Vínculo directo a un proyecto](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [Compartir con cualquiera](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [Descarga de 50 000 elementos como CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Exportación a CSV y PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
+      + [Exporte a CSV y PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Uso compartido de componentes incrustados](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Compartir proyectos de solo lectura](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [Libere el poder del uso compartido de solo vista](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [Desbloquee el poder del uso compartido de solo vista](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Uso de análisis en varias pestañas para explorar la atribución básica de marketing](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Adición de comparaciones paralelas de modelos de Attribution IQ](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
