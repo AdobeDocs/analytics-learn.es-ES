@@ -1,24 +1,25 @@
 ---
-title: Uso del código personalizado al configurar Analytics Launch Extension
-description: Si solo está empezando con Experience Platform Launch, y la extensión de Adobe Analytics, este vídeo puede ayudarle a comprender las opciones de ventana de código personalizado, el tiempo de ejecución del código, etc.
-feature: Launch Implementation
-topics: null
-activity: implement
+title: Utilice un código personalizado en la extensión de Adobe Analytics en [!DNL Tags]
+description: Conozca los casos de uso y las consideraciones técnicas para utilizar el editor de código personalizado al configurar la extensión de Adobe Analytics en [!DNL Tags].
+feature: Tags
+topics: Development
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
 role: Developer, Data Engineer
 level: Beginner
 exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '77'
-ht-degree: 100%
+source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 1%
 
 ---
 
-# Uso del código personalizado al configurar la Extensión [!DNL Analytics] [!DNL Launch] {#using-custom-code-while-configuring-the-launch-analytics-extension}
+# Utilice un código personalizado en la extensión de Adobe Analytics en [!DNL Tags]
 
-Si acaba de empezar a usar Adobe Experience Platform Launch y la [!UICONTROL Extensión] de Adobe Analytics, este vídeo puede ayudarle a comprender las opciones de la ventana de código personalizado, el tiempo de ejecución del código, etc.
+Conozca los casos de uso y las consideraciones técnicas para utilizar el editor de código personalizado al configurar la extensión de Adobe Analytics en [!DNL Tags].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
+
+Revise la [documentación](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=es) para obtener más información sobre <i>Función doPlugins</i> al que se hace referencia en este vídeo.
