@@ -1,20 +1,25 @@
 ---
-title: Adición de variables y eventos minoristas básicos a reglas de Launch
-description: Este vídeo muestra cómo utilizar una extensión de cadena de producto especial en Launch para rastrear variables y eventos de venta minorista básicos, como la vista de producto, una adición al carro de compras, un cierre de compra, etc.
-feature: Launch Implementation
+title: Añadir variables y eventos de venta minorista básicos a las reglas en Experience Platform [!DNL tags]
+description: Este vídeo muestra cómo utilizar una extensión de cadena de producto especial en [!DNL tags] para realizar un seguimiento de variables y eventos de venta minorista básicos, como vistas de productos, adiciones al carro de compras y cierres de compra.
+feature: Tags
+topics: Development
 kt: 3592
 role: Developer, Data Engineer
 level: Beginner
 exl-id: cfddf957-20ca-4393-8a32-597f8a74a15f
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 100%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
-# Adición de variables y eventos de venta minorista básicos a las [!UICONTROL reglas] de [!DNL Launch]
+# Añadir variables y eventos de venta minorista básicos a las reglas en Experience Platform [!DNL tags]
 
-Este vídeo muestra cómo utilizar una [!UICONTROL extensión] de cadena de producto especial en [!DNL Experience Platform Launch] para rastrear variables y eventos de venta minorista básicos, como la vista de producto, una adición al carro de compras, un cierre de compra, etc.
+Este vídeo muestra cómo utilizar una extensión de cadena de producto especial en [!DNL tags] para realizar un seguimiento de variables y eventos de venta minorista básicos, como vistas de productos, adiciones al carro de compras y cierres de compra.
+
+>[!NOTE]
+>
+> El lanzamiento es ahora **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)
