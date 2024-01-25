@@ -1,6 +1,6 @@
 ---
-title: Configuración del seguimiento de vínculos de descarga sencilla en Experience Platform [!DNL tags]
-description: Puede iniciar el seguimiento de los vínculos de descarga del sitio (vínculos que descargan archivos que no sean del explorador en el equipo) en solo unos clics en la extensión de Adobe Analytics en Experience Platform [!DNL tags].
+title: Configuración del seguimiento de vínculos de descarga sencilla en etiquetas de Experience Platform
+description: Puede iniciar el seguimiento de los vínculos de descarga del sitio (vínculos que descargan archivos que no sean del explorador en el equipo) en solo unos clics en la extensión de Adobe Analytics en las etiquetas de Experience Platform.
 feature: Tags
 topics: Development
 activity: implement
@@ -10,9 +10,9 @@ kt: 1844
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,6 @@ ht-degree: 0%
 # Configuración del seguimiento de vínculos de descarga sencilla en Experience Platform [!DNL tags]
 
 Puede iniciar el seguimiento de los vínculos de descarga del sitio (vínculos que descargan archivos que no sean del explorador en el equipo) en solo unos clics en la extensión de Adobe Analytics en Experience Platform [!DNL tags].
-
->[!NOTE]
->
-> El lanzamiento es ahora **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 
