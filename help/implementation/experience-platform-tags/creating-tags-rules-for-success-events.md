@@ -1,6 +1,6 @@
 ---
-title: Crear Experience Platform [!DNL tags] reglas para eventos de éxito
-description: Este vídeo muestra cómo utilizar las reglas en [!DNL tags] para realizar un seguimiento de los eventos de conversión (eventos de éxito) del sitio.
+title: Creación de reglas de Experience Platform [!DNL tags] para eventos de éxito
+description: Este vídeo le muestra cómo utilizar reglas en  [!DNL tags]  para rastrear eventos de conversión (eventos de éxito) en el sitio.
 feature: Tags
 topics: Development
 kt: 3591
@@ -8,15 +8,15 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: ae600143-87cc-435d-bba2-0bce929070ac
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Crear Experience Platform [!DNL tags] reglas para eventos de éxito
+# Creación de reglas de Experience Platform [!DNL tags] para eventos de éxito
 
-Este vídeo muestra cómo utilizar las reglas en [!DNL tags] para realizar un seguimiento de los eventos de conversión (eventos de éxito) del sitio.
+Este vídeo le muestra cómo utilizar las reglas en [!DNL tags] para rastrear eventos de conversión (eventos de éxito) en el sitio.
 
 >[!NOTE]
 >
