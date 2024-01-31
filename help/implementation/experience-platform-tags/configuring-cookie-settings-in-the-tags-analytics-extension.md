@@ -1,6 +1,6 @@
 ---
-title: Configure las cookies en la [!DNL tags] Extensión de Analytics
-description: Si acaba de empezar a usar [!DNL tags] Con la extensión de Adobe Analytics, este vídeo puede ayudarle a comprender cuándo y cómo se establece la configuración de cookies en la extensión de Analytics.
+title: Configuración de ajustes de cookies en la [!DNL tags] extensión de Analytics
+description: Si acaba de empezar a usar  [!DNL tags]  y la extensión de Adobe Analytics, este vídeo puede ayudarle a saber cuándo y cómo establecer los ajustes de cookies en la extensión de Analytics.
 feature: Tags
 topics: Development
 activity: implement
@@ -11,15 +11,15 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 72013b6e-672e-4e8a-b6a2-27b35d5be5d5
 source-git-commit: f671c6edfde800ebc6d3dd0aebfeab57299814e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Configure las cookies en la [!DNL tags] Extensión de Analytics
+# Configuración de los ajustes de cookies en la [!DNL tags] extensión de Analytics
 
-Si acaba de empezar a usar [!DNL tags] Con la extensión de Adobe Analytics, este vídeo puede ayudarle a comprender cuándo y cómo se establece la configuración de cookies en la extensión de Analytics.
+Si acaba de empezar a usar [!DNL tags] y la extensión de Adobe Analytics, este vídeo puede ayudarle a saber cuándo y cómo establecer los ajustes de cookies en la extensión de Analytics.
 
 >[!NOTE]
 >
