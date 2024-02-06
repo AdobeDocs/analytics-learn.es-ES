@@ -289,7 +289,7 @@ ht-degree: 99%
       + [Usar una capa de datos para establecer variables](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
       + [Uso de doPlugins y complementos de implementación](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
       + [Configurar el seguimiento de vínculos de descarga sencilla](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
-      + [Configuración del seguimiento fácil de vínculos de salida](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+      + [Configurar el seguimiento sencillo de vínculos de salida](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Preparar etiquetas para la implementación de Analytics](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
       + [Crear elementos de datos para la implementación de Analytics](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
       + [Crear una regla global de carga de página](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)
