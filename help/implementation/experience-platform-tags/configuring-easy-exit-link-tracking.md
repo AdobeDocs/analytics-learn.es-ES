@@ -1,6 +1,6 @@
 ---
 title: Configuración del seguimiento fácil de vínculos de salida en etiquetas de Experience Platform
-description: Puede iniciar el seguimiento de los vínculos de salida en el sitio (vínculos que van a otro sitio) en solo unos clics en la extensión de Adobe Analytics en Experience Platform tags. Este vídeo muestra cómo configurarlo.
+description: Puede comenzar el seguimiento de los vínculos de salida en el sitio (vínculos que van a otro sitio) con solo unos clics en la extensión de Adobe Analytics en etiquetas de Experience Platform. Este vídeo muestra cómo configurarlo.
 feature: Tags
 topics: Development
 activity: implement
@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
 source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
