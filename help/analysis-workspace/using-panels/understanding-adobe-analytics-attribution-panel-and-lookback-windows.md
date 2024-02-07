@@ -8,13 +8,13 @@ doc-type: Article
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
+source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
 workflow-type: tm+mt
-source-wordcount: '1681'
-ht-degree: 3%
+source-wordcount: '1664'
+ht-degree: 1%
 
 ---
-
 
 # Explicación del panel de atribución de Adobe Analytics y las ventanas retroactivas
 
@@ -30,7 +30,7 @@ Después de todo - esto es VIAJE EN EL TIEMPO, amigos!!  Estamos hablando de ese
 
 Entonces, ¿qué estamos esperando - un coche de metal brillante, una caja de policía, o una cabina telefónica vintage utilizando el cableado de un paraguas viejo como su antena para aparecer en nuestra puerta?
 
-No!  Tenemos algo aún mejor, así que vamos a atarnos y aguantar!
+¡No!  Tenemos algo aún mejor, así que vamos a atarnos y aguantar!
 
 Bueno... se te ocurre la idea.
 
@@ -39,7 +39,7 @@ Ahora que todos estamos entusiasmados con el viaje en el tiempo, vamos a respira
 
 ![Atribución](assets/attribution.png)
 
-*Figura 1: Números mostrados en línea con el texto más abajo*
+*Figura 1: Los números mostrados están alineados con el texto más abajo*
 
 Entrada **atribución**, simplemente considere cómo los eventos/acciones pueden ser causados por un individuo, varios individuos o uno de cualquier número de eventos diferentes a lo largo del tiempo.
 
@@ -48,7 +48,7 @@ Según [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/
 
 >[!WARNING]
 >
->Sólo una nota rápida para decir eso **modelos de atribución** se asocian con tanta frecuencia con **canales de marketing** que yo a propósito *tachado* ❷ CANAL en la imagen anterior para ilustrar que es posible realizar **atribución** análisis frente a casi cualquier otro ***dimensión***.
+>**Modelos de atribución** se asocian con tanta frecuencia con **canales de marketing** que yo a propósito *tachado* ❷ CANAL en la imagen anterior para ilustrar que es posible realizar **atribución** análisis frente a casi cualquier otro ***dimensión***.
 
 
 De hecho, rara vez un recorrido determinado del cliente es verdaderamente lineal y con menor frecuencia aún predecible.  Además, cada cliente seguirá su propio ritmo; a menudo, puede duplicarse, paralizarse, abandonarse o participar en otro comportamiento no lineal. Estas acciones orgánicas hacen que sea difícil o prácticamente imposible conocer el impacto de los esfuerzos de marketing en todo el recorrido del cliente. También obstaculiza los esfuerzos por unir múltiples canales de datos.
@@ -85,15 +85,15 @@ Teniendo esto en cuenta, aquí hay algunos ejemplos de cómo ❸ **modelos de at
 
 - **Personalizado**: Usted elige y elige quién va a obtener crédito.  ¡Es tu campaña!
 
-Para obtener información adicional sobre estos y otros modelos de atribución, [haga clic aquí](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=es)
+Para obtener información adicional sobre estos y otros modelos de atribución, [haga clic aquí](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 Para hacer esto aún más interesante, ¡hablemos de volver atrás el reloj!
 
-## **Ventanas retrospectivas**
+## **Ventanas retroactivas**
 
 Ahora es el momento de empezar a llevar tu mente al siguiente nivel.  Aquí es donde literalmente agregamos el elemento de viaje en el tiempo a nuestro análisis -y nuevamente, estamos empezando con lo básico.
 
-***Adobe*** define ❹ **ventanas retrospectivas** como &quot;la cantidad de tiempo que una conversión debe devolverse hacia atrás para incluir los puntos de contacto. Los modelos de atribución que dan más crédito a las primeras interacciones ven diferencias mayores al tener ventanas retrospectivas distintas.&quot;
+***Adobe*** define ❹ **ventanas retrospectivas** como &quot;la cantidad de tiempo que una conversión debe devolverse hacia atrás para incluir los puntos de contacto. Los modelos de atribución que dan más crédito a las primeras interacciones ven diferencias mayores al ver diferentes ventanas retrospectivas&quot;.
 
 
 En otras palabras, **ventanas retrospectivas** determinar el período de tiempo durante el cual *conversiones* se tienen en cuenta y proporcionan *contexto* al análisis de atribución. ***Adobe Analytics*** ofrece tres tipos de **ventanas retrospectivas**:
