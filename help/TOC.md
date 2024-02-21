@@ -4,9 +4,9 @@ user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
-workflow-type: ht
-source-wordcount: '2187'
+source-git-commit: 5539caf525f83074f0862eabe5775a1da2d7b5cd
+workflow-type: tm+mt
+source-wordcount: '2180'
 ht-degree: 100%
 
 ---
@@ -284,7 +284,6 @@ ht-degree: 100%
       + [Configurar la administración de bibliotecas en la extensión de Analytics](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [Configurar ajustes generales en la extensión de Analytics](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
       + [Configurar ajustes variables globales en la extensión de Analytics](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
-      + [Configurar ajustes de cookies en la extensión de Analytics](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [Usar el código personalizado en la extensión de Analytics](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [Usar una capa de datos para establecer variables](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
       + [Uso de doPlugins y complementos de implementación](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
