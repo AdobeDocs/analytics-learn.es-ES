@@ -4,7 +4,7 @@ user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 5860c0948e61fde32bf6d814f701410df330a9e4
+source-git-commit: d8f5a896b89273eb073d12ddc8c39db186e43794
 workflow-type: tm+mt
 source-wordcount: '2176'
 ht-degree: 99%
@@ -48,8 +48,8 @@ ht-degree: 99%
       + [Mejora de la seguridad](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Configuración de un proyecto de Analysis Workspace como su página de aterrizaje](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + Obtención de ayuda {#getting-help}
-      + [Envío de tickets de asistencia técnica dentro del producto](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
       + [Obtención de ayuda en Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
+      + [Envío de tickets de asistencia técnica dentro del producto](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
    + Conceptos básicos de Analysis Workspace {#analysis-workspace-basics}
       + [Introducción rápida a Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
