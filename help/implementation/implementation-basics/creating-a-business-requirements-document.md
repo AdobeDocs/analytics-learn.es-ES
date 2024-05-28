@@ -8,9 +8,9 @@ kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
 source-git-commit: 245a31092b4a9c253eadd843c7b919c4f701d449
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -20,6 +20,6 @@ Obtenga información acerca del paso importante de definir los datos de comporta
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
-[Descargar](assets/aa_en_BRD_SDR_template.xlsx) Cree una plantilla de Excel de ejemplo para documentar los requisitos, el uso y la asignación de variables, los segmentos y el diseño de recopilación de datos de sus propiedades digitales.
+[Descargue](assets/aa_en_BRD_SDR_template.xlsx) una plantilla de Excel de ejemplo para documentar los requisitos, el uso de variables y el diseño de recopilación de datos, segmentos y asignaciones de sus propiedades digitales.
 
-Vea el vídeo relacionado para aprender a crear una [documento de referencia de diseño de solución](creating-and-maintaining-an-sdr.md).
+Vea el vídeo relacionado para aprender a crear un [documento de referencia de diseño de solución](creating-and-maintaining-an-sdr.md).
