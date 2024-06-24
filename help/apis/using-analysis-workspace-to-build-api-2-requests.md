@@ -10,10 +10,10 @@ kt: 2386
 role: Developer, Data Engineer
 level: Experienced
 exl-id: c2bf15d7-4614-4bda-83de-1a45b5f98c7b
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 833a34549d48478afa1883ccfc0cf3ab631ed33c
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 100%
+source-wordcount: '113'
+ht-degree: 99%
 
 ---
 
@@ -23,4 +23,4 @@ En este vídeo, le mostramos cómo aprovechar Analysis Workspace para crear soli
 
 >[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
 
-Para obtener más información, consulte la [documentación](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.md).
+Para obtener más información, consulte la [documentación](https://developer.adobe.com/analytics-apis/docs/2.0/#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.html).
