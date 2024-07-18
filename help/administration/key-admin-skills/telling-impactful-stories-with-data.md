@@ -29,7 +29,7 @@ Empiece por definir la situación actual y establecer el problema o la oportunid
 
 Después de enmarcar la situación, utilice los datos para revelar la fuente del problema o la oportunidad. Céntrese en los resultados y en las variables que mejor explican la situación actual, en lugar del análisis y la exploración completos, para llegar allí.  Proporcione imágenes atractivas que ayuden a mostrar la relación de sus variables independientes y dependientes, pero no complique las cosas para que su audiencia pueda utilizarlas fácilmente.
 
-**Sugerencia de Adobe Workspace:**
+**Sugerencia de Workspace de Adobe:**
 Cree imágenes sencillas y fáciles de leer que se correspondan con el tipo de datos que está compartiendo:
 
 * Use gráficos de barras para datos categóricos y binarios

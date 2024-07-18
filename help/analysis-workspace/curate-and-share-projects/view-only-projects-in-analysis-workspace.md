@@ -1,6 +1,6 @@
 ---
 title: Uso compartido de un proyecto de solo lectura en Analysis Workspace
-description: Obtenga información sobre cómo compartir proyectos de análisis del Espacio de trabajo de solo lectura con usuarios y comprenda las funciones disponibles para este nivel de permisos.
+description: Obtenga información sobre cómo compartir proyectos de análisis de Workspace de solo lectura con usuarios y comprenda las funciones disponibles para este nivel de permisos.
 feature: Curate and Share
 topics: null
 activity: use
@@ -20,7 +20,7 @@ ht-degree: 11%
 
 # Uso compartido de un proyecto de solo lectura en Analysis Workspace
 
-Obtenga información sobre cómo compartir proyectos de análisis del Espacio de trabajo de solo lectura con usuarios y comprenda las funciones disponibles para este nivel de permisos.
+Obtenga información sobre cómo compartir proyectos de análisis de Workspace de solo lectura con usuarios y comprenda las funciones disponibles para este nivel de permisos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 

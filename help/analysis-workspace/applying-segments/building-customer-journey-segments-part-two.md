@@ -1,5 +1,5 @@
 ---
-title: 'Creación de segmentos de recorrido del cliente: segunda parte '
+title: 'Creación de segmentos de recorrido del cliente: segunda parte'
 description: En la segunda parte, aprenda a crear segmentos de intención de visita de compra y retención para comprender el recorrido de compra de los clientes y personalizar el contenido. Mediante señales como clics o inicios de sesión en el modo "Reservar ahora", identificamos la intención de compra y retención para realizar un análisis eficaz y un marketing dirigido.
 feature: Segmentation
 role: User
@@ -7,13 +7,13 @@ level: Experienced
 last-substantial-update: 2023-07-21T00:00:00Z
 jira: KT-13476
 thumbnail: KT-13476.jpeg
-source-git-commit: bc3bf5b22e3cf5a9d77e3fe8aa2d86c65a7eaefb
+exl-id: 2db73010-5cd0-4454-a4ba-fc1667a50cba
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1981'
+source-wordcount: '1997'
 ht-degree: 0%
 
 ---
-
 
 # Creación de segmentos de recorrido del cliente: segunda parte
 
@@ -91,7 +91,7 @@ Agregue un contenedor de exclusión al segmento unido por la condición &quot;An
 
 Se recomienda etiquetar los contenedores como práctica recomendada. Se alegrará de haberlo hecho, especialmente porque nuestras definiciones de segmentos se vuelven más complejas.
 
-Ahora que hemos creado el segmento Calidad de los datos por intención de compra, podemos usar el espacio de trabajo Calidad de los datos por intención de visita para ver que nuestro segmento Calidad de los datos por intención de compra es mutuamente excluyente con nuestro segmento Uno y Listo.
+Ahora que hemos creado el segmento Calidad de la compra, podemos usar la Workspace de calidad de datos por intención de visita para ver que nuestro segmento Calidad de la compra es mutuamente excluyente con nuestro segmento Uno y Listo.
 
 ![Imagen 5](assets/Image-5.png)
 
@@ -111,7 +111,7 @@ De nuevo, Analytics Workspace nos ayuda a identificar la intención de retenció
 
 ![Imagen 6](assets/Image-6.png)
 
-También es aconsejable buscar páginas de alto tráfico en Workspace. Analiza la lista de páginas con mucho tráfico y decide si indican una intención de retención.
+También es buena idea buscar páginas de alto tráfico en Workspace. Analiza la lista de páginas con mucho tráfico y decide si indican una intención de retención.
 
 ## Exclusión de otros segmentos
 
@@ -125,13 +125,13 @@ Dado que la generación de demanda es uno de los principales objetivos de market
 
 ### El segmento por intención de retención en el Generador de segmentos
 
-Nuestras definiciones de segmentos se están volviendo un poco más complejas. Incluya visitas en su segmento. Añada las señales de Retention Intent. Para mí, esto fue sencillo. Si el nombre de la página comienza con &quot;bge:&quot; (nuestras páginas de invitado reservadas), usted está en el segmento. He añadido vistas de página es bueno que uno para medidas adicionales (pero seguiremos excluyendo una de las maravillas de visita a continuación).
+Nuestras definiciones de segmentos se están volviendo un poco más complejas. Incluya visitas en su segmento. Añada las señales de Retention Intent. Para mí, esto fue sencillo. Si el nombre de la página comienza con &quot;bge:&quot; (nuestras páginas de invitado reservadas), usted está en el segmento. He agregado vistas de página es mayor que una para una medida adicional (pero seguiremos excluyendo una de las maravillas de la visita).
 
 A continuación, añada contenedores de exclusión para sus visitas de Maravillas de una visita y Comprar intención. Asegúrese de que los contenedores se unen con la condición &quot;Y&quot;.
 
 ![Imagen 7](assets/Image-7.png)
 
-Una vez más, observe el espacio de trabajo de calidad de datos por intención de visita para asegurarse de que los segmentos sean mutuamente excluyentes. ¡Nuestros segmentos por intención de visita están tomando forma muy bien!
+Una vez más, consulte la Workspace de calidad de datos por intención de visita para asegurarse de que los segmentos se excluyan mutuamente. ¡Nuestros segmentos por intención de visita están tomando forma muy bien!
 
 ![Imagen 8](assets/Image-8.png)
 

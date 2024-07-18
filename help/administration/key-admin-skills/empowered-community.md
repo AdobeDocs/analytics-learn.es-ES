@@ -12,7 +12,7 @@ kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
 source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
 workflow-type: tm+mt
-source-wordcount: '1556'
+source-wordcount: '1522'
 ht-degree: 100%
 
 ---
@@ -29,25 +29,25 @@ Puede crear una comunidad empoderada dentro de su organización. A continuación
 
 * Crear un proceso de incorporación de usuario:
 
-   ¿Cuáles son los requisitos y procesos asociados con el acceso de Adobe Analytics para su empresa? Si todavía no tiene requisitos y un proceso para la incorporación de nuevos usuarios, la creación de esa infraestructura admite la escalabilidad.
+  ¿Cuáles son los requisitos y procesos asociados con el acceso de Adobe Analytics para su empresa? Si todavía no tiene requisitos y un proceso para la incorporación de nuevos usuarios, la creación de esa infraestructura admite la escalabilidad.
 
 * Implemente la administración de usuarios y el acceso adecuados:
 
-   El acceso de los usuarios a los grupos de informes, las métricas, las dimensiones, las herramientas, los informes y los componentes es fundamental para Adobe Analytics y una parte clave del [proceso de administración de grupos de usuarios](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=es). El acceso adecuado a las herramientas permite a los usuarios potenciar el autoservicio en Analysis Workspace y en Reports y Analytics.
+  El acceso de los usuarios a los grupos de informes, las métricas, las dimensiones, las herramientas, los informes y los componentes es fundamental para Adobe Analytics y una parte clave del [proceso de administración de grupos de usuarios](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=es). El acceso adecuado a las herramientas permite a los usuarios potenciar el autoservicio en Analysis Workspace y en Reports y Analytics.
 
 * Comprender la implementación:
 
-   Como práctica recomendada, los usuarios deben tener un conocimiento básico de los requisitos empresariales admitidos por su implementación, que normalmente se capturan mediante un [documento de requisitos empresariales](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation-basics/creating-a-business-requirements-document.html?lang=es) (BRD) y un [documento de referencia de diseño de solución](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=es) (DEG). Estos requisitos deben incluir lo que se ha implementado y definir los requisitos de la empresa, los informes, las eVars, los eventos, etc., por categoría.
+  Como práctica recomendada, los usuarios deben tener un conocimiento básico de los requisitos empresariales admitidos por su implementación, que normalmente se capturan mediante un [documento de requisitos empresariales](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation-basics/creating-a-business-requirements-document.html?lang=es) (BRD) y un [documento de referencia de diseño de solución](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=es) (DEG). Estos requisitos deben incluir lo que se ha implementado y definir los requisitos de la empresa, los informes, las eVars, los eventos, etc., por categoría.
 
 * Usar plantillas de informe:
 
-   Los proyectos y las plantillas de informes de Adobe Analytics son recursos clave para permitir a los usuarios de herramientas conocer la implementación de su empresa, los casos de uso de los informes y las prácticas recomendadas. Estos recursos deben abordar preguntas comerciales comunes y cómo se pueden responder mejor dentro de la herramienta.
+  Los proyectos y las plantillas de informes de Adobe Analytics son recursos clave para permitir a los usuarios de herramientas conocer la implementación de su empresa, los casos de uso de los informes y las prácticas recomendadas. Estos recursos deben abordar preguntas comerciales comunes y cómo se pueden responder mejor dentro de la herramienta.
 
 ## 2. Cree un plan para quién lo ejecuta y quién debe participar
 
 * Decida quién dirigirá la comunidad:
 
-   Una comunidad empoderada comienza con una infraestructura basada en la administración y la implementación de los requisitos empresariales. Por lo tanto, los equipos que administran la administración y habilitación de Adobe Analytics de una empresa suelen ser clave para administrar un grupo de usuarios o una comunidad interna.
+  Una comunidad empoderada comienza con una infraestructura basada en la administración y la implementación de los requisitos empresariales. Por lo tanto, los equipos que administran la administración y habilitación de Adobe Analytics de una empresa suelen ser clave para administrar un grupo de usuarios o una comunidad interna.
 
 * Defina quién está involucrado, las funciones y las responsabilidades:
 
@@ -65,7 +65,7 @@ Puede crear una comunidad empoderada dentro de su organización. A continuación
 
 * [Crear una carta de proyecto](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (descarga de plantilla):
 
-   Una carta de proyecto es a menudo una buena manera de alinear su negocio con la oportunidad de una comunidad interna empoderada. Al responder a las siguientes preguntas, tiene lo que necesita para redactar el borrador de la carta:
+  Una carta de proyecto es a menudo una buena manera de alinear su negocio con la oportunidad de una comunidad interna empoderada. Al responder a las siguientes preguntas, tiene lo que necesita para redactar el borrador de la carta:
 
    * ¿Cuál es la afirmación del problema que está tratando de resolver? ¿Cuál es el objetivo de su comunidad y qué prevé que esté dentro o fuera de ámbito?
    * “¿Qué hay para mí?” ¿Cuáles son los beneficios o costos potenciales, cómo medir el éxito y cuáles son los riesgos?

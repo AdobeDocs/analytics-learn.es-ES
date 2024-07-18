@@ -8,13 +8,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-08T00:00:00Z
 jira: KT-13458
 thumbnail: 3420314.jpeg
-source-git-commit: 8feccfa54d20a086dfdbcab98edd8025bfb164b8
+exl-id: 630fee46-2a78-4347-a884-c892dc174170
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 9%
+source-wordcount: '70'
+ht-degree: 52%
 
 ---
-
 
 # Creación de informes de bots en Analysis Workspace
 

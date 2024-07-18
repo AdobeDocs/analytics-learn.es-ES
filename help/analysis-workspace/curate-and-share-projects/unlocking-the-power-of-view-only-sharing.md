@@ -8,19 +8,19 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13179
 thumbnail: KT-13179.jpeg
-source-git-commit: 2159759181206c4980ad82c58f1e1a8636143e34
+exl-id: 5396817e-582f-4389-be81-40b8ff8188b2
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-
 # Desbloquear el poder del uso compartido de solo lectura en Analysis Workspace
 
 Descubra cómo compartir proyectos de Analysis Workspace de Adobe como &quot;solo lectura&quot; puede crear informes de tableros listos para el ejecutivo con una interfaz de usuario limpia y opciones de filtrado predefinidas, así como cómo el &quot;cuadro de resultados móvil&quot; puede simplificar el uso compartido de KPI de experiencia digital con ejecutivos sobre la marcha.
 
-Compartir proyectos de Adobe Analytics Workspace con compañeros es un uso esencial de Analytics para tomar mejores decisiones empresariales. Podemos compartir proyectos con otros usuarios para los derechos de acceso de &quot;editar original&quot;, &quot;editar copia&quot; y &quot;solo lectura&quot;. La mayoría de las veces, es probable que compartamos proyectos con derechos de acceso de edición de originales o de edición de copias para que podamos actualizar de forma colaborativa el proyecto o que otros usuarios puedan duplicar el proyecto como propio para futuras actualizaciones. Sin embargo, a veces el uso compartido de solo lectura es una opción de uso compartido sorprendentemente buena más allá del control de acceso, como sugiere el nombre del derecho de acceso.
+Compartir proyectos de Adobe Analytics Workspace con compañeros es un uso esencial de Analytics para tomar mejores decisiones comerciales. Podemos compartir proyectos con otros usuarios para los derechos de acceso de &quot;editar original&quot;, &quot;editar copia&quot; y &quot;solo lectura&quot;. La mayoría de las veces, es probable que compartamos proyectos con derechos de acceso de edición de originales o de edición de copias para que podamos actualizar de forma colaborativa el proyecto o que otros usuarios puedan duplicar el proyecto como propio para futuras actualizaciones. Sin embargo, a veces el uso compartido de solo lectura es una opción de uso compartido sorprendentemente buena más allá del control de acceso, como sugiere el nombre del derecho de acceso.
 
 ## Por qué solo lectura
 

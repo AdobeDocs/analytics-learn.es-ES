@@ -29,6 +29,6 @@ Las personalizaciones para [!UICONTROL Tabla de cohorte] incluyen la capacidad d
 1. Redondear porcentajes al número entero más cercano
 1. Mostrar u ocultar una fila de porcentaje promedio en la parte superior de la tabla.
 
-El promedio de filas es ideal para verlo [!UICONTROL retención] o [!UICONTROL batir] en general, y no por separado [!UICONTROL cohorte] filas.
+El promedio de filas es ideal para ver [!UICONTROL retención] o [!UICONTROL pérdida] en general, en lugar de [!UICONTROL filas de cohorte] individuales.
 
 Para obtener más información sobre el análisis de [!UICONTROL cohorte], visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=es).

@@ -17,12 +17,12 @@ ht-degree: 1%
 
 ---
 
-# Integrar [!DNL Adobe Analytics] con [!DNL Adobe Audience Manager] uso del reenvío del lado del servidor
+# Integrar [!DNL Adobe Analytics] con [!DNL Adobe Audience Manager] mediante el reenvío del lado del servidor
 
-Obtenga información sobre cómo enviar [!DNL Adobe Analytics] datos a [!DNL Adobe Audience Manager] uso del reenvío del lado del servidor.
+Obtenga información sobre cómo enviar datos de [!DNL Adobe Analytics] a [!DNL Adobe Audience Manager] mediante el reenvío del lado del servidor.
 
 >[!NOTE]
 >
->&quot;[!UICONTROL Launch]&quot; ha pasado a llamarse &quot;[!UICONTROL etiquetas]&quot; en la interfaz de Experience Cloud. Seleccionar [!UICONTROL Recopilación de datos] desde el [!UICONTROL conmutador de aplicaciones] para abrir las etiquetas y realizar los pasos que se indican en este vídeo.
+>Se cambió el nombre de &quot;[!UICONTROL Launch]&quot; a &quot;[!UICONTROL tags]&quot; en la interfaz del Experience Cloud. Seleccione [!UICONTROL Recopilación de datos] del [!UICONTROL conmutador de aplicaciones] para abrir las etiquetas y realizar los pasos que se muestran en este vídeo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

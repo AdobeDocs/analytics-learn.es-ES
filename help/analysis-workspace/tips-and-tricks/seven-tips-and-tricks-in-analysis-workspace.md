@@ -96,6 +96,6 @@ Ahora puede convertir fácilmente cualquier proyecto en una plantilla personaliz
 
 [Haga clic aquí para encontrar más consejos y trucos en Experience League](https://experienceleague.adobe.com/?search=tips&amp;lang=es#recommended/solutions/analytics)
 
-| Acerca del autor |  |
+| Acerca del autor |            |
 |------------|------------|
 | ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser es administrador del equipo de administración de productos de Adobe Analytics. <br> En esta función, se reúne con los clientes para comprender sus necesidades comerciales, <br>uso de lo que aprende para informar a la hoja de ruta del producto de Adobe Analytics <br>y para priorizar las nuevas funciones del producto. Antes de su puesto actual, <br>Jen fue consultor principal en el equipo de Consultoría de Adobe, trabajando como <br>experto en temas en visualización de datos, Analysis Workspace y [!DNL Report Builder]. <br><br>Con el beneficio de su conocimiento del mundo real, hemos seleccionado los siguientes consejos y trucos para <br>ayudar a facilitar la creación, visualización y uso compartido de sus proyectos de Analysis Workspace |

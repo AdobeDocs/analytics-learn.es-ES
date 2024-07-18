@@ -8,8 +8,8 @@ level: Beginner
 exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
 source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 31%
+source-wordcount: '88'
+ht-degree: 22%
 
 ---
 
@@ -19,6 +19,6 @@ Los Dimension están disponibles en el creador de métricas calculadas y se pued
 
 >[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
-Esta funcionalidad optimiza el flujo de trabajo para crear y utilizar segmentos en métricas calculadas.
+Esta función optimiza el flujo de trabajo para crear y utilizar segmentos en métricas calculadas.
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-workflow/cm-build-metrics.html?lang=es).

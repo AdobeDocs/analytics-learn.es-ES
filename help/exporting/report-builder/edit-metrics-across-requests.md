@@ -10,8 +10,8 @@ kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 83%
+source-wordcount: '99'
+ht-degree: 81%
 
 ---
 
@@ -21,6 +21,6 @@ Ahora puede editar [!UICONTROL métricas] en varias solicitudes de datos de [!UI
 
 >[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
-Esta funcionalidad se suma a las capacidades de edición existentes para [!UICONTROL grupos de informes], [!UICONTROL intervalos de fechas], [!UICONTROL granularidad] y [!UICONTROL segmentos] entre solicitudes. La edición de solicitudes por lotes se puede realizar desde el menú que se abre al hacer clic con el botón derecho o &quot;[!UICONTROL Editar varios]&quot; en la ventana Administrar.
+Esta funcionalidad se suma a las capacidades de edición existentes para [!UICONTROL grupos de informes], [!UICONTROL intervalos de fechas], [!UICONTROL granularidad] y [!UICONTROL segmentos] entre solicitudes. La edición de solicitudes por lotes se puede realizar desde el menú que se abre al hacer clic con el botón derecho o desde &quot;[!UICONTROL Editar varias]&quot; en la ventana Administrar.
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=es).
