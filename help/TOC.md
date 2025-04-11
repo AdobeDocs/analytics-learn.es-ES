@@ -4,10 +4,10 @@ user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
+source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
 workflow-type: tm+mt
-source-wordcount: '2164'
-ht-degree: 96%
+source-wordcount: '2160'
+ht-degree: 92%
 
 ---
 
@@ -238,17 +238,17 @@ ht-degree: 96%
       + [Dirija el éxito con los paneles de resumen ejecutivo](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
       + [Creación de paneles operativos](administration/admin-tips/create-operational-dashboards.md)
    + Configuración de la empresa {#company-settings}
-      + [Aplicación de restricciones de dominios de correo electrónico](administration/company-settings/enforce-email-domain-restrictions.md)
+      + [Aplicar restricciones de dominio de correo electrónico](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Consulta de las funciones disponibles de la cuenta](administration/company-settings/view-your-accounts-available-features.md)
    + Administración de usuarios {#user-management}
-      + [Añadir un administrador a Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
+      + [Adición de un administrador a Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Crear perfiles de producto](administration/user-management/create-product-profiles.md)
       + [Límite del acceso al grupo de informes en Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [Transferencia de recursos de un usuario a otro](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [Comprobación del ID de IMS vinculado para evitar problemas de inicio de sesión](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Administrar grupos de informes {#manage-report-suites}
       + [Configuración general de la cuenta](administration/manage-report-suites/configuring-general-account-settings.md)
-      + [Personalización de la configuración de calendario](administration/manage-report-suites/customize-calendar-settings.md)
+      + [Personalizar la configuración del calendario](administration/manage-report-suites/customize-calendar-settings.md)
       + [Configurar la detección de búsqueda de pago](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Configuración de canales de marketing](administration/manage-report-suites/set-up-marketing-channels.md)
       + [Creación de reglas de procesamiento de canal de marketing](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
@@ -256,13 +256,13 @@ ht-degree: 96%
       + [Configuración de variables de tráfico (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configurar clasificaciones de tráfico](administration/manage-report-suites/configure-traffic-classifications.md)
       + [Configuración de variables de jerarquía](administration/manage-report-suites/configure-hierarchy-variables.md)
-      + [Configuración de variables en Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Configuración de eventos y variables](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Configurar clasificaciones de conversión](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Configuración de variables de lista](administration/manage-report-suites/configuring-list-variables.md)
-      + [Configuración de métodos de localización](administration/manage-report-suites/configure-finding-methods.md)
+      + [Configuración de métodos de búsqueda](administration/manage-report-suites/configure-finding-methods.md)
       + [Definición de filtros de URL internos](administration/manage-report-suites/set-internal-url-filters.md)
-      + [Configuración de los ajustes del código postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [Activación de la opción Marca de tiempo opcional](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+      + [Configuración del código postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
+      + [Habilitar la configuración opcional de marca de tiempo](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Configuración de reglas de bots en Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Administración de datos y RGPD {#data-governance-and-gdpr}
       + [Gobernanza de datos y RGPD en Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
