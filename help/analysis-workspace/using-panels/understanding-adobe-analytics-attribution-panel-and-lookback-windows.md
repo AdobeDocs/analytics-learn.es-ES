@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Explicación del panel de atribución de Adobe Analytics y las ventanas retroactivas
 
-Cuando pensé por primera vez en el [panel de atribución](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) y en la **ventana retrospectiva**, inmediatamente me recordaron el concepto de &quot;*viaje en el tiempo&#39;*; entonces, por supuesto, también me recordaron que nuestra respuesta típica a muchas herramientas nuevas como estas es simplemente dejar de intentar usarlo, porque se ven muy complicadas.
+Cuando pensé por primera vez en el [panel de atribución](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=es) y en la **ventana retrospectiva**, inmediatamente me recordaron el concepto de &quot;*viaje en el tiempo&#39;*; entonces, por supuesto, también me recordaron que nuestra respuesta típica a muchas herramientas nuevas como estas es simplemente dejar de intentar usarlo, porque se ven muy complicadas.
 
 Honestamente, miren todas esas opciones, interruptores, paneles, lecturas y botones.  Y en serio, hablemos de esas complicadas luces parpadeantes, mangueras, medidores... ESPERA!!  No es el momento de distraernos hablando de máquinas del tiempo, simplemente no tenemos tiempo... ¿o sí?
 
@@ -43,7 +43,7 @@ Ahora que todos estamos entusiasmados con el viaje en el tiempo, respiremos prof
 
 En **Attribution**, considere simplemente cómo los eventos o las acciones pueden ser causados por un individuo, varios individuos o uno de cualquier número de eventos diferentes a lo largo del tiempo.
 
-Según el [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *Attribution* permite a los analistas personalizar la forma en que los elementos de *Dimension* reciben crédito por *eventos de éxito*.
+Según el [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=es), *Attribution* permite a los analistas personalizar la forma en que los elementos de *Dimension* reciben crédito por *eventos de éxito*.
 
 
 >[!WARNING]
@@ -85,7 +85,7 @@ Con esto en mente, aquí hay algunos ejemplos de cómo los ❸ **modelos de atri
 
 - **Personalizado**: Usted elige y elige quién va a obtener crédito.  ¡Es tu campaña!
 
-Para obtener más información sobre estos y otros modelos de atribución, [haga clic aquí](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
+Para obtener más información sobre estos y otros modelos de atribución, [haga clic aquí](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=es)
 
 Para hacer esto aún más interesante, ¡hablemos de volver atrás el reloj!
 

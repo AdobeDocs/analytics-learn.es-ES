@@ -22,4 +22,4 @@ Aprenda cómo [!DNL Data Warehouse] puede entregar informes en el formato de arc
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics/export/data-warehouse/t-tableau).
+Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics/export/data-warehouse/t-tableau).

@@ -94,7 +94,7 @@ Ahora puede convertir fácilmente cualquier proyecto en una plantilla personaliz
 >
 >**Funcionalidad altamente solicitada:** varios clientes nos pidieron que hiciéramos posible guardar proyectos como plantillas personalizadas. Ahora, esta capacidad se ha convertido en una de sus favoritas.
 
-[Haga clic aquí para encontrar más consejos y trucos en Experience League](https://experienceleague.adobe.com/?search=tips&amp;lang=es#recommended/solutions/analytics)
+[Haga clic aquí para encontrar más consejos y trucos en Experience League](https://experienceleague.adobe.com/es?search=tips&amp;lang=es#recommended/solutions/analytics)
 
 | Acerca del autor |            |
 |------------|------------|

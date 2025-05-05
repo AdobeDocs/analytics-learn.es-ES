@@ -21,4 +21,4 @@ Obtenga información acerca de Activity Map, una herramienta que le ayudará a v
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
-Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map).
+Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics/analyze/activity-map/activity-map).
