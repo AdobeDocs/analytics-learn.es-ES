@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información sobre todos nuestros clics favoritos en Analysis Workspace y cómo usarlos. Desde las [!UICONTROL Tablas de forma libre] hasta las [!UICONTROL Visualizaciones de visitas en orden previsto], hacer clic con el botón derecho le hará ser más eficiente y competente en [!DNL Workspace].
 
->[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327569/?quality=12&learn=on&captions=spa)

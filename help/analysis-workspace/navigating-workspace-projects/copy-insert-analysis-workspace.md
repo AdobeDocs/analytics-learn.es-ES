@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Aprenda a copiar e insertar paneles y visualizaciones en Analysis Workspace. Son técnicas que ahorran tiempo cuando se trata de perfeccionar un proyecto actual o comenzar con uno nuevo.
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39098/?quality=12&learn=on&captions=spa)

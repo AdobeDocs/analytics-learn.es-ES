@@ -18,6 +18,6 @@ ht-degree: 13%
 
 Hay disponible un selector de granularidad para la configuración de visualización de tendencias que le permite ajustar con facilidad cómo se muestran los datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41454/?quality=12&learn=on&captions=spa)
 
 La configuración de granularidad ajusta el gráfico y la tabla de origen, lo que le ahorra los pasos de dejar de ocultar y manipular la tabla.

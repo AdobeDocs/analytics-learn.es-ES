@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Si tiene un sitio de venta minorista, hay algunas variables y eventos creados solo para usted (¡qué especial!). Este vídeo le ofrece una introducción rápida para comprender estas variables y eventos específicos.
 
->[!VIDEO](https://video.tv.adobe.com/v/28750/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31356/?quality=12&learn=on&captions=spa)

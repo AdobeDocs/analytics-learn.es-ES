@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # Creación de una comunidad empoderada
 
->[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341112/?quality=12&learn=on&captions=spa)
 
 Una comunidad empoderada es una que tiene algunas características notables. En primer lugar, es compatible con los administradores de Adobe Analytics. Tiene conocimientos sobre cómo se representan los requisitos comerciales dentro de su implementación. Por último, pero no menos importante, tiene los medios para utilizar el análisis de forma segura para la toma de decisiones basada en datos. Muchas empresas se benefician de la estructura que proporciona un grupo de usuarios interno de Adobe Analytics o una comunidad más formal.
 

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Introducción a algunas nuevas funciones que permiten a analistas y expertos en marketing ajustar las etiquetas de los gráficos para adaptarlos a sus necesidades de [!UICONTROL visualización].
 
->[!VIDEO](https://video.tv.adobe.com/v/23728/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327478/?quality=12&learn=on&captions=spa)

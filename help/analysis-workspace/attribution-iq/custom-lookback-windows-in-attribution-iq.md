@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Las ventanas personalizadas de recuperación le permiten expandir la ventana de atribución más allá del rango de creación de informes (hasta un máximo de 90 días) y se aplica a cada conversión en el rango de creación de informes. Esta opción generalmente aumenta la precisión de atribución de eventos que se producen al principio del período de la creación de informes teniendo en cuenta las interacciones que se produjeron en ese mes o meses anteriores.
 
->[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40041/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=es#lookback-windows)

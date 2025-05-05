@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Las [!UICONTROL Tablas de cohorte] ofrecen dos tipos de análisis: [!UICONTROL Retención] y [!UICONTROL Pérdida]. Mientras [!UICONTROL Retención] muestra cuántos usuarios se retienen con el tiempo, la opción [!UICONTROL Pérdida] mostrará cuántos usuarios se perdieron (1 - Retención).
 
->[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430157/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=es).

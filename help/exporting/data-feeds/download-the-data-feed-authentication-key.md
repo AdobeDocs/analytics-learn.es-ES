@@ -20,4 +20,4 @@ ht-degree: 100%
 
 La creación de una fuente de datos permite a Adobe saber dónde enviar archivos de datos sin procesar y qué desea incluir en cada archivo. La compatibilidad con SFTP para las fuentes de datos está disponible en Analytics. Se necesita un host SFTP, un nombre de usuario y el sitio de destino que contenga una clave pública RSA o DSA válida. Puede descargar la clave pública adecuada al crear la fuente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335739/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418490/?quality=12&learn=on&captions=spa)

@@ -17,6 +17,6 @@ ht-degree: 16%
 
 Obtenga información sobre cómo actualizar y reprogramar libros de [!DNL Report Builder] heredados a la última versión del Report Builder de Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446185/?quality=12&learn=on&captions=spa)
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics/analyze/report-builder/home).

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Adobe intenta asociarse con los clientes para garantizar que un evento de alto tráfico se realice correctamente. La programación de los picos de tráfico es el punto de partida de ese proceso de asociación. La sección Programación de pico permite alertar a Adobe de los picos de tráfico temporales para que se puedan asignar los recursos adecuados para administrarlos.
 
->[!VIDEO](https://video.tv.adobe.com/v/335744/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418697/?quality=12&learn=on&captions=spa)

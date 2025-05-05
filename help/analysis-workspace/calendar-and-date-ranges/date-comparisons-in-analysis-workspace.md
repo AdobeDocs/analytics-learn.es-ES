@@ -18,7 +18,7 @@ ht-degree: 100%
 
 En este vídeo, le mostraremos cómo aprovechar dos funciones de comparación de fechas en [!UICONTROL tablas de forma libre]: [!UICONTROL Añadir columna de período de tiempo] y [!UICONTROL Comparar períodos de tiempo].
 
->[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327680/?quality=12&learn=on&captions=spa)
 
 Comparar fechas es una forma sencilla de dar profundidad a las tablas actuales de Analysis Workspace y le ayudarán a poner en perspectiva fácilmente los datos actuales del rendimiento histórico.
 

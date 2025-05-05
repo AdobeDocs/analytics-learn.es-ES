@@ -19,7 +19,7 @@ ht-degree: 81%
 
 Ahora puede editar [!UICONTROL métricas] en varias solicitudes de datos de [!UICONTROL Report Builder] a la vez, con las opciones añadir, reemplazar y quitar.
 
->[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37982/?quality=12&learn=on&captions=spa)
 
 Esta funcionalidad se suma a las capacidades de edición existentes para [!UICONTROL grupos de informes], [!UICONTROL intervalos de fechas], [!UICONTROL granularidad] y [!UICONTROL segmentos] entre solicitudes. La edición de solicitudes por lotes se puede realizar desde el menú que se abre al hacer clic con el botón derecho o desde &quot;[!UICONTROL Editar varias]&quot; en la ventana Administrar.
 

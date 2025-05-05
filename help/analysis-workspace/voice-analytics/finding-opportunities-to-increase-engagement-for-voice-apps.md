@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda a comprender en profundidad la calidad de la participación en su aplicación de voz aprovechando funciones como la frecuencia de uso, [!UICONTROL cohorte], visitas/usuario y duración de la sesión.
 
->[!VIDEO](https://video.tv.adobe.com/v/27223/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34950/?quality=12&learn=on&captions=spa)

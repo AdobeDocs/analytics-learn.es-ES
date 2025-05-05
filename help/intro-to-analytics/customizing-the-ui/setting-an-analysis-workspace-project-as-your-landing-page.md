@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Aprenda a incorporar de forma rápida y eficaz a los nuevos usuarios en los datos de proyectos de análisis del espacio de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40289/?quality=12&learn=on&captions=spa)

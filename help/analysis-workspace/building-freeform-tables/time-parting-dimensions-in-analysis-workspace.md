@@ -18,6 +18,6 @@ ht-degree: 100%
 
 La [!DNL Time-parting] toma la marca de hora de las visitas recogidas y la divide en dimensiones más significativas, como “Hora del día” o “Día de la semana”. Estas dimensiones están listas para usarse en Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41459/?quality=12&learn=on&captions=spa)
 
 Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/dimensions/time-parting-dimensions.html?lang=es).

@@ -32,7 +32,7 @@ Existen dos funciones que envían datos a Adobe Analytics:
 >
 >En este vídeo, le mostramos cómo codificar una visita de vínculo personalizado cuando NO está utilizando un administrador de etiquetas como Adobe [!DNL Experience Platform Launch]. Le recomendamos que utilice [!DNL Experience Platform Launch], nuestras prácticas recomendadas para la implementación. Sin embargo, si necesita codificar en un `s.tl()`, así es como hacerlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34536/?quality=12&learn=on&captions=spa)
 
 ## Código de muestra {#sample-code}
 

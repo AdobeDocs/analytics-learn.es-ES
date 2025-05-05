@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Para convertirse en un negocio experto, el marketing basado en datos es clave. Lleve su madurez analítica a un nuevo nivel: de los datos a las ideas, y de ahí a la acción.
 
->[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36299/?quality=12&learn=on&captions=spa)
 
 Descubra de qué forma Adobe puede ayudarle a conocer a su cliente desde cualquier ángulo: [https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)

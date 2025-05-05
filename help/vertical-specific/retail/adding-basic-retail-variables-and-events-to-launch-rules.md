@@ -22,4 +22,4 @@ Este vídeo muestra cómo usar una extensión de cadena de producto especial en 
 >
 > El lanzamiento es ahora **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31344/?quality=12&learn=on&captions=spa)

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Aprenda cuándo y cómo definir y configurar variables de jerarquía para el sitio, una función que se puede usar para mostrar una vista jerárquica de las páginas de este y de cuánto tráfico llega a cada nodo.
 
->[!VIDEO](https://video.tv.adobe.com/v/340680/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344365/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html?lang=es).

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 En este vídeo, aprenda a añadir visualizaciones de áreas y áreas apiladas al proyecto de Analysis Workspace y reciba algunas sugerencias para personalizar las visualizaciones según sus necesidades.
 
->[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416613/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=es#)

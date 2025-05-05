@@ -19,4 +19,4 @@ ht-degree: 100%
 
 No se pierda estas técnicas para crear un panel de Advertising Cloud para monitorizar campañas en directo.
 
->[!VIDEO](https://video.tv.adobe.com/v/35121/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40462/?quality=12&learn=on&captions=spa)

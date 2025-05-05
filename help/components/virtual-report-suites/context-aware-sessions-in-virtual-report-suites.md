@@ -18,4 +18,4 @@ ht-degree: 14%
 
 Es posible cambiar la definición de una visita en Adobe Analytics de forma no destructiva mediante un grupo de informes virtuales. Este vídeo muestra eso y las diferentes opciones disponibles. Para obtener documentación detallada, visite [Sesiones según el contexto](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=es){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428472/?quality=12&learn=on&captions=spa)

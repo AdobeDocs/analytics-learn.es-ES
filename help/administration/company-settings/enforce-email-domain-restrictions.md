@@ -19,4 +19,4 @@ ht-degree: 100%
 
 El Administrador de seguridad permite controlar el acceso a los datos de creación de informes. Las opciones incluyen contraseñas seguras, caducidad de las contraseñas, restricciones de inicio de sesión de direcciones IP y restricciones de dominios de correo electrónico. Aplicar restricciones de dominio del correo electrónico filtra las direcciones de correo electrónico y los dominios a los que Analytics envía los marcadores, los informes descargables y las alertas. La lista de filtros de correo electrónico admite hasta 100 entradas, y cada una de ellas puede ser una dirección o un dominio completo de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/335741/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418484/?quality=12&learn=on&captions=spa)

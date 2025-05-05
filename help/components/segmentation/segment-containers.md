@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Al crear segmentos, los contenedores de visita individual, visita y visitante controlan la cantidad de datos que contendrá el segmento. En este vídeo, aprenda a utilizar los contenedores y escuchar algunos ejemplos de cada tipo de contenedor.
 
->[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429101/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=es).

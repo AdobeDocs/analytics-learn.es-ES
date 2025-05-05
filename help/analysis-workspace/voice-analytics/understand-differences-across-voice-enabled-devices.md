@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda a comprender las diferentes funcionalidades y rendimiento de los distintos dispositivos asistidos por voz para ayudarle a priorizar la hoja de ruta del producto.
 
->[!VIDEO](https://video.tv.adobe.com/v/27225/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34982/?quality=12&learn=on&captions=spa)

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Conozca cómo descubrir las rutas de conversión de los usuarios en aplicaciones móviles mediante [!DNL Flow] y compárelas con otras experiencias como la Web. Defina y mida la conversión en procesos de varios pasos para lograr que sus aplicaciones móviles sean exitosas.
 
->[!VIDEO](https://video.tv.adobe.com/v/27824/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32717/?quality=12&learn=on&captions=spa)

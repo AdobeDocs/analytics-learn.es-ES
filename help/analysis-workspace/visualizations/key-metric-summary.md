@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Obtenga información sobre la visualización del resumen de métricas clave en Analysis Workspace, lo que le permite ver las tendencias de una métrica importante dentro de un solo periodo de tiempo. También le permite comparar el rendimiento de las métricas en dos periodos de tiempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410003/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413792/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=es)

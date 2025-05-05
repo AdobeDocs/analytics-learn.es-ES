@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!DNL HomeDepot.com], un sitio de comercio electrónico valorado en 7000 millones de dólares que pertenece a una compañía de 100 000 millones de dólares, se mantiene a la cabeza de la competencia porque garantiza una experiencia del cliente adecuada. Descubra cómo [!DNL Home Depot] utiliza las soluciones de Adobe para mejorar la lealtad de marca y la satisfacción del cliente gracias a una experiencia de compra personalizada.
 
->[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36291/?quality=12&learn=on&captions=spa)

@@ -21,4 +21,4 @@ ht-degree: 100%
 Varios factores pueden afectar el rendimiento de un proyecto dentro de Analysis Workspace. Con la opción Rendimiento, puede ver los factores que afectan el rendimiento del proyecto, incluidos los de red, los del explorador y los del proyecto.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335737/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418517/?quality=12&learn=on&captions=spa)

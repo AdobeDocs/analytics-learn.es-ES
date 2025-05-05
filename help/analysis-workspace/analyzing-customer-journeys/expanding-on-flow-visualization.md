@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Este vídeo muestra las distintas opciones disponibles al hacer clic con el botón derecho en la variable [!DNL Flow visualization] en Analysis Workspace. Las opciones incluyen crear un segmento a partir de una ruta, contraer columnas y mucho más.
 
->[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328102/?quality=12&learn=on&captions=spa)
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=es#analysis-workspace).
 

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 En este vídeo, veremos los pasos para implementar variables de búsqueda interna del sitio para Adobe Analytics mediante Experience Platform Launch, incluyendo el término de búsqueda, el número de resultados y otros.
 
->[!VIDEO](https://video.tv.adobe.com/v/333604/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413580/?quality=12&learn=on&captions=spa)

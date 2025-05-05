@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Obtenga información acerca de la opción de seleccionar varios campos en los filtros desplegables de Analysis Workspace, lo que permite a los usuarios mostrar datos de cualquiera de los campos seleccionados. Para obtener documentación detallada, visite [Información general sobre paneles](https://experienceleague.adobe.com/es/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430412/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439932/?learn=on&captions=spa)

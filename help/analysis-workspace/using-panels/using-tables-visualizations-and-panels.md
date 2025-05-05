@@ -21,6 +21,6 @@ ht-degree: 100%
 
 En este vídeo aprenderá a utilizar los componentes básicos de su proyecto de Analysis Workspace: a saber, paneles, tablas y visualizaciones. Estos elementos son el lienzo sobre el que se pintan los datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33838/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la documentación de [paneles](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=es) y [visualizaciones](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=es).

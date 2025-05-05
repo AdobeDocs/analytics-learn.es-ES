@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Descubra cómo reordenar manualmente filas estáticas en el generador de tablas de forma libre. Esto le permitirá organizar filas estáticas de tabla en el orden exacto que las necesite, por ejemplo, visitas, pedidos y tasa de conversión.
 
->[!VIDEO](https://video.tv.adobe.com/v/31319/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33797/?quality=12&learn=on&captions=spa)

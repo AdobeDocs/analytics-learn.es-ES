@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Aprenda a utilizar plantillas listas para usar y a crear plantillas personalizadas en Analysis Workspace para que usted y su equipo puedan comenzar a partir de un conjunto predefinido de informes.
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428572/?quality=12&learn=on&captions=spa)
 
 Analysis Workspace incluye varias plantillas predefinidas que pueden ayudarle a empezar con sus análisis. Además, también podrá utilizar sus propias plantillas. Aprenda a crear cualquier proyecto en sus plantillas personalizadas. Puede ayudar a los nuevos usuarios a ponerse al día, encontrar sus paneles o proyectos favoritos, o compartir sus tableros con otros equipos.
 

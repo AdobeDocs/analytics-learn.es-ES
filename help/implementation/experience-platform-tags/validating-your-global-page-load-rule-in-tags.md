@@ -21,4 +21,4 @@ A medida que implementa Adobe Analytics en su sitio, debe validar el código dur
 >
 > El lanzamiento es ahora **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/28776/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31347/?quality=12&learn=on&captions=spa)

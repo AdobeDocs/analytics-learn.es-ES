@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Coloque componentes directamente en un proyecto, panel o tabla de forma libre en blanco, y se creará automáticamente una tabla en el formato recomendado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413478/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418549/?quality=12&learn=on&captions=spa)

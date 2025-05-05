@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Descubra qué pasos debe seguir para implementar las plantillas de seguimiento de [!DNL Advertising Analytics] en los motores de búsqueda admitidos. Es un proceso fundamental que se requiere para recopilar y pasar los datos a Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38628/?quality=12&learn=on&captions=spa)

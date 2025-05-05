@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Descubra qué afecta a los totales de las tablas de forma libre, y cómo activarlas y desactivarlas.
 
->[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32736/?quality=12&learn=on&captions=spa)

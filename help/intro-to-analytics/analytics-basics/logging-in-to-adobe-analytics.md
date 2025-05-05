@@ -17,4 +17,4 @@ ht-degree: 100%
 
 En este vídeo, le guiaremos a través de un inicio de sesión para que pueda entrar y administrar [!DNL Analytics], y realizar el procedimiento de análisis.
 
->[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31364/?quality=12&learn=on&captions=spa)

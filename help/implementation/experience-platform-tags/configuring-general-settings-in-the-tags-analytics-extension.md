@@ -22,4 +22,4 @@ Obtenga información acerca de las opciones de configuración generales de la ex
 >
 > El lanzamiento es ahora **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429913/?quality=12&learn=on&captions=spa)

@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Los usuarios de Adobe Analytics necesitan acceder a los datos correctos. Aprenda a usar [!UICONTROL Admin Console] para asegurarse de que los usuarios solo pueden acceder a los grupos de informes necesarios para su función. Siga estos pasos rápidos en [Adobe Admin Console](https://adminconsole.adobe.com/es) para crear un perfil de producto específico del grupo de informes en su organización.
 
->[!VIDEO](https://video.tv.adobe.com/v/37714/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327035/?quality=12&learn=on&captions=spa)

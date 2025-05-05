@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Hemos agregado dos nuevos tipos de paneles a Analysis Workspace (Siguiente/Anterior y Resumen de página), y los hemos incluido como parte de los informes predeterminados. De este modo, el espacio de trabajo se equipara con algunos de los informes más populares de Reports &amp; Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/342477/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346417/?quality=12&learn=on&captions=spa)

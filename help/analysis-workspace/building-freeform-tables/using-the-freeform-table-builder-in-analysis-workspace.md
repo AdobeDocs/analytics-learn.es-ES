@@ -18,4 +18,4 @@ ht-degree: 100%
 
 [!DNL Freeform table builder] le permite arrastrar y soltar varias dimensiones, desgloses, métricas y segmentos para crear tablas que respondan a preguntas comerciales más complejas. Los datos no se actualizarán sobre la marcha; en su lugar, se actualizarán cuando haga clic en &quot;Generar&quot;, lo que le ahorra tiempo, ya que la tabla solo se actualiza una vez.
 
->[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33798/?quality=12&learn=on&captions=spa)

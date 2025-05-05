@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Aprenda a establecer las visualizaciones apiladas como porcentajes en lugar de solo valores sin procesar.
 
->[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27415/?quality=12&learn=on&captions=spa)
 
 Los gráficos apilados son útiles para representar partes de un todo en una tendencia. La configuración de visualización apilada al 100 % ayuda a ver rápidamente cómo contribuye cada parte al total, en términos de un valor porcentual en lugar de un valor sin procesar. Esta configuración está disponible en el símbolo de configuración de visualización en la parte superior derecha de las visualizaciones de área apilada, barra apilada y barra horizontal apilada.

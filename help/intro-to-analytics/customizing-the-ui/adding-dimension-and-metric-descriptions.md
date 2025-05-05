@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Aprenda a añadir descripciones de dimensiones y métricas en [!DNL Adobe Analytics]. Utilice el campo de descripción si el nombre asignado a sus informes y métricas no proporciona suficiente información para los usuarios de su organización.
 
->[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39721/?quality=12&learn=on&captions=spa)

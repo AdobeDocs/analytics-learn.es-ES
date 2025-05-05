@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Puede resultar muy útil poder manipular los datos que llegan a los grupos de informes para agregar o cambiar los datos en función de lo que ya está pasando. Este vídeo ofrece información general sobre las reglas de procesamiento en Adobe Analytics y analiza para qué se utilizan. También incluye algunas sugerencias, ejemplos e incluso una advertencia.
 
->[!VIDEO](https://video.tv.adobe.com/v/339440/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342188/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=es).
