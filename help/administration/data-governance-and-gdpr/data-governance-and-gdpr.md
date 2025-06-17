@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Este vídeo le guiará por la gobernanza de datos y por cómo encaja el etiquetado de datos en la preparación para el RGPD. Proporciona un ejemplo práctico del etiquetado de datos con la gobernanza de datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40787/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=es).

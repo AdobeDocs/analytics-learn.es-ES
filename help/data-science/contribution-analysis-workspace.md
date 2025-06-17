@@ -21,7 +21,7 @@ ht-degree: 100%
 
 En este vídeo se explica el [!UICONTROL análisis de contribución] y su capacidad para utilizar el aprendizaje y explicar rápida y fácilmente los factores que han contribuido a una tendencia en los datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40761/?quality=12&learn=on&captions=spa)
 
 El [!UICONTROL Análisis de contribución] está disponible en Analysis Workspace para los clientes de Adobe Analytics Premium.
 
