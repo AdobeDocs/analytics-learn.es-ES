@@ -1,7 +1,7 @@
 ---
 title: Detección de anomalías en Analysis Workspace
 description: Analysis Workspace detecta automáticamente las anomalías de los datos de cualquier visualización de series temporales o tabla de datos. Capture las “incógnitas” sin ningún esfuerzo adicional por su parte.
-feature: Data Science
+feature: Anomaly Detection
 topics: null
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ kt: 2336
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 175c91e5-6ae5-4e52-acb5-6c8fc2731bea
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Analysis Workspace detecta automáticamente las anomalías de los datos de cualquier [!UICONTROL visualización] de series temporales o tabla de datos. Capture las “incógnitas” sin ningún esfuerzo adicional por su parte.
 
->[!VIDEO](https://video.tv.adobe.com/v/40729/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=es).

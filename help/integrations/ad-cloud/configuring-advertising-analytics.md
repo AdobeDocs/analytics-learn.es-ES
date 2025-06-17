@@ -1,25 +1,25 @@
 ---
 title: Configuración de Advertising Analytics en Adobe Analytics
-description: Configure sus grupos de informes para que utilicen Advertising Analytics.
-feature: Advertising Integration
+description: Configure los grupos de informes para que utilicen Advertising Analytics.
+feature: Advertising Analytics
 topic: Integrations
 role: Admin
 level: Intermediate
 thumbnail: 23119.jpg
 kt: 1642
 exl-id: 884e8232-edca-4224-a0b9-467a0136e12f
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 39b94b19d1d0246bd1fec6d6608f56f6b2efde1c
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 100%
+ht-degree: 37%
 
 ---
 
 # Configuración de [!DNL Advertising Analytics] en Adobe Analytics {#configuring-advertising-analytics-in-adobe-analytics}
 
-Reciba información en profundidad sobre cómo configurar sus [!UICONTROL grupos de informes] para utilizar [!DNL Advertising Analytics], cómo configurar una cuenta de búsqueda de pago y los detalles de creación de informes para [!DNL Advertising Analytics].
+Obtenga una revisión de alto nivel de cómo configurar sus [!UICONTROL grupos de informes] para que utilicen [!DNL Advertising Analytics], cómo configurar una cuenta de búsqueda de pago y detalles de informes para [!DNL Advertising Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/39099/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12&learn=on)
 
 ## Recursos adicionales {#additional-resources}
 

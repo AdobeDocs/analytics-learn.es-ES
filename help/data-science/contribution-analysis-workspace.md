@@ -1,7 +1,7 @@
 ---
 title: Análisis de contribución en Analysis Workspace
 description: En este vídeo se explica el análisis de contribución y su capacidad para utilizar el aprendizaje y explicar rápida y fácilmente los factores que han contribuido a una tendencia en los datos.
-feature: Data Science
+feature: Anomaly Detection
 topics: null
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ kt: 2337
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: fd939c04-f28c-4b84-9768-2e9644945afb
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 En este vídeo se explica el [!UICONTROL análisis de contribución] y su capacidad para utilizar el aprendizaje y explicar rápida y fácilmente los factores que han contribuido a una tendencia en los datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/40761/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12&learn=on)
 
 El [!UICONTROL Análisis de contribución] está disponible en Analysis Workspace para los clientes de Adobe Analytics Premium.
 
