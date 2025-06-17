@@ -22,4 +22,4 @@ En este vídeo, aprenderá a aprovechar dos características de comparación de 
 
 Las comparaciones de fechas son una forma sencilla de dar profundidad a las tablas actuales de Analysis Workspace y le ayudarán a poner en perspectiva fácilmente los datos actuales del rendimiento histórico.
 
-Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison).
+Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison).
