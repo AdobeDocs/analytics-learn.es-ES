@@ -4,10 +4,10 @@ user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
+source-git-commit: ff729de74f29a07316140459a52f589dac7db198
 workflow-type: tm+mt
-source-wordcount: '2160'
-ht-degree: 92%
+source-wordcount: '2167'
+ht-degree: 88%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 92%
 + [Tutoriales de Analytics](overview.md)
 + Introducción a Analytics {#intro-to-analytics}
    + [Qué es el análisis](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
-   + ¿Qué puede hacer Adobe Analytics por mí? {#what-can-aa-do-for-me}
+   + ¿Qué Puede Hacer Adobe Analytics Por Mí? {#what-can-aa-do-for-me}
       + [Vídeo: Cómo puede cambiar Adobe Analysis Workspace su negocio](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [Es más que datos. Es conocimiento del cliente](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
       + [Adobe Sensei y Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
@@ -46,7 +46,7 @@ ht-degree: 92%
       + [Personalización de las preferencias de usuario en Analysis Workspace](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Adición de descripciones de dimensiones y métricas](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Mejora de la seguridad](intro-to-analytics/customizing-the-ui/enhancing-security.md)
-      + [Configuración de un proyecto de Analysis Workspace como su página de aterrizaje](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
+      + [Configuración de un proyecto de Analysis Workspace como su página de destino](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + Obtención de ayuda {#getting-help}
       + [Obtención de ayuda en Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
       + [Envío de vale de soporte dentro del producto](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
@@ -54,7 +54,7 @@ ht-degree: 92%
    + Conceptos básicos de Analysis Workspace {#analysis-workspace-basics}
       + [Introducción rápida a Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Información general de Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [Navegar a la nueva página de aterrizaje](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Navegar a la nueva página de destino](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Inicie el análisis con un informe generado previamente](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
       + [Creación de un proyecto del Espacio de trabajo desde cero](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Creación y administración de plantillas personalizadas en Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
@@ -71,7 +71,7 @@ ht-degree: 92%
       + [Sugerencias para aumentar la productividad en Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Consejos para continuar el recorrido de aprendizaje de Adobe Analytics](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
       + [Creación de filtros desplegables dinámicos](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
-   + Navegación por proyectos del espacio de trabajo {#navigating-workspace-projects}
+   + Navegación por proyectos de Workspace {#navigating-workspace-projects}
       + [Diccionario de datos en Analysis Workspace](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
       + [Inicio del primer proyecto](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Plantilla del tutorial de formación](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
@@ -98,7 +98,7 @@ ht-degree: 92%
       + [Varios grupos de informes en Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [Paneles e informes del espacio de trabajo de resumen de página siguiente/anterior](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
       + [Explicación del panel de atribución y de las ventanas retroactivas](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
-   + Creación de tablas de forma libre {#building-freeform-tables}
+   + Creación de tablas improvisadas {#building-freeform-tables}
       + [Cómo comprender sus datos: tablas de forma libre](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Utilización del carril izquierdo para crear tablas de forma libre](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [Cómo arrastrar y soltar contenido fácilmente a proyectos en blanco](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
@@ -146,7 +146,7 @@ ht-degree: 92%
       + [Visualizaciones 100 % apiladas](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Configuración de fuentes de datos de visualización y tabla](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Creación de un mapa de calor de partición de tiempo](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-   + Análisis de recorridos del cliente {#analyzing-customer-journeys}
+   + Análisis de Recorridos del cliente {#analyzing-customer-journeys}
       + [Crear una visualización de visitas en orden previsto](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Crear una visualización de flujo](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [Utilizar visitas en el orden previsto y flujos conjuntamente](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
@@ -180,7 +180,7 @@ ht-degree: 92%
       + [Creación de intervalos de fechas personalizados](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Comparaciones de fechas en Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Incorporación de comparaciones de meses y años anteriores a tendencias](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + Depuración y uso compartido de proyectos {#curate-and-share-projects}
+   + Depurar y compartir proyectos {#curate-and-share-projects}
       + [Guarde, comparta y colabore en proyectos](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Depure y comparta proyectos](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Vínculo directo a un proyecto](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
@@ -235,9 +235,9 @@ ht-degree: 92%
       + [Cree un sitio de Adobe Analytics interno](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [Use un grupo de informes globales](administration/admin-tips/use-a-global-report-suite.md)
       + [Creación de un proyecto de noticias y anuncios](administration/admin-tips/create-a-news-and-announcements-project.md)
-      + [Dirija el éxito con los paneles de resumen ejecutivo](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+      + [Dirija el éxito con los paneles de control de resumen ejecutivo](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
       + [Creación de paneles operativos](administration/admin-tips/create-operational-dashboards.md)
-   + Configuración de la empresa {#company-settings}
+   + Configuración de la compañía {#company-settings}
       + [Aplicar restricciones de dominio de correo electrónico](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Consulta de las funciones disponibles de la cuenta](administration/company-settings/view-your-accounts-available-features.md)
    + Administración de usuarios {#user-management}
@@ -319,7 +319,7 @@ ht-degree: 92%
       + [Utilice &quot;es igual a cualquiera de&quot; en la segmentación](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Seminario web de Analytics Insider: estrategias de segmentación de clientes](components/segmentation/customer-segmentation-strategies.md)
       + [Ahora espere un segmento... Use la segmentación para descubrir nuevos Insights](components/segmentation/segmentation-to-discover-new-insights.md)
-   + Métricas calculadas {#calculated-metrics}
+   + Métricas calculadas  {#calculated-metrics}
       + [Información general de generador de métrica calculada](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [Métricas calculadas: métricas sin implementación](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Métricas calculadas: métricas segmentadas](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
@@ -333,6 +333,8 @@ ht-degree: 92%
    + Clasificaciones {#classifications}
       + [Información general sobre las clasificaciones](components/classifications/overview-of-classifications.md)
       + [Uso del Generador de clasificación de reglas](components/classifications/using-the-classification-rule-builder.md)
+      + [Introducción a los conjuntos de clasificaciones](components/classifications/introduction-to-classification-sets.md)
+      + [Usar conjuntos de clasificaciones](components/classifications/use-classification-sets.md)
    + Grupos de informes virtuales {#virtual-report-suites}
       + [Resumen de los grupos de informes virtuales](components/virtual-report-suites/virtual-report-suites.md)
       + [Depuración de componentes](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
@@ -350,14 +352,14 @@ ht-degree: 92%
       + [Experiencia en la aplicación de los paneles de Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
       + [Creación de vistas de detalles personalizadas](additional-tools/analytics-dashboards/create-custom-detail-views.md)
       + [Historias de datos para paneles de Analytics](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
-+ Exportación {#exporting}
++ Exportando {#exporting}
    + Desde la IU {#from-the-ui}
       + [Exportación a CSV desde Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Exportación de Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [Envío de solicitud de Data Warehouse a través de SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
       + [Envío de informes de data warehouse en extracción de datos de Tableau](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
-   + Archivo de fuentes de datos {#data-feeds}
+   + Fuentes de datos {#data-feeds}
       + [IU de administración de fuentes de datos](exporting/data-feeds/data-feeds-management-ui.md)
       + [Descarga de la clave de autenticación de la fuente de datos](exporting/data-feeds/download-the-data-feed-authentication-key.md)
       + [Búsqueda del ID de la fuente de datos](exporting/data-feeds/find-your-data-feed-id.md)
@@ -436,7 +438,7 @@ ht-degree: 92%
    + [Uso de Analysis Workspace para generar solicitudes de API 2.0](apis/using-analysis-workspace-to-build-api-2-requests.md)
    + [Uso de Report Builder para conocer la API de Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=es)
    + [Uso de Postman para realizar solicitudes de API de Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
-+ Casos prácticos de Analysis {#analysis-use-cases}
++ Casos de uso de Analysis {#analysis-use-cases}
    + Búsqueda interna del sitio {#internal-site-search}
       + [Definición de los requisitos comerciales de búsqueda interna del sitio](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
       + [Implementación de variables de búsqueda interna mediante AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
