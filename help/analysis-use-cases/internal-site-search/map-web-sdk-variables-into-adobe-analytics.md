@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Obtenga información sobre cómo asignar variables de análisis desde el SDK web a Adobe Analytics mediante reglas de procesamiento.
 
->[!VIDEO](https://video.tv.adobe.com/v/333606/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413463/?quality=12&learn=on&captions=spa)
 
 ## Información adicional
 

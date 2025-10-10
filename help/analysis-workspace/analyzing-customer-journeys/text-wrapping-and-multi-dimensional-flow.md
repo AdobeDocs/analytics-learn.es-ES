@@ -23,6 +23,6 @@ ht-degree: 100%
 
 Este vídeo muestra cómo activar y desactivar el truncamiento de etiquetas en su [!DNL flow visualization]. Además, aprenda a arrastrar y soltar dimensiones en el [!DNL flow] para análisis multidimensionales [!DNL flow].
 
->[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327473/?quality=12&learn=on&captions=spa)
 
 Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=es).

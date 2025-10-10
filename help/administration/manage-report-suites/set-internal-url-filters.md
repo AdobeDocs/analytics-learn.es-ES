@@ -20,7 +20,7 @@ ht-degree: 30%
 
 En este vídeo, obtendrá información acerca de la configuración de los remitentes del reenvío, que se establecen como referentes internos (para activar los informes de rutas) o externos (para activar los informes de dominio de referencia/remitente del reenvío). Para obtener documentación detallada, visite [Filtros URL internos](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=es){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412916/?quality=12&learn=on&captions=spa)
 
 >[!NOTE]
 >

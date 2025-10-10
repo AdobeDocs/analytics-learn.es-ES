@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Aprenda a publicar el código de análisis de su sitio desde el desarrollo hasta la fase y producción en Experience Platform [!DNL tags], así como configurar los grupos de informes para recibir correctamente los datos adecuados.
 
->[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429984/?quality=12&learn=on&captions=spa)

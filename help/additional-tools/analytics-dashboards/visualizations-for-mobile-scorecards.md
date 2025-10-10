@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Cuando visualice análisis en su dispositivo móvil, el uso de las visualizaciones adecuadas es más importante que nunca. En este vídeo, aprenderá a añadir visualizaciones a proyectos de cuadros de resultados móviles.
 
->[!VIDEO](https://video.tv.adobe.com/v/337570/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445769/?quality=12&learn=on&captions=spa)

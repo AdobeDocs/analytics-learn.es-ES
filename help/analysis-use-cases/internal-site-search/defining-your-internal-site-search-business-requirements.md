@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Al decidir si realizar el seguimiento de la búsqueda interna en el sitio, es importante decidir primero qué aspectos de la búsqueda desea rastrear y qué acciones se pueden tomar del análisis de los resultados. Este vídeo muestra la documentación de los requisitos comerciales.
 
->[!VIDEO](https://video.tv.adobe.com/v/333511/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413449/?quality=12&learn=on&captions=spa)

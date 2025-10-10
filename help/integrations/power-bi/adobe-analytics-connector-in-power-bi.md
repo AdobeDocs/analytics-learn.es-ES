@@ -21,7 +21,7 @@ ht-degree: 100%
 
 En este vídeo se hace un recorrido por Adobe Analytics Connector que muestra cómo crear y cargar una solicitud, cambiar el formato de los datos, crear una [!UICONTROL visualización] y publicar en el servicio en línea.
 
->[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38630/?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales {#additional-resources}
 

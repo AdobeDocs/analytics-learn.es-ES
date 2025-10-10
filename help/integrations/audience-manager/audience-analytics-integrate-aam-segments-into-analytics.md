@@ -24,7 +24,7 @@ ht-degree: 65%
 
 [!UICONTROL Audience Analytics] es una integración que le permite compartir segmentos de Audience Manager a [!DNL Analytics] en tiempo real para informar sobre la detección de audiencias, la segmentación y la optimización.
 
->[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40734/?quality=12&learn=on&captions=spa)
 
 Ejemplo de datos del [!UICONTROL segmento] que se pueden compartir incluyen: datos demográficos de proveedores de datos de terceros, datos de campañas de servidores de publicidad (como impresiones fuera del sitio) y datos CRM incorporados. Se trata de la primera integración de productos entre un DMP y un motor de análisis en el mercado.
 

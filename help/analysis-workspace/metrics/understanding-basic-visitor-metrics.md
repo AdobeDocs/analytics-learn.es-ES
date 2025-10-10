@@ -23,4 +23,4 @@ Obtenga información sobre [[!UICONTROL Vistas de página]](https://experiencele
 
 * Vea un proyecto de muestra [!UICONTROL Workspace] que muestra cómo se muestran estas métricas en la interfaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31360/?quality=12&learn=on&captions=spa)

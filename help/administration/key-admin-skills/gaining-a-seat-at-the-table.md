@@ -17,7 +17,7 @@ ht-degree: 97%
 
 # Conseguir un asiento en la mesa
 
->[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345310/?quality=12&learn=on&captions=spa)
 
 “Consiguiendo un asiento en la mesa”. Esta frase popular ha sido un tema candente en el mundo empresarial desde hace años. ¿Pero qué quiere decir? Conseguir un asiento en la mesa significa que usted está incluido en las conversiones de alto nivel en cuanto a toma de decisiones. No solo está invitado, sino que su aportación es valorada y apreciada. Voy a mostrarle cómo conseguir un puesto en la mesa ayudará a su empresa y a su propia carrera como usuario avanzado de Adobe Analytics, sea cual sea su cargo: administrador, analista de datos, etcétera.
 

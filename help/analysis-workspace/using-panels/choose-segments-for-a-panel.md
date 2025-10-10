@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Descubra consejos y estrategias para aplicar segmentos a un panel en Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412023/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416218/?quality=12&learn=on&captions=spa)

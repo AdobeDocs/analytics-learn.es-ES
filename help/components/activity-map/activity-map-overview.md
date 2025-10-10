@@ -19,6 +19,6 @@ ht-degree: 44%
 
 Obtenga información acerca de Activity Map, una herramienta que le ayudará a visualizar los datos de actividad de los usuarios directamente en el sitio web. Vea el número de clics u otras métricas directamente en los vínculos de su página.
 
->[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39681/?quality=12&learn=on&captions=spa)
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics/analyze/activity-map/activity-map).

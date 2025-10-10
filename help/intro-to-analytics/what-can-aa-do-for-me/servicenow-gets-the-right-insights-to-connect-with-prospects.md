@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Descubra cómo [!DNL ServiceNow] obtiene datos procesables de sus canales de marketing y aumenta el retorno de la inversión en la publicidad de búsqueda de pago con Adobe Advertising Cloud y Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36295/?quality=12&learn=on&captions=spa)
 
 Adobe Experience Cloud le ofrece las herramientas integradas que necesita para destacarse en marketing en canales múltiples, publicidad digital, optimización de público y datos, y mucho más.

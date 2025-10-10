@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Los gráficos de [!UICONTROL viñetas] son una forma útil de mostrar el progreso hacia un objetivo en el análisis y el progreso posterior. Proporcionan otra forma de visualizar el éxito de su organización.
 
->[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41511/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=es).

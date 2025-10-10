@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Obtenga información sobre la visualización de gráficos combinados en Analysis Workspace. La visualización de gráficos combinados facilita la creación rápida de una visualización de comparación sin tener que generar una tabla primero. Puede ver fácilmente las tendencias en sus datos en una combinación de líneas/barras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409159/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413015/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/combo-charts.html?lang=es).

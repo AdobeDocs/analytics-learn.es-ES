@@ -21,6 +21,6 @@ ht-degree: 99%
 
 En este vídeo, le mostramos cómo aprovechar Analysis Workspace para crear solicitudes de API 2.0 automáticamente. Al depurar la IU, puede copiar y pegar solicitudes JSON directamente en cualquier cliente de API para devolver datos de [!DNL Analytics]. Ahora puede habilitar el depurador con mayor facilidad si visita en Ayuda del Espacio de trabajo > Habilitar depurador.
 
->[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328324/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://developer.adobe.com/analytics-apis/docs/2.0/#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.html).

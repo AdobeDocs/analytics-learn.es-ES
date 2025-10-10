@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Consulte los clips seleccionados de la supersesión de ventas minoristas de la [!DNL Summit] de 2019
 
->[!VIDEO](https://video.tv.adobe.com/v/30549/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330386/?quality=12&learn=on&captions=spa)

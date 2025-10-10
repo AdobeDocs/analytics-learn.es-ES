@@ -21,6 +21,6 @@ ht-degree: 100%
 
 La configuración Cálculo móvil dentro de las [!UICONTROL Tablas de cohorte] se puede utilizar para analizar [!UICONTROL cohortes] período tras período, para comprender cómo se retienen los mismos usuarios (o [!UICONTROL se pierden]) a lo largo del tiempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25962/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430173/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=es).

@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Puede iniciar el seguimiento de los vínculos de salida en el sitio (vínculos que van a otro sitio) con solo unos clics en la extensión de Adobe Analytics en Experience Platform [!DNL tags]. Este vídeo muestra cómo configurarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37633/?quality=12&learn=on&captions=spa)
 
 Es posible que tenga vínculos en el sitio que vayan a otros sitios de su propiedad o con los que esté asociado. Es común querer saber cuántas personas hacen clic en estos sitios desde sus páginas. Con la configuración que se explica en este vídeo, puede configurar el seguimiento de vínculos de salida de forma rápida y sencilla, e incluso ajustarlo a sus necesidades.

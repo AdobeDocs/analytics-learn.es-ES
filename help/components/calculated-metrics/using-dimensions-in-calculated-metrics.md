@@ -17,7 +17,7 @@ ht-degree: 22%
 
 Las dimensiones están disponibles en el creador de métricas calculadas y se pueden agregar a cualquier fórmula de métrica calculada para limitar la nueva métrica a una dimensión o valor de dimensión.
 
->[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37464/?quality=12&learn=on&captions=spa)
 
 Esta función optimiza el flujo de trabajo para crear y utilizar segmentos en métricas calculadas.
 

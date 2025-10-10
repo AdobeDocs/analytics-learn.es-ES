@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!DNL Adobe Labs] (Previsualizaciones tecnológicas) permite interactuar con tecnologías emergentes, descubrir perspectivas valiosas, e influir en el desarrollo y las prioridades futuras de las funciones de [!DNL Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36904/?quality=12&learn=on&captions=spa)
 
 Al utilizar un prototipo de [!DNL Labs], puede evaluar la función en el contexto de sus propios casos de uso comercial y datos.
 

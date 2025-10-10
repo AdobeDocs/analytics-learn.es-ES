@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información acerca de algunas de las grandes mejoras y adiciones a la nueva página de destino. Hemos tenido en cuenta sus comentarios como clientes y hemos intentado incorporar las funciones más destacadas, como el cambio de tamaño de las columnas, los nuevos tipos de columnas o los vínculos a informes de bots y en tiempo real, entre otras.
 
->[!VIDEO](https://video.tv.adobe.com/v/342476/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346468/?quality=12&learn=on&captions=spa)

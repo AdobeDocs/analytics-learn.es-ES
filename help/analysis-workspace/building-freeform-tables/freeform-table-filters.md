@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Los filtros proporcionan más control sobre qué filas de datos se comparten en una [!DNL freeform table].
 
->[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327359/?quality=12&learn=on&captions=spa)
 
 En Analysis Workspace, ahora ofrecemos más control de filtrado, con 11 criterios de filtro y operadores AND/OR.
 

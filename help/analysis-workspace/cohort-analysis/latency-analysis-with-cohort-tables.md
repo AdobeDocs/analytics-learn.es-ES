@@ -21,6 +21,6 @@ ht-degree: 100%
 
 El ajuste [!UICONTROL Tabla de latencia] en las [!UICONTROL Tablas de cohorte] le permite analizar el comportamiento de sus [!UICONTROL cohortes] antes y después del evento de inclusión (no solo después, como la [!UICONTROL cohorte] estándar). Esta configuración es útil para analizar el impacto del lanzamiento de un nuevo producto o campaña, por ejemplo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430196/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=es).

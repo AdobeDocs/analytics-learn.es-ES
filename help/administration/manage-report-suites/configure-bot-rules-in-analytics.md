@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Las reglas de bots le permiten eliminar el tráfico del grupo de informes generado por arañas web y bots conocidos. La eliminación del tráfico de bots puede proporcionar una medida más precisa de la actividad del usuario en el sitio web. Una vez definidas las reglas del bot, todo el tráfico entrante se compara con las reglas definidas. El tráfico que coincida con cualquiera de estas reglas no se recopila en el grupo de informes y no se incluye en las métricas de tráfico.
 
->[!VIDEO](https://video.tv.adobe.com/v/335738/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418507/?quality=12&learn=on&captions=spa)

@@ -19,6 +19,6 @@ ht-degree: 37%
 
 El uso de fechas e intervalos de fechas personalizados en el producto puede ayudarle a centrarse únicamente en la información que narra su historia de datos. En este vídeo, exploramos algunos lugares en los que puede utilizar intervalos de fechas en su proyecto de Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447601/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar).

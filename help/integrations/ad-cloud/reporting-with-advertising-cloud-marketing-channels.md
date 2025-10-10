@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Averigüe cómo funcionan los datos de entrada de clics y vistas de Advertising Cloud con los [!UICONTROL canales de marketing] de Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40426/?quality=12&learn=on&captions=spa)

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Al configurar Adobe Analytics, sus elecciones pueden afectar a la forma en que se recopilan y almacenan los datos. Este vídeo trata algunos de los ajustes generales. También puede cambiarlos después de la implementación, ya que nunca es demasiado tarde para hacer que sus datos sean más correctos.
 
->[!VIDEO](https://video.tv.adobe.com/v/332330/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411505/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/general-acct-settings-admin.html?lang=es#admin-tools).

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Descubra cómo el aprendizaje automático y las tecnologías de IA de Adobe Sensei en Adobe Analytics pueden ayudar a los usuarios empresariales a mantenerse al día con sus datos y utilizarlos de forma práctica, cuando y donde realmente importa.
 
->[!VIDEO](https://video.tv.adobe.com/v/25838/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39735/?quality=12&learn=on&captions=spa)

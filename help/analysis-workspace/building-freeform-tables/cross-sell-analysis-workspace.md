@@ -18,4 +18,4 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a crear el informe de venta cruzada en Analysis Workspace y cómo ampliarlo incluso más a cualquier dimensión o clasificación de varios valores.
 
->[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40766/?quality=12&learn=on&captions=spa)

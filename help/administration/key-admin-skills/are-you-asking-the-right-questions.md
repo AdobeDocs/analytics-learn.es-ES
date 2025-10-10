@@ -17,7 +17,7 @@ ht-degree: 99%
 
 # ¿Plantea las preguntas correctas?
 
->[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346456/?quality=12&learn=on&captions=spa)
 
 _De todos_. Esa es una de las respuestas más comunes de las partes interesadas a la pregunta: _¿de qué datos desea hacer un seguimiento?_ Puede ser más valioso identificar y recopilar los _puntos de datos procesables_ que registrar todos los elementos posibles. La identificación eficiente de esos puntos de datos requiere un plan básico y debates creativos con las partes interesadas.
 

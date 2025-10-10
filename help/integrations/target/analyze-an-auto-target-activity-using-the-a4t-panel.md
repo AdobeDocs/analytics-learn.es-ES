@@ -20,6 +20,6 @@ ht-degree: 100%
 
 El panel [!DNL Analytics for Target] (A4T) le permite analizar las actividades y experiencias de Adobe Target. En este vídeo, aprenderá a usar el panel [!DNL Analytics for Target] para visualizar los resultados de una prueba de segmentación automática.
 
->[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412967/?quality=12&learn=on&captions=spa)
 
 Para obtener más información sobre Analytics for Target, consulte esta [Spark Page](https://spark.adobe.com/page/Lo3Spm4oBOvwF/).

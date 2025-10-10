@@ -20,6 +20,6 @@ ht-degree: 100%
 
 En este vídeo, analizamos la configuración de clasificaciones para variables de tráfico, generalmente conocidas como &quot;props&quot;, o también para pagename, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/340024/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342931/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-classifications.html?lang=es).

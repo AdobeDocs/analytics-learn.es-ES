@@ -17,6 +17,6 @@ ht-degree: 94%
 
 Aprenda a crear métricas calculadas basadas en segmentos, para que pueda analizar con mayor eficacia a sus visitantes, visitas y vistas de páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37935/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html?lang=es).

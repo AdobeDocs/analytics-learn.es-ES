@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Los desplegables de componentes le permiten elegir entre una lista de componentes compatibles para generar su análisis. También puede crear nuevos componentes directamente desde la lista desplegable si no encuentra lo que necesita. Estos espacios también funcionan como zonas de colocación, en caso de que tenga un caso de uso más avanzado.
 
->[!VIDEO](https://video.tv.adobe.com/v/332601/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411790/?quality=12&learn=on&captions=spa)

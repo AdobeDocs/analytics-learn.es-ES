@@ -19,4 +19,4 @@ ht-degree: 64%
 
 Los modelos de dimensión están disponibles a través del engranaje para cualquier dimensión en la segmentación. Estos modelos son principalmente útiles para la segmentación secuencial y le permiten segmentar valores persistentes de una dimensión (predeterminado), instancias o instancias no repetitivas de una dimensión. Para obtener documentación detallada, visite [Generador de segmentos](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=es){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430066/?quality=12&learn=on&captions=spa)

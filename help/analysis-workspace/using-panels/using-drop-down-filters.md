@@ -18,7 +18,7 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a utilizar filtros desplegables en Analysis Workspace para cambiar de forma dinámica el contenido de un panel.
 
->[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327488/?quality=12&learn=on&captions=spa)
 
 La zona de colocación del panel ahora tiene funcionalidades de filtrado desplegables. Los filtros desplegables permiten a los analistas y a los usuarios finales interactuar con los datos mediante filtros controlados. Puede crear un filtro desplegable a partir de cualquier tipo de componente y, a continuación, cambiar entre los elementos de la lista desplegable para filtrar el contenido del panel. También puede añadir varias listas desplegables a un solo panel para tener más control.
 

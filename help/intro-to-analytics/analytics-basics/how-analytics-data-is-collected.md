@@ -17,4 +17,4 @@ ht-degree: 100%
 
 ¿Cómo llegan los datos de la página a los informes de Adobe Analytics? Este vídeo muestra cómo hacerlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31365/?quality=12&learn=on&captions=spa)

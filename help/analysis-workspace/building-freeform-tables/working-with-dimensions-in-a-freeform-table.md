@@ -18,7 +18,7 @@ ht-degree: 63%
 
 Obtenga información acerca de cómo trabajar con dimensiones en tablas de forma libre, incluyendo cómo añadirlas, ordenarlas, filtrarlas, desglosarlas por otras dimensiones, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/40179/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328525/?quality=12&learn=on&captions=spa)
 
 Temas tratados en el vídeo, incluyendo tiempos:
 

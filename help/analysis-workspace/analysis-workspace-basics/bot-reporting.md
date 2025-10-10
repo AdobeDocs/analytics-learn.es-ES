@@ -20,6 +20,6 @@ ht-degree: 52%
 
 Obtenga información sobre cómo informar sobre datos de bots en Analysis Workspace. Los datos de bots están disponibles como datos de resumen y pueden analizarse en grupos de informes habilitados para bots.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447640/?learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=es).

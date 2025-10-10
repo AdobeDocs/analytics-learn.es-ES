@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Este vídeo le ayuda a comprender cuáles son los [!UICONTROL grupos de informes] y le muestra cómo crearlos en la interfaz para que pueda rastrear y optimizar el tráfico que llega a su sitio.
 
->[!VIDEO](https://video.tv.adobe.com/v/28773/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31361/?quality=12&learn=on&captions=spa)
