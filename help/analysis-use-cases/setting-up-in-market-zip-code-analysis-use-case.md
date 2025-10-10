@@ -24,7 +24,7 @@ ht-degree: 100%
 
 En este caso de uso, configuraremos el sistema para que incorpore códigos postales, los clasifique como dentro o fuera del mercado y, a continuación, utilice estos datos en Analysis Workspace para que podamos ver la eficacia de nuestras campañas de marketing con objetivo geográfico.
 
->[!VIDEO](https://video.tv.adobe.com/v/35556/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
 
 Para obtener información adicional relacionada con los aspectos de este caso de uso, consulte los siguientes temas de la documentación:
 

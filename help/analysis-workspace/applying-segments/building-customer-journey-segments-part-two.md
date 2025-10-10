@@ -47,13 +47,13 @@ Mientras que un modelo de tendencia busca predecir si un visitante comprará, nu
 
 ## Creación del segmento de intención de visita de compra
 
-El segmento Propósito de la visita de compra es fácil de definir. En mi caso, cualquiera que haga clic en el botón &quot;Reservar ahora&quot; está indicando algún tipo de intención de reservar un crucero. Es similar a hacer clic en &quot;Finalizar compra&quot; para un minorista en línea o en un vínculo de &quot;Suscribirse&quot; en un contexto multimedia.
+El segmento Propósito de la visita de compra es fácil de definir. En mi caso, cualquiera que haga clic en el botón &quot;Reservar ahora&quot; está indicando algún tipo de intención de reservar un crucero. Es similar a hacer clic en &quot;Finalizar compra&quot; para un retailer en línea o en un vínculo de &quot;Suscribirse&quot; en un contexto multimedia.
 
 Tendrá que actuar con criterio a la hora de decidir qué señal utilizar para deducir la intención de compra. Queremos que nuestro segmento de intención de compra contenga todas las compras, pero la tasa de conversión no debe ser del 100 %. Por lo tanto, no queremos utilizar la página de confirmación de compra o de agradecimiento para este segmento.
 
-Del mismo modo, la página Revisar la compra (o lo que sea inmediatamente antes de la confirmación de compra) probablemente esté demasiado lejos en el canal como para ser útil para el análisis y el direccionamiento.
+Del mismo modo, la página Revisar tu compra (o lo que sea inmediatamente antes de la confirmación de la compra) probablemente esté demasiado lejos en funnel como para ser útil para el análisis y el direccionamiento.
 
-A medida que se desciende más por el canal, puede resultar menos claro si la señal es útil o no para indicar que un cliente tiene la intención de realizar una compra. En mi caso, &quot;Reservar ahora&quot; es similar a un enlace de &quot;Pago y envío&quot; minorista, y esa es la señal que usé. Sin embargo, en un contexto minorista, el cierre de compra puede estar demasiado lejos en el canal y Ver carro o incluso Agregar al carro de compras puede ser mejor.
+A medida que se desciende más por la funnel, puede resultar menos claro si la señal es útil o no para indicar que un cliente tiene la intención de realizar una compra. En mi caso, &quot;Reservar ahora&quot; es similar a un enlace de &quot;Pago y envío&quot; minorista, y esa es la señal que usé. Sin embargo, en un contexto minorista, el cierre de compra puede estar demasiado lejos en el funnel y ver carro, o incluso puede que Añadir al carro de compras esté mejor.
 
 Podemos pensar en esto como en una tienda de comestibles. Si alguien recoge un producto del estante eso no significa que tenga la intención de comprarlo. Incluso si lo ponen en su carrito, podrían ponerlo de inmediato en el estante. Pero si ponen el producto en su carro y empiezan a caminar con él, hay una buena probabilidad de que quieran comprarlo. Y si entran en la línea de compra con ese producto es una apuesta bastante buena que van a comprar.
 
@@ -143,6 +143,6 @@ Este documento fue escrito por:
 
 ![Aaron Fossum](assets/aaron-headshot.png)
 
-**Aaron Fossum**, Director, análisis digital
+**Aaron Fossum**, director de análisis digital
 
 Campeona de Adobe Analytics

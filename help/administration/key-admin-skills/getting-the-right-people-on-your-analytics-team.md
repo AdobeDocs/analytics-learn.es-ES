@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Es muy importante contar con las personas adecuadas en su equipo a medida que implementa Adobe Analytics y analiza la actividad en el sitio. Este vídeo le ofrece una breve descripción de las diferentes funciones que desea completar.
 
->[!VIDEO](https://video.tv.adobe.com/v/31366/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12&learn=on)

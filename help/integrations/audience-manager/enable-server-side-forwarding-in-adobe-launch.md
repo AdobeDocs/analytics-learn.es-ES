@@ -23,6 +23,6 @@ Obtenga información sobre cómo enviar datos de [!DNL Adobe Analytics] a [!DNL 
 
 >[!NOTE]
 >
->Se cambió el nombre de &quot;[!UICONTROL Launch]&quot; a &quot;[!UICONTROL tags]&quot; en la interfaz del Experience Cloud. Seleccione [!UICONTROL Recopilación de datos] del [!UICONTROL conmutador de aplicaciones] para abrir las etiquetas y realizar los pasos que se muestran en este vídeo.
+>Se cambió el nombre de &quot;[!UICONTROL Launch]&quot; a &quot;[!UICONTROL tags]&quot; en la interfaz de Experience Cloud. Seleccione [!UICONTROL Recopilación de datos] del [!UICONTROL conmutador de aplicaciones] para abrir las etiquetas y realizar los pasos que se muestran en este vídeo.
 
->[!VIDEO](https://video.tv.adobe.com/v/34534?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

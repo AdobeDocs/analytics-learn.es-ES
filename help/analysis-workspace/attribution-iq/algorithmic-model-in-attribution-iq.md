@@ -22,6 +22,6 @@ ht-degree: 100%
 
 El Modelo algorítmico en Attribution de Analysis Workspace utiliza técnicas estadísticas para determinar dinámicamente la asignación óptima de crédito para la métrica seleccionada.
 
->[!VIDEO](https://video.tv.adobe.com/v/40049/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html?lang=es)

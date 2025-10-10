@@ -1,6 +1,6 @@
 ---
 title: Creación de reglas de Experience Platform [!DNL tags] para eventos de éxito
-description: Este vídeo le muestra cómo utilizar reglas en  [!DNL tags]  para rastrear eventos de conversión (eventos de éxito) en el sitio.
+description: 'Este vídeo le muestra cómo utilizar reglas en  [!DNL tags]  para rastrear eventos de conversión (eventos de éxito) en el sitio. '
 feature: Tags
 topics: Development
 kt: 3591
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Este vídeo le muestra cómo utilizar las reglas en [!DNL tags] para rastrear eventos de conversión (eventos de éxito) en el sitio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429957/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)

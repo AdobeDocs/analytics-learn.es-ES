@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Este vídeo muestra cómo puede cambiar fácilmente la escala (o los límites de eje) para el eje Y en un gráfico de [!UICONTROL líneas] en Analysis Workspace para que los datos sean más difíciles de malinterpretar.
 
->[!VIDEO](https://video.tv.adobe.com/v/41449/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12&learn=on)

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo exportar proyectos de análisis del espacio de trabajo a CSV y PDF para una mayor flexibilidad.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445725/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/341276/?quality=12&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=es).

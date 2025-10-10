@@ -19,7 +19,7 @@ ht-degree: 37%
 
 Obtenga una revisión de alto nivel de cómo configurar sus [!UICONTROL grupos de informes] para que utilicen [!DNL Advertising Analytics], cómo configurar una cuenta de búsqueda de pago y detalles de informes para [!DNL Advertising Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/39099/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12&learn=on)
 
 ## Recursos adicionales {#additional-resources}
 

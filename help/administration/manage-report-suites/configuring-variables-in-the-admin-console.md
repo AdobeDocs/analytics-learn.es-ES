@@ -19,5 +19,5 @@ ht-degree: 0%
 
 Aprenda a configurar variables y eventos en el Administrador de grupos de informes, asegurándose de que los informes, las dimensiones y las métricas tengan los nombres y el comportamiento correctos.
 
->[!VIDEO](https://video.tv.adobe.com/v/31353/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
 

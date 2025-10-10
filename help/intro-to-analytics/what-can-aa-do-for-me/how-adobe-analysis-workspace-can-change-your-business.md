@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Obtenga información sobre los tipos de análisis disponibles en [!DNL Analysis Workspace], como [!DNL Ad Hoc], [!DNL Cohort] y [!DNL Fallout]. Utilice las funciones de arrastrar y soltar para analizar los datos de forma fácil y rápida.
 
->[!VIDEO](https://video.tv.adobe.com/v/36307/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12&learn=on)
 
-[Obtenga más información acerca de Adobe Analysis Workspace](https://business.adobe.com/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&amp;mv=search)
+[Obtenga más información acerca de Adobe Analysis Workspace](https://business.adobe.com/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search)

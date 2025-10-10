@@ -9,14 +9,14 @@ thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
-source-wordcount: '3413'
-ht-degree: 100%
+source-wordcount: '3403'
+ht-degree: 97%
 
 ---
 
 # Una guía completa para la transición a Adobe Analytics desde Google Analytics{#comprehensive-guide-for-transitioning-to-Adobe-Analytics}
 
-## 1. Introducción
+## &#x200B;1. Introducción
 
 Uno de los mayores desafíos en la transición entre cualquier herramienta es aprender dónde encontrar una funcionalidad equivalente y utilizarla de manera eficiente. Este debate forma parte de una guía más amplia para ayudar a los usuarios a realizar la transición a Adobe Analytics (como nuevo usuario o como proveniente de Google Analytics) con mayor facilidad. Se proporciona una comparación detallada con GA, como herramienta con la que es más probable que la mayoría de los usuarios estén familiarizados, para ayudarlos a correlacionar los conocimientos existentes con el nuevo conjunto de herramientas. Cuando no haya sustituto en la práctica, esto le ayuda a empezar y a reducir las frustraciones que puedan afectarle.
 
@@ -28,7 +28,7 @@ También deberíamos hacer una comparación terminológica rápida:
 | Una métrica que representa un grupo de interacciones en su sitio web o aplicación que se producen en el mismo lapso de tiempo | Visita | Sesión |
 | Una métrica que define un dispositivo identificado (en función de varios criterios, incluidas las cookies y otros patrones de comportamiento, para unir información del usuario) | Visitante único | Usuario |
 
-## 2. Las interfaces
+## &#x200B;2. Las interfaces
 
 Cuando la gente compara Adobe Analytics con Google Analytics, comentan que la interfaz de Adobe es desalentadora al principio. Esto es cierto, pero, aunque no lo crea, es una fortaleza más que una debilidad. Adobe proporciona una amplia gama de herramientas y flexibilidades en la visualización de datos, lo que le permite tener mucha más libertad para construir lo que necesita.
 
@@ -40,13 +40,13 @@ Empecemos por ver la creación de informes “en el sitio”.
 
 Tanto Adobe Analytics como Google Analytics permiten personalizar la primera vista que ve un usuario cuando inicia sesión.
 
-##### 2.1.1.1. Espacio de trabajo/Pantalla de inicio personalizada (Adobe Analytics)
+##### 2.1.1.1. Workspace / Pantalla de inicio personalizada (Adobe Analytics)
 
 Adobe Analytics no presume de crear un informe generado previamente para que todos los usuarios lo vean en el inicio de sesión. La página principal predeterminada lleva al usuario a la pantalla de aterrizaje del Espacio de trabajo, que muestra a cada usuario todos los informes del espacio de trabajo que han creado o que se han compartido con él. Además, cada uno puede establecer cualquiera de estos informes como su pantalla de inicio si así lo desea.
 
 ![workspace-create-project](assets/ga-to-aa_1.png)
 
-Más adelante, en esta guía, hay más detalles sobre el espacio de trabajo. Consulte la sección 2.1.2.1
+Más adelante, en esta guía, hay más detalles sobre el espacio de trabajo. Ver sección 2.1.2.1
 
 >[!TIP]
 >
@@ -137,19 +137,19 @@ Otra funcionalidad potente de los espacios de trabajo es la capacidad de aplicar
 
 >[!IMPORTANT]
 >
->Para obtener más información acerca del uso de desplegables y desgloses de forma libre, consulte <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=es>
+>Para obtener más información acerca del uso de desplegables y desgloses de forma libre, consulte <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
 
-##### 2.1.2.2. Google Analytics: paneles e informes personalizados y guardados
+##### 2.1.2.2. Google Analytics: paneles, informes personalizados e informes guardados
 
 Google tiene algunas herramientas para crear informes dentro de la interfaz, pero siguen teniendo la misma visualización y las mismas limitaciones de la sección de informes.
 
 Ahora, aquellos versados en Google Analytics que lean esto, podrían estar diciendo: “Bueno, espere un segundo, ¿qué pasa con Google Data Studio? ¿No es un mejor equivalente del espacio de trabajo de Adobe?” Sí, pero técnicamente Data Studio no forma parte de la herramienta Analytics y permite conexiones a diferentes fuentes de datos. Esta herramienta se trata más adelante, específicamente en la sección 2.2.3, Acceso ampliado a informes.
 
-Los paneles y los informes personalizados de Google le permiten extraer varias visualizaciones en un informe, pero, a diferencia del espacio de trabajo, aún están bloqueados en correlaciones sencillas y en qué datos se pueden colocar en qué columnas.
+Los paneles de control y los informes personalizados de Google le permiten extraer varias visualizaciones en un informe, pero, a diferencia del espacio de trabajo, aún están bloqueados en correlaciones sencillas y en qué datos se pueden colocar en qué columnas.
 
 En los Informes personalizados, uno de los mayores desafíos es, cuando crea un filtro, que se aplique a todas las pestañas del informe. No existe una forma de comparar dos filtros diferentes dentro del mismo informe.
 
-Para las comparaciones superficiales, cumple su función. Todos son similares a los Paneles, los Informes personalizados y los Marcadores heredados de Adobe. Herramientas básicas proporcionadas para satisfacer sus necesidades y que residen en el grupo de informes.
+Para las comparaciones superficiales, cumple su función. Todos son similares a los Paneles de control, los Informes personalizados y los Marcadores heredados de Adobe. Herramientas básicas proporcionadas para satisfacer sus necesidades y que residen en el grupo de informes.
 
 #### 2.1.3. Informes
 
@@ -163,7 +163,7 @@ Adobe Analytics también tiene una sección Informes, aunque se está eliminando
 
 Como la mayoría de lo anterior es accesible a través de los espacios de trabajo, hago una breve descripción de estas secciones y cómo se relacionan con Google Analytics, y resalto los informes que siguen siendo relevantes.
 
-Las métricas del sitio son lo que cabría esperar: abarcan las métricas estándar (vistas de página, visitantes únicos, visitas y eventos personalizados que haya configurado). Esto es similar al informe de comportamiento de GA, pero también incluye algo de lo que encontraría en el de audiencia (ya que Adobe no divide los tipos de métricas).
+Las métricas del sitio son lo que cabría esperar: abarcan las métricas estándar (vistas de página, visitantes únicos, visitas y eventos personalizados que haya configurado). Esto es similar al informe de comportamiento de GA, pero también incluye algo de lo que encontraría en el de público (ya que Adobe no divide los tipos de métricas).
 
 Aquí, encontrará los informes de “bots”. El tráfico de bots se excluye de todos los informes estándar. Sin embargo, hay dos que ofrecen una perspectiva de lo que está sucediendo y de los bots que llegan al sitio. Esto es especialmente bueno si configura reglas de bots personalizadas para excluir los de spam conocidos que visitan con frecuencia el sitio. Puede obtener información sobre lo que están haciendo esos bots sin que los informes principales se inunden de ese tráfico. Actualmente, los informes de bots no están disponibles a través del Espacio de trabajo (pero las nuevas funcionalidades de creación de informes que se lanzarán próximamente también permitirán a los usuarios obtener esta información).
 
@@ -175,7 +175,7 @@ Las rutas no están disponibles en el Espacio de trabajo. El Espacio de trabajo 
 
 Los informes Fuentes de tráfico, Campañas y Canales de marketing son todos similares al informe Adquisición del producto de Google. Las Fuentes de tráfico se centran en los remitentes del reenvío reales, Campañas, en los códigos de campaña y Canales de marketing, también en estos, pero además aplican una lógica adicional (según determine el usuario) sobre cómo procesar la información. Adobe proporciona más libertad sobre cómo configurar las reglas. Por el contrario, Google hace muchas cosas por usted; es un cambio en la forma de pensar. De forma predeterminada, la atribución de Google para códigos de campaña es de seis meses. La atribución de Adobe se fija en una semana de forma predeterminada. Esto puede cambiarse en la configuración de administración, pero en el espacio de trabajo puede aplicar una atribución personalizada sobre cualquier dimensión, lo que le ofrece una mayor flexibilidad sobre la marcha.
 
-Los informes Retención de visitantes y Perfil del visitante son similares a los informes Audiencia de Google Analytics. Retención de visitantes se centra más en la frecuencia de retorno, mientras que Perfil del visitante, en la geografía y la tecnología de los usuarios.
+Los informes Retención de visitantes y Perfil del visitante son similares a los informes Público de Google Analytics. Retención de visitantes se centra más en la frecuencia de retorno, mientras que Perfil del visitante, en la geografía y la tecnología de los usuarios.
 
 Los informes Conversión personalizada y Tráfico personalizado son informes de dimensión personalizados. Las conversiones son eVars. Puede establecer una caducidad personalizada en el valor, como visita individual, visita, mes y año. Este valor queda en la persistencia de un usuario durante el lapso de tiempo configurado, a menos que se sobrescriba. Las variables de tráfico son props. También puede configurarlas para informes de rutas o como elementos de lista que separan varios valores según un delimitador de su elección.
 
@@ -185,7 +185,7 @@ Informes personalizados es una sección en la que un usuario puede personalizar 
 
 La sección Marcadores es similar a los Informes personalizados, donde los informes usados con frecuencia se pueden añadir como marcador en la interfaz de informes para que se puedan encontrar más fácilmente.
 
-El tablero era un producto heredado que permitía a las personas combinar informes breves de datos en una sola visualización. Sin embargo, la funcionalidad del espacio de trabajo (sección 2.1.2.1) es mucho más fácil de usar, ya que solo existe como punto de acceso a los informes heredados que deben reconstruirse antes de que esta función se cierre.
+El tablero era un producto heredado que permitía a las personas combinar informes breves de datos en una sola visualización. Sin embargo, la funcionalidad de Workspace (sección 2.1.2.1) es mucho más fácil de usar, ya que solo existe como punto de acceso a los informes heredados que deben reconstruirse antes de que esta función se cierre.
 
 Los objetivos permiten a las personas crear un informe basado en un objetivo dentro de un periodo de tiempo determinado. Los equipos monitorizan las campañas para ver si van por buen camino para alcanzar sus objetivos de tráfico.
 
@@ -193,7 +193,7 @@ Todos los informes aquí permiten varias columnas de métricas y desgloses de di
 
 ##### 2.1.3.2. Informes de Google Analytics
 
-Google Analytics divide estos informes en las siguientes secciones: Tiempo real, Audiencia, Adquisición, Comportamiento y Conversaciones (en GA3) y en Ciclo vital (con las subsecciones Adquisición, Participación, Monetización y Retención) y Usuario (con las subsecciones Grupos demográficos y Tecnología).
+Google Analytics divide estos informes en las siguientes secciones: Tiempo real, Público, Adquisición, Comportamiento y Conversaciones (en GA3) y en Ciclo vital (con las subsecciones Adquisición, Participación, Monetización y Retención) y Usuario (con las subsecciones Grupos demográficos y Tecnología).
 
 ![google-analytics-interface-compare](assets/ga-to-aa_7.png)
 
@@ -223,7 +223,7 @@ Si necesita que los datos de Adobe Analytics se digieran con algo distinto a Exc
 
 Debe tenerse en cuenta que la API sigue extrayendo datos de correlación aplicando los desgloses y segmentos según se especifican en la solicitud de extracción.
 
-El Espacio de trabajo de Adobe (sección 2.1.2.1) utiliza la API para crear todos los informes y, si activa el modo de depuración en él, le mostrará las llamadas de API exactas que se han usado. Esta es una forma rápida de generar sus llamadas de API. Al utilizar el Espacio de trabajo para generar y validar los datos que quiere extraer, emplee esas llamadas de API para sacar los datos a su propio procesamiento.
+Workspace de Adobe (sección 2.1.2.1) utiliza la API para generar los informes y, si habilita el modo de depuración en Workspace, le mostrará las llamadas de API exactas que se han usado. Esta es una forma rápida de generar sus llamadas de API. Al utilizar el Espacio de trabajo para generar y validar los datos que quiere extraer, emplee esas llamadas de API para sacar los datos a su propio procesamiento.
 
 
 #### 2.2.3. Data Studio de Google Analytics
@@ -238,7 +238,7 @@ Con todo, es una herramienta potente, y no disuadiría a la gente de usarla de n
 Para mis propios usos, cuando necesito extraer datos de forma extensa de Google Analytics, la herramienta de mi elección es la extensión de hoja de cálculo de Google. Aunque necesito hacer múltiples conexiones a mis tablas de GA, puedo hacer referencia a las celdas de los datos sin procesar y elaborar los informes que necesito. Después, los visualizo utilizando las funcionalidades gráficas de las Hojas de cálculo de Google.
 
 
-## 3. Exportaciones de datos sin procesar
+## &#x200B;3. Exportaciones de datos sin procesar
 
 Cuando realmente necesita datos sin procesar, tanto Adobe como Google ofrecen funcionalidades para extraer información de esta manera.
 
@@ -259,7 +259,7 @@ Por desgracia, esta es una herramienta de Google con la que no he tenido ninguna
 
 Sin embargo, en lugar de proporcionar un volcado de datos sin procesar completo, permite a los ingenieros acceder a los datos a través de consultas SQL para extraer datos sin procesar concretos o todas las columnas.
 
-## 4. Conclusión
+## &#x200B;4. Conclusión
 
 Como cualquier sistema, es necesario practicar para sentirse cómodo con la herramienta. Esperamos que esta guía le ayude a empezar o le proporcione sugerencias para mejorar el uso de Adobe Analytics.
 
@@ -267,7 +267,7 @@ Sin embargo, subrayaré que recomendaría utilizar tanto Adobe Analytics como Go
 
 Hay muchos recursos disponibles más allá de esta guía, que pueden ayudar a mejorar su estrategia:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/es?lang=es#home): contiene tutoriales, vídeos, documentación y foros de la comunidad
+* [Adobe Experience League](https://experienceleague.adobe.com/?lang=es#home): contiene tutoriales, vídeos, documentación y foros de la comunidad
 * [Grupos de usuarios de Adobe](https://analytics-augs.adobe.com/): un centro de eventos de la comunidad para ayudar a los usuarios a conectar entre sí y mejorar sus implementaciones.
 * [Canal de YouTube de grupos de usuarios de Adobe Analytics](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA): ¿no pudo asistir a una sesión de grupo de usuarios de Adobe Analytics? Vuelva a ver las sesiones de grupos de usuarios anteriores en todo el mundo para obtener más información acerca de cómo utilizan la herramienta sus colegas.
 * [Canal de Slack de chat de Measure](https://www.measure.chat/): conéctese con usuarios de Adobe Analytics de todo el mundo y comparta las lecciones aprendidas en la industria, haga preguntas de sus colegas y únase a grupos de interés centrados en la medición.

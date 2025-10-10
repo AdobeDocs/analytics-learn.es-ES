@@ -1,5 +1,5 @@
 ---
-title: Configuración de un proyecto de Analysis Workspace como su página de aterrizaje
+title: Configuración de un proyecto de Analysis Workspace como su página de destino
 description: Aprenda a incorporar de forma rápida y eficaz a los nuevos usuarios en los datos de proyectos de análisis del espacio de trabajo
 feature: Workspace Basics
 role: User
@@ -16,8 +16,8 @@ ht-degree: 100%
 
 ---
 
-# Configuración de un proyecto de Analysis Workspace como su página de aterrizaje {#set-an-analysis-workspace-project-as-your-landing-page}
+# Configuración de un proyecto de Analysis Workspace como su página de destino {#set-an-analysis-workspace-project-as-your-landing-page}
 
 Aprenda a incorporar de forma rápida y eficaz a los nuevos usuarios en los datos de proyectos de análisis del espacio de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/40289/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12&learn=on)

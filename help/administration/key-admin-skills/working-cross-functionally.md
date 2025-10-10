@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Trabajo multifuncional
 
->[!VIDEO](https://video.tv.adobe.com/v/345451/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
 
 El recorrido a Adobe Analytics comienza con una buena implementación. Todos conocemos el dicho “basura entra, basura sale”. Para eliminar una implementación de “basura sale”, los administradores deben monitorizar cada detalle de los datos introducidos en el sistema. Dicho esto, la estrategia de recopilación de datos está influida por muchos interesados en la organización, con quien un administrador tendrá que trabajar día a día.
 

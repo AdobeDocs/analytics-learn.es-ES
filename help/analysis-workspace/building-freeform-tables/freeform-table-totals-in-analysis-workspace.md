@@ -1,6 +1,6 @@
 ---
 title: Totales de tablas de forma libre en Analysis Workspace
-description: Descubra qué afecta a los totales de las tablas de forma libre, y cómo activarlas y desactivarlas.
+description: Descubra qué afecta a los totales de las tablas de forma libre, y cómo habilitarlas y deshabilitarlas.
 feature: Freeform Tables
 thumbnail: 29273.jpg
 kt: 3857
@@ -16,6 +16,6 @@ ht-degree: 100%
 
 # Totales de tablas de forma libre en Analysis Workspace
 
-Descubra qué afecta a los totales de las tablas de forma libre, y cómo activarlas y desactivarlas.
+Descubra qué afecta a los totales de las tablas de forma libre, y cómo habilitarlas y deshabilitarlas.
 
->[!VIDEO](https://video.tv.adobe.com/v/32736/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)

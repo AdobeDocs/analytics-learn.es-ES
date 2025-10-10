@@ -18,6 +18,6 @@ ht-degree: 15%
 
 Los [!UICONTROL histogramas] le permiten visualizar la distribución de una métrica entre sus visitantes, visitas y visitas individuales para encontrar segmentos de alto y bajo valor.
 
->[!VIDEO](https://video.tv.adobe.com/v/41501/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=es).

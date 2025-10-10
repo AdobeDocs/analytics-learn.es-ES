@@ -15,6 +15,6 @@ ht-degree: 60%
 
 # Envío de vale de soporte dentro del producto {#in-product-support-ticket-submission}
 
-Aprenda a enviar un vale de soporte a [!DNL Customer Care] en el momento del Adobe directamente en el producto, lo que optimiza el proceso de resolución.
+Aprenda a enviar un vale de soporte a [!DNL Customer Care] en Adobe directamente en el producto, lo que optimiza el proceso de resolución.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430054/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)

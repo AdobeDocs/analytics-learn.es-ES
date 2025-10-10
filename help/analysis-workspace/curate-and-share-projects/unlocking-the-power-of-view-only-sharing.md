@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Desbloquear el poder del uso compartido de solo lectura en Analysis Workspace
 
-Descubra cómo compartir proyectos de Analysis Workspace de Adobe como &quot;solo lectura&quot; puede crear informes de tableros listos para el ejecutivo con una interfaz de usuario limpia y opciones de filtrado predefinidas, así como cómo el &quot;cuadro de resultados móvil&quot; puede simplificar el uso compartido de KPI de experiencia digital con ejecutivos sobre la marcha.
+Descubra cómo compartir proyectos de Adobe Analysis Workspace como de &quot;solo lectura&quot; puede crear informes de tableros preparados para ejecutivos con una interfaz de usuario limpia y opciones de filtrado predefinidas, así como cómo el &quot;cuadro de resultados móvil&quot; puede simplificar el uso compartido de KPI de experiencias digitales con ejecutivos sobre la marcha.
 
 Compartir proyectos de Adobe Analytics Workspace con compañeros es un uso esencial de Analytics para tomar mejores decisiones comerciales. Podemos compartir proyectos con otros usuarios para los derechos de acceso de &quot;editar original&quot;, &quot;editar copia&quot; y &quot;solo lectura&quot;. La mayoría de las veces, es probable que compartamos proyectos con derechos de acceso de edición de originales o de edición de copias para que podamos actualizar de forma colaborativa el proyecto o que otros usuarios puedan duplicar el proyecto como propio para futuras actualizaciones. Sin embargo, a veces el uso compartido de solo lectura es una opción de uso compartido sorprendentemente buena más allá del control de acceso, como sugiere el nombre del derecho de acceso.
 
@@ -47,6 +47,6 @@ Este documento fue escrito por:
 
 ![Leo Lau](assets/leo_headshot.png)
 
-**Leo Lau**, Director, MarTech Lead Asia
+**Leo Lau**, director de MarTech Lead Asia
 
 Campeona de Adobe Analytics

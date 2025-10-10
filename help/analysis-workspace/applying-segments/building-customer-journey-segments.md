@@ -58,7 +58,7 @@ Como veremos, la creación de estos segmentos es un proceso iterativo e intercon
 
 Utilicé un espacio de trabajo sencillo para asegurarme de estar definiendo bien los segmentos por intención de visita. Recuerde, cada visita debe pertenecer a un segmento, y solo a uno, de intención de visita. El espacio de trabajo que configuré garantiza que todas las visitas se contabilicen y que no haya superposición entre los segmentos.
 
-He denominado este espacio de trabajo &quot;CALIDAD DE LOS DATOS: Segmentos por intención de visita&quot; con las etiquetas &quot;calidad de los datos&quot;, &quot;intención de visita&quot; y &quot;recorrido del cliente&quot;. Más adelante, crearemos un &quot;Tablero de visitas por intención&quot;, de modo que el prefijo &quot;CALIDAD DE LOS DATOS&quot; indique que este espacio de trabajo se utiliza para configurar y mantener los segmentos. Es un tablero administrativo que tiene bastante poco conocimiento del negocio, pero es importante para garantizar que los segmentos se mantengan. Es aconsejable volver a este panel o configurar alertas de forma rutinaria para asegurarse de que los segmentos se definen correctamente.
+He denominado este espacio de trabajo &quot;CALIDAD DE LOS DATOS: Segmentos por intención de visita&quot; con las etiquetas &quot;calidad de los datos&quot;, &quot;intención de visita&quot; y &quot;recorrido del cliente&quot;. Más adelante, crearemos un &quot;Tablero de visitas por intención&quot;, de modo que el prefijo &quot;CALIDAD DE LOS DATOS&quot; indique que este espacio de trabajo se utiliza para configurar y mantener los segmentos. Es un tablero administrativo que tiene bastante poco insight empresarial, pero es importante para garantizar que los segmentos se mantengan. Es aconsejable volver a este panel o configurar alertas de forma rutinaria para asegurarse de que los segmentos se definen correctamente.
 
 La visualización más importante en este espacio de trabajo es la Visualización de forma libre de superposición de segmentos en el centro izquierdo. Con la métrica Visitas, cree filtros de columna para cada uno de los segmentos por intención de visita, además del segmento Todas las visitas en la columna más a la derecha. Cree filas para cada segmento de intención de visita a la izquierda. Ahora tendrá una visualización entre pestañas. Cuando los segmentos están correctamente configurados, solo habrá datos en una columna y una fila en la intersección de cada segmento de intención de visita consigo mismo.
 
@@ -104,6 +104,6 @@ Este documento fue escrito por:
 
 ![Aaron Fossum](assets/aaron-headshot.png)
 
-**Aaron Fossum**, Director, análisis digital
+**Aaron Fossum**, director de análisis digital
 
 Campeona de Adobe Analytics

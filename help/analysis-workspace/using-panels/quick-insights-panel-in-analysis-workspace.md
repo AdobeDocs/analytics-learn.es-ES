@@ -18,6 +18,6 @@ ht-degree: 100%
 
 [!UICONTROL Quick Insights] proporciona una guía a las personas que no son analistas y a los usuarios nuevos de Analysis Workspace para aprender a responder preguntas comerciales de forma rápida y sencilla.
 
->[!VIDEO](https://video.tv.adobe.com/v/326700/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/37248/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=es).

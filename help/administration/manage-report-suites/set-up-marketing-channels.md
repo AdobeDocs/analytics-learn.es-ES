@@ -20,7 +20,7 @@ ht-degree: 100%
 
 En este vídeo, demostramos cómo configurar los informes de canales de marketing en su grupo de informes de Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/344358/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/340789/?quality=12&learn=on)
 
 >[!NOTE]
 >

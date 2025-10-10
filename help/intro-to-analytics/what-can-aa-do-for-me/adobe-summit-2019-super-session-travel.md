@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Vea los clips seleccionados de la “supersesión” de viajes y hospitalidad de la [!DNL Summit] de 2019
 
->[!VIDEO](https://video.tv.adobe.com/v/330394/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/31442/?quality=12&learn=on)

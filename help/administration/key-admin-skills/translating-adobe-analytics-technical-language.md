@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Traducción del lenguaje técnico de Adobe Analytics de forma no técnica
 
->[!VIDEO](https://video.tv.adobe.com/v/345322/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## Hablar diferentes idiomas
 
@@ -34,7 +34,7 @@ Por ejemplo, esta es mi forma favorita de explicar las eVars y los métodos de a
 >[!TIP]
 >
 >**Asigne claramente un nombre a los componentes (es decir, dimensiones, segmentos y métricas) con descripciones.**
->Compartir el diccionario de datos de eVars y props siempre es un buen paso para democratizar los datos de su organización, pero no espere que un usuario casual memorice todas las variables personalizadas y su uso previsto por índice/número. En su lugar, en Adobe Workspace, asegúrese de que los nombres de los componentes son descriptivos gracias a las etiquetas y descripciones significativas. Esto ayudará a los usuarios a encontrar rápidamente la métrica correcta entre sus cientos de eVars y sus infinitas métricas/segmentos.
+>>Compartir el diccionario de datos de eVars y props siempre es un buen paso para democratizar los datos de su organización, pero no espere que un usuario casual memorice todas las variables personalizadas y su uso previsto por índice/número. En su lugar, en Adobe Workspace, asegúrese de que los nombres de los componentes son descriptivos gracias a las etiquetas y descripciones significativas. Esto ayudará a los usuarios a encontrar rápidamente la métrica correcta entre sus cientos de eVars y sus infinitas métricas/segmentos.
 
 ## Sugerencia 2: Encuentre un idioma común
 
@@ -45,7 +45,7 @@ En [!DNL The Home Depot], es posible que un comerciante o gerente de tienda no e
 >[!TIP]
 >
 >**Haga que la implementación refleje ese idioma común.**
->Casi todo lo que hay en la interfaz de usuario de Adobe Analytics es personalizable. Si su organización se refiere a los carros de compras como bolsas de compras, puede cambiar el nombre del evento del carro de compras por bolsa de compras.
+>>Casi todo lo que hay en la interfaz de usuario de Adobe Analytics es personalizable. Si su organización se refiere a los carros de compras como bolsas de compras, puede cambiar el nombre del evento del carro de compras por bolsa de compras.
 >
 >Considere la posibilidad de crear su propio vocabulario controlado para su organización si encuentra varios términos sinónimos por ahí o si hay términos que a los usuarios no les suele gustar. Toma la iniciativa de estandarizar la terminología preferida. Y revise los términos confusos más comunes en sus sesiones de incorporación y habilitación para ayudar a los usuarios a aclimatarse.
 
@@ -58,7 +58,7 @@ En [!DNL The Home Depot], pusimos un desafío de Adobe Analytics en el que hicim
 >[!TIP]
 >
 >**Cree plantillas y guías de espacio de trabajo anotadas específicas para soluciones.**
->Aproveche los informes empresariales (plantillas) y las visualizaciones de texto de Analysis Workspace para crear guías contextuales que ayuden a sus estrellas de rock a seguir el camino correcto.
+>>Aproveche los informes empresariales (plantillas) y las visualizaciones de texto de Analysis Workspace para crear guías contextuales que ayuden a sus estrellas de rock a seguir el camino correcto.
 >
 >La flexibilidad de Analysis Workspace le permite crear plantillas para realizar análisis más rápidos, así como habilitar el autoservicio y la autohabilitación. Al combinar las capacidades de las funciones como plantillas revisadas, anotaciones y vinculación en cuanto al espacio de trabajo, puede crear directrices eficientes, accesibles y fáciles de difundir entre los usuarios no técnicos en el contexto de Adobe Analytics.
 

@@ -38,7 +38,7 @@ Las métricas calculadas son potentes, pero incluso las funciones matemáticas b
 
    Yo he estado allí. Copie o pegue. Introduzca la fórmula o arrastre la celda sobre ella hacia abajo. Haga clic en el gráfico y cambie el rango para que tenga los últimos doce o trece meses. Ahora copie el gráfico. Ahora hazlo de nuevo. Y otra vez. Y otra vez. Envíe el PowerPoint. Es tedioso y lleva mucho tiempo y se siente como si tuvieras que hacerlo todos los meses para siempre.
 
-   En su lugar, puede crear una Workspace que utilice su métrica calculada, que tenga Doce o Trece últimos meses completos como intervalo de fechas y que los datos y el gráfico se actualicen automáticamente a medianoche del primer día de cada mes. Los destinatarios pueden tener acceso directo a Workspace. Pueden recibir una copia de un PDF por correo electrónico automáticamente el primer día del mes o después de usar Visualizaciones de texto para agregar su comentario sobre los datos (ya sabe, la parte divertida de los informes).
+   En su lugar, puede crear una Workspace que utilice su métrica calculada, que tenga Doce o Trece últimos meses completos como intervalo de fechas y que los datos y el gráfico se actualicen automáticamente a medianoche del primer día de cada mes. Los destinatarios pueden tener acceso directo a Workspace. Pueden recibir una copia de PDF automáticamente por correo electrónico el primer día del mes o después de usar Visualizaciones de texto para agregar su comentario sobre los datos (ya sabe, la parte divertida de los informes).
 
 1. **Las métricas calculadas se pueden aplicar a grandes conjuntos de datos**
 
@@ -52,7 +52,7 @@ Las métricas calculadas son potentes, pero incluso las funciones matemáticas b
 
 **Caso de uso 1 : Tasas de conversión**
 
-La mayoría de las tasas de conversión son solo una división simple. Divida el número de conversiones por el número de visitantes o visitas. Divida el número de vistas de página de la última página de un canal entre el número de vistas de páginas de la primera página de un canal. Divida el número de clics en campañas internas entre el número de impresiones. Todas estas acciones se pueden realizar fácilmente como métricas calculadas y colocadas en un panel que disfrute de una baja latencia de datos, visualizaciones de actualización y una mayor facilidad de uso compartido.
+La mayoría de las tasas de conversión son solo una división simple. Divida el número de conversiones por el número de visitantes o visitas. Divida el número de vistas de página de la última página de un funnel entre el número de vistas de páginas de la primera página de un funnel. Divida el número de clics en campañas internas entre el número de impresiones. Todas estas acciones se pueden realizar fácilmente como métricas calculadas y colocadas en un panel que disfrute de una baja latencia de datos, visualizaciones de actualización y una mayor facilidad de uso compartido.
 
 **Caso de uso 2: búsqueda interna**
 

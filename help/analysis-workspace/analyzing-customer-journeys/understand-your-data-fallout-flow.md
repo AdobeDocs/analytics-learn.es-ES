@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Descubra cómo nuestras herramientas de rutas y canalización funcionan en conjunto para comprender mejor los datos de los recorridos de los usuarios.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415647/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/334095/?quality=12&learn=on)
 
 Para obtener más información, consulte la documentación de las visualizaciones [Visita en orden previsto](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=es) y [Flujo](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=es).

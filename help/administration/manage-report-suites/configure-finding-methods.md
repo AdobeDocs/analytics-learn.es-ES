@@ -20,6 +20,6 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a configurar las opciones que controlan cómo los motores de búsqueda, las palabras clave de búsqueda y otros informes y componentes de métodos de localización tratan la atribución de eventos de conversión.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412928/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/333042/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html?lang=es).

@@ -1,6 +1,6 @@
 ---
-title: Creación de paneles de Advertising Cloud con Adobe Analytics
-description: No se pierda estas técnicas para crear un panel de Advertising Cloud para monitorizar campañas en directo.
+title: Creación de paneles de control de Advertising Cloud con Adobe Analytics
+description: No se pierda estas técnicas para crear un panel de control de Advertising Cloud para monitorizar campañas en directo.
 feature: Advertising Analytics
 topic: Integrations
 role: User
@@ -15,8 +15,8 @@ ht-degree: 100%
 
 ---
 
-# Creación de paneles de Advertising Cloud con Adobe Analytics
+# Creación de paneles de control de Advertising Cloud con Adobe Analytics
 
-No se pierda estas técnicas para crear un panel de Advertising Cloud para monitorizar campañas en directo.
+No se pierda estas técnicas para crear un panel de control de Advertising Cloud para monitorizar campañas en directo.
 
->[!VIDEO](https://video.tv.adobe.com/v/40462/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/35121/?quality=12&learn=on)

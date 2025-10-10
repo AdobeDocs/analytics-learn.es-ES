@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Este vídeo le muestra cómo añadir y configurar las visualizaciones Número de resumen y Cambio de resumen en Analysis Workspace. Estas visualizaciones le proporcionan un gran número, para que pueda mostrar las métricas más importantes, justo donde todos puedan verlas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416887/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html?lang=es).

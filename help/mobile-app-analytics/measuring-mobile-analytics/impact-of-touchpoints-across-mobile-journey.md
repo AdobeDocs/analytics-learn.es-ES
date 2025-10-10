@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Descubra cómo los usuarios de aplicaciones móviles se ven influidos por los puntos de contacto y cuáles son los canales que mueven la aguja para su aplicación móvil mediante [!DNL Attribution IQ]. Conozca qué canales colaboran entre sí para impulsar eventos de éxito en la aplicación móvil.
 
->[!VIDEO](https://video.tv.adobe.com/v/32718/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/27827/?quality=12&learn=on)

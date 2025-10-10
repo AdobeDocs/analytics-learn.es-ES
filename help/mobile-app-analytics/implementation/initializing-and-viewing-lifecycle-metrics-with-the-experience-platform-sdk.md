@@ -22,6 +22,6 @@ ht-degree: 99%
 
 Las [!UICONTROL métricas] del [!UICONTROL ciclo vital] constituyen información valiosa y lista para usar sobre el usuario de la aplicación. Estas [!UICONTROL métricas] contienen datos sobre el ciclo vital del usuario de la aplicación, como información del dispositivo, información de instalación o actualización, inicio de sesión y tiempos de pausa, etc. En este vídeo aprenderá a configurar las [!UICONTROL métricas] del [!UICONTROL ciclo vital] en su aplicación y a ver los resultados en un depurador.
 
->[!VIDEO](https://video.tv.adobe.com/v/328300/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/26258/?quality=12&learn=on)
 
 Para obtener más información acerca de las [!UICONTROL métricas] del [!UICONTROL ciclo vital], consulte la [documentación](https://developer.adobe.com/client-sdks/documentation/mobile-core/lifecycle/).

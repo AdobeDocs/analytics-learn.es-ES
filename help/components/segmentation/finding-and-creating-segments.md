@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Aprenda a crear y buscar segmentos a lo largo de su análisis en las diversas herramientas de Analysis Workspace, incluidas cohorte, visita en orden previsto y flujo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415642/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/334092/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-workflow.html?lang=es).

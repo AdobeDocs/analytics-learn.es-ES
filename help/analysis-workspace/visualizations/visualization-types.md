@@ -10,7 +10,7 @@ exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
 source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 23%
+ht-degree: 27%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 23%
 
 Obtenga información sobre los diferentes tipos de visualizaciones que puede incluir en sus proyectos de Analysis Workspace para ayudarle a contar sus historias de datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/37546/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12&learn=on)
 
 Como resumen del vídeo, estas son algunas categorías de visualizaciones y visualizaciones sugeridas para agregar al proyecto, en función del tipo de análisis que desee hacer en los datos. Como se indica en el vídeo, nada de esto es una regla dura y rápida, sino solo algunas sugerencias para usted a medida que se acostumbra a las diferentes visualizaciones:
 
@@ -64,7 +64,7 @@ Como resumen del vídeo, estas son algunas categorías de visualizaciones y visu
 * Barra
 * Barra horizontal
 * Barra apilada
-* Barra horizontal apilada
+* Barras horizontales apiladas
 * Tabla de forma libre
 * Tabla de forma libre con formato condicional
 * Gráfico combinado
@@ -94,7 +94,7 @@ Como resumen del vídeo, estas son algunas categorías de visualizaciones y visu
 
 * Anillo
 * Área apilada
-* Gráfico de rectángulos
+* Mapa de árbol
 
   </td>
 </tr>

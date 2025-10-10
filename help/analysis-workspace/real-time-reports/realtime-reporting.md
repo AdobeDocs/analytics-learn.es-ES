@@ -19,4 +19,4 @@ Obtenga información sobre el informe en tiempo real en Adobe Analytics, incluid
 
 >[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12&learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html?lang=es).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html).

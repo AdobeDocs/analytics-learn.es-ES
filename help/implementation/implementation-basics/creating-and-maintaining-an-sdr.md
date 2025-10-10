@@ -1,6 +1,6 @@
 ---
 title: Creación y mantenimiento de un documento Diseño de referencia de la solución (DRS)
-description: El documento Diseño de referencia de la solución (DRS) es el modelo para los requisitos empresariales, las asignaciones variables, las definiciones de segmentos y el diseño de recopilación de datos para Analytics en sus propiedades digitales.
+description: 'El documento Diseño de referencia de la solución (DRS) es el modelo para los requisitos empresariales, las asignaciones variables, las definiciones de segmentos y el diseño de recopilación de datos para Analytics en sus propiedades digitales. '
 feature: Implementation Basics
 role: Developer, Data Engineer
 level: Beginner
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 El documento Referencia de diseño de la solución (SDR) es el modelo para los requisitos empresariales y el diseño de recopilación de datos para Analytics en sus propiedades digitales. Aprenda a crear y mantener este documento como la fuente fiable para su solución de análisis.
 
->[!VIDEO](https://video.tv.adobe.com/v/31354/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
 [Descargue](assets/aa_en_BRD_SDR_template.xlsx) una plantilla de Excel de ejemplo para documentar los requisitos, el uso de variables y el diseño de recopilación de datos, segmentos y asignaciones de sus propiedades digitales.
 

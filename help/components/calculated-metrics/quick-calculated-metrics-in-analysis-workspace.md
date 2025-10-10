@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Ahora puede crear [!UICONTROL métricas calculadas] sobre la marcha dentro de Analysis Workspace.  Si desea realizar un cambio o una división porcentual de forma rápida con algunas [!UICONTROL métricas] en la [!UICONTROL tabla de forma libre], solo tiene que seleccionarlas en el encabezado, hacer clic con el botón secundario y elegir el operador que desee.  La nueva [!UICONTROL métrica calculada] aparecerá a la derecha.
 
->[!VIDEO](https://video.tv.adobe.com/v/41469/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)

@@ -45,7 +45,7 @@ El autoservicio eficaz suele ser un ejercicio para eliminar las barreras percibi
 
 ## Optimización del rendimiento de Workspace
 
-La página de ayuda de rendimiento de [!UICONTROL Analysis Workspace] muestra los factores de red, explorador y proyecto que afectan al rendimiento del proyecto. Mejore la adopción creando paneles más rápidos. También se vincula a sugerencias para la optimización y se puede acceder a ellas en el menú [!UICONTROL Espacio de trabajo] bajo **[!UICONTROL Ayuda]** > **[!UICONTROL Rendimiento]**.
+La página de ayuda de rendimiento de [!UICONTROL Analysis Workspace] muestra los factores de red, explorador y proyecto que afectan al rendimiento del proyecto. Mejore la adopción creando paneles de control más rápidos. También se vincula a sugerencias para la optimización y se puede acceder a ellas en el menú [!UICONTROL Espacio de trabajo] bajo **[!UICONTROL Ayuda]** > **[!UICONTROL Rendimiento]**.
 
 ## Vinculación de paneles dentro/fuera de Workspace
 
@@ -93,6 +93,6 @@ Utilice anotaciones para crear referencias de documentación de soluciones en el
 
 ## API de informes de Adobe 2.0
 
-Aproveche la API de informes para mover informes estándar de [!UICONTROL Workspace] a informes programados y paneles. Además, aproveche [!UICONTROL Analysis Workspace] para crear solicitudes de API.
+Aproveche la API de informes para mover informes estándar de [!UICONTROL Workspace] a informes programados y paneles de control. Además, aproveche [!UICONTROL Analysis Workspace] para crear solicitudes de API.
 
 Obtenga más información acerca de la estrategia y el liderazgo mental en el centro [Éxito del cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=es).

@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Se pueden analizar varios [!UICONTROL grupos de informes] en un solo proyecto de [!DNL Workspace] seleccionando [!UICONTROL grupos de informes] en el nivel de panel. Esto le permite llevar a cabo un análisis de panel en paralelo en diferentes conjuntos de datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/36836/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12&learn=on)
 
 >[!TIP]
 >

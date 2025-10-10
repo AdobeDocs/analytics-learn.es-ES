@@ -53,7 +53,7 @@ Los requisitos empresariales, el diseño de datos y la recopilación de datos so
 
 ![analytics-business-requirements](../what-can-aa-do-for-me/assets/analytics_business_requirements.png)
 
-Una vez que la base de datos se recopila en Adobe Analytics, los especialistas en marketing y los analistas empresariales utilizan varios informes y herramientas de visualización de datos disponibles en el producto para llevar a cabo análisis y contar historias significativas acerca de los datos. Además, Adobe Analytics proporciona varias formas de resultados. Podría ser un segmento o una audiencia que se envíe a una herramienta de optimización, como Adobe Target, para ejecutar pruebas A/B. Podría ser una puntuación predictiva para indicar la probabilidad de una acción por parte de una persona que otro sistema utiliza para el modelo.
+Una vez que la base de datos se recopila en Adobe Analytics, los especialistas en marketing y los analistas empresariales utilizan varios informes y herramientas de visualización de datos disponibles en el producto para llevar a cabo análisis y contar historias significativas acerca de los datos. Además, Adobe Analytics proporciona varias formas de resultados. Podría ser un segmento o un público que se envíe a una herramienta de optimización, como Adobe Target, para ejecutar pruebas A/B. Podría ser una puntuación predictiva para indicar la probabilidad de una acción por parte de una persona que otro sistema utiliza para el modelo.
 
 ![analytics-workspace-project](../what-can-aa-do-for-me/assets/analytics_workspace_project.png)
 

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información sobre las distintas formas en que puede utilizar las métricas en una tabla de forma libre en Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/328571/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/40817/?quality=12&learn=on)

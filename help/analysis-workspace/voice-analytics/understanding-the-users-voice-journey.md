@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda a comprender el recorrido del cliente en la aplicación de voz mirando la ruta de [!UICONTROL flujo] y la [!UICONTROL visita en orden previsto] para identificar cuáles son las acciones más comunes, la secuencia de esas acciones y cuándo y dónde salen los usuarios del recorrido.
 
->[!VIDEO](https://video.tv.adobe.com/v/34998/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12&learn=on)

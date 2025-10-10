@@ -22,9 +22,9 @@ ht-degree: 65%
 
 # Audience Analytics: Integración de AAM [!DNL Segments] en [!DNL Analytics] {#audience-analytics-integrate-aam-segments-into-analytics}
 
-[!UICONTROL Audience Analytics] es una integración que le permite compartir segmentos de Audience Manager a [!DNL Analytics] en tiempo real para informar la detección de audiencias, la segmentación y la optimización.
+[!UICONTROL Audience Analytics] es una integración que le permite compartir segmentos de Audience Manager a [!DNL Analytics] en tiempo real para informar sobre la detección de audiencias, la segmentación y la optimización.
 
->[!VIDEO](https://video.tv.adobe.com/v/40734/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12&learn=on)
 
 Ejemplo de datos del [!UICONTROL segmento] que se pueden compartir incluyen: datos demográficos de proveedores de datos de terceros, datos de campañas de servidores de publicidad (como impresiones fuera del sitio) y datos CRM incorporados. Se trata de la primera integración de productos entre un DMP y un motor de análisis en el mercado.
 

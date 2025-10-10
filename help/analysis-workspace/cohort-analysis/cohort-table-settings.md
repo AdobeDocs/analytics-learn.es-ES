@@ -21,7 +21,7 @@ ht-degree: 46%
 
 Aprenda a personalizar la vista de las tablas de retención o pérdida mediante la configuración de la tabla de cohorte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430103/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
 Las personalizaciones para [!UICONTROL Tabla de cohorte] incluyen la capacidad de
 

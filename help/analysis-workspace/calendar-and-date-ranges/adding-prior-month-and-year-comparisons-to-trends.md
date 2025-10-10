@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda a aplicar intervalos de fechas personalizados para crear comparaciones de tendencias mensuales y anuales para cualquier métrica en Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/37176/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/33772/?quality=12&learn=on)

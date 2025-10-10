@@ -1,6 +1,6 @@
 ---
 title: Introducción a la exportación de Data Warehouse
-description: Obtenga información sobre cómo aprovechar al máximo la interfaz de usuario de los informes de Data Warehouse y las cuentas y ubicaciones de exportación. En este vídeo se explica el flujo de trabajo básico de un envío de informes tanto al correo electrónico como a Amazon S3.
+description: Obtenga información sobre cómo aprovechar al máximo la interfaz de usuario de informes de Data Warehouse y las cuentas y ubicaciones de exportación. En este vídeo se explica el flujo de trabajo básico de un envío de informes tanto al correo electrónico como a Amazon S3.
 feature: Data Warehouse
 role: User
 level: Beginner
@@ -16,6 +16,6 @@ ht-degree: 1%
 
 # Introducción a la exportación de Data Warehouse
 
-Obtenga información sobre cómo aprovechar al máximo la interfaz de usuario de los informes de Data Warehouse y las cuentas y ubicaciones de exportación. En este vídeo se explica el flujo de trabajo básico de un envío de informes tanto al correo electrónico como a Amazon S3. Para obtener documentación detallada, consulte [descripción general de la Data Warehouse](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=es) y los documentos adjuntos.
+Obtenga información sobre cómo aprovechar al máximo la interfaz de usuario de informes de Data Warehouse y las cuentas y ubicaciones de exportación. En este vídeo se explica el flujo de trabajo básico de un envío de informes tanto al correo electrónico como a Amazon S3. Para obtener documentación detallada, consulte [Información general de Data Warehouse](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=es) y los documentos adjuntos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428482/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)

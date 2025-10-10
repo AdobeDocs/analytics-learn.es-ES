@@ -1,6 +1,6 @@
 ---
-title: Navegue por la nueva página de aterrizaje de Analysis Workspace
-description: Aprenda a sacar el máximo partido a la nueva página de aterrizaje de Analytics y a sus funciones.
+title: Navegue por la nueva página de destino de Analysis Workspace
+description: Aprenda a sacar el máximo partido a la nueva página de destino de Analytics y a sus funciones.
 feature: Analysis Workspace
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 100%
 
 ---
 
-# Navegue por la nueva página de aterrizaje de Analysis Workspace
+# Navegue por la nueva página de destino de Analysis Workspace
 
-Aprenda a sacar el máximo partido a la nueva página de aterrizaje de Analytics y a sus funciones.
+Aprenda a sacar el máximo partido a la nueva página de destino de Analytics y a sus funciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/346462/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/334278/?quality=12&learn=on)

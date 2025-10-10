@@ -23,5 +23,5 @@ Al utilizar variables [!DNL contextData] en la implementación de Adobe Analytic
 >Este artículo y vídeo hacen referencia a una implementación &quot;AppMeasurement&quot; de Adobe Analytics si no utiliza etiquetas de Adobe Experience Platform (administrador de etiquetas).
 
 
->[!VIDEO](https://video.tv.adobe.com/v/327638/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
 

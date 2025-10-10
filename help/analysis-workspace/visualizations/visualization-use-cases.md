@@ -18,6 +18,6 @@ ht-degree: 100%
 
 ¿Quiere saber qué productos se venden mejor? Conozca algunos de los casos de uso principales para visualizaciones, como visita en orden previsto, flujo, cohorte y más.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415652/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=es).

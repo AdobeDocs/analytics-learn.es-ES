@@ -51,7 +51,7 @@ Cuando se trata de una estrategia de conocimiento del cliente exitosa, necesitam
 
 1. La recopilación de datos depende de su organización y puede incluir varios canales y medios. Estos incluyen dispositivos OTT, vídeo, empresa, centros de llamadas, en tienda, correo electrónico social, web, anuncios, aplicaciones móviles, wearables, IoT, asistentes de voz, tarjetas conectadas y ubicación geográfica/espacial.
 
-1. El procesamiento de datos incluye la recopilación de datos en tiempo real, las reglas de procesamiento, la distribución de audiencias, la sesionización según el contexto, los activadores y las vistas en tiempo real y la plataforma.
+1. El procesamiento de datos incluye la recopilación de datos en tiempo real, las reglas de procesamiento, la distribución de públicos, la sesionización según el contexto, los activadores y las vistas en tiempo real y la plataforma.
 
 1. El aprendizaje automático de Analytics incluye Segment IQ, Analista virtual, Segmentación, Analysis Workspace
 
@@ -108,7 +108,7 @@ Manténgase informado de anomalías en los datos en todo momento, en la oficina 
 [IQ de segmento](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/segment-iq.html?lang=es):
 
 * Descubra las diferencias y superposiciones entre sus segmentos para informar la estrategia de segmentación
-* Descubra las características clave de los segmentos de audiencia que impulsan los KPI
+* Descubra las características clave de los segmentos de público que impulsan los KPI
 * Obtenga informes y visualizaciones de segundos a minutos que muestren elementos comunes en dimensiones, métricas y otros segmentos
 * Mejore la participación con clientes de alto valor
 

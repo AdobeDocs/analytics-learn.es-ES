@@ -21,7 +21,7 @@ Aprenda a extraer sus valores de la capa de datos y utilizarlos en Experience Pl
 
 Consulte información adicional sobre las capas de datos en la documentación de [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=es) y las etiquetas de [Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html?lang=es).
 
->[!VIDEO](https://video.tv.adobe.com/v/327645/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
 
 >[!NOTE]
 >

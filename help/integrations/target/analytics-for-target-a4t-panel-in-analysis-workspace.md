@@ -23,6 +23,6 @@ ht-degree: 100%
 
 El panel [!DNL Analytics for Target] (A4T) le permite analizar con confianza las actividades y experiencias de Adobe Target en [!UICONTROL Analysis Workspace].
 
->[!VIDEO](https://video.tv.adobe.com/v/326711/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
 Obtenga más información en la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html?lang=es).

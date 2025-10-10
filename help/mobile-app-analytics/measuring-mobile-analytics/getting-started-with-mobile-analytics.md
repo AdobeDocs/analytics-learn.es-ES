@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Sepa cómo empezar a usar Adobe Analytics para aplicaciones móviles mediante plantillas. Las [!UICONTROL plantillas estándar] creadas previamente le ayudan a comprender la participación del usuario y las [!UICONTROL métricas] de rendimiento de la aplicación en Analysis Workspace. También puede aprender a personalizar su proyecto con nuestra sencilla interfaz de arrastrar y soltar.
 
->[!VIDEO](https://video.tv.adobe.com/v/33616/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12&learn=on)

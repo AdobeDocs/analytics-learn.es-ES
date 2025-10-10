@@ -18,4 +18,4 @@ ht-degree: 40%
 
 Los grupos de informes virtuales se pueden revisar para que incluyan y excluyan [!UICONTROL dimensiones], [!UICONTROL métricas] y [!UICONTROL segmentos] en Analysis Workspace, lo que resulta muy útil si los comparte con otros equipos que solo necesitan una fracción específica de los datos o utilizan una nomenclatura de datos diferente. Para obtener documentación detallada, visite [Revisión de componentes de grupo de informes virtuales](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=es){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425525/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)

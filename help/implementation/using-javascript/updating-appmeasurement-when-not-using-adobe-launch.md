@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Este vídeo le muestra cómo actualizar el código de appMeasurement cuando no utilice Adobe [!DNL Experience Platform Launch]. Esto incluye dónde obtener el código y dónde actualizarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/34793/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25913/?quality=12&learn=on)
 
 >[!NOTE]
 >

@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo configurar los informes de aplicaciones móviles en Adobe Analytics, incluidos los componentes [!UICONTROL ciclo vital], [!UICONTROL el seguimiento de ubicación] y los informes de [!UICONTROL visitas en segundo plano].
 
->[!VIDEO](https://video.tv.adobe.com/v/39728/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=es).

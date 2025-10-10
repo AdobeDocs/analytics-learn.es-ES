@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Aprenda a crear historias de datos en proyectos de cuadros de resultados móviles mediante la aplicación de paneles de Analytics. Las historias de datos le permiten contar toda la historia incluyendo puntos de datos de soporte, contexto empresarial y métricas relacionadas, todo ello manteniendo sus métricas clave más importantes en primer plano y centradas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420559/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3416392/?quality=12&learn=on)

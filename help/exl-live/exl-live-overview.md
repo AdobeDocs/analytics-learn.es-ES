@@ -93,4 +93,4 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 >[!TIP]
 >
->Para descubrir métodos adicionales de aprendizaje, consulte nuestros [cursos](https://experienceleague.adobe.com/es?lang=es#dashboard/learning) gratuitos, así como los [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
+>Para descubrir métodos adicionales de aprendizaje, consulte nuestros [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) gratuitos, así como los [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.

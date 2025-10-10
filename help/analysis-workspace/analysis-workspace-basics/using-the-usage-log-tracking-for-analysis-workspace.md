@@ -23,7 +23,7 @@ ht-degree: 100%
 
 Este vídeo muestra cómo utilizar el [!UICONTROL Seguimiento del registro de uso] en proyectos de [!DNL Workspace], lo que le ayuda a comprender mejor el uso que hacen los usuarios de Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/32853/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
 Las opciones de seguimiento de [!DNL Workspace] son:
 

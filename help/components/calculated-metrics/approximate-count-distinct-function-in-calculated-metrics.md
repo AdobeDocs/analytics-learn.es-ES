@@ -17,6 +17,6 @@ ht-degree: 0%
 
 Obtenga información sobre cómo crear una métrica calculada mediante la función Recuento distinto aproximado, que devuelve el recuento distinto aproximado de elementos de dimensión para una dimensión seleccionada.
 
->[!VIDEO](https://video.tv.adobe.com/v/37509/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
 
 Puede utilizar la métrica que se muestra en este vídeo en cualquier informe para comprender el recuento de una dimensión frente a valores de otras. Un caso de uso muy común sería utilizar esta función para crear una métrica de ID de cliente, que luego podría utilizar en cualquier informe para ver cuántos clientes se aplican a los diferentes valores de dimensión.

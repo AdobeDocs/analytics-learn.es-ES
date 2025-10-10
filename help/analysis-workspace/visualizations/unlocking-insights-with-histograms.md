@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Desbloquear perspectivas con histogramas: más allá de los promedios en Analytics
 
-_Descubra el impacto de los histogramas en Analytics para obtener perspectivas que superan los promedios. Los histogramas revelan patrones de datos en el comportamiento del cliente, la participación del visitante, el rendimiento técnico y los errores de formulario, lo que permite obtener perspectivas más profundas y tomar decisiones informadas en el Adobe de Workspace._
+_Descubra el impacto de los histogramas en Analytics para obtener perspectivas que superan los promedios. Los histogramas revelan patrones de datos en el comportamiento de los clientes, la participación del visitante, el rendimiento técnico y los errores de formulario, lo que permite obtener perspectivas más profundas y tomar decisiones informadas en Adobe Workspace._
 
 Vamos a saltar a la derecha en. Debería estar usando [histogramas](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=es). Voy a explicar por qué, pero quiero responder a su primera pregunta: ¿Qué es un histograma? Lo entiendo. La mayoría de las veces, cuando ves un montón de barras subiendo, podrías pensar que es un gráfico de barras. Sí, los histogramas son similares, pero les aseguro que son diferentes. Un gráfico de barras compara las cosas, mientras que un histograma muestra la frecuencia con la que se produjo una variable. Eche un vistazo. Este es un gráfico de barras:
 
@@ -38,7 +38,7 @@ Entonces, ¿cómo es esto útil? Bueno, vemos que la mayoría de la gente sólo 
 
 Si el sitio o la aplicación depende del tráfico repetido, le interesa saber cuántos visitantes regresan y con qué frecuencia. Uno de los histogramas más simples que puede usar es averiguar cuántos visitantes regresan más de una vez. A medida que rastrea ese histograma con el tiempo, puede ver su progreso, ya que ojalá las barras de la derecha sean más altas y las de la izquierda sean más cortas.
 
-Tal vez quieras mantener a la gente en el sitio, leyendo artículos. Un histograma que muestre cuántos visitantes leen cantidades diferentes de artículos le daría una idea del nivel de participación. ¿Por qué es útil? Supongamos que la mayoría de los visitantes leen un artículo y se van, pero algunos visitantes muy comprometidos leen tres artículos y se van. ¡Esa es una gran información! Ahora sabe que debe personalizar la página en el primer y tercer artículo leído con el objetivo de que los visitantes lean un artículo más.
+Tal vez quieras mantener a la gente en el sitio, leyendo artículos. Un histograma que muestre cuántos visitantes leen cantidades diferentes de artículos le daría a insight el nivel de participación. ¿Por qué es útil? Supongamos que la mayoría de los visitantes leen un artículo y se van, pero algunos visitantes muy comprometidos leen tres artículos y se van. ¡Esa es una gran información! Ahora sabe que debe personalizar la página en el primer y tercer artículo leído con el objetivo de que los visitantes lean un artículo más.
 
 ## Explicación del comportamiento del cliente
 
@@ -64,11 +64,11 @@ Puede preguntar: ¿en qué se diferencia esto de tener una métrica calculada? O
 
   ![Histograma 3](assets/histogram-3.png)
 
-- Errores de formulario: si tiene un promedio de 3,6 mensajes de error de formulario por visitante, eso es un indicador de un problema. Es posible que tenga el mismo problema atípico que los errores técnicos, pero también se puede obtener una perspectiva al ver un pico en el histograma en un número determinado de errores. ¿Un gran pico en un error? Esto podría ser un problema común que experimenten todos estos visitantes o tal vez todos obtuvieron un error diferente una vez. ¿Un pico gigante en tres errores? Ah, ahora eso es interesante. Si esto da lugar a una investigación que muestra que se trata de los mismos tres errores, se ha centrado en los datos que le proporcionan una comprensión de los visitantes y le ayudan a solucionar lo que es probable en un grupo de problemas interrelacionados.
+- Errores de formulario: si tiene un promedio de 3,6 mensajes de error de formulario por visitante, eso es un indicador de un problema. Es posible que tenga el mismo problema atípico que los errores técnicos, pero también hay insight que se puede ganar al ver un pico en el histograma en un número determinado de errores. ¿Un gran pico en un error? Esto podría ser un problema común que experimenten todos estos visitantes o tal vez todos obtuvieron un error diferente una vez. ¿Un pico gigante en tres errores? Ah, ahora eso es interesante. Si esto da lugar a una investigación que muestra que se trata de los mismos tres errores, se ha centrado en los datos que le proporcionan una comprensión de los visitantes y le ayudan a solucionar lo que es probable en un grupo de problemas interrelacionados.
 
   ![Histograma 4](assets/histogram-4.png)
 
-Como puede ver, los histogramas no solo tienen sus propios usos, sino que también profundizan la perspectiva que se obtiene de un promedio. Son una visualización lista para usar en Adobe Analytics y fáciles de crear. Esperamos que estos casos de uso le sean útiles o le inspiren. ¡Feliz visualización!
+Como puede ver, los histogramas no solo tienen sus propios usos, sino que también profundizan el insight que se obtiene de un promedio. Son una visualización lista para usar en Adobe Analytics y fáciles de crear. Esperamos que estos casos de uso le sean útiles o le inspiren. ¡Feliz visualización!
 
 ## Autor
 

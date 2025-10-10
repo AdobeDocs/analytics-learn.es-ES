@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo añadir y configurar la visualización del gráfico de rectángulos en su proyecto de Analysis Workspace. Esta visualización puede ayudarle a analizar visualmente muchos puntos de datos a la vez.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416853/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/treemap.html?lang=es).

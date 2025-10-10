@@ -41,4 +41,4 @@ Para ver la baliza, así como toda la información que llegue a Analytics y a ot
 
 Consulte el siguiente vídeo para obtener más información.
 
->[!VIDEO](https://video.tv.adobe.com/v/40897/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)

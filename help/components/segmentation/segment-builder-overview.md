@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Corte y fragmente sus datos con segmentación en Adobe Analytics. Este vídeo le guía por el Generador de segmentos y le ofrece una descripción general básica.
 
->[!VIDEO](https://video.tv.adobe.com/v/37413/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12&learn=on)

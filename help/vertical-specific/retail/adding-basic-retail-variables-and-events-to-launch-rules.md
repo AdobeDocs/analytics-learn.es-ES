@@ -1,5 +1,5 @@
 ---
-title: Agregar variables y eventos de venta minorista básicos a las reglas del Experience Platform  [!DNL tags]
+title: Agregar variables y eventos de venta minorista básicos a reglas en Experience Platform [!DNL tags]
 description: En este vídeo se muestra cómo usar una extensión de cadena de producto especial en  [!DNL tags] para realizar un seguimiento de variables y eventos de venta minorista básicos, como vistas de productos, adiciones al carro de compras y cierres de compra.
 feature: Tags
 topics: Development
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 ---
 
-# Agregar variables y eventos de venta minorista básicos a las reglas del Experience Platform [!DNL tags]
+# Agregar variables y eventos de venta minorista básicos a las reglas de Experience Platform [!DNL tags]
 
 Este vídeo muestra cómo usar una extensión de cadena de producto especial en [!DNL tags] para realizar un seguimiento de variables y eventos de venta minorista básicos, como vistas de productos, adiciones al carro de compras y cierres de compra.
 
@@ -22,4 +22,4 @@ Este vídeo muestra cómo usar una extensión de cadena de producto especial en 
 >
 > El lanzamiento es ahora **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/31344/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)

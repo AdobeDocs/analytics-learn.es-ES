@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Los ID de IMS vinculados incorrectos o no presentes en Adobe Analytics pueden provocar problemas de inicio de sesión para los usuarios. Los usuarios pueden comprobar ellos mismos el ID de IMS vinculado y ponerse en contacto con Asistencia al cliente por cualquier problema, lo que evita tener que realizar pasos comunes para la resolución de problemas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418702/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335749/?quality=12&learn=on)

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 No sabemos cómo llamarlo, pero es genial. Cuando se crea un gráfico de líneas a partir de un valor de dimensión, ahora se pueden seleccionar valores de dimensión diferentes y cambiar el gráfico de forma dinámica. Vea el vídeo para obtener más información.
 
->[!VIDEO](https://video.tv.adobe.com/v/327450/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23991/?quality=12&learn=on)

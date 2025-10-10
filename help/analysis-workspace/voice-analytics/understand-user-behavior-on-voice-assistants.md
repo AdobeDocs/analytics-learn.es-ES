@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda a comprender el comportamiento del usuario y a obtener perspectivas mirando las [!UICONTROL métricas] clave como las intenciones principales, los parámetros y la autenticación de usuario.
 
->[!VIDEO](https://video.tv.adobe.com/v/34992/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=12&learn=on)

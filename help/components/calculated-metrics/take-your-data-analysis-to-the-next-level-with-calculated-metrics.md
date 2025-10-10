@@ -11,7 +11,7 @@ thumbnail: KT-13266.jpeg
 exl-id: 74793149-9967-4765-832c-c65e578ee34b
 source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1583'
+source-wordcount: '1582'
 ht-degree: 3%
 
 ---
@@ -63,7 +63,7 @@ En nuestro ejemplo, vemos un alza significativa cuando los compradores utilizan 
 
 ## Uso de segmentos en métricas calculadas
 
-Ahora, veamos cómo podemos usar segmentos en métricas calculadas para obtener más información sobre el comportamiento, las preferencias y las motivaciones de los clientes. Con los segmentos y las métricas calculadas, podemos aprender lo suficiente sobre los clientes para mejorar su experiencia, aumentar los ingresos y mejorar la satisfacción y lealtad de los clientes.
+Ahora, veamos cómo podemos usar segmentos en métricas calculadas para obtener más insight en el comportamiento, las preferencias y las motivaciones de los clientes. Con los segmentos y las métricas calculadas, podemos aprender lo suficiente sobre los clientes para mejorar su experiencia, aumentar los ingresos y mejorar la satisfacción y lealtad de los clientes.
 
 Ya sabemos, a partir de los ejemplos de AOV anteriores, que las compras asistidas por el centro de llamadas suelen tener un AOV más alto. Sin embargo, otras métricas indican que la mayoría de los usuarios no utiliza el centro de llamadas para realizar compras.
 
@@ -106,7 +106,7 @@ Sin embargo, estas métricas no están disponibles en todas las áreas de Adobe 
 - Data Warehouse
 - Informes en tiempo real
 - Informes de datos actuales
-- Analytics for Target
+- Analytics para Target
 - Report Builder
 
 ## Prácticas recomendadas para métricas calculadas
@@ -128,7 +128,7 @@ Cuando cree segmentos en Adobe Analytics, tenga en cuenta estas prácticas recom
 1. **No cuente dos veces los datos**. Al igual que con las métricas calculadas, asegúrese de que el segmento no cuente los mismos datos varias veces. Los contenedores Incluir y Excluir pueden ayudar.
    1. Cuando se usa un contenedor de inclusión, *incluye* *todo el contenido de la visita* si alguna visita individual coincide con la condición dentro de la visita.
    1. Cuando se usa un contenedor de exclusión, se *excluye todo el contenido de la visita* si alguna visita individual coincide con la condición dentro de la visita.
-1. **Anide los contenedores correctamente**. Determine qué datos se incluyen utilizando el contenedor exterior y, a continuación, aplique reglas anidadas a los datos restantes. A medida que se aplican reglas anidadas, el flujo del segmento actúa como un canal y las reglas subsiguientes no se aplican a ninguna visita individual que haya sido excluida por la primera regla.
+1. **Anide los contenedores correctamente**. Determine qué datos se incluyen utilizando el contenedor exterior y, a continuación, aplique reglas anidadas a los datos restantes. A medida que se aplican reglas anidadas, el flujo del segmento actúa como una funnel y las reglas subsiguientes no se aplican a ninguna visita individual que haya sido excluida por la primera regla.
 1. **Asegúrese de que los datos estén actualizados.** Asegúrese de utilizar datos precisos y actualizados en la definición del segmento para obtener resultados precisos.
 1. **Probar el segmento.** Pruebe siempre el segmento para asegurarse de que funciona según lo previsto antes de publicarlo a otros usuarios.
 1. **Considerar el rendimiento.** segmentos pueden ralentizar el procesamiento del informe, por lo que tenga en cuenta ese impacto al crearlos.

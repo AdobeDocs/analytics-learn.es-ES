@@ -17,7 +17,7 @@ ht-degree: 99%
 
 # ¿Plantea las preguntas correctas?
 
->[!VIDEO](https://video.tv.adobe.com/v/346456/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
 
 _De todos_. Esa es una de las respuestas más comunes de las partes interesadas a la pregunta: _¿de qué datos desea hacer un seguimiento?_ Puede ser más valioso identificar y recopilar los _puntos de datos procesables_ que registrar todos los elementos posibles. La identificación eficiente de esos puntos de datos requiere un plan básico y debates creativos con las partes interesadas.
 
@@ -44,7 +44,7 @@ Cada empresa, unidad de negocio y equipo tiene una cultura propia y un idioma re
 
 Establezca algunos principios antes de la conversación. Como administrador de Analytics, debe obtener las entradas adecuadas si desea desarrollar y proporcionar una solución ideal para las partes interesadas.
 
-### 1. Proporcione un cuestionario
+### &#x200B;1. Proporcione un cuestionario
 
 Envíe una lista de preguntas para que la otra parte las revise antes de la reunión de contacto. Pueden proporcionarle las respuestas por adelantado o usar el cuestionario simplemente para familiarizarse con los temas a tratar. Puede proporcionar respuestas de ejemplo si esto sirve para aclarar las expectativas.
 
@@ -52,11 +52,11 @@ Las preguntas variarán según la capacidad técnica o analítica, la estructura
 
 [Explore esta plantilla](assets/stakeholder-questionnaire.pdf){target="_blank"}, que contiene varias preguntas de ejemplo para entrevistas con partes interesadas. Reutilícelas o modifíquelas para preparar preguntas relevantes propias.
 
-### 2. Solicite informes de ejemplo
+### &#x200B;2. Solicite informes de ejemplo
 
 La otra parte debería proporcionarle ejemplos (reales o ficticios) de puntos de datos de interés y cómo se podrían utilizar o notificar. Estos informes ofrecen otra mirada a los objetivos, el enfoque y la cultura de la parte interesada y su estado actual o ideal.
 
-### 3. No haga promesas durante la reunión de contacto
+### &#x200B;3. No haga promesas durante la reunión de contacto
 
 Las solicitudes realizadas y las ideas de datos tratadas durante la reunión de contacto no son compromisos con las partes interesadas. La ejecución de la recopilación de datos tiene una complejidad que no se puede evaluar por completo hasta después de la entrevista. Durante la reunión, puede ir ofreciendo de forma creativa ideas que acaben perdiendo prioridad debido a su falta de relevancia para los objetivos. Por estas y otras razones, la fase de contacto es una mera oportunidad de recopilación de ideas que no suponen promesas sobre el contenido de los informes finales.
 
@@ -66,12 +66,12 @@ Tras el contacto, el estudio de la situación y los contactos posteriores con el
 
 Las entrevistas de contacto deben traducirse en documentos, de modo que no se olviden ideas útiles. Además, de este modo aumenta la probabilidad de que las partes interesadas y el administrador acepten los temas tratados. Sin embargo, hay flexibilidad en cuanto al nivel de detalle, la estructura y el formato de dicha documentación. Debe existir un registro con un cierto detalle en cuanto a los requisitos, independientemente de si se implementan o no. Más adelante, esta información ayudará a sus compañeros a comprender el propósito de un punto de datos o les permitirá revisar cualquier omisión.
 
-Es preferible registrar un cierto contexto de los requisitos. Podría bastar incluso con anotar los puntos de datos implementados mediante sus campos de nombre y descripción dentro de Adobe Analytics. Este registro también puede ser más prolijo, hasta el punto de incluir el solicitante, las fechas, el nivel de granularidad, etcétera, aunque este no suele ser el enfoque apropiado. Si el registro o su revisión se vuelven engorrosos, el proceso termina abandonándose, por lo que las preguntas posteriores de sus compañeros acerca de un punto de datos concreto recibirán las respuestas habituales: &quot;no lo sé&quot;, &quot;eso se implementó antes de incorporarme yo&quot;, &quot;no nos genera confianza&quot;. Este resultado no infunde confianza ni fomenta la adopción de los datos.
+Es preferible registrar un cierto contexto de los requisitos. Podría bastar incluso con anotar los puntos de datos implementados mediante sus campos integrados de nombre y descripción dentro de Adobe Analytics. Este registro también puede ser más prolijo, hasta el punto de incluir el solicitante, las fechas, el nivel de granularidad, etcétera, aunque este no suele ser el enfoque apropiado. Si el registro o su revisión se vuelven engorrosos, el proceso termina abandonándose, por lo que las preguntas posteriores de sus compañeros acerca de un punto de datos concreto recibirán las respuestas habituales: &quot;no lo sé&quot;, &quot;eso se implementó antes de incorporarme yo&quot;, &quot;no nos genera confianza&quot;. Este resultado no infunde confianza ni fomenta la adopción de los datos.
 
 Adobe ofrece algunas herramientas y plantillas para ayudarle con este paso. Utilícelas y adáptelas según sus necesidades.
 
 * **El Documento de requisitos empresariales (BRD, por sus siglas en inglés)** ofrece una plantilla moderadamente detallada para la recopilación de requisitos y el seguimiento de la implementación.
-* **El Tablero de estado de Adobe Analytics** sirve para capturar una instantánea del estado de las variables de Adobe Analytics.
+* **El Panel de control de estado de Adobe Analytics** sirve para capturar una instantánea del estado de las variables de Adobe Analytics.
 
 ## ¡Haga las preguntas correctas!
 

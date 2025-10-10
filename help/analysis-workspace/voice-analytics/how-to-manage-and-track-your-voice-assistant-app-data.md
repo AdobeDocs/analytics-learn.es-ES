@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda a crear un tablero personalizado para administrar y rastrear el rendimiento de su aplicación de asistente de voz de una manera fácil, flexible, intuitiva y visual.
 
->[!VIDEO](https://video.tv.adobe.com/v/34958/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/27224/?quality=12&learn=on)

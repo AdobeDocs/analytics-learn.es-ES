@@ -21,4 +21,4 @@ ht-degree: 100%
 Los archivos de registro ayudan a ver cuándo los usuarios inician la sesión, su uso, los accesos, los grupos de informes y los cambios del administrador. El registro de administración crea informes de todos los cambios realizados por los administradores en las herramientas de administración. El registro es la forma de acceder a los informes definidos por el usuario desde cualquiera de los tres registros.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3418522/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335735/?quality=12&learn=on)

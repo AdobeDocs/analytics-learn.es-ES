@@ -1,6 +1,6 @@
 ---
-title: Habilitar, depurar y personalizar el Activity Map de Adobe Analytics
-description: Aprenda a habilitar, depurar y personalizar la forma en que se implementa Activity Map en la extensión de Analytics en Adobe Experience Platform tags.
+title: Habilitar, depurar y personalizar Adobe Analytics Activity Map
+description: Aprenda a habilitar, depurar y personalizar la forma en que se implementa Activity Map en la extensión de Analytics en las etiquetas de Adobe Experience Platform.
 feature: Activity Map
 team: Technical Marketing
 thumbnail: 25878.jpg
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# Habilitar, depurar y personalizar el Activity Map [!UICONTROL Adobe Analytics]
+# Habilitar, depurar y personalizar Adobe Analytics [!UICONTROL Activity Map]
 
-Aprenda a habilitar, depurar y personalizar la forma en que [!UICONTROL Activity Map] se implementa en la extensión de Analytics en Adobe Experience Platform tags.
+Aprenda a habilitar, depurar y personalizar la forma en que [!UICONTROL Activity Map] se implementa en la extensión de Analytics en las etiquetas de Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/327631?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-Para obtener más información acerca de cómo implementar [!UICONTROL Activity Map], visite la [documentación](https://experienceleague.adobe.com/es/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).
+Para obtener más información acerca de cómo implementar [!UICONTROL Activity Map], visite la [documentación](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).

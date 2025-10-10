@@ -20,4 +20,4 @@ ht-degree: 100%
 
 La interfaz de usuario fuente de datos de Adobe Analytics facilita la administración de fuentes de datos. Si tiene acceso para administrar la fuente de datos, puede volver a ejecutar un trabajo de fuente de datos por su cuenta mediante la interfaz de usuario de fuente de datos sin que el equipo de Asistencia al cliente vuelva a enviar los archivos de fuente de datos recientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418502/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335748/?quality=12&learn=on)

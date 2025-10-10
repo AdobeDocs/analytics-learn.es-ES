@@ -20,4 +20,4 @@ ht-degree: 100%
 
 A veces, es posible que deba ponerse en contacto con Adobe si se produce un error en la entrega de una fuente de datos o con una solicitud para reenviar un archivo de fuente de datos. El equipo de asistencia al cliente puede gestionar estas solicitudes de manera más cómoda si el cliente proporciona el ID de fuente de datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418479/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)

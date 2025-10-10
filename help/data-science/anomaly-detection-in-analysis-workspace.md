@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Analysis Workspace detecta automáticamente las anomalías de los datos de cualquier [!UICONTROL visualización] de series temporales o tabla de datos. Capture las “incógnitas” sin ningún esfuerzo adicional por su parte.
 
->[!VIDEO](https://video.tv.adobe.com/v/40729/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=es).

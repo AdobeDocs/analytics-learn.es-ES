@@ -21,4 +21,4 @@ ht-degree: 100%
 
 La configuración [!UICONTROL Ver densidad] en [!UICONTROL Proyecto] > [!UICONTROL Info y configuración del proyecto] permite controlar el margen vertical aplicado al carril izquierdo y a las tablas ([!UICONTROL Forma libre] &amp; [!UICONTROL Cohorte]). Puede elegir entre Expandida (predeterminada), Cómoda o Compacta.
 
->[!VIDEO](https://video.tv.adobe.com/v/40313/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12&learn=on)

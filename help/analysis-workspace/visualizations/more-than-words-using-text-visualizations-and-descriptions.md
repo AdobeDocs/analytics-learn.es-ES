@@ -47,13 +47,13 @@ Ahora, si prefiere incluir el contenido directamente en el informe, puede utiliz
 
 ![texto 06](assets/t06.png)
 
-Puede agregar una imagen accesible desde cualquier dirección URL pública al informe, siempre y cuando la dirección URL esté en formato *https* y tenga el formato .png, .jpeg, .jpg o .gif. Aunque esto puede parecer restrictivo, cualquier herramienta en línea utilizada para compartir imágenes o GIF como imgur o GIPHY puede proporcionar un método rápido para cargar archivos accesibles en Workspace mediante un vínculo compartido.
+Puede agregar una imagen accesible desde cualquier dirección URL pública al informe, siempre y cuando la dirección URL esté en formato *https* y tenga el formato .png, .jpeg, .jpg o .gif. Aunque esto puede parecer restrictivo, cualquier herramienta en línea utilizada para compartir imágenes o GIF, como imgur o GIPHY, puede proporcionar un método rápido para cargar archivos accesibles en Workspace mediante un vínculo compartido.
 
 ¿El resultado? Puede mostrar la página web a la que hacen referencia los datos directamente en el proyecto:
 
 ![texto 07](assets/t07.png)
 
-También puede usar GIF en sus proyectos para incluir imágenes en movimiento como un tutorial del sitio, una ruta ideal a través del sitio o una tarea de la aplicación, o simplemente mostrarle a su equipo lo ***alucinantes*** que se han vuelto sus informes:
+También puede usar GIF en sus proyectos para incluir imágenes en movimiento, como un tutorial del sitio, una ruta ideal a través del sitio o una tarea de la aplicación, o simplemente mostrarle a su equipo lo ***alucinantes*** que se han vuelto sus informes:
 
 ![texto 08](assets/t08.png)
 

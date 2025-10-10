@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Averigüe cómo usar Adobe Analytics para establecer las bases para lanzar una campaña de medios de pago de Advertising Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/40420/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/35114/?quality=12&learn=on)

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Este vídeo le enseña cómo crear un segmento en Analysis Workspace a partir de secuencias de comportamientos en el sitio o en la aplicación. En otras palabras, es posible que desee crear un segmento de visitantes que hicieron la cosa “A” y luego la “B”, para poder ver cómo esa secuencia de eventos afectó a todos los demás datos. Disfrútelo.
 
->[!VIDEO](https://video.tv.adobe.com/v/37430/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12&learn=on)
 
 Para obtener más información sobre este tema, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=es).

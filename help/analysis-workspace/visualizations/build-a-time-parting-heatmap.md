@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Aprenda a llevar el análisis de partición de tiempo al siguiente nivel creando una [!UICONTROL visualización] de mapa de calor de los comportamientos.
 
->[!VIDEO](https://video.tv.adobe.com/v/35172/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12&learn=on)

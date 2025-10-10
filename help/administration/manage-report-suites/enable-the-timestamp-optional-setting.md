@@ -1,5 +1,5 @@
 ---
-title: Activación de la opción Marca de tiempo opcional
+title: Habilitación de la opción Marca de tiempo opcional
 description: Las Marcas de hora opcionales nos permiten combinar datos con y sin marca de tiempo en el mismo grupo de informes globales, enviar datos con marca de tiempo desde una aplicación móvil a un grupo de informes globales y actualizar aplicaciones para usar el seguimiento sin conexión tener que crear un nuevo grupo de informes.
 feature: Data Configuration and Collection, Report Suite Settings
 topic: Administration
@@ -16,8 +16,8 @@ ht-degree: 100%
 
 ---
 
-# Activación de la opción Marca de tiempo opcional
+# Habilitación de la opción Marca de tiempo opcional
 
 Las Marcas de hora opcionales nos permiten combinar datos con y sin marca de tiempo en el mismo grupo de informes globales, enviar datos con marca de tiempo desde una aplicación móvil a un grupo de informes globales y actualizar aplicaciones para usar el seguimiento sin conexión tener que crear un nuevo grupo de informes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418612/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335740/?quality=12&learn=on)

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Al añadir visualizaciones en Analysis Workspace, existen varias formas de agregarles datos, según el tipo de visualización. Este vídeo muestra estos métodos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411537/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/332507/?quality=12&learn=on)

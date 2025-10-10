@@ -1,5 +1,5 @@
 ---
-title: Dirija el éxito con los paneles de resumen ejecutivo
+title: Dirija el éxito con los paneles de control de resumen ejecutivo
 description: 'Los ejecutivos suelen carecer de información oportuna y relevante para sus sitios y aplicaciones, ya que dependen de gráficos mensuales de Excel o se ahogan en datos granulares. La solución: tablero de resumen ejecutivo.'
 feature: Admin Tools
 role: User
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ---
 
-# Dirija el éxito con los paneles de resumen ejecutivo
+# Dirija el éxito con los paneles de control de resumen ejecutivo
 
 _Los ejecutivos suelen carecer de información oportuna y relevante para sus sitios y aplicaciones, ya que dependen de gráficos mensuales de Excel o se ahogan en datos granulares. La solución: tablero de resumen ejecutivo._
 
@@ -40,7 +40,7 @@ Muchos ejecutivos no tienen acceso a la información continua y relevante necesa
 
 Lo que usted quiere es que los ejecutivos tengan datos suficientes para saber cuándo se necesita su atención enseguida, no tanto que levanten la mano frustrados. Si ve un mensaje del propietario de un producto o administrador de marketing que un ejecutivo quiere conocer sobre una anomalía, está llegando al punto clave.
 
-Aquí es donde aparece el tablero de resumen ejecutivo como el medium feliz. Sabemos que el cuadro de resultados móvil es estupendo para un registro rápido de un ejecutivo sobre la marcha, pero un panel de resumen ejecutivo puede facilitar que los ejecutivos profundicen un poco más cuando están en sus escritorios. El cuadro de resultados móvil puede alertarles sobre un problema, pero el panel de resumen ejecutivo les permitirá comprender lo suficiente como para hacer las preguntas adecuadas a las personas adecuadas.
+Aquí es donde aparece el tablero de resumen ejecutivo como el medium feliz. Sabemos que el cuadro de resultados móvil es estupendo para un registro rápido de un ejecutivo sobre la marcha, pero un panel de control de resumen ejecutivo puede facilitar que los ejecutivos profundicen un poco más cuando están en sus escritorios. El cuadro de resultados móvil puede alertarles sobre un problema, pero el panel de control de resumen ejecutivo les permitirá comprender lo suficiente como para hacer las preguntas adecuadas a las personas adecuadas.
 
 La mayoría de los ejecutivos tienen unos tres Indicadores clave de rendimiento (KPI) que les preocupan profundamente. En el comercio minorista, pueden ser pedidos, ingresos y AOV. Para B2B, posibles clientes, calidad del posible cliente y tasa de conversión. Los servicios pueden estar interesados en visitas, citas y visitas repetidas. Sean cuales sean los tres, póngalos en números grandes y en negrita con un cambio interanual y un gráfico. La visualización Resumen de métricas clave facilita las tareas:
 
@@ -58,7 +58,7 @@ Ambos son bastante importantes en general, pero, como siempre, asegúrese de que
 
 Por último, en la parte inferior, añada algún detalle. Creo que el rendimiento de la página suele ser popular entre los ejecutivos, pero la clave es que está por debajo del pliegue. Pueden buscarlo si lo desean, pero, de lo contrario, tienen los datos que necesitan para hacer preguntas enseguida:
 
-![Tablero grande.png](assets/large-dashboard.png)
+![Panel de control grande.png](assets/large-dashboard.png)
 
 Con este producto final en mano, solo necesita:
 
@@ -70,8 +70,8 @@ Con este producto final en mano, solo necesita:
 
 - Hágase un poco de café y prepárese, porque después de que estén empoderados con los datos, los ejecutivos vendrán a usted con un montón de preguntas
 
-En conclusión, los paneles de resumen ejecutivo ofrecen información continua y relevante para la toma de decisiones oportuna. Los decks mensuales con gráficos de Excel son insuficientes y proporcionar demasiados datos granulares puede abrumar a los ejecutivos. Un medium feliz es centrarse en los tres indicadores clave de rendimiento (KPI) más importantes con datos históricos y desplegables para factores relevantes. Al formar
-a los ejecutivos sobre cómo usar el panel, pueden tomar decisiones informadas y hacer preguntas. Los paneles de resumen ejecutivo pueden mejorar el rendimiento del sitio y la aplicación y dirigir el éxito.
+En conclusión, los paneles de control de resumen ejecutivo ofrecen información continua y relevante para la toma de decisiones oportuna. Los decks mensuales con gráficos de Excel son insuficientes y proporcionar demasiados datos granulares puede abrumar a los ejecutivos. Un medium feliz es centrarse en los tres indicadores clave de rendimiento (KPI) más importantes con datos históricos y desplegables para factores relevantes. Al formar
+a los ejecutivos sobre cómo usar el panel de control, pueden tomar decisiones informadas y hacer preguntas. Los paneles de control de resumen ejecutivo pueden mejorar el rendimiento del sitio y la aplicación y dirigir el éxito.
 
 ## Autor
 

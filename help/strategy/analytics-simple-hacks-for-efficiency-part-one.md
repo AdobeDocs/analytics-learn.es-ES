@@ -9,7 +9,7 @@ exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '711'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -43,15 +43,15 @@ Otros desafíos clave a los que se enfrentan los analistas:
 
 1. Documentación y control de la recopilación de datos: especificaciones técnicas:
 
-   Las especificaciones técnicas tienen una audiencia más limitada que la SDR, pero son igualmente importantes, si no más, para una implementación funcional en su totalidad. Unas buenas especificaciones técnicas deben contener todos los recursos de desarrollo, control de calidad y administración de etiquetas necesarios para implementar la solución. Asegúrese de mantener tantos documentos como sea necesario para acomodar arquitecturas de implementación única.
+   Las especificaciones técnicas tienen un público más limitado que la SDR, pero son igualmente importantes, si no más, para una implementación funcional en su totalidad. Unas buenas especificaciones técnicas deben contener todos los recursos de desarrollo, control de calidad y administración de etiquetas necesarios para implementar la solución. Asegúrese de mantener tantos documentos como sea necesario para acomodar arquitecturas de implementación única.
 
    **Especificaciones técnicas**
 
-   _Caso de uso:_ instrucciones que describen cómo construir secuencias de comandos para la recopilación de datos
+   _Caso de uso :_instrucciones que describen cómo construir secuencias de comandos para la recopilación de datos
 
-   _Usuarios principales:_ desarrolladores
+   _Usuarios principales :_desarrolladores
 
-   _Otras notas:_
+   _Otras notas :_
 
    * Documento muy técnico creado específicamente para los entornos de implementación
    * Útil tanto para la implementación inicial como para el mantenimiento/referencia subsiguientes
@@ -70,15 +70,15 @@ Otros desafíos clave a los que se enfrentan los analistas:
 
 1. Documentación de recopilación de datos, gobernanza e higiene de los datos: AHD:
 
-   Analytics Health Dashboard (AHD) profundiza en un _único_ grupo de informes y proporciona una vista de los datos recopilados en cada componente (eVar, prop y evento). Esto ayuda a señalar si los datos han dejado de recopilarse en un componente para que pueda tomar medidas y corregir el problema. Puede ejecutar este panel en cualquier momento en el futuro para cualquier grupo de informes.
+   Analytics Health Dashboard (AHD) profundiza en un _único_ grupo de informes y proporciona una vista de los datos recopilados en cada componente (eVar, prop y evento). Esto ayuda a señalar si los datos han dejado de recopilarse en un componente para que pueda tomar medidas y corregir el problema. Puede ejecutar este panel de control en cualquier momento en el futuro para cualquier grupo de informes.
 
    Analytics Health Dashboard (AHD):
 
-   _Caso de uso:_ instantánea de cada métrica y dimensión capturada por un único grupo de informes
+   _Caso de uso :_: instantánea de cada métrica y dimensión capturada por un único grupo de informes
 
-   _Usuarios principales:_ SME o desarrolladores de Lead Analytics
+   _Usuarios principales :_SME o desarrolladores de Lead Analytics
 
-   _Otras notas:_
+   _Otras notas :_
    * Entregado a través de Excel mediante una integración personalizada de la API de informes de Adobe
    * Los usuarios deben tener acceso a la API de servicios web de Analytics
    * Existen opciones para semiautomatizar

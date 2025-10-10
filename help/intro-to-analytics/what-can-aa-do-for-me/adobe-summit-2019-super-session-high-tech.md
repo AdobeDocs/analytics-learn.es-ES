@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Vea una selección de clips de la supersesión sobre alta tecnología de la Adobe [!DNL Summit] de 2019
 
->[!VIDEO](https://video.tv.adobe.com/v/330378/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/30548/?quality=12&learn=on)

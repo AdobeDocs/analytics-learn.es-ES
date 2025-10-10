@@ -20,4 +20,4 @@ ht-degree: 19%
 
 Obtenga información sobre cómo administrar las métricas calculadas, como buscarlas, ver una lista, cambiar el nombre, eliminarlas, compartir, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423592/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3421406/?learn=on)

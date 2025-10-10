@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Aprenda más sobre la configuración del Administrador de seguridad en Configuración de la empresa para controlar el acceso a Adobe Analytics. Esto incluye contraseñas seguras, funciones de caducidad y recuperación de contraseñas y restricciones de dominio de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/40794/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12&learn=on)

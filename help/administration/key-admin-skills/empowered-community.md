@@ -19,13 +19,13 @@ ht-degree: 100%
 
 # Creación de una comunidad empoderada
 
->[!VIDEO](https://video.tv.adobe.com/v/341112/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
 
 Una comunidad empoderada es una que tiene algunas características notables. En primer lugar, es compatible con los administradores de Adobe Analytics. Tiene conocimientos sobre cómo se representan los requisitos comerciales dentro de su implementación. Por último, pero no menos importante, tiene los medios para utilizar el análisis de forma segura para la toma de decisiones basada en datos. Muchas empresas se benefician de la estructura que proporciona un grupo de usuarios interno de Adobe Analytics o una comunidad más formal.
 
 Puede crear una comunidad empoderada dentro de su organización. A continuación se muestra cómo:
 
-## 1. Genere una infraestructura sólida, la base de su comunidad empoderada
+## &#x200B;1. Genere una infraestructura sólida, la base de su comunidad empoderada
 
 * Crear un proceso de incorporación de usuario:
 
@@ -43,7 +43,7 @@ Puede crear una comunidad empoderada dentro de su organización. A continuación
 
   Los proyectos y las plantillas de informes de Adobe Analytics son recursos clave para permitir a los usuarios de herramientas conocer la implementación de su empresa, los casos de uso de los informes y las prácticas recomendadas. Estos recursos deben abordar preguntas comerciales comunes y cómo se pueden responder mejor dentro de la herramienta.
 
-## 2. Cree un plan para quién lo ejecuta y quién debe participar
+## &#x200B;2. Cree un plan para quién lo ejecuta y quién debe participar
 
 * Decida quién dirigirá la comunidad:
 
@@ -61,7 +61,7 @@ Puede crear una comunidad empoderada dentro de su organización. A continuación
 
 * Recuerde: “¿Qué les interesa?” Mantener a su comunidad centrada en casos de uso empresarial y prioridades ayuda a garantizar la participación y el éxito.
 
-## 3. Utilice herramientas para empezar a crear su comunidad
+## &#x200B;3. Utilice herramientas para empezar a crear su comunidad
 
 * [Crear una carta de proyecto](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (descarga de plantilla):
 
@@ -81,21 +81,21 @@ Puede crear una comunidad empoderada dentro de su organización. A continuación
 
 * Cree un plan de comunicación: un plan de comunicación sólido será clave para la participación de su comunidad y para el éxito general. Algunas preguntas a tener en cuenta al crear su plan son las siguientes:
 
-   * ¿Qué equipos se verán afectados por su comunidad, quiénes son los destinatarios (por ejemplo, ejecutivos, administradores, analistas de primera línea)?
-   * ¿Cuáles son los objetivos principales del mensaje, qué mensajes se necesitan, qué incluye para la audiencia de destino (WIIFM) y qué solicitudes tiene?
+   * ¿Qué equipos se verán afectados por su comunidad, quién es el público destinatario (por ejemplo, ejecutivos, administradores, analistas de primera línea)?
+   * ¿Cuáles son los objetivos principales del mensaje, qué mensajes se necesitan, qué incluye para el público destinatario (WIIFM) y qué solicitudes tiene?
    * ¿Qué vehículos de comunicación se deben utilizar (por ejemplo, correo electrónico, Slack, vídeo, reuniones, etc.) antes o después del lanzamiento de la comunidad? Por ejemplo, enviará correos electrónicos a través de la herramienta de administración de Adobe Analytics. O, ¿su nuevo proceso de incorporación de usuarios ahora debería incluir el mantenimiento de una lista de distribución de correo electrónico interna que se pueda utilizar para boletines informativos, etc.?
    * ¿Quién enviará la comunicación?
    * ¿Cuándo? Clave para considerar tanto las comunicaciones antes del lanzamiento de la comunidad, como las que deben proporcionarse de manera continua después del lanzamiento.
 
 * ¡Use su vehículo comunitario para salir en vivo! Dependiendo de la pila tecnológica de su empresa, también querrá elegir una herramienta o vehículo para su comunidad. Esto será personalizado para su organización, pero muchos a menudo encuentran que Microsoft Teams funciona bien.
 
-## 4. Mantener su comunidad para asegurar su éxito sostenido
+## &#x200B;4. Mantener su comunidad para asegurar su éxito sostenido
 
 * Reservar tiempo: agregue reuniones de la comunidad a los calendarios para reservar el tiempo con antelación, las reuniones recurrentes son una buena idea siempre que sean posibles y ayudarán a dar vida a su plan de contenido. Para ayudarle a empezar, aquí hay algunas ideas de la agenda:
 
    * Si su empresa realiza eventos virtuales, ¿qué conocimientos digitales y perspectivas se pueden compartir de forma más amplia?
    * Si el sitio web utiliza herramientas interactivas (como bots de chat, calculadoras de ahorros, demostraciones, etc.), ¿cómo se aprovechan los datos de rendimiento? ¿Qué perspectivas se pueden obtener para respaldar mejor a los clientes y al recorrido de clientes?
-   * ¿Cómo está su empresa aprovechando las capacidades existentes para mejorar y aprovechar las perspectivas de audiencia? Por ejemplo, ¿su empresa utiliza la nueva integración de Adobe Analytics y Marketo? ¿Qué conocimientos y perspectivas se pueden compartir de forma más amplia?
+   * ¿Cómo está su empresa aprovechando las capacidades existentes para mejorar y aprovechar las perspectivas de público? Por ejemplo, ¿su empresa utiliza la nueva integración de Adobe Analytics y Marketo? ¿Qué conocimientos y perspectivas se pueden compartir de forma más amplia?
 
 * Establezca expectativas: siga aprovechando la carta del proyecto y el plan de comunicación para establecer expectativas sobre lo que su comunidad es y no es. La coherencia es clave.
 * Plan para la participación: mientras su comunidad se está iniciando, puede ser beneficioso designar a alguien para que supervise y comprometa a los equipos a través del chat durante las reuniones y a través de sus vehículos comunitarios.
@@ -107,7 +107,7 @@ Establecer y mantener una comunidad empoderada es mucho trabajo. Es importante r
 
 * Toma de decisiones basada en datos: una comunidad empoderada puede [cambiar su empresa](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=es), ya que Adobe Analytics permite contar historias de datos, predecir y prescribir resultados de una manera accesible en toda la organización para apoyar la inteligencia de los clientes y la toma de decisiones basada en datos.
 
-* Mayor experiencia y eficiencia: se pueden establecer correlaciones directas entre la participación de la habilitación y el retorno de la inversión en marketing. Una comunidad empoderada aumenta la experiencia de todos, facilitando el intercambio de perspectivas, prácticas recomendadas, proyectos y actualizaciones de productos, fomentando la colaboración. Esto se hace al tiempo que se habilita la autosuficiencia y la buena optimización a través de Adobe Analytics. Esto es compatible con el canal de marketing, la página, la geolocalización, la audiencia, etc. También admite optimizaciones de experiencias, lo que permite a los equipos centrarse en dónde pueden lograr el mayor impacto.
+* Mayor experiencia y eficiencia: se pueden establecer correlaciones directas entre la participación de la habilitación y el retorno de la inversión en marketing. Una comunidad empoderada aumenta la experiencia de todos, facilitando el intercambio de perspectivas, prácticas recomendadas, proyectos y actualizaciones de productos, fomentando la colaboración. Esto se hace al tiempo que se habilita la autosuficiencia y la buena optimización a través de Adobe Analytics. Esto es compatible con el canal de marketing, la página, la geolocalización, el público, etc. También admite optimizaciones de experiencias, lo que permite a los equipos centrarse en dónde pueden lograr el mayor impacto.
 
 * Realización del valor: si su empresa ha invertido en una herramienta tan potente como Adobe Analytics, a todos nos interesa que se aproveche todo su potencial.
 

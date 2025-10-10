@@ -1,6 +1,6 @@
 ---
 title: Creación de informes con canales de marketing de Advertising Cloud
-description: Averigüe cómo funcionan los datos de entrada de pulsaciones y vistas de Advertising Cloud con los canales de marketing de Adobe Analytics.
+description: Averigüe cómo funcionan los datos de entrada de clics y vistas de Advertising Cloud con los canales de marketing de Adobe Analytics.
 feature: Advertising Analytics
 topic: Integrations
 role: User
@@ -17,6 +17,6 @@ ht-degree: 100%
 
 # Creación de informes con canales de marketing de Advertising
 
-Averigüe cómo funcionan los datos de entrada de pulsaciones y vistas de Advertising Cloud con los [!UICONTROL canales de marketing] de Adobe Analytics.
+Averigüe cómo funcionan los datos de entrada de clics y vistas de Advertising Cloud con los [!UICONTROL canales de marketing] de Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/40426/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)

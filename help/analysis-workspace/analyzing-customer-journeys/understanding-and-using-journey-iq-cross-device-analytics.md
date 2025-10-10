@@ -55,7 +55,7 @@ Siga leyendo para obtener más información sobre lo siguiente:
 
 ## Funcionamiento del [!DNL Cross-Device Analytics]
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] se integra con [!DNL Adobe Experience Platform Identity Service], utilizando [!DNL Device Graph] para identificar cómo se asignan los dispositivos a las personas. Entonces, aprovecha esta inteligencia para crear una vista multidispositivo del comportamiento del usuario. El análisis multidispositivo incluye funcionalidades y herramientas sin igual para ayudar a su empresa a comprender el uso de varios dispositivos y la experiencia del cliente en dichos dispositivos en sus interacciones con su marca. Se encuentra como una capa debajo de Analysis Workspace para proporcionar un conocimiento profundo del análisis de audiencias basado en personas y la atribución, segmentación y análisis de recorrido multidispositivo mediante herramientas potentes como [!UICONTROL visita en orden previsto], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] y [!DNL Attribution IQ].
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] se integra con [!DNL Adobe Experience Platform Identity Service], utilizando [!DNL Device Graph] para identificar cómo se asignan los dispositivos a las personas. Entonces, aprovecha esta inteligencia para crear una vista multidispositivo del comportamiento del usuario. El análisis multidispositivo incluye funcionalidades y herramientas sin igual para ayudar a su empresa a comprender el uso de varios dispositivos y la experiencia del cliente en dichos dispositivos en sus interacciones con su marca. Se encuentra como una capa debajo de Analysis Workspace para proporcionar un conocimiento profundo del análisis de públicos basado en personas y la atribución, segmentación y análisis de recorrido multidispositivo mediante herramientas potentes como [!UICONTROL visita en orden previsto], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] y [!DNL Attribution IQ].
 
 ### El [!DNL Cross-Device Virtual Report Suite]
 
@@ -108,7 +108,7 @@ El análisis multidispositivo se incluye con [[!DNL Analytics Ultimate]](https:/
 
 ### Personas, no visitantes
 
-Dentro del [!UICONTROL grupo de informes virtuales] del análisis multidispositivo, verá algunos cambios. Por ejemplo, la métrica [!UICONTROL Visitantes únicos] se ha sustituido por dos métricas nuevas: [!UICONTROL Personas] y [!UICONTROL Dispositivos únicos]. Estas nuevas métricas le ofrecen un mejor conocimiento del tamaño de la audiencia.
+Dentro del [!UICONTROL grupo de informes virtuales] del análisis multidispositivo, verá algunos cambios. Por ejemplo, la métrica [!UICONTROL Visitantes únicos] se ha sustituido por dos métricas nuevas: [!UICONTROL Personas] y [!UICONTROL Dispositivos únicos]. Estas nuevas métricas le ofrecen un mejor conocimiento del tamaño del público.
 
 *Personas y Dispositivos únicos*
 ![[!UICONTROL Métrica Personas]](assets/cda-people-metric.png) del análisis multidispositivo 
@@ -133,7 +133,7 @@ ahora persistirá automáticamente de un dispositivo a otro hasta que se active 
 
 ## Análisis de datos multidispositivo en Analysis Workspace
 
-### Análisis de audiencias basadas en personas
+### Análisis de públicos basados en personas
 
 ¿Alguna vez se ha preguntado cuántas personas están interactuando con su marca? ¿Ha querido comprender cuántos dispositivos utilizan y de qué tipo? ¿Cómo se superpone su uso? Con un grupo de informes virtuales de análisis multidispositivo, puede crear [Diagramas de Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=es) multidispositivo e [histogramas](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=es) de dispositivos por persona.
 

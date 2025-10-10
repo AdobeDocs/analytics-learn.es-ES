@@ -18,6 +18,6 @@ ht-degree: 100%
 
 En este vídeo aprenderá a añadir y configurar la visualización Anillo en su proyecto de Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416623/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=es).
