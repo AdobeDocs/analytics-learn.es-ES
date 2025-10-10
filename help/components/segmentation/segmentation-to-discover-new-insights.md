@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Tanto si es un usuario nuevo de Adobe Analytics como si es un profesional experimentado, aprovechará bastante los segmentos en sus proyectos de Analysis Workspace. Como describe [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=es), &quot;los segmentos le permiten identificar subconjuntos de visitantes basándose en sus características o en las interacciones con el sitio web&quot;. Aunque el resultado básico de esta función es aislar grupos de usuarios, visitas o visitas individuales a su sitio, un analista agudo como usted puede ser creativo con esta herramienta y encontrar nuevas formas de obtener información sobre la actividad del sitio. La lista de opciones posibles es amplia, así que no dude en crear la suya propia y compartirla con otros de su organización o en línea en comunidades como la [Comunidad de Adobe Analytics](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=es) en Experience League o la comunidad de [#Measure Slack](https://www.measure.chat/).
 
-Si necesita un repaso rápido sobre cómo crear un segmento, consulte la documentación de Experience League sobre el uso de [Generador de segmentos](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en) en Analysis Workspace.
+Si necesita un repaso rápido sobre cómo crear un segmento, consulte la documentación de Experience League sobre el uso de [Generador de segmentos](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=es) en Analysis Workspace.
 
 ## Comparación y contraste de segmentos
 

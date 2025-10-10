@@ -29,7 +29,7 @@ Por todas estas razones, decidimos que sería más útil para usted y para nuest
 Si su función es la de usuario empresarial, profesional o similar, le recomendamos que realice los siguientes cursos para conocer los aspectos básicos que le ayudarán a dominar Analysis Workspace:
 
 1. [Introducción a Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&lang=es)
-1. [Tablas improvisadas: la base del análisis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
+1. [Tablas improvisadas: la base del análisis](https://experienceleague.adobe.com/?lang=es&recommended=Analytics-U-1-2020.3)
 1. [Uso de visualizaciones para contar sus historias de datos](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&lang=es)
 1. [Atribución de valor a puntos de contacto digital en Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&lang=es)
 

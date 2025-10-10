@@ -22,4 +22,4 @@ Aprenda a crear filtros desplegables basados en una dimensión completa. Los ele
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html#dynamic-drop-down-filters).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=es#dynamic-drop-down-filters).

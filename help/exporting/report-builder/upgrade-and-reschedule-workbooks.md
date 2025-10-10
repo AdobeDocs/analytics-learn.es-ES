@@ -20,4 +20,4 @@ Obtenga información sobre cómo actualizar y reprogramar libros de [!DNL Report
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
 
-Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics/analyze/report-builder/home).
+Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics/analyze/report-builder/home).

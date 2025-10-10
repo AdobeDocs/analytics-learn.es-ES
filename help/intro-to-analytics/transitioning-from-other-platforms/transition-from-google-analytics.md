@@ -137,7 +137,7 @@ Otra funcionalidad potente de los espacios de trabajo es la capacidad de aplicar
 
 >[!IMPORTANT]
 >
->Para obtener más información acerca del uso de desplegables y desgloses de forma libre, consulte <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
+>Para obtener más información acerca del uso de desplegables y desgloses de forma libre, consulte <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=es>
 
 ##### 2.1.2.2. Google Analytics: paneles, informes personalizados e informes guardados
 
@@ -267,7 +267,7 @@ Sin embargo, subrayaré que recomendaría utilizar tanto Adobe Analytics como Go
 
 Hay muchos recursos disponibles más allá de esta guía, que pueden ayudar a mejorar su estrategia:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/?lang=es#home): contiene tutoriales, vídeos, documentación y foros de la comunidad
+* [Adobe Experience League](https://experienceleague.adobe.com/es?lang=es#home): contiene tutoriales, vídeos, documentación y foros de la comunidad
 * [Grupos de usuarios de Adobe](https://analytics-augs.adobe.com/): un centro de eventos de la comunidad para ayudar a los usuarios a conectar entre sí y mejorar sus implementaciones.
 * [Canal de YouTube de grupos de usuarios de Adobe Analytics](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA): ¿no pudo asistir a una sesión de grupo de usuarios de Adobe Analytics? Vuelva a ver las sesiones de grupos de usuarios anteriores en todo el mundo para obtener más información acerca de cómo utilizan la herramienta sus colegas.
 * [Canal de Slack de chat de Measure](https://www.measure.chat/): conéctese con usuarios de Adobe Analytics de todo el mundo y comparta las lecciones aprendidas en la industria, haga preguntas de sus colegas y únase a grupos de interés centrados en la medición.
