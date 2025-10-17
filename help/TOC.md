@@ -4,10 +4,10 @@ user-guide-description: Vea tutoriales en vídeo sobre Adobe Analytics y aprenda
 breadcrumb-title: Tutoriales de Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 4beeaf5dc1fceb3397662516764a0160d539d6fd
+source-git-commit: e0e36746dcdad99bf20db0b5722d7ee8626f1288
 workflow-type: tm+mt
-source-wordcount: '2172'
-ht-degree: 88%
+source-wordcount: '2176'
+ht-degree: 87%
 
 ---
 
@@ -64,7 +64,7 @@ ht-degree: 88%
       + [Selección de un grupo de informes en Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Ver métricas de rendimiento de Analysis Workspace](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
       + [Creación de informes de bot](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
-   + Pestaña Sugerencias y trucos {#tips-and-tricks}
+   + Sugerencias y trucos {#tips-and-tricks}
       + [Creación de hipervínculos en tablas de forma libre](analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables.md)
       + [Siete consejos y trucos para Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Sugerencias y trucos al hacer clic con el botón derecho para flujos de trabajo más eficientes](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
@@ -336,6 +336,7 @@ ht-degree: 88%
       + [Introducción a los conjuntos de clasificaciones](components/classifications/introduction-to-classification-sets.md)
       + [Usar conjuntos de clasificaciones](components/classifications/use-classification-sets.md)
       + [La clasificación establece métodos de importación de datos](components/classifications/classification-sets-data-import-methods.md)
+      + [La clasificación establece el historial de trabajos](components/classifications/classification-sets-job-history.md)
    + Grupos de informes virtuales {#virtual-report-suites}
       + [Resumen de los grupos de informes virtuales](components/virtual-report-suites/virtual-report-suites.md)
       + [Depuración de componentes](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
