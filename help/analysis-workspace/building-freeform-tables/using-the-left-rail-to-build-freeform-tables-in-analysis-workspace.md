@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Aprenda a usar el carril izquierdo de Analysis Workspace para buscar, crear y agregar elementos a las tablas de forma libre.
 
->[!VIDEO](https://video.tv.adobe.com/v/40089/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475911/?captions=spa&quality=12&learn=on)

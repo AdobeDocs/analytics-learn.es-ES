@@ -20,6 +20,6 @@ ht-degree: 11%
 
 Conozca diferentes métodos para importar datos de clasificación con conjuntos de clasificaciones, así como algunos casos de uso asociados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475831/?captions=spa&learn=on&enablevpops)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics/components/classifications/sets/overview){target="_blank"}.
