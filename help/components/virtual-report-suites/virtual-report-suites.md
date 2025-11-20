@@ -18,5 +18,5 @@ ht-degree: 0%
 
 Adobe Analytics le permite crear grupos de informes virtuales para los usuarios, que segmentan los datos y limitan los usuarios/grupos únicamente a los segmentos de datos permitidos. Este vídeo muestra cómo crear y trabajar con grupos de informes virtuales. Para obtener documentación detallada, visite [Resumen de los grupos de informes virtuales](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=es){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476974/?captions=spa&quality=12&learn=on)
 
