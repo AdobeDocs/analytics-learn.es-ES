@@ -25,6 +25,6 @@ ht-degree: 27%
 
 La creación de informes de [!UICONTROL Uso de llamadas al servidor] le permitirán realizar un seguimiento exacto de la asignación de llamadas al servidor que ha utilizado en cualquier momento, y también le avisarán de forma proactiva cuando se aproxime a su compromiso total.
 
->[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38641/?captions=spa&quality=12&learn=on)
 
 Puede ser difícil mantenerse al día con el consumo de llamadas al servidor de su organización, lo que provoca frustración en torno a los cargos adicionales. Con la creación de informes de [!UICONTROL Uso de llamadas al servidor], puede realizar un seguimiento de la cantidad exacta de la asignación de llamadas al servidor que ha utilizado en cualquier momento, y también le avisará de forma proactiva cuando se aproxime a su compromiso total. El tablero que lo acompaña le permite analizar dónde se están utilizando las llamadas al servidor, de modo que pueda corregir implementaciones fuera de ejecución o trabajar con compañeros para reducir la escala en lugares donde se podrían recopilar grandes volúmenes de datos de menor valor.
