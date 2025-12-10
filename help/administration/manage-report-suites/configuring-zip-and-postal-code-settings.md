@@ -11,10 +11,10 @@ author: Doug Moore
 team: Technical Marketing
 kt: 2679
 topic: Administration
-role: Admin, Architect
+role: Admin, Developer
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -25,6 +25,6 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a configurar el [!UICONTROL código postal] para poder realizar análisis basados en los datos de esta región.
 
->[!VIDEO](https://video.tv.adobe.com/v/35175/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
 Para obtener más información sobre la configuración del [!UICONTROL código postal], consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=es).

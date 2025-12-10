@@ -7,10 +7,10 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 08131913-cb39-4c58-a322-da1e83442e84
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Este vídeo describe la plantilla de [!UICONTROL Consumo de audio] en Analysis Workspace, que está disponible de forma predeterminada para [!DNL Audio Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/37552/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12&learn=on)
 
 [!DNL Audio Analytics] conecta la participación de audio de streaming de los oyentes con su comportamiento digital completo, para comprender quién escucha, dónde, cuándo y con qué frecuencia evaluar el comportamiento del usuario en un mercado de audio muy fragmentado. Esta función permite a las empresas medir el alcance de sus oyentes y la popularidad de su contenido, además de obtener información sobre cómo mantener el interés de los usuarios basándose en sus comportamientos y aspectos similares.

@@ -7,10 +7,10 @@ activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: ee3a808a-f972-46e4-9213-2bc5bba6e0fd
-source-git-commit: 876f51fc1e048fdb4d65451e2c555f8fd55cadf4
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 En este vídeo se muestra cómo crear elementos de datos para la implementación de Analytics en [!DNL tags] en función de las variables y los eventos documentados en un documento de referencia de diseño de solución (SDR).
 
->[!VIDEO](https://video.tv.adobe.com/v/31349/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12&learn=on)

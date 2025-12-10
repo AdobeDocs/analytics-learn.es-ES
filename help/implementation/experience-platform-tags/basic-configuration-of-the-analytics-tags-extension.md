@@ -4,10 +4,10 @@ description: Este vídeo muestra una forma rápida de configurar la extensión e
 feature: Tags
 topics: Development
 kt: 3586
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: 07fe5327-c8b8-48cb-a357-a0426ab8494c
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 86%
@@ -18,4 +18,4 @@ ht-degree: 86%
 
 Este vídeo muestra una configuración rápida de la extensión de Analytics en Experience Platform [!DNL tags] para un sitio básico. Para obtener documentación detallada, consulte [Descripción general de la extensión de Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=es){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428544/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12&learn=on)

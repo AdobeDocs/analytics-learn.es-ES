@@ -7,10 +7,10 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4387
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 97221e6f-24c6-4d03-a0b9-69e1944bb775
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!DNL HomeDepot.com], un sitio de comercio electrónico valorado en 7000 millones de dólares que pertenece a una compañía de 100 000 millones de dólares, se mantiene a la cabeza de la competencia porque garantiza una experiencia del cliente adecuada. Descubra cómo [!DNL Home Depot] utiliza las soluciones de Adobe para mejorar la lealtad de marca y la satisfacción del cliente gracias a una experiencia de compra personalizada.
 
->[!VIDEO](https://video.tv.adobe.com/v/36291/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12&learn=on)

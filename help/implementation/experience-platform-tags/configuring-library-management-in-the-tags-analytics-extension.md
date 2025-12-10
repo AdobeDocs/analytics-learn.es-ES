@@ -4,10 +4,10 @@ description: Obtenga información acerca de las opciones de configuración de ad
 feature: Tags
 topics: Development
 kt: 2836
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 88%
@@ -18,4 +18,4 @@ ht-degree: 88%
 
 Obtenga información acerca de las opciones de configuración de administración de bibliotecas para la extensión de Analytics en Experience Platform [!DNL tags]. En este vídeo también se explica la selección de grupos de informes para la recopilación de datos.  Para obtener documentación detallada, consulte [Descripción general de la extensión de Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=es){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429830/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)

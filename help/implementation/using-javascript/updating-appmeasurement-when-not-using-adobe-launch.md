@@ -7,10 +7,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1848
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: 27a8ce2f-afea-4505-9525-49720432f40f
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Este vídeo le muestra cómo actualizar el código de appMeasurement cuando no utilice Adobe [!DNL Experience Platform Launch]. Esto incluye dónde obtener el código y dónde actualizarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/34793/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25913/?quality=12&learn=on)
 
 >[!NOTE]
 >

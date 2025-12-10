@@ -3,12 +3,12 @@ title: Uso de una capa de datos para establecer variables de Analytics en Experi
 description: Obtenga información sobre cómo usar una capa de datos para obtener datos de Analytics y otras soluciones de Experience Cloud.
 feature: Tags
 topics: Development
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 7c9c1da81fac391f030c6a39a81d039a5b084f63
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 100%
@@ -21,7 +21,7 @@ Aprenda a extraer sus valores de la capa de datos y utilizarlos en Experience Pl
 
 Consulte información adicional sobre las capas de datos en la documentación de [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=es) y las etiquetas de [Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html?lang=es).
 
->[!VIDEO](https://video.tv.adobe.com/v/327645/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
 
 >[!NOTE]
 >
