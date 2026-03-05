@@ -20,6 +20,6 @@ ht-degree: 57%
 
 La fuente de datos [!UICONTROL Data Feed] de Adobe Analytics le permite exportar datos del flujo de navegación sin procesar para importarlos y combinarlos con otras fuentes de datos fuera de Adobe Analytics. Puede crear y administrar sus propias [!UICONTROL fuentes de datos] en Adobe Analytics. Este vídeo le mostrará cómo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428561/?captions=spa&quality=12&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=es#).
