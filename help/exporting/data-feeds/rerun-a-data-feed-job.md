@@ -1,23 +1,22 @@
 ---
 title: Volver a ejecutar un trabajo de fuente de datos
-description: La interfaz de usuario fuente de datos de Adobe Analytics facilita la administración de fuentes de datos. Si tiene acceso para administrar la fuente de datos, puede volver a ejecutar un trabajo de fuente de datos por su cuenta mediante la interfaz de usuario de fuente de datos sin que el equipo de Asistencia al cliente vuelva a enviar los archivos de fuente de datos recientes.
+description: La interfaz de usuario de fuente de datos de Adobe Analytics facilita la administración de fuentes de datos. Si tiene acceso para administrar fuentes de datos, puede volver a ejecutar un trabajo de fuente de datos por su cuenta en la interfaz de usuario de fuente de datos sin que el equipo de Atención al cliente vuelva a enviar los archivos de fuente de datos.
 feature: Data Feeds, Data Configuration and Collection
 topic: Administration
 role: User, Admin
 level: Beginner
-doc-type: feature video
-thumbnail: 335748.jpg
-kt: KT-8465
+kt: 8465
+last-substantial-update: 2026-03-09T00:00:00Z
 exl-id: 7cf7ea59-4516-486d-99f5-79cb55b23a3c
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: dbfe7953a2d22f6c4d3305b046afcabda7f193df
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 9%
 
 ---
 
 # Volver a ejecutar un trabajo de fuente de datos
 
-La interfaz de usuario fuente de datos de Adobe Analytics facilita la administración de fuentes de datos. Si tiene acceso para administrar la fuente de datos, puede volver a ejecutar un trabajo de fuente de datos por su cuenta mediante la interfaz de usuario de fuente de datos sin que el equipo de Asistencia al cliente vuelva a enviar los archivos de fuente de datos recientes.
+La interfaz de usuario de fuente de datos de Adobe Analytics facilita la administración de fuentes de datos. Si tiene acceso para administrar fuentes de datos, puede volver a ejecutar un trabajo de fuente de datos por su cuenta en la interfaz de usuario de fuente de datos sin que el equipo de Atención al cliente vuelva a enviar los archivos de fuente de datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418502/?quality=12&learn=on&captions=spa)
+>[!SLIDE](aa-rerun-data-feed-job)
