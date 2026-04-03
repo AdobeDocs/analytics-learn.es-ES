@@ -1,10 +1,12 @@
 ---
-source-git-commit: f14c54baeb4378f4a613a650d6b9474d613159ab
+source-git-commit: fd9f28514f1afa5fce3c11b7a089a0b792fe1279
 workflow-type: tm+mt
-source-wordcount: '7'
+source-wordcount: '9'
 ht-degree: 0%
 
 ---
-# ARCHIVADO
+# analytics-learn.en
 
-Este repositorio se ha migrado a <https://github.com/Adobe-Enterprise-Docs/analytics-learn.es-ES>.
+Tutoriales de colaboración y materiales de habilitación de Analytics
+
+[foo](bar)
