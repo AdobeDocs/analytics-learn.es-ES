@@ -5,9 +5,8 @@ feature: Analytics Basics
 role: Leader
 level: Intermediate
 hide: true
-hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
+source-git-commit: 4b4600cb7bae5c546a9e8cd4d7241e334b681387
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 79%
@@ -16,7 +15,7 @@ ht-degree: 79%
 
 # Programa de Adobe Analytics para el sector educativo
 
->[!VIDEO](https://video.tv.adobe.com/v/3443853/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3443853/?captions=spa&quality=12&learn=on)
 
 ## Contenido del curso de Analytics
 
