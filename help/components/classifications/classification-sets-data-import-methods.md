@@ -29,4 +29,4 @@ Conozca diferentes métodos para importar los datos de clasificación con conjun
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
 
-Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/en/docs/analytics/components/classifications/sets/overview){target="_blank"}.
+Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/es/docs/analytics/components/classifications/sets/overview){target="_blank"}.
