@@ -7,10 +7,41 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
+TQID: https://experienceleague.adobe.com/rWtllAn3jMduCGGWsN-DpKB1WmE-P-EuVcjOyuQn6S0
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+  - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+subfeature_v2:
+  - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+  - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: e3e906cf-5493-4e0a-9a33-bf0ac37393d6
+  - id: e7d92df1-c5ba-4e93-85df-f83171b889be
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '3403'
-ht-degree: 97%
+source-wordcount: 3446
+ht-degree: 94%
 
 ---
 
@@ -34,9 +65,9 @@ Cuando la gente compara Adobe Analytics con Google Analytics, comentan que la in
 
 Empecemos por ver la creación de informes “en el sitio”.
 
-### 2.1. Creación de informes en el sitio
+### 2.1. Informes en el sitio
 
-#### 2.1.1. Pantalla de inicio
+#### 2.1.1. Pantalla principal
 
 Tanto Adobe Analytics como Google Analytics permiten personalizar la primera vista que ve un usuario cuando inicia sesión.
 
@@ -123,7 +154,7 @@ El espacio de trabajo le permite dejar volar su creatividad, no se limita a desg
 
 >[!TIP]
 >
->No tenga miedo de jugar y explorar. Hay muchas maneras de pensar distinto. Además, compruebe que lo que ha creado demuestra lo que piensa. La experiencia ayuda.
+>No tenga miedo de jugar y explorar. Hay muchas maneras de pensar fuera de lo común. Además, compruebe que lo que ha creado demuestra lo que piensa. La experiencia ayuda.
 
 Puede crear métricas calculadas sobre la marcha o segmentos que solo se encuentren dentro del informe para evitar que se sature el repositorio de segmentos y cálculos. Esto le permite crear elementos centrados que son necesarios para informes específicos sin confundir a su organización con cosas que no se pueden aprovechar en otros contextos.
 
@@ -203,11 +234,11 @@ Estos ofrecen una visión rápida y sencilla de sus datos. Sin embargo, no puede
 
 Son buenos para obtener datos analíticos rápidos, pero si realmente necesita profundizar, sufren de limitaciones.
 
-### 2.2. Acceso ampliado a los informes
+### 2.2. Acceso ampliado a informes
 
 Además de la Creación de informes en el sitio, la mayoría de las herramientas ofrecen una funcionalidad ampliada que le permite sacar el análisis de las herramientas y crear algo un poco más personalizado.
 
-#### 2.2.1. Report Builder de Adobe Analytics (extensión de Microsoft® Excel)
+#### 2.2.1. Adobe Analytics Report Builder (Extensión de Microsoft® Excel)
 
 El espacio de trabajo es una buena herramienta, pero a veces es necesario poner los datos en una hoja de cálculo personalizada, posiblemente para poder unir varias fuentes de datos. Aquí es donde Report Builder entra en juego.
 
@@ -217,7 +248,7 @@ Report Builder es un complemento para Microsoft® Excel que le permite crear con
 >
 >Report Builder tiene un permiso especial que debe aplicarse a los usuarios para acceder a este complemento. Debería concederse a los usuarios que hayan aprendido a utilizar bien la herramienta.
 
-#### 2.2.2. Conexión de la API de Adobe Analytics
+#### 2.2.2. Conexión de API de Adobe Analytics
 
 Si necesita que los datos de Adobe Analytics se digieran con algo distinto a Excel y quiere los datos procesados, incluidas las exclusiones de reglas de bots, utilice la API de Adobe para extraer los datos directamente. A continuación, procese los datos mediante un script o agréguelos a una base de datos para su uso con otro sistema.
 
@@ -226,14 +257,14 @@ Debe tenerse en cuenta que la API sigue extrayendo datos de correlación aplican
 Workspace de Adobe (sección 2.1.2.1) utiliza la API para generar los informes y, si habilita el modo de depuración en Workspace, le mostrará las llamadas de API exactas que se han usado. Esta es una forma rápida de generar sus llamadas de API. Al utilizar el Espacio de trabajo para generar y validar los datos que quiere extraer, emplee esas llamadas de API para sacar los datos a su propio procesamiento.
 
 
-#### 2.2.3. Data Studio de Google Analytics
+#### 2.2.3. Google Analytics Data Studio
 
 Si ha estado leyendo, ya sabe que he mencionado Data Studio como el equivalente al Espacio de trabajo de Adobe. Data Studio le permite extraer datos de Google Analytics, pero también de otras fuentes. Es interesante si desea consolidar los datos de análisis con otros datos recopilados. Sin embargo, con Google Analytics, existen el mismo tipo de limitaciones de visualización. El modo en que se forman las filas y columnas sigue siendo limitado.
 
 Con todo, es una herramienta potente, y no disuadiría a la gente de usarla de ninguna manera. Mi experiencia personal es que el comportamiento rígido es bastante restrictivo.
 
 
-#### 2.2.4. Extensión de hoja de cálculo de Google
+#### 2.2.4. Extensión de hoja de cálculo Google
 
 Para mis propios usos, cuando necesito extraer datos de forma extensa de Google Analytics, la herramienta de mi elección es la extensión de hoja de cálculo de Google. Aunque necesito hacer múltiples conexiones a mis tablas de GA, puedo hacer referencia a las celdas de los datos sin procesar y elaborar los informes que necesito. Después, los visualizo utilizando las funcionalidades gráficas de las Hojas de cálculo de Google.
 
@@ -255,7 +286,7 @@ Las fuentes se pueden enviar directamente a FTP, SFTP o S3.
 
 ### 3.2. Google Big Query
 
-Por desgracia, esta es una herramienta de Google con la que no he tenido ninguna experiencia. En teoría debería ser similar a la Fuente de datos de Adobe, lo que permite a su equipo de ingeniería acceder a los datos sin procesar desde su cuenta de Google Analytics.
+Desafortunadamente, esta es una herramienta de Google con la que no he tenido ninguna experiencia. En teoría debería ser similar a la Fuente de datos de Adobe, lo que permite a su equipo de ingeniería acceder a los datos sin procesar desde su cuenta de Google Analytics.
 
 Sin embargo, en lugar de proporcionar un volcado de datos sin procesar completo, permite a los ingenieros acceder a los datos a través de consultas SQL para extraer datos sin procesar concretos o todas las columnas.
 

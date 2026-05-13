@@ -10,10 +10,31 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-source-git-commit: 01e6e84f748e359aeb42c9be3afa52088f41018b
+TQID: https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: a544b409-2610-410d-a842-474ac1d0d54e
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1466'
-ht-degree: 100%
+source-wordcount: 1607
+ht-degree: 94%
 
 ---
 
@@ -29,19 +50,19 @@ Cuando los usuarios interactúan con su marca, lo hacen de muchas maneras y en v
 
 A continuación, se muestra un ejemplo. Supongamos que Isabelle interactuó con su marca de la siguiente manera:
 
-*Isabelle son tres visitantes*
+*Isabelle tiene tres visitantes*
 ![Recorrido tradicional de Analytics](assets/cda-isabelle-journey-traditional-analytics.png)
 
 Utilizando el análisis tradicional, el recorrido de Isabelle se divide en tres partes. Está representada como tres visitantes únicos, cada uno de los cuales utilizó un dispositivo diferente para realizar tareas aisladas. Lo que se necesita es una vista unificada y multidispositivo de las interacciones de Isabelle. [!DNL Journey IQ: Cross-Device Analytics] proporciona esta vista.
 
-*Isabelle es solo una persona*
-![Recorrido de análisis multidispositivo](assets/cda-isabelle-journey-cross-device-analytics.png)
+*Isabelle es una persona*
+![Recorrido de análisis entre dispositivos](assets/cda-isabelle-journey-cross-device-analytics.png)
 
 ### Una vista multidispositivo proporciona mejores análisis
 
 Tener una visión de la conducta de Isabelle centrada en las personas y multidispositivo puede marcar una diferencia significativa en su análisis. Por ejemplo, el enfoque tradicional basado en visitantes no le ofrece una imagen completa de la eficacia del canal de marketing. Veamos una vez más el recorrido de Isabelle, centrándonos en qué canal recibe crédito por su vista del producto y por su compra. Usaremos la atribución de [!UICONTROL último contacto] por simplicidad, pero ocurre el mismo problema usando cualquier modelo de atribución cuando se divide el comportamiento de Isabelle en visitantes separados. El uso de la visión tradicional del mundo basada en visitantes da resultados muy diferentes e incluso engañosos:
 
-*Análisis tradicional frente a análisis multidispositivo*
+*Análisis tradicional vs. Análisis entre dispositivos*
 ![atribución de canal](assets/channel-attribution.png)
 
 Observe que, con la vista multidispositivo, el canal de correo electrónico recibe crédito tanto por la vista del producto como por la compra, lo que representa con mayor precisión la experiencia de Isabelle en el mundo real.
@@ -63,18 +84,18 @@ El análisis multidispositivo se presenta a través de un tipo especial de [[!UI
 
 En el primer paso del generador del grupo de informes virtuales, seleccione el [!UICONTROL grupo de informes] que ha configurado Adobe como habilitado para análisis multidispositivo:
 
-*Elija un [!UICONTROL grupo de informes]* base habilitado para análisis multidispositivo (fuente)
-Primer paso del ![[!UICONTROL grupo de informes virtuales]](assets/cda-vrs-step-one.png)
+*Elija una base habilitada para análisis multidispositivo (origen) [!UICONTROL grupo de informes]*
+![[!UICONTROL Grupo de informes virtuales], paso uno](assets/cda-vrs-step-one.png)
 
 A continuación, active el [!UICONTROL Procesamiento de intervalo de tiempo] y habilite la [!UICONTROL vinculación multidispositivo]:
 
-*Habilite el [!UICONTROL procesamiento de intervalo de tiempo] y la [!UICONTROL vinculación multidispositivo]*
-Segundo paso del ![[!UICONTROL grupo de informes virtuales]](assets/cda-vrs-step-two.png)
+*Habilitar el [!UICONTROL procesamiento en tiempo de informe] y la [!UICONTROL vinculación entre dispositivos]*
+![[!UICONTROL Grupo De Informes Virtuales] Paso Dos](assets/cda-vrs-step-two.png)
 
 Finalice la configuración del grupo de informes virtuales y guárdelo. El grupo de informes virtuales de análisis multidispositivo aparecerá en Analysis Workspace con un icono especial junto a él, como se muestra a continuación:
 
 *Seleccione el grupo de informes virtuales de análisis multidispositivo en Analysis Workspace*
-Tercer paso del ![[!UICONTROL grupo de informes virtuales]](assets/cda-vrs-step-three.png)
+![[!UICONTROL Grupo De Informes Virtuales] Paso Tres](assets/cda-vrs-step-three.png)
 
 >[!TIP]
 >
@@ -86,7 +107,7 @@ A veces, sus usuarios tardan un tiempo en iniciar sesión y en que [!DNL Device 
 
 ¿Cómo ayuda esto? Recuerde el recorrido de Isabelle de la discusión anterior:
 
-![[!DNL Cross-Device Analytics] Recorrido ](assets/cda-isabelle-journey-cross-device-analytics.png)
+![[!DNL Cross-Device Analytics] Recorrido &#x200B;](assets/cda-isabelle-journey-cross-device-analytics.png)
 
 Es posible que Isabelle no haya iniciado sesión hasta justo antes de realizar la compra, y que el [!DNL Device Graph] no haya asignado juntos los dispositivos de Isabelle hasta poco después de su compra. Pero la retrospección de 30 días del análisis multidispositivo le permite restaurar el comportamiento pasado de Isabelle en el nivel de persona, lo que le proporciona la visión multidispositivo de su recorrido que usted necesita.
 
@@ -110,8 +131,8 @@ El análisis multidispositivo se incluye con [[!DNL Analytics Ultimate]](https:/
 
 Dentro del [!UICONTROL grupo de informes virtuales] del análisis multidispositivo, verá algunos cambios. Por ejemplo, la métrica [!UICONTROL Visitantes únicos] se ha sustituido por dos métricas nuevas: [!UICONTROL Personas] y [!UICONTROL Dispositivos únicos]. Estas nuevas métricas le ofrecen un mejor conocimiento del tamaño del público.
 
-*Personas y Dispositivos únicos*
-![[!UICONTROL Métrica Personas]](assets/cda-people-metric.png) del análisis multidispositivo 
+*Personas y dispositivos únicos*
+![Métrica Personas de [!UICONTROL CDA]](assets/cda-people-metric.png)
 
 En el [[!UICONTROL Generador de segmentos]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=es), el contenedor de segmentos [!UICONTROL Visitante] se ha reemplazado por un contenedor de segmentos [!UICONTROL Persona]. Con un grupo de informes virtuales de análisis multidispositivo, puede crear segmentos multidispositivo como:
 
@@ -120,7 +141,7 @@ En el [[!UICONTROL Generador de segmentos]](https://experienceleague.adobe.com/d
 * Visitas en las que las personas utilizan más de un dispositivo para llevar a cabo una tarea
 
 *Segmentos de nivel de persona*
-![[!DNL Segment Builder] [!UICONTROL Persona] Contenedor](assets/cda-segment-builder-person-container.png)
+![[!DNL Segment Builder] [!UICONTROL Contenedor de persona]](assets/cda-segment-builder-person-container.png)
 
 ### Persistencia de dimensión
 
@@ -138,13 +159,13 @@ ahora persistirá automáticamente de un dispositivo a otro hasta que se active 
 ¿Alguna vez se ha preguntado cuántas personas están interactuando con su marca? ¿Ha querido comprender cuántos dispositivos utilizan y de qué tipo? ¿Cómo se superpone su uso? Con un grupo de informes virtuales de análisis multidispositivo, puede crear [Diagramas de Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=es) multidispositivo e [histogramas](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=es) de dispositivos por persona.
 
 *Análisis de audiencia basado en personas*
-![Venn e Histograma](assets/cda-venn-and-histogram.png)
+![Venn e histograma](assets/cda-venn-and-histogram.png)
 
 ### [!DNL Flow] multidispositivo
 
 Con análisis multidispositivo y Analysis Workspace, puede visualizar cómo se mueven las personas de un dispositivo a otro a lo largo del tiempo en el [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=es). Pueden ver dónde abandonan su recorrido y dónde lo retoman.
 
-*[!DNL Flow] con análisis multidispositivo*
+*[!DNL Flow]con análisis multidispositivo*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
 ### [!DNL Fallout] multidispositivo
@@ -153,7 +174,7 @@ Es probable que use varias [[!DNL Fallout visualizations]](https://experiencelea
 
 No hay que preocuparse, el análisis multidispositivo le cubre. El análisis multidispositivo crea la vista multidispositivo que hace que las [!DNL Fallout visualizations] sean mucho más útiles. Después de todo, lo que realmente importa es si la persona tuvo éxito en su tarea en algún lugar.
 
-*[!DNL Fallout] con análisis multidispositivo*
+*[!DNL Fallout]con análisis multidispositivo*
 ![[!DNL Fallout Visualization]](assets/cda-fallout-viz.png)
 
 ### [!DNL Cross-Device Attribution IQ]
@@ -162,7 +183,7 @@ Dado que el análisis multidispositivo crea una capa de datos multidispositivo d
 
 Por ejemplo, supongamos que desea comprender con qué frecuencia un teléfono móvil es el primer dispositivo utilizado en una interacción que, en última instancia, conduce al éxito. Representa la “tasa de adquisición” del teléfono móvil. Análisis multidispositivo + [!DNL Attribution IQ] le permite realizar este análisis:
 
-*[!DNL Attribution IQ] con análisis multidispositivo*
+*[!DNL Attribution IQ]con análisis multidispositivo*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
 Para obtener más información, consulte la [[!DNL Cross-Device Analytics] documentación de ayuda](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html?lang=es).

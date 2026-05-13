@@ -1,5 +1,5 @@
 ---
-title: Contar historias impactantes con datos
+title: contar historias impactantes con datos
 description: La narración de datos es donde el arte y la ciencia se juntan usando datos, visualizaciones y narrativa.  Al aprovechar estos componentes, hay tres cosas clave para crear una historia de datos impactante. Al contar una historia con datos de forma eficaz, Analytics puede llegar a ser más accesible para un público más amplio y puede aumentar el valor que aporta a su organización mediante la toma de decisiones basada en datos.
 feature: Admin Tools
 topic: Administration
@@ -8,14 +8,26 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: b7902626-fbce-4333-909f-60878cd3ac99
-source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
+TQID: https://experienceleague.adobe.com/wqAesWvnsvDZbggAJjOckI10KoyIFpPkL52V4hwy7Io
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2:
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: 462
 ht-degree: 91%
 
 ---
 
-# Contar historias impactantes con datos
+# contar historias impactantes con datos
 
 La narración de datos es donde el arte y la ciencia se juntan usando datos, visualizaciones y narrativa.  Al aprovechar estos componentes, hay tres cosas clave para crear una historia de datos impactante. Al contar una historia con datos de forma eficaz, Analytics puede llegar a ser más accesible para un público más amplio y puede aumentar el valor que aporta a su organización mediante la toma de decisiones basada en datos.
 

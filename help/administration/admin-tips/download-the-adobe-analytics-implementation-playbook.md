@@ -9,10 +9,31 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
-source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+TQID: https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+subfeature_v2:
+  - id: c8add8f2-4250-4fd9-9cde-9707036c567d
+  - id: cc449013-c052-42d5-9ca4-0d2bceb6f06a
+  - id: e7d92df1-c5ba-4e93-85df-f83171b889be
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1802'
-ht-degree: 94%
+source-wordcount: 1823
+ht-degree: 89%
 
 ---
 
@@ -24,7 +45,7 @@ Antes de empezar, [descargue el manual de implementación](assets/aa-implementat
 
 **QUÉ:** Un Documento de requisitos empresariales (denominado comúnmente BRD) es una documentación muy importante en la que los principales actores, los usuarios empresariales y los usuarios tecnológicos querrán colaborar. Es un sitio para documentar todos los KPI deseados, los requisitos de creación de informes y cualquier punto de datos que desee ver cuando se complete la implementación de Adobe Analytics (AA).
 
-**POR QUÉ:** Esto sirve como punto de partida para la documentación siguiente (SDR, especificaciones técnicas, etc.) y es una fuente fiable común para un estado final de AA acordado. Este documento organiza las ideas entre los equipos de la organización para formar una guía que le lleve a avanzar en la creación o mejora de su implementación.
+**POR QUÉ:** Esto sirve como punto de partida para la siguiente documentación (SDR, especificaciones técnicas, etc.) y es una fuente fiable común para un estado final de AA acordado. Este documento organiza las ideas entre los equipos de la organización para formar una guía que le lleve a avanzar en la creación o mejora de su implementación.
 
 **CÓMO:** La documentación de los requisitos empresariales la suelen elaborar los usuarios empresariales finales de AA, pero es importante recibir comentarios de los usuarios tecnológicos, ya que puede haber desafíos técnicos que tener en cuenta y algunos puntos de datos pueden requerir más esfuerzo que otros, lo que influye en la priorización.
 
@@ -60,7 +81,7 @@ Para cada una de estas dimensiones, añado las siguientes columnas:
 * **Configuración:** configuración de la IU de administración para cada variable (es decir, para eVars: caducidad, asignación, comercialización, etc.)
 
 Captura de pantalla de la muestra de SDR:
-![Muestra de SDR](assets/sample-sdr.png)
+![Ejemplo de SDR](assets/sample-sdr.png)
 
 También se recomienda utilizar este documento de etiquetado para llevar a cabo un seguimiento de cualquier variable gratuita y cualquiera “no deseada”. Cuando una dimensión ya no es útil, el desarrollador suele necesitar un tiempo para eliminarla. Incluso después de eso, puede almacenarse en caché, o puede que se dé cuenta de que la dimensión también se estaba configurando en otra parte. Limpiar las dimensiones no es fácil y, a menudo, requiere paciencia. Aquí hay algunos consejos para esconder la basura debajo de la alfombra y que sus usuarios no se confundan, al tiempo que mantiene un seguimiento.
 
@@ -88,7 +109,7 @@ De este modo, los datos siempre están limpios y tiene una idea clara de qué es
 
 **CÓMO:** Identifique a un propietario del documento para dar control y una única fuente de responsabilidad en la administración de actualizaciones.
 Enumere lo siguiente en la pestaña Propiedades:
-* **Nombre de la propiedad:** puede ser un nombre de dominio, subdominio, aplicación, etc. Incluso dentro del mismo dominio, si algunas partes se administran por separado (como, por ejemplo, por un equipo o una tecnología diferentes), deberían separarse.
+* **Nombre de propiedad:** Puede ser un dominio, subdominio, nombre de aplicación, etc. Incluso dentro del mismo dominio, si algunas partes se administran por separado (como, por ejemplo, por un equipo o una tecnología diferentes), deberían separarse.
 * **Vínculo (URL)** a la propiedad donde esté disponible
 * **Propietario y contactos:** enumere el propietario principal o los contactos de la propiedad
 * **Método de etiqueta:** muchos tenemos diferentes métodos e implementaciones de código (Launch, archivos JS, AEP, etc.). Puede desglosar esto más si es necesario (por ejemplo, por versión de código o sistema de administración de etiquetas), pero está pensado para ejecutar un seguimiento de todos los métodos y versiones de código diferentes, dónde debe actualizarse el código y cómo debe mantenerse. Si utiliza Adobe Launch, indique el nombre de la propiedad de Launch.
@@ -99,7 +120,7 @@ Se recomienda mantener este documento lo más simple posible y no saturarlo con 
 
 >[!TIP]
 >
->Cree una dimensión de nombre/propiedad de sitio en Adobe Analytics. Tener una dimensión dedicada (normalmente un eVar) en Adobe Analytics que identifique el nombre del sitio o la aplicación facultará la segmentación, la resolución de problemas, la creación de grupos de informes virtuales, etc. Las ventajas son infinitas, sobre todo cuando se combinan varios sitios en un grupo de informes (global). La clave es garantizar que los equipos de desarrollo siempre fijen este valor en la dimensión de propiedades, incluidas todas las cargas de página (llamadas s.t/trackState) y todos los eventos personalizados (llamadas s.tl/trackAction). Las reglas de procesamiento pueden ser una herramienta útil para configurar estos valores de forma correcta y coherente.
+>Cree una dimensión de nombre/propiedad de sitio en Adobe Analytics. Tener una dimensión dedicada (normalmente un eVar) en Adobe Analytics que identifique el nombre del sitio o la aplicación permitirá la segmentación, la resolución de problemas, la creación de grupos de informes virtuales, etc. Las ventajas son infinitas, especialmente cuando se combinan varios sitios en un grupo de informes (global). La clave es garantizar que los equipos de desarrollo siempre fijen este valor en la dimensión de propiedades, incluidas todas las cargas de página (llamadas s.t/trackState) y todos los eventos personalizados (llamadas s.tl/trackAction). Las reglas de procesamiento pueden ser una herramienta útil para configurar estos valores de forma correcta y coherente.
 
 [Vea este vídeo de Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=es){target="_blank"} para obtener más información sobre cómo rellenar el manual de implementación.
 
@@ -109,7 +130,8 @@ Este documento lo han escrito:
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-Christel Guidon, directora de plataformas de análisis digital de NortonLifeLock, campeona de Adobe Analytics
+Christel Guidon, directora de plataformas de análisis digital de NortonLifeLock
+Campeona de Adobe Analytics
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 

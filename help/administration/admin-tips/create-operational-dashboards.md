@@ -6,14 +6,31 @@ topic: Administration
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/aFowDr8ekKrxRR0VWUMiWUG5F2RBqMz5oipDYGobd2M
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1151'
-ht-degree: 96%
+source-wordcount: 1166
+ht-degree: 89%
 
 ---
 
@@ -24,7 +41,7 @@ _Explore cómo los paneles de control operativos de Adobe Analytics Workspace re
 
 Al igual que muchos administradores, dirijo un centro de información interno (Confluencia o similar) para Adobe Analytics. Con el tiempo, me harté de responder a las mismas preguntas una y otra vez y necesitaba una manera más fluida de llegar a la gente sin tener la sensación de estar molestándola todo el rato. Necesitaba repositorios para información que fuera menos estática.
 
-Observé que a menudo se ignoraban mis referencias al sitio de Confluencia, con razones como “Tengo la VPN desactivada”, o “No puedo leerlo ahora”, etc. Básicamente, “Leeré ese documento más tarde” significa que nunca se leerá, y la misma pregunta se volverá a hacer la semana que viene.
+Observé que los usuarios a menudo ignoraban mis referencias al sitio de Confluencia, con razones como &quot;Mi VPN está desactivada&quot;, o &quot;No puedo leerla ahora&quot;, etc. Básicamente, &quot;leeré ese documento más tarde&quot; significa que nunca se leerá, y la misma pregunta se volverá a hacer la semana que viene.
 
 ***Me di cuenta de algo:**&#x200B;la versatilidad del Espacio de trabajo podría cambiar las cosas. La gente prefiere respuestas rápidas y directas en el Espacio de trabajo, por lo que debemos mantenerlas allí para evitar pasos adicionales.*
 
@@ -32,7 +49,7 @@ Seguí adelante y creé paneles de control operativos que compartir con toda la 
 
 La gente ha podido obtener mucha información buena sin mí, entender las áreas del sitio, ver lo genial que es Adobe Analytics y (importante para mí 😊) hacerme menos preguntas y tomarme menos tiempo.
 
-**Le recomiendo encarecidamente que cree paneles de control para todas las propiedades o áreas principales del sitio.** Deben proporcionar un resumen general de la propiedad, el sitio, la aplicación o el flujo, así como información básica e información rápida. Deben compartirse con toda la compañía, lo que permite a todo el mundo comprender la propiedad sin necesidad de ayuda. Para mí, estos paneles de control suelen responder al 80 % de las preguntas que recibo y me ahorran un tiempo valioso.
+**Recomiendo encarecidamente que cree paneles para todas las propiedades o áreas principales del sitio.** Deben proporcionar una visión general de la propiedad, el sitio, la aplicación o el flujo, así como información básica y perspectivas rápidas. Deben compartirse con toda la compañía, lo que permite a todo el mundo comprender la propiedad sin necesidad de ayuda. Para mí, estos paneles de control suelen responder al 80 % de las preguntas que recibo y me ahorran un tiempo valioso.
 
 Nada de esto le impide mantener su sitio de Confluencia, que sigue siendo muy útil. Incluso lo menciono en la parte superior de cada panel de control operativo. Pero me encantan los atajos, tanto para mí como para los demás.
 

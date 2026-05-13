@@ -5,14 +5,27 @@ feature: Admin Tools
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-15T00:00:00Z
+last-substantial-update: 2023-05-15T00:00:00.000Z
 jira: KT-13216
 thumbnail: KT-13216.jpeg
 exl-id: 393a0cf0-d793-4185-87ed-81955ad10b0e
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/z1eMqM4rPYzf076wc1B3VQtzlvfRyxVsX4hNEhl7LQM
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2:
+  - id: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '876'
-ht-degree: 100%
+source-wordcount: 879
+ht-degree: 93%
 
 ---
 
@@ -20,7 +33,8 @@ ht-degree: 100%
 
 _Los ejecutivos suelen carecer de información oportuna y relevante para sus sitios y aplicaciones, ya que dependen de gráficos mensuales de Excel o se ahogan en datos granulares. La solución: tablero de resumen ejecutivo._
 
-Quiero que se imaginen conduciendo de Seattle a San Francisco. En cuanto a la dirección, es bastante fácil. Conduzcan por la I-5 Sur durante 12 a 16 horas, y ya estarán allí. Sencillo, ¿a que sí? Ahora, quiero que imaginen que he puesto un trozo de cartón sobre su tablero, y les digo que al final de su viaje, recibirán un tablero que les dice su velocidad, niveles de combustible, y distancia recorrida:
+Quiero que se imaginen conduciendo de Seattle a San Francisco. En cuanto a la dirección, es bastante fácil. Conduzcan por la I-5 Sur durante 12 a 16 horas, y ya estarán allí. Sencillo, ¿a que sí? Ahora, quiero que imaginen que he puesto un pedazo de cartón sobre su tablero, y les digo que al final
+Durante el viaje, recibirás un tablero que te indicará la velocidad, los niveles de combustible y la distancia recorrida:
 
 ![Gráfico de barras.png](assets/bar-graph.png)
 
@@ -70,8 +84,8 @@ Con este producto final en mano, solo necesita:
 
 - Hágase un poco de café y prepárese, porque después de que estén empoderados con los datos, los ejecutivos vendrán a usted con un montón de preguntas
 
-En conclusión, los paneles de control de resumen ejecutivo ofrecen información continua y relevante para la toma de decisiones oportuna. Los decks mensuales con gráficos de Excel son insuficientes y proporcionar demasiados datos granulares puede abrumar a los ejecutivos. Un medium feliz es centrarse en los tres indicadores clave de rendimiento (KPI) más importantes con datos históricos y desplegables para factores relevantes. Al formar
-a los ejecutivos sobre cómo usar el panel de control, pueden tomar decisiones informadas y hacer preguntas. Los paneles de control de resumen ejecutivo pueden mejorar el rendimiento del sitio y la aplicación y dirigir el éxito.
+En conclusión, los paneles de control de resumen ejecutivo ofrecen información continua y relevante para la toma de decisiones oportuna. Los decks mensuales con gráficos de Excel son insuficientes y proporcionar demasiados datos granulares puede abrumar a los ejecutivos. Un medium feliz es centrarse en los tres indicadores clave de rendimiento (KPI) más importantes con datos históricos y desplegables para factores relevantes. Por formación
+los ejecutivos saben cómo usar el panel, pueden tomar decisiones informadas y hacer preguntas. Los paneles de control de resumen ejecutivo pueden mejorar el rendimiento del sitio y la aplicación y dirigir el éxito.
 
 ## Autor
 
