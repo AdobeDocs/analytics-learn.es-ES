@@ -34,6 +34,6 @@ ht-degree: 100%
 
 Aprenda a organizar sus proyectos en carpetas y subcarpetas en Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413167/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417497/?captions=spa&quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/workspace-folders/about-folders.html?lang=es).

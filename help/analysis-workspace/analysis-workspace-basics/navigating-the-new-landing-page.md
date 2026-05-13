@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Aprenda a sacar el máximo partido a la nueva página de destino de Analytics y a sus funciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/334278/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346462/?captions=spa&quality=12&learn=on)

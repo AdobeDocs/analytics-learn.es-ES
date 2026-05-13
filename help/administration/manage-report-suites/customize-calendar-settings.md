@@ -31,4 +31,4 @@ ht-degree: 100%
 
 En este vídeo, aprenda algunos consejos y trucos, así como la mecánica de personalizar su calendario en Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/333003/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412855/?captions=spa&quality=12&learn=on)

@@ -38,7 +38,7 @@ ht-degree: 79%
 
 Existen muchas maneras de llevar la metodología de atribución al siguiente nivel con Adobe Analytics. En este vídeo, resaltamos cómo puede obtener perspectivas más profundas del informe Canales de marketing mediante el análisis entre pestañas en el espacio de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327752/?captions=spa&quality=12&learn=on)
 
 **ACTUALIZACIÓN**: se han realizado varias mejoras en [!DNL Workspace] desde que se publicó este vídeo. Dejamos el vídeo publicado porque tiene algunos buenos consejos que debería saber de todas maneras.
 

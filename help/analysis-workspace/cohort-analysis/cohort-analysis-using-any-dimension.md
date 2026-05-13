@@ -28,6 +28,6 @@ ht-degree: 59%
 
 La opción de [!UICONTROL dimensión] de [!UICONTROL cohorte] personalizada permite analizar [!UICONTROL cohortes] mediante [!UICONTROL dimensiones] que no sean temporales. Compare [!UICONTROL cohortes] por canal de marketing, región de campaña, página de producto, etc. para comprender mejor cómo cambia la [!UICONTROL retención] (o la [!UICONTROL pérdida]) según el elemento [!UICONTROL dimensión].
 
->[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430181/?captions=spa&quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=es).

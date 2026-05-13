@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Utilice una tabla de forma libre (tabla dinámica) para comprender e interpretar sus datos y encontrar información valiosa.
 
->[!VIDEO](https://video.tv.adobe.com/v/334093/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415660/?captions=spa&quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table.html?lang=es).

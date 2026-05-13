@@ -33,6 +33,6 @@ ht-degree: 100%
 
 Aprenda a analizar una tabla de cohortes para comprender mejor la retención de usuarios a lo largo del tiempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/334094/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415662/?captions=spa&quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=es).

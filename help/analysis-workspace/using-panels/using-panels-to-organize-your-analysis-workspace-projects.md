@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Los paneles son una colección de visualizaciones en Analysis Workspace. Aprenda a utilizar los paneles para organizar y comparar los datos de sus proyectos.
 
->[!VIDEO](https://video.tv.adobe.com/v/23388/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41485/?captions=spa&quality=12&learn=on)

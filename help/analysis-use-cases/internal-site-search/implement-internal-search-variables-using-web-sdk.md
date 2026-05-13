@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Aprenda a utilizar el SDK web para implementar variables de Analytics en un caso de uso de seguimiento de términos de búsqueda interna. Consulte el flujo de datos de la página a Experience Edge y, a continuación, a Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/333605/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413456/?captions=spa&quality=12&learn=on)

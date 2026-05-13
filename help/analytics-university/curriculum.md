@@ -34,7 +34,7 @@ ht-degree: 80%
 
 # Programa de Adobe Analytics para el sector educativo
 
->[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443853/?captions=spa&quality=12&learn=on)
 
 ## Contenido del curso de Analytics
 

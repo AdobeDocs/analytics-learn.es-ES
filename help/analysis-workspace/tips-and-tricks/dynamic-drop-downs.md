@@ -32,6 +32,6 @@ ht-degree: 74%
 
 Aprenda a crear filtros desplegables basados en una dimensión completa. Los elementos de Dimension se actualizan dinámicamente en función del intervalo de fechas utilizado en el panel de informes y los valores seleccionados en otros filtros desplegables del mismo panel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446819/?captions=spa&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=es#dynamic-drop-down-filters).

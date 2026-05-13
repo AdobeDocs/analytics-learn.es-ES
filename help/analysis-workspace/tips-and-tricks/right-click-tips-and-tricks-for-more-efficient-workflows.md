@@ -33,7 +33,7 @@ ht-degree: 100%
 
 Estas son 7 sugerencias con el botón derecho que puede utilizar en Analysis Workspace para que sus flujos de trabajo sean más eficientes. Puede leerlas en el texto de abajo o ver el vídeo para su demostración.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417736/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422277/?captions=spa&quality=12&learn=on)
 
 Estas son 7 sugerencias del botón derecho que puede utilizar en Analysis Workspace para que sus flujos de trabajo sean más eficientes:
 

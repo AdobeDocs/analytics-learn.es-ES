@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Aprenda a personalizar las vistas de detalles, incluido el texto de los paneles de Adobe Analytics, para refinar la historia que desea contar a los interesados a través de proyectos de cuadros de resultados móviles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413786/?captions=spa&quality=12&learn=on)

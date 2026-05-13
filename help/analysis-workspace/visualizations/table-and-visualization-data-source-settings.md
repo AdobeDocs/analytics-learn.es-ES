@@ -25,4 +25,4 @@ ht-degree: 100%
 
 En este vídeo, vea cómo se unen las tablas y las visualizaciones a través de la configuración y aprenda a configurarlas para diferentes casos de uso de análisis.
 
->[!VIDEO](https://video.tv.adobe.com/v/336250/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418829/?captions=spa&quality=12&learn=on)

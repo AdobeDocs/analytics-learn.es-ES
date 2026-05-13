@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Administrar usuarios y grupos en la página User Management le permite administrar los usuarios y grupos y controlar el acceso a los informes, las herramientas y los grupos de informes. Puede asignar elementos de cuenta de usuario como tableros, eventos de calendario, marcadores, etc., de una cuenta de usuario a otra mediante User Management en Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/335745/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418512/?captions=spa&quality=12&learn=on)

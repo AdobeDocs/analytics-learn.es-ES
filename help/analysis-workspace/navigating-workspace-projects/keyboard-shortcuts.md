@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Aprenda a utilizar los métodos abreviados del teclado en Analysis Workspace. Son técnicas que ahorran tiempo para ayudarle a realizar diversas tareas en un proyecto.
 
->[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41383/?captions=spa&quality=12&learn=on)

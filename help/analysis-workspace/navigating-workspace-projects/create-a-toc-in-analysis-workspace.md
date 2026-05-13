@@ -37,4 +37,4 @@ ht-degree: 17%
 
 Obtenga información sobre la Tabla de contenido en Analysis Workspace, que proporciona vínculos que permiten a los usuarios saltar rápidamente a paneles y visualizaciones dentro del proyecto. Para obtener documentación detallada, visite [Índice del proyecto](https://experienceleague.adobe.com/es/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
 
->[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35187/?captions=spa&quality=12&learn=on)

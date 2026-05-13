@@ -43,4 +43,4 @@ ht-degree: 100%
 
 Presenta la plantilla [!DNL Magento Marketing and Commerce] para [!UICONTROL Analysis Workspace]. Está pensada para usuarios de [!DNL Magento], pero también es útil para cualquier minorista en línea. Incluye información creada previamente para los minoristas de sus actividades comerciales que le ayudarán a mejorar sus ventas.
 
->[!VIDEO](https://video.tv.adobe.com/v/28164/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34436/?captions=spa&quality=12&learn=on)

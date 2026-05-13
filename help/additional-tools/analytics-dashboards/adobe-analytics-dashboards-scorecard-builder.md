@@ -36,6 +36,6 @@ ht-degree: 37%
 
 En este vídeo, aprenderá a crear y compartir &quot;Informes de valoración&quot; en Analysis Workspace para que se visualicen en los paneles de Adobe Analytics (aplicación móvil).
 
->[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38114/?captions=spa&quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=es).

@@ -30,4 +30,4 @@ ht-degree: 62%
 
 Aprenda a utilizar el [!UICONTROL Generador de reglas de clasificación] para aplicar automáticamente la regla [!UICONTROL clasificaciones] en Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434377?captions=spa&quality=12&learn=on)

@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Obtenga información general sobre el uso de calendarios y fechas para las visualizaciones en Analysis Workspace
 
->[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327349/?captions=spa&quality=12&learn=on)

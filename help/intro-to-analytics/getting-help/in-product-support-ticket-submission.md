@@ -27,4 +27,4 @@ ht-degree: 61%
 
 Aprenda a enviar un vale de soporte a [!DNL Customer Care] en Adobe directamente en el producto, lo que optimiza el proceso de resolución.
 
->[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430054/?captions=spa&quality=12&learn=on)

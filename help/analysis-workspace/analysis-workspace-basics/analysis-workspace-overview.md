@@ -40,4 +40,4 @@ ht-degree: 100%
 
 Obtenga información general de alto nivel sobre Analysis Workspace, incluida la creación de proyectos y plantillas, paneles, visualizaciones, dimensiones, métricas, segmentos y funciones de alto valor.
 
->[!VIDEO](https://video.tv.adobe.com/v/26266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35552/?captions=spa&quality=12&learn=on)

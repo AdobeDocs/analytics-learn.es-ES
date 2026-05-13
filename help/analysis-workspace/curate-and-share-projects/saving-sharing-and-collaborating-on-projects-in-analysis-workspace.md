@@ -33,6 +33,6 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a guardar y exportar proyectos por su cuenta, a enviarlos a otros destinatarios y a invitar a otros a colaborar en su proyecto.
 
->[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33830/?captions=spa&quality=12&learn=on)
 
 Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html?lang=es).

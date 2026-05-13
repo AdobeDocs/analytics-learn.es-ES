@@ -30,4 +30,4 @@ ht-degree: 100%
 
 La personalización de las leyendas en las visualizaciones, también conocida como edición de etiquetas de series, es una buena manera de hacer que las visualizaciones sean más comprensibles para todos los que vean los informes.
 
->[!VIDEO](https://video.tv.adobe.com/v/335579/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418708/?captions=spa&quality=12&learn=on)

@@ -30,6 +30,6 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a configurar una programación básica para un libro de [!DNL Report Builder].
 
->[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346450/?captions=spa&quality=12&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=es).

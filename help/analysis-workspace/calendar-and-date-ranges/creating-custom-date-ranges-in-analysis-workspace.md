@@ -29,6 +29,6 @@ ht-degree: 100%
 
 Al configurar y personalizar el proyecto en Analysis Workspace, es posible que necesite utilizar un intervalo de fecha que exceda el intervalo generado previamente en el producto. Este vídeo muestra cómo crear tres ejemplos de intervalos de fechas personalizados.
 
->[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327424/?captions=spa&quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=es).

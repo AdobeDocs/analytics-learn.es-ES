@@ -28,6 +28,6 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a configurar una programación avanzada para enviar un libro de Report Builder a Power BI.
 
->[!VIDEO](https://video.tv.adobe.com/v/342377/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346444/?captions=spa&quality=12&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=es).

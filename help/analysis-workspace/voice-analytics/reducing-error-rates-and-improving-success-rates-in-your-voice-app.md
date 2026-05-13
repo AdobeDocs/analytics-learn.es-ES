@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Aprenda a encontrar áreas de mejora para su aplicación de voz con funciones como [!UICONTROL pérdida], tasas de éxito y error e intención de reserva.
 
->[!VIDEO](https://video.tv.adobe.com/v/27222/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327673/?captions=spa&quality=12&learn=on)

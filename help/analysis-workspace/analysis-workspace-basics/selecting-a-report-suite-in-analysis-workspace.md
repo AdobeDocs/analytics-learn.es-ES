@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Obtenga algunas sugerencias para seleccionar un grupo de informes en Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428538/?captions=spa&quality=12&learn=on)

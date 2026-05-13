@@ -33,4 +33,4 @@ ht-degree: 24%
 
 Obtenga información sobre cómo exportar proyectos completos o tablas individuales a CSV para análisis en Excel y otras herramientas de BI.
 
->[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429882/?captions=spa&quality=12&learn=on)

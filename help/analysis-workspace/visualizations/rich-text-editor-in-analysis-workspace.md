@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Introducción a las funciones que permiten a analistas y expertos en marketing aplicar la edición a visualizaciones de texto (o descripciones) en Analysis Workspace: negrita, cursiva, encabezados, hipervínculos, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328107/?captions=spa&quality=12&learn=on)

@@ -38,6 +38,6 @@ ht-degree: 48%
 
 Las anotaciones en el espacio de trabajo le permiten comunicar de forma eficaz los matices y las perspectivas de datos contextuales a los usuarios de su organización. Puede anotar una fecha o un intervalo de fechas con problemas de datos conocidos, días festivos, lanzamientos de campañas, etc. para informar mejor a los usuarios de por qué ven lo que ven en gráficos de líneas, tablas y mucho más.
 
->[!VIDEO](https://video.tv.adobe.com/v/341266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344388/?captions=spa&quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=es).

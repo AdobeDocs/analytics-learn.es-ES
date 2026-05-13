@@ -34,6 +34,6 @@ ht-degree: 62%
 
 Descripción general del creador de métricas en Analysis Workspace
 
->[!VIDEO](https://video.tv.adobe.com/v/25411/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37934/?captions=spa&quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=es)

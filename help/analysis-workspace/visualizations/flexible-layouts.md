@@ -29,4 +29,4 @@ ht-degree: 24%
 
 El análisis de forma libre incluye la capacidad de cambiar la ubicación, la anchura y la altura de los gráficos y las tablas para poder crear un proyecto más completo. Este vídeo muestra cómo puede cambiar el diseño.
 
->[!VIDEO](https://video.tv.adobe.com/v/24706/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41490/?captions=spa&quality=12&learn=on)

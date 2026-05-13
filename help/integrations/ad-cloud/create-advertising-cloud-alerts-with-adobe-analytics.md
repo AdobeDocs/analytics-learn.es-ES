@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Descubra cómo aprovechar el potencial de las alertas de Adobe Analytics para monitorizar sus campañas de medios de pago de Advertising Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/35118/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40444/?captions=spa&quality=12&learn=on)

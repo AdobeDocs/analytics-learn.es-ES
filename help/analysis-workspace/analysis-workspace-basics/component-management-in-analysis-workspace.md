@@ -37,4 +37,4 @@ ht-degree: 100%
 
 Aprenda a compartir y administrar componentes (como las dimensiones, métricas, segmentos, etc.) en Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/24095/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37554/?captions=spa&quality=12&learn=on)

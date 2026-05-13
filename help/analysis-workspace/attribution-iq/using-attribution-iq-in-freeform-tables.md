@@ -34,7 +34,7 @@ ht-degree: 100%
 
 [!DNL Attribution IQ] le permite cambiar el [!UICONTROL modelo] de atribución a cualquiera de los diez modelos basados en reglas en una columna [!UICONTROL de forma libre] sobre la marcha.
 
->[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38639/?captions=spa&quality=12&learn=on)
 
 Cada [!UICONTROL modelo] de atribución admite totalmente la segmentación y los desgloses, y le permite realizar comparaciones ilimitadas en cualquier dimensión (incluso [!DNL props]).
 

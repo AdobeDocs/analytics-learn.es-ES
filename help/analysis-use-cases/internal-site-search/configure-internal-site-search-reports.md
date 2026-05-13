@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Cree y configure tablas de forma libre en Analysis Workspace para analizar la funcionalidad de búsqueda interna del sitio.
 
->[!VIDEO](https://video.tv.adobe.com/v/333607/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413470/?captions=spa&quality=12&learn=on)

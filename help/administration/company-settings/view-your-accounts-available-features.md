@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Ver la configuración de los Niveles de acceso a las funciones en la sección Administración de Analytics le permite ver el nivel de acceso a los paquetes y características de Adobe Analytics a los que tiene derecho su compañía. Esto incluye: Activity Map, Advertising Analytics, detección de anomalías en alertas, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/335742/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418474/?captions=spa&quality=12&learn=on)

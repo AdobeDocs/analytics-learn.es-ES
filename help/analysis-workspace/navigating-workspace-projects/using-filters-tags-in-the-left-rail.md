@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Aprenda a utilizar los filtros, también llamados etiquetas, en Analysis Workspace. Son técnicas que ahorran tiempo para ayudarle a crear proyectos de forma eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36841/?captions=spa&quality=12&learn=on)

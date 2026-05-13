@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Descubra cómo usar Adobe Analytics para crear grupos de redireccionamiento de sitios sólidos para el remarketing de Advertising.
 
->[!VIDEO](https://video.tv.adobe.com/v/35116/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40432/?captions=spa&quality=12&learn=on)

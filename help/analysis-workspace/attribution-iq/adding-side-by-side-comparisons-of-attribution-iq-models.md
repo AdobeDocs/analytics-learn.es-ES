@@ -35,4 +35,4 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a comparar rápidamente [!DNL Attribution IQ models], incluida una columna creada automáticamente que muestra la diferencia porcentual entre los números de los dos modelos.
 
->[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327796/?captions=spa&quality=12&learn=on)

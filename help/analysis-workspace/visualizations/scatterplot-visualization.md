@@ -29,6 +29,6 @@ ht-degree: 100%
 
 Con esta visualización, puede ver la relación entre varias métricas para sus dimensiones y los elementos representados en un diagrama X/Y. Descubra valores periféricos e información que le ayudarán a tomar decisiones empresariales.
 
->[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416859/?captions=spa&quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/scatterplot.html?lang=es).

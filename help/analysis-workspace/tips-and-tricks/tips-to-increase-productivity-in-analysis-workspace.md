@@ -31,4 +31,4 @@ ht-degree: 100%
 
 En este vídeo, analizaremos cuatro sugerencias para aumentar su productividad y ahorrar tiempo en Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/31157/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33820/?captions=spa&quality=12&learn=on)

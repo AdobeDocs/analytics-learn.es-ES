@@ -33,6 +33,6 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a utilizar fechas, [!UICONTROL intervalos de fechas] y comparaciones de fechas para personalizar las tablas y visualizaciones en el lapso de tiempo adecuado.
 
->[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33836/?captions=spa&quality=12&learn=on)
 
 Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=es).

@@ -39,6 +39,6 @@ ht-degree: 100%
 
 Para los clientes de Media Analytics, el panel Visualizadores simultáneos de medios le permite comprender dónde se produjo el pico de concurrencia o los descensos para proporcionar un valioso conocimiento de la calidad del contenido y la participación del visualizador, así como ayudar a solucionar problemas o a planificar el volumen o la escala.
 
->[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342835/?captions=spa&quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=es#analysis-workspace).
