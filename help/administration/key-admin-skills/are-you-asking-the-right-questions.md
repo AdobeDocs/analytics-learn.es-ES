@@ -8,18 +8,23 @@ level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
 exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
-source-git-commit: 4dfe75cb35b8beb92f947884a92aa4bfd579e4b8
+TQID: https://experienceleague.adobe.com/ZXiYDVRqaJbxICzAiFkS9XuUKlyiAKs7-ucZ3qKR-xI
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d3cdead0-685a-4489-9250-4bb709942f66id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1082'
-ht-degree: 99%
+source-wordcount: 1091
+ht-degree: 94%
 
 ---
 
 # ¿Plantea las preguntas correctas?
 
->[!VIDEO](https://video.tv.adobe.com/v/346456/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
 
-_De todos_. Esa es una de las respuestas más comunes de las partes interesadas a la pregunta: _¿de qué datos desea hacer un seguimiento?_ Puede ser más valioso identificar y recopilar los _puntos de datos procesables_ que registrar todos los elementos posibles. La identificación eficiente de esos puntos de datos requiere un plan básico y debates creativos con las partes interesadas.
+_De todos_. Esa es una de las respuestas más comunes de las partes interesadas a la pregunta: _¿De qué datos desea hacer un seguimiento?_ Puede ser más valioso identificar y recopilar los _puntos de datos procesables_ que registrar todos los elementos posibles. La identificación eficiente de esos puntos de datos requiere un plan básico y debates creativos con las partes interesadas.
 
 ## Recopilar datos importantes
 
@@ -44,7 +49,7 @@ Cada empresa, unidad de negocio y equipo tiene una cultura propia y un idioma re
 
 Establezca algunos principios antes de la conversación. Como administrador de Analytics, debe obtener las entradas adecuadas si desea desarrollar y proporcionar una solución ideal para las partes interesadas.
 
-### &#x200B;1. Proporcione un cuestionario
+### &#x200B;1. Proporcionar un cuestionario
 
 Envíe una lista de preguntas para que la otra parte las revise antes de la reunión de contacto. Pueden proporcionarle las respuestas por adelantado o usar el cuestionario simplemente para familiarizarse con los temas a tratar. Puede proporcionar respuestas de ejemplo si esto sirve para aclarar las expectativas.
 
@@ -52,11 +57,11 @@ Las preguntas variarán según la capacidad técnica o analítica, la estructura
 
 [Explore esta plantilla](assets/stakeholder-questionnaire.pdf){target="_blank"}, que contiene varias preguntas de ejemplo para entrevistas con partes interesadas. Reutilícelas o modifíquelas para preparar preguntas relevantes propias.
 
-### &#x200B;2. Solicite informes de ejemplo
+### &#x200B;2. Solicitar informes de ejemplo
 
 La otra parte debería proporcionarle ejemplos (reales o ficticios) de puntos de datos de interés y cómo se podrían utilizar o notificar. Estos informes ofrecen otra mirada a los objetivos, el enfoque y la cultura de la parte interesada y su estado actual o ideal.
 
-### &#x200B;3. No haga promesas durante la reunión de contacto
+### &#x200B;3. Sin promesas durante la reunión de contacto
 
 Las solicitudes realizadas y las ideas de datos tratadas durante la reunión de contacto no son compromisos con las partes interesadas. La ejecución de la recopilación de datos tiene una complejidad que no se puede evaluar por completo hasta después de la entrevista. Durante la reunión, puede ir ofreciendo de forma creativa ideas que acaben perdiendo prioridad debido a su falta de relevancia para los objetivos. Por estas y otras razones, la fase de contacto es una mera oportunidad de recopilación de ideas que no suponen promesas sobre el contenido de los informes finales.
 

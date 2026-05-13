@@ -5,20 +5,26 @@ feature: Attribution
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2023-06-20T00:00:00.000Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
-source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
+TQID: https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32
+subfeature_v2: id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1659'
+source-wordcount: 1704
 ht-degree: 1%
 
 ---
 
 # Explicación del panel de atribución de Adobe Analytics y las ventanas retroactivas
 
-Cuando pensé por primera vez en el [panel de atribución](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=es) y en la **ventana retrospectiva**, inmediatamente me recordaron el concepto de &quot;*viaje en el tiempo&#39;*; entonces, por supuesto, también me recordaron que nuestra respuesta típica a muchas herramientas nuevas como estas es simplemente dejar de intentar usarlo, porque se ven muy complicadas.
+Cuando pensé por primera vez en el [panel de atribución](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) y en la **ventana retrospectiva**, inmediatamente me recordaron el concepto de &quot;*viaje en el tiempo&#39;*; entonces, por supuesto, también me recordaron que nuestra respuesta típica a muchas herramientas nuevas como estas es simplemente dejar de intentar usarlo, porque se ven muy complicadas.
 
 Honestamente, miren todas esas opciones, interruptores, paneles, lecturas y botones.  Y en serio, hablemos de esas complicadas luces parpadeantes, mangueras, medidores... ESPERA!!  No es el momento de distraernos hablando de máquinas del tiempo, simplemente no tenemos tiempo... ¿o sí?
 
@@ -43,12 +49,12 @@ Ahora que todos estamos entusiasmados con el viaje en el tiempo, respiremos prof
 
 En **Attribution**, considere simplemente cómo los eventos o las acciones pueden ser causados por un individuo, varios individuos o uno de cualquier número de eventos diferentes a lo largo del tiempo.
 
-Según [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=es), *attribution* permite a los analistas personalizar la forma en que *Dimension* elementos reciben crédito por *eventos de éxito*.
+Según [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *attribution* permite a los analistas personalizar la forma en que *Dimension* elementos reciben crédito por *eventos de éxito*.
 
 
 >[!WARNING]
 >
->**Los modelos de atribución** están tan frecuentemente asociados con **canales de mercadotecnia** que *taché* ❷ el CANAL en la imagen de arriba para ilustrar que es posible realizar análisis de **atribución** en casi cualquier otra ***dimensión***.
+**Los modelos de atribución** están tan frecuentemente asociados con **canales de mercadotecnia** que *taché* ❷ el CANAL en la imagen de arriba para ilustrar que es posible realizar análisis de **atribución** en casi cualquier otra ***dimensión***.
 
 
 De hecho, rara vez un recorrido determinado del cliente es verdaderamente lineal y con menor frecuencia aún predecible.  Además, cada cliente seguirá su propio ritmo; a menudo, puede duplicarse, paralizarse, abandonarse o participar en otro comportamiento no lineal. Estas acciones orgánicas hacen que sea difícil o prácticamente imposible conocer el impacto de los esfuerzos de marketing en todo el recorrido del cliente. También obstaculiza los esfuerzos por unir múltiples canales de datos.
@@ -71,7 +77,7 @@ Con esto en mente, aquí hay algunos ejemplos de cómo los ❸ **modelos de atri
 
   >[!CAUTION]
   >
-  >Sin embargo, se recomienda tener cuidado aquí, ya que tiene el potencial de propagar sus resultados muy finos muy rápidamente al aplicar esta táctica, teniendo en cuenta cuanto más tiempo se ejecuta y mayor es la audiencia a la que llega.
+  Sin embargo, se recomienda tener cuidado aquí, ya que tiene el potencial de propagar sus resultados muy finos muy rápidamente al aplicar esta táctica, teniendo en cuenta cuanto más tiempo se ejecuta y mayor es la audiencia a la que llega.
 
 - **Forma de U**: este método asigna el **40%** del crédito a la *primera persona* en la puerta, distribuye el **20%** del crédito entre *todos los que están entre* y, a continuación, otorga el **40%** a la **última** hasta. Este modelo se usará con más frecuencia en situaciones en las que tenga un **ciclo largo de conversión/ventas** que contenga *varios puntos de contacto* a lo largo del camino.  En este caso, el objetivo es resaltar principalmente las tácticas de marketing de ***first*** y ***last*** que contribuyeron a la conversión del cliente.
 - **J**-**Forma** y **J inversa**:
@@ -85,7 +91,7 @@ Con esto en mente, aquí hay algunos ejemplos de cómo los ❸ **modelos de atri
 
 - **Personalizado**: Usted elige y elige quién va a obtener crédito.  ¡Es tu campaña!
 
-Para obtener más información sobre estos y otros modelos de atribución, [haga clic aquí](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=es)
+Para obtener más información sobre estos y otros modelos de atribución, [haga clic aquí](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 Para hacer esto aún más interesante, ¡hablemos de volver atrás el reloj!
 

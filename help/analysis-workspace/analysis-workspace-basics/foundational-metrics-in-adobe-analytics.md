@@ -8,9 +8,16 @@ doc-type: feature video
 thumbnail: 336483.jpg
 kt: KT-8646
 exl-id: c91e8ee4-16b9-4f93-b2a5-5e10b415143d
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+TQID: https://experienceleague.adobe.com/72G7AtnVWp6K-HVoDKBCA6uV61Xk4jAyC5HiDAzrHnI
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2: id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: 131
 ht-degree: 100%
 
 ---
@@ -19,6 +26,6 @@ ht-degree: 100%
 
 Este vídeo proporciona una descripción conceptual de las métricas básicas de visitante en Adobe Analytics y de cómo se relacionan entre sí. También explicará varios casos de uso de ejemplo sobre cuándo usar Vistas de página, Visitas y Visitantes únicos en los informes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437866/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/336483/?quality=12&learn=on)
 
 Para obtener más información sobre la documentación, consulte [Vistas de página](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=es), [Visitas](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=es) y [Visitantes únicos](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=es).

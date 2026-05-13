@@ -8,16 +8,22 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 exl-id: 00a457dc-ff0b-461f-8f02-afc4ecd6b54b
-source-git-commit: 32af3db3bd0abe57504708318d9b641324569c65
+TQID: https://experienceleague.adobe.com/rbniizbRfgRB3x-zYcZ5JPKMDrT2VtPfXNc1Q75DjGU
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7id: f73667dc-d296-4875-8975-ac3fdc3adc42id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2: id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06id: c45e2849-b5ab-4ac6-8df1-bbe34c2dd79eid: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1022'
-ht-degree: 100%
+source-wordcount: 1027
+ht-degree: 97%
 
 ---
 
 # Traducción del lenguaje técnico de Adobe Analytics de forma no técnica
 
->[!VIDEO](https://video.tv.adobe.com/v/345322/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## Hablar diferentes idiomas
 
@@ -33,8 +39,8 @@ Por ejemplo, esta es mi forma favorita de explicar las eVars y los métodos de a
 
 >[!TIP]
 >
->**Asigne claramente un nombre a los componentes (es decir, dimensiones, segmentos y métricas) con descripciones.**
->>Compartir el diccionario de datos de eVars y props siempre es un buen paso para democratizar los datos de su organización, pero no espere que un usuario casual memorice todas las variables personalizadas y su uso previsto por índice/número. En su lugar, en Adobe Workspace, asegúrese de que los nombres de los componentes son descriptivos gracias a las etiquetas y descripciones significativas. Esto ayudará a los usuarios a encontrar rápidamente la métrica correcta entre sus cientos de eVars y sus infinitas métricas/segmentos.
+>**Asigne claramente un nombre a los componentes (es decir, dimensiones, segmentos y métricas) con descripciones**
+>Compartir el diccionario de datos de eVars y props siempre es un buen paso para democratizar los datos de su organización, pero no espere que un usuario casual memorice todas las variables personalizadas y su uso previsto por índice/número. En su lugar, en Adobe Workspace, asegúrese de que los nombres de los componentes son descriptivos gracias a las etiquetas y descripciones significativas. Esto ayudará a los usuarios a encontrar rápidamente la métrica correcta entre sus cientos de eVars y sus infinitas métricas/segmentos.
 
 ## Sugerencia 2: Encuentre un idioma común
 
@@ -44,8 +50,8 @@ En [!DNL The Home Depot], es posible que un comerciante o gerente de tienda no e
 
 >[!TIP]
 >
->**Haga que la implementación refleje ese idioma común.**
->>Casi todo lo que hay en la interfaz de usuario de Adobe Analytics es personalizable. Si su organización se refiere a los carros de compras como bolsas de compras, puede cambiar el nombre del evento del carro de compras por bolsa de compras.
+>**Haga que su implementación refleje ese idioma común**
+>Casi todo lo que hay en la interfaz de usuario de Adobe Analytics es personalizable. Si su organización se refiere a los carros de compras como bolsas de compras, puede cambiar el nombre del evento del carro de compras por bolsa de compras.
 >
 >Considere la posibilidad de crear su propio vocabulario controlado para su organización si encuentra varios términos sinónimos por ahí o si hay términos que a los usuarios no les suele gustar. Toma la iniciativa de estandarizar la terminología preferida. Y revise los términos confusos más comunes en sus sesiones de incorporación y habilitación para ayudar a los usuarios a aclimatarse.
 
@@ -57,8 +63,8 @@ En [!DNL The Home Depot], pusimos un desafío de Adobe Analytics en el que hicim
 
 >[!TIP]
 >
->**Cree plantillas y guías de espacio de trabajo anotadas específicas para soluciones.**
->>Aproveche los informes empresariales (plantillas) y las visualizaciones de texto de Analysis Workspace para crear guías contextuales que ayuden a sus estrellas de rock a seguir el camino correcto.
+>**Crear plantillas y guías de área de trabajo anotadas específicas para soluciones**
+>Aproveche los informes empresariales (plantillas) y las visualizaciones de texto de Analysis Workspace para crear guías contextuales que ayuden a sus estrellas de rock a seguir el camino correcto.
 >
 >La flexibilidad de Analysis Workspace le permite crear plantillas para realizar análisis más rápidos, así como habilitar el autoservicio y la autohabilitación. Al combinar las capacidades de las funciones como plantillas revisadas, anotaciones y vinculación en cuanto al espacio de trabajo, puede crear directrices eficientes, accesibles y fáciles de difundir entre los usuarios no técnicos en el contexto de Adobe Analytics.
 

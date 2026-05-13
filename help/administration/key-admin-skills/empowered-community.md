@@ -10,22 +10,28 @@ level: Experienced
 thumbnail: 340457.jpg
 kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
-source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
+TQID: https://experienceleague.adobe.com/ir0Ck8qSsCgq2MsalGph9EUNvPp7-ov8IN2xlG2bypk
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2: id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06id: ef60b66e-5984-4336-ba72-6d978b1b6f87id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1522'
-ht-degree: 100%
+source-wordcount: 1605
+ht-degree: 94%
 
 ---
 
 # Creación de una comunidad empoderada
 
->[!VIDEO](https://video.tv.adobe.com/v/341112/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
 
 Una comunidad empoderada es una que tiene algunas características notables. En primer lugar, es compatible con los administradores de Adobe Analytics. Tiene conocimientos sobre cómo se representan los requisitos comerciales dentro de su implementación. Por último, pero no menos importante, tiene los medios para utilizar el análisis de forma segura para la toma de decisiones basada en datos. Muchas empresas se benefician de la estructura que proporciona un grupo de usuarios interno de Adobe Analytics o una comunidad más formal.
 
 Puede crear una comunidad empoderada dentro de su organización. A continuación se muestra cómo:
 
-## &#x200B;1. Genere una infraestructura sólida, la base de su comunidad empoderada
+## &#x200B;1. Cree una infraestructura sólida, la base de su comunidad empoderada
 
 * Crear un proceso de incorporación de usuario:
 
@@ -59,17 +65,17 @@ Puede crear una comunidad empoderada dentro de su organización. A continuación
 
    * **Usuarios de herramientas:** cualquier persona que tenga el potencial de afectar a los datos alineados con la implementación de Adobe Analytics de su empresa podrá participar, independientemente del título o la función que tenga.
 
-* Recuerde: “¿Qué les interesa?” Mantener a su comunidad centrada en casos de uso empresarial y prioridades ayuda a garantizar la participación y el éxito.
+* Recuerde: &quot;¿Qué les interesa?&quot; Mantener a su comunidad centrada en casos de uso empresarial y prioridades ayuda a garantizar la participación y el éxito.
 
-## &#x200B;3. Utilice herramientas para empezar a crear su comunidad
+## &#x200B;3. Use herramientas para empezar a crear su comunidad
 
 * [Crear una carta de proyecto](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (descarga de plantilla):
 
   Una carta de proyecto es a menudo una buena manera de alinear su negocio con la oportunidad de una comunidad interna empoderada. Al responder a las siguientes preguntas, tiene lo que necesita para redactar el borrador de la carta:
 
    * ¿Cuál es la afirmación del problema que está tratando de resolver? ¿Cuál es el objetivo de su comunidad y qué prevé que esté dentro o fuera de ámbito?
-   * “¿Qué hay para mí?” ¿Cuáles son los beneficios o costos potenciales, cómo medir el éxito y cuáles son los riesgos?
-   * ¿Cuál es la cronología para poner en marcha una comunidad? Qué trabajo de configuración se necesita de una habilitación, herramienta, grupos de usuarios administradores, etc. ¿perspectiva? Por lo general, es mejor contar con recursos de habilitación de referencia desarrollados antes de lanzar una iniciativa más amplia.
+   * &quot;¿Qué hay para mí?&quot; ¿Cuáles son los beneficios o costos potenciales, cómo medir el éxito y cuáles son los riesgos?
+   * ¿Cuál es la cronología para poner en marcha una comunidad? ¿Qué trabajo de configuración se necesita desde una perspectiva de habilitación, herramienta, grupos de usuarios administradores, etc.? Por lo general, es mejor contar con recursos de habilitación de referencia desarrollados antes de lanzar una iniciativa más amplia.
    * ¿Qué tan efectivos serán los integrantes del equipo principal para el éxito de la comunidad y quién será apoyado dentro de la iniciativa?
    * Por último, ¿quién es su patrocinador ejecutivo? No podemos enfatizar lo suficiente el valor de un fuerte patrocinador ejecutivo, alguien que firme en apoyar el trabajo y su valor.
 
@@ -89,7 +95,7 @@ Puede crear una comunidad empoderada dentro de su organización. A continuación
 
 * ¡Use su vehículo comunitario para salir en vivo! Dependiendo de la pila tecnológica de su empresa, también querrá elegir una herramienta o vehículo para su comunidad. Esto será personalizado para su organización, pero muchos a menudo encuentran que Microsoft Teams funciona bien.
 
-## &#x200B;4. Mantener su comunidad para asegurar su éxito sostenido
+## &#x200B;4. Mantener su comunidad, asegurando su éxito sostenido
 
 * Reservar tiempo: agregue reuniones de la comunidad a los calendarios para reservar el tiempo con antelación, las reuniones recurrentes son una buena idea siempre que sean posibles y ayudarán a dar vida a su plan de contenido. Para ayudarle a empezar, aquí hay algunas ideas de la agenda:
 

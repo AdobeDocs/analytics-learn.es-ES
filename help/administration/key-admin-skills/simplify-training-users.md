@@ -9,16 +9,22 @@ level: Experienced
 thumbnail: 340458.jpg
 kt: 9779
 exl-id: d7fb6c34-262c-482c-95ab-fc45399bf9be
-source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
+TQID: https://experienceleague.adobe.com/4aVMJTW2qTcJWNT1SnLkWpzdns0hQ4necmA6Dp-Mkzg
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2: id: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceeeid: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '906'
-ht-degree: 100%
+source-wordcount: 926
+ht-degree: 95%
 
 ---
 
 # Sugerencias y trucos sobre cómo simplificar la formación de los usuarios y dedicarle menos tiempo
 
->[!VIDEO](https://video.tv.adobe.com/v/341103/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
 
 Garantizar que los usuarios empresariales de su organización estén bien formados en Adobe Analytics es crucial para crear una cultura de toma de decisiones basada en datos. Los usuarios que son capaces de encontrar información con facilidad en Adobe Analytics pueden responder preguntas comerciales sencillas por su cuenta, lo que les permite a los analistas disponer de más tiempo para responder a preguntas comerciales difíciles. Compartir sus conocimientos ayuda a impulsar la democracia de los datos y permite a los usuarios empresariales ser más independientes a la hora de tomar decisiones basadas en el rendimiento.
 
@@ -57,7 +63,7 @@ Por supuesto, una sesión de formación básica y estándar no abarcará cada pr
 
 ## Forme a los usuarios para que enseñen a otros
 
-En cada departamento, normalmente hay un usuario que está más avanzado y que conoce mejor Adobe Analytics. Aproveche su experiencia y trabaje con ellos para que se conviertan en “jefes del departamento de Adobe Analytics”. Al crear este nivel de soporte, está ayudando a los usuarios a mejorar su conjunto de habilidades, haciendo que su organización esté más involucrada en Adobe Analytics y preservando su tiempo para preguntas más avanzadas y difíciles.
+En cada departamento, normalmente hay un usuario que está más avanzado y que conoce mejor Adobe Analytics. Aproveche su experiencia y trabaje con ellos para que se conviertan en &quot;jefes del departamento de Adobe Analytics&quot;. Al crear este nivel de soporte, está ayudando a los usuarios a mejorar su conjunto de habilidades, haciendo que su organización esté más involucrada en Adobe Analytics y preservando su tiempo para preguntas más avanzadas y difíciles.
 
 * Invierta tiempo en formar a los líderes de su departamento para que se conviertan en usuarios avanzados, de modo que puedan responder cómodamente a cualquier pregunta y ayudar a los nuevos usuarios del departamento. Este tiempo invertido le dará resultados más tarde.
 * Asegúrese de definir el criterio de que todas las preguntas del departamento deben canalizarse a través del jefe de este. Si no son capaces de responder a una pregunta, entonces es cuando hay que recurrir a su ayuda.

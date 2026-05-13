@@ -5,13 +5,19 @@ feature: Calculated Metrics
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-02T00:00:00Z
+last-substantial-update: 2023-05-02T00:00:00.000Z
 jira: KT-13178
 thumbnail: KT-13178.jpeg
 exl-id: d4f69244-6614-41f3-ac48-70adabb8a8e7
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/TqBSmUzTHOHqVfKdn3711CKiVMyQgjsRSP5ddUnEpdQ
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2: id: f1f1a2d4-0976-4881-b091-c2bb8de7ffacid: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1286'
+source-wordcount: 1289
 ht-degree: 2%
 
 ---
@@ -20,7 +26,7 @@ ht-degree: 2%
 
 Conozca las ventajas de utilizar métricas calculadas en Adobe Analytics y cómo pueden proporcionarle una vista dinámica y continua de sus datos en este artículo.
 
-¡Oye! ¿Por qué está en Excel en este momento? Quiero decir, sé por qué. Tienes que informar para llegar a las personas adecuadas. Está ocupado introduciendo datos de Adobe Analytics y calculando las tasas de conversión, creando gráficos y preparándose para colocarlos en un PowerPoint que se dirige a los responsables de la toma de decisiones. Espero que al menos esté usando Report Builder para hacerlo, pero sé que algunos de ustedes están copiando y pegando manualmente datos de un Workspace a Excel.
+¡Eh! ¿Por qué está en Excel en este momento? Quiero decir, sé por qué. Tienes que informar para llegar a las personas adecuadas. Está ocupado introduciendo datos de Adobe Analytics y calculando las tasas de conversión, creando gráficos y preparándose para colocarlos en un PowerPoint que se dirige a los responsables de la toma de decisiones. Espero que al menos esté usando Report Builder para hacerlo, pero sé que algunos de ustedes están copiando y pegando manualmente datos de un Workspace a Excel.
 
 ¿Por qué?
 
