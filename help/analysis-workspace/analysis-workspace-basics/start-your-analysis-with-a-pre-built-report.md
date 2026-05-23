@@ -27,4 +27,4 @@ ht-degree: 77%
 
 ¿No quieres empezar desde cero? Obtenga información sobre cómo iniciar análisis en Workspace con un informe generado previamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/334279/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450687/?captions=spa&learn=on)
