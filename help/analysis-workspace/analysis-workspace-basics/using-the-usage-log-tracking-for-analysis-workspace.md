@@ -11,8 +11,8 @@ team: Technical Marketing
 kt: 1597
 source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 65%
+source-wordcount: '152'
+ht-degree: 63%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 65%
 
 Este vídeo muestra cómo usar [!UICONTROL Seguimiento del registro de uso] en [!DNL Workspace] proyectos, lo que le ayuda a comprender mejor el uso que hacen los usuarios de Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/32853/?captions=spa&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
 Las opciones de seguimiento de [!DNL Workspace] son:
 
@@ -37,6 +37,6 @@ Las vistas de proyecto es la mejor indicación de si los usuarios están utiliza
 ## Recursos adicionales {#additional-resources}
 
 * [Más información sobre los registros](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=es)
-* [Descarga del tablero de demostración](https://adobe.ly/2ygP5ws)
+* [Descargar tablero de demostración](https://adobe.ly/2ygP5ws)
 
 PRÓXIMAMENTE: Estamos trabajando para presentar esta información en una IU sencilla (y con más detalles) dentro de [!DNL Analytics].
