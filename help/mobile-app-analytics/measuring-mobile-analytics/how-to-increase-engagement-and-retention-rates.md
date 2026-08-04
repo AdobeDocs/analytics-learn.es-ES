@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Identifique los públicos que interactúan mediante el uso de [!UICONTROL Cohortes] y conozca las causas subyacentes que generan problemas en las aplicaciones móviles. Utilice algoritmos de ciencia de datos en [!UICONTROL Segment IQ] para conocer las diferencias y similitudes entre los segmentos.
 
->[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32714/?captions=spa&quality=12&learn=on)

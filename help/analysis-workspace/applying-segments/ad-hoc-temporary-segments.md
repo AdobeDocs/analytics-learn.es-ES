@@ -27,4 +27,4 @@ ht-degree: 100%
 
 Aprenda a crear rápidamente un segmento sencillo para responder a una pregunta concreta y, a continuación, deséchelo para que no llene su lista de segmentos guardados.
 
->[!VIDEO](https://video.tv.adobe.com/v/23978/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41419/?captions=spa&quality=12&learn=on)
