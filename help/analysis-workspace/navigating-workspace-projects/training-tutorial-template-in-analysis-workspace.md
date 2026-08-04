@@ -37,6 +37,6 @@ ht-degree: 100%
 
 El tutorial de formación de Analysis Workspace guía a los usuarios por la terminología común y los pasos necesarios para crear su primer análisis en Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/33773/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37172/?captions=spa&quality=12&learn=on)
 
 Esta plantilla está disponible como estándar en el modal Nuevo proyecto. Desde esta plantilla, puede crear sus propios tutoriales y adaptarlos a los casos de uso y la estructura de datos únicos de su organización (eVars, eventos personalizados).
