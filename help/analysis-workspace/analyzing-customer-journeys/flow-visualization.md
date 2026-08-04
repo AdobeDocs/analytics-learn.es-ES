@@ -34,6 +34,6 @@ ht-degree: 100%
 
 Las visualizaciones de flujo se utilizan para explorar los recorridos exactos que los clientes hacen con su marca. El flujo se puede aplicar a páginas, canales de marketing y a cualquier otra dimensión o combinación de dimensiones que recopile.
 
->[!VIDEO](https://video.tv.adobe.com/v/346063/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452615/?captions=spa&quality=12&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=es).
