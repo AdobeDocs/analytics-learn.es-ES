@@ -20,6 +20,6 @@ La segmentación tradicional en Adobe Analytics a menudo se limita al nivel de v
 
 Este vídeo muestra cómo el análisis de visitas secundarias en Adobe Analytics proporciona funciones de segmentación más granulares.
 
-Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/sub-hit){target="_blank"}.
+Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/es/docs/analytics/components/segmentation/sub-hit){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
