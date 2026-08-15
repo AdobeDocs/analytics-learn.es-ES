@@ -22,4 +22,4 @@ Este vídeo muestra cómo el análisis de visitas secundarias en Adobe Analytics
 
 Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/es/docs/analytics/components/segmentation/sub-hit){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497078/?captions=spa&quality=12&learn=on)
