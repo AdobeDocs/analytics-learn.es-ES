@@ -8,32 +8,46 @@ level: Experienced
 thumbnail: 342071.jpg
 kt: 10129
 exl-id: 210548ff-5e4b-4b8d-9be7-1320e26a450c
-TQID: https://experienceleague.adobe.com/JPOVzx4QqLTEuhoKE2DHDyqKY8zfe6HbOjnTpJ6iRxQ
+TQID: 'https://experienceleague.adobe.com/JPOVzx4QqLTEuhoKE2DHDyqKY8zfe6HbOjnTpJ6iRxQ'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Taxonomy
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 735
+source-wordcount: '735'
 ht-degree: 100%
-
 ---
-
 # Trabajo multifuncional
 
 >[!VIDEO](https://video.tv.adobe.com/v/345451/?captions=spa&quality=12&learn=on)

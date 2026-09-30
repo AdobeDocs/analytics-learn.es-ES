@@ -8,27 +8,37 @@ doc-type: feature video
 thumbnail: Workspace Basics.jpeg
 kt: KT-13087
 exl-id: 2ef470bd-b218-4286-8501-39729511c217
-TQID: https://experienceleague.adobe.com/OEgk7v-ZS78ogdLjFPaWh6YpcUW2WxLHfS6lAfBN5G0
+TQID: 'https://experienceleague.adobe.com/OEgk7v-ZS78ogdLjFPaWh6YpcUW2WxLHfS6lAfBN5G0'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Beginner
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 939
+source-wordcount: '939'
 ht-degree: 100%
-
 ---
-
 # 7 sugerencias y trucos con el botón derecho para flujos de trabajo más eficientes
 
 Estas son 7 sugerencias con el botón derecho que puede utilizar en Analysis Workspace para que sus flujos de trabajo sean más eficientes. Puede leerlas en el texto de abajo o ver el vídeo para su demostración.
@@ -45,9 +55,9 @@ Dentro de dicha anotación, puede limitarla solo al proyecto específico o puede
 
 Esta anotación aparecerá en las visualizaciones y tablas con toda la información proporcionada. Esto le ayudará a proporcionar un contexto rápido a todas las personas que vean sus informes. Todas las anotaciones se pueden administrar de forma centralizada en Componentes > Anotaciones
 
-## Sugerencia 2: datos de tendencia para canales e informes de flujo
+## Sugerencia 2: datos de tendencia para embudos e informes de flujo
 
-Los informes de canal (visitas en orden previsto) son ideales a la hora de mostrar a los usuarios que pasan por varias páginas o eventos. Pero también se puede medir la tendencia de la sucesión de eventos a lo largo del tiempo. Puede hacerlo fácilmente haciendo clic con el botón derecho en cualquier nivel del canal y viendo la tendencia de todos los puntos de contacto o un punto de contacto específico en un gráfico de líneas. Puede hacerlo por % o por el número en bruto de visitas o visitantes.
+Los informes de embudo (visitas en orden previsto) son ideales a la hora de mostrar a los usuarios que pasan por varias páginas o eventos. Pero también se puede medir la tendencia de la sucesión de eventos a lo largo del tiempo. Puede hacerlo fácilmente haciendo clic con el botón derecho en cualquier nivel del embudo y viendo la tendencia de todos los puntos de contacto o un punto de contacto específico en un gráfico de líneas. Puede hacerlo por % o por el número en bruto de visitas o visitantes.
 
 También puede hacerlo en los informes de flujo haciendo clic con el botón derecho en una ruta específica y seleccionando &quot;Tendencia&quot;.
 

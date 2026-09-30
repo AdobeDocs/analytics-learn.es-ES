@@ -9,25 +9,34 @@ doc-type: article
 thumbnail: 10532.jpg
 kt: 10532
 exl-id: be00c8c0-a4bc-4380-98da-d1e2a3d31ec5
-TQID: https://experienceleague.adobe.com/rmLhZbO6hYtpj1P0q0ZVwXglHVBC-KaHIkxyAF-7i-U
+TQID: 'https://experienceleague.adobe.com/rmLhZbO6hYtpj1P0q0ZVwXglHVBC-KaHIkxyAF-7i-U'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 366
+source-wordcount: '366'
 ht-degree: 87%
-
 ---
-
 # Cree plantillas de código estandarizadas
 
 **QUÉ:** Para una implementación de “línea de base” (es decir, lo que su empresa considera como los KPI que debe tener para todos los sitios de Adobe Analytics), su organización debe tener un único método de implementación, siempre que sea posible. Por ejemplo, utilice la misma estructura de capa de datos en todos los sitios y aproveche la misma regla/código personalizado de administrador de etiquetas para capturar cosas como búsquedas internas o información del perfil del visitante.

@@ -9,27 +9,38 @@ doc-type: article
 thumbnail: 10535.jpg
 kt: 10535
 exl-id: 1474e117-8668-4f21-ba86-e3fb88d98468
-TQID: https://experienceleague.adobe.com/EhZlNayX6rlHryQ-Hb8bR9mJg9h2LhUWYZy--aWElus
+TQID: 'https://experienceleague.adobe.com/EhZlNayX6rlHryQ-Hb8bR9mJg9h2LhUWYZy--aWElus'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+    internal-label: Dashboards
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 515
+source-wordcount: '515'
 ht-degree: 98%
-
 ---
-
 # Creación de un proyecto de noticias y anuncios
 
 **QUÉ:** Cree un proyecto “Noticias y anuncios” en el espacio de trabajo, que será principalmente de texto, y compártalo con toda la compañía. No es necesario que se convierta en una página de destino para los usuarios (aunque puede serlo), ya que flotará hasta la parte superior de la lista cada vez que se actualice.

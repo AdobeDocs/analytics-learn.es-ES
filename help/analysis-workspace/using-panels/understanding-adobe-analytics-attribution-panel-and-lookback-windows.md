@@ -9,26 +9,38 @@ last-substantial-update: 2023-06-20T00:00:00.000Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
-TQID: https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E
+TQID: 'https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
 subfeature_v2:
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1704
+source-wordcount: '1704'
 ht-degree: 1%
-
 ---
-
 # Explicación del panel de atribución de Adobe Analytics y las ventanas retroactivas
 
 Cuando pensé por primera vez en el [panel de atribución](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=es) y en la **ventana retrospectiva**, inmediatamente me recordaron el concepto de &quot;*viaje en el tiempo&#39;*; entonces, por supuesto, también me recordaron que nuestra respuesta típica a muchas herramientas nuevas como estas es simplemente dejar de intentar usarlo, porque se ven muy complicadas.
@@ -88,9 +100,9 @@ Con esto en mente, aquí hay algunos ejemplos de cómo los ❸ **modelos de atri
 
 - **Forma de U**: este método asigna el **40%** del crédito a la *primera persona* en la puerta, distribuye el **20%** del crédito entre *todos los que están entre* y, a continuación, otorga el **40%** a la **última** hasta. Este modelo se usará con más frecuencia en situaciones en las que tenga un **ciclo largo de conversión/ventas** que contenga *varios puntos de contacto* a lo largo del camino.  En este caso, el objetivo es resaltar principalmente las tácticas de marketing de ***first*** y ***last*** que contribuyeron a la conversión del cliente.
 - **J**-**Forma** y **J inversa**:
-   - Piense en **Forma de U**, pero en su lugar este modelo asigna un crédito de **60%** a la *última persona* que camina por la puerta, de **20%** a *primero* y luego *divide* el **20%** restante entre *todos los demás* en el medio.  **J inverso** hace exactamente lo contrario.
+  - Piense en **Forma de U**, pero en su lugar este modelo asigna un crédito de **60%** a la *última persona* que camina por la puerta, de **20%** a *primero* y luego *divide* el **20%** restante entre *todos los demás* en el medio.  **J inverso** hace exactamente lo contrario.
 
-     El objetivo aquí es poner la mayor parte de tu énfasis, ya sea al *principio* o al *final* de tu campaña; sin embargo, todavía quieres asignar una cierta cantidad de crédito al elemento que contribuye en el extremo opuesto mientras reconoces a los &quot;chicos pequeños&quot; en el camino.
+    El objetivo aquí es poner la mayor parte de tu énfasis, ya sea al *principio* o al *final* de tu campaña; sin embargo, todavía quieres asignar una cierta cantidad de crédito al elemento que contribuye en el extremo opuesto mientras reconoces a los &quot;chicos pequeños&quot; en el camino.
 
 - **Deterioro de tiempo**: Ahora, sería negligente si no compartiera este. Este modelo tiene literalmente una vida media que decae exponencialmente - ¡con el tiempo!  En este caso, el parámetro *default* para la semivida de este modelo es de **7 días**.  La forma en que funciona es aplicar *weight* a cada **canal de marketing**, *según la cantidad de tiempo* que transcurre después del *punto de contacto inicial* y cuando el cliente se convierte.
 
@@ -132,7 +144,7 @@ Recuerde, después de haber seleccionado los **modelos de atribución** y **vent
 Ahora que tiene los conceptos básicos, imagine que está ejecutando una campaña de marketing y trata de determinar qué canal es el *más efectivo* para generar conversiones. Con la ayuda del **panel de atribución**, no solo puedes ver el **último contacto**, sino también el **primer contacto**, **mismo contacto** y cualquier otro **modelo** que elijas para determinar qué **canales** son los *más efectivos* para dirigir tus *conversiones*. Entonces, esta información se puede usar para *optimizar* tus campañas y mejorar el rendimiento general simplemente devolviendo el reloj con la **ventana retrospectiva** de tu elección.
 
 Ahora que ha visto lo que puede hacer, no se deje engañar ni intimidar por las características aparentemente complejas del panel de atribución.  **Acéptalo**.  *Abrazarlo*.  **Comprenderlo**.
-PERO SOBRE TODO - *Úsalo a tu favor.* El **panel de atribución** y la **ventana retrospectiva** son claves para desbloquear una comprensión más profunda de sus clientes y su recorrido con su marca.
+PERO SOBRE TODO - *Úselo en su beneficio.* El **panel de atribución** y la **ventana retrospectiva** son claves para desbloquear una comprensión más profunda de sus clientes y su recorrido con su marca.
 
 Ahora, podemos viajar &quot;[atrás en el tiempo](https://youtu.be/gVryJmZNFdU)&quot; con confianza y usar la potencia de nuestra confiable máquina del tiempo (también conocida como ***Adobe Analytics***) para tomar decisiones basadas en datos.
 

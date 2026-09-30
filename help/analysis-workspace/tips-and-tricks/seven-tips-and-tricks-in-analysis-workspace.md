@@ -10,40 +10,62 @@ kt: 3945
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
-TQID: https://experienceleague.adobe.com/1zP4J-xmbaaRop3-cJXtYOgwcSBbucX1unKwspg2q2s
+TQID: 'https://experienceleague.adobe.com/1zP4J-xmbaaRop3-cJXtYOgwcSBbucX1unKwspg2q2s'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6
+    internal-label: Workspace projects
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+    internal-label: Report Builder
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+    internal-label: Marketing Channels
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+    internal-label: Report suites
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1072
+source-wordcount: '1052'
 ht-degree: 91%
-
 ---
-
 # Siete consejos y trucos que facilitan y aceleran la creación de proyectos de Analytics personalizados
 
 **Amplíe sus habilidades de Analysis Workspace.**
@@ -53,7 +75,7 @@ Analysis Workspace es una potente herramienta dentro de Adobe Analytics que pued
 
 ### ***Sugerencia 1: suelte cualquier [!UICONTROL dimensión], [!UICONTROL intervalo de fecha], [!UICONTROL segmento] o [!UICONTROL métrica] en cualquier parte del proyecto***
 
-Basta con arrastrar y soltar un [!UICONTROL segmento] o cualquier otro componente en la zona de colocación de [!UICONTROL segmentos] en la parte superior de cualquier panel, y puede segmentar rápidamente ese panel hasta determinados puntos de datos. Por ejemplo, puede segmentar el panel para que muestre solo las visitas individuales en las que existan pedidos soltando la [!UICONTROL métrica] “pedidos” en la zona de colocación de [!UICONTROL segmentos]. Incluso puede segmentar por datos que no existan dentro de un componente (para ver visitas sin pedidos, por ejemplo) soltando el elemento de dimensión “sin especificar” o “ninguno” en la zona.
+Basta con arrastrar y soltar un [!UICONTROL segmento] o cualquier otro componente en la zona de colocación de [!UICONTROL segmentos] en la parte superior de cualquier panel, y puede segmentar rápidamente ese panel hasta determinados puntos de datos. Por ejemplo, puede segmentar el panel para que muestre solo los hits en los que existan pedidos soltando la [!UICONTROL métrica] “pedidos” en la zona de colocación de [!UICONTROL segmentos]. Incluso puede segmentar por datos que no existan dentro de un componente (para ver hits sin pedidos, por ejemplo) soltando el elemento de dimensión “sin especificar” o “ninguno” en la zona.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37555/?captions=spa&quality=12&learn=on)
 

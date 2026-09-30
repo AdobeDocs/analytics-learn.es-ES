@@ -9,19 +9,20 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 63%
-
 ---
-
 
 # Empleo del [!UICONTROL Seguimiento del registro de uso] para Analysis Workspace {#using-the-usage-log-tracking-for-analysis-workspace}
 
 Este vídeo muestra cómo usar [!UICONTROL Seguimiento del registro de uso] en [!DNL Workspace] proyectos, lo que le ayuda a comprender mejor el uso que hacen los usuarios de Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/32853/?captions=spa&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
 Las opciones de seguimiento de [!DNL Workspace] son:
 
