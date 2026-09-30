@@ -35,7 +35,7 @@ ht-degree: 100%
 
 Las [!DNL Fallout] en Analysis Workspace le permiten mezclar y hacer coincidir dimensiones y métricas como puntos de contacto en embudos y flujos de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327468/?captions=spa&quality=12&learn=on)
 
 Esta potente capacidad le proporciona una mayor flexibilidad para definir los pasos del usuario que desea investigar.
 

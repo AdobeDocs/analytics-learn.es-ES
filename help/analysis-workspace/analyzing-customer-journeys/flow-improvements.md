@@ -31,6 +31,6 @@ ht-degree: 100%
 
 Obtenga información acerca de algunas de las interesantes mejoras en la visualización de flujo. Las mejoras incluyen permitirle configurar el inicio o el final de la ruta que le interese, filtrar una columna para incluir o excluir un elemento específico y definir ajustes avanzados preconfigurables.
 
->[!VIDEO](https://video.tv.adobe.com/v/344222/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410740/?captions=spa&quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/create-flow.html?lang=es).
