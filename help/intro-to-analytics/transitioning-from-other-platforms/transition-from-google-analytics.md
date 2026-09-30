@@ -7,44 +7,70 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-TQID: https://experienceleague.adobe.com/rWtllAn3jMduCGGWsN-DpKB1WmE-P-EuVcjOyuQn6S0
+TQID: 'https://experienceleague.adobe.com/rWtllAn3jMduCGGWsN-DpKB1WmE-P-EuVcjOyuQn6S0'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+    internal-label: Dashboards
   - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+    internal-label: API
+  - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
 subfeature_v2:
   - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+    internal-label: Report Builder
   - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+    internal-label: Marketing Channels
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
   - id: e3e906cf-5493-4e0a-9a33-bf0ac37393d6
+    internal-label: Custom reports
   - id: e7d92df1-c5ba-4e93-85df-f83171b889be
+    internal-label: Variables
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: 518ed3bf-6fcd-5452-90d0-bba80603b0d5
+    internal-label: Third-party Integration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 3446
+source-wordcount: '3447'
 ht-degree: 94%
-
 ---
-
 # Una guía completa para la transición a Adobe Analytics desde Google Analytics{#comprehensive-guide-for-transitioning-to-Adobe-Analytics}
 
 ## &#x200B;1. Introducción
@@ -124,19 +150,19 @@ Los usuarios tienen a su disposición una gran variedad de visualizaciones:
 * Visita en orden previsto
 * Flujo
 * Gráficos
-   * Área (apilada y sin apilar)
-   * Línea
-   * Dispersión
-   * Barra (apilada y sin apilar)
-   * Viñeta
-   * Anillo
-   * Histograma
-   * Barra horizontal (apilada y sin apilar)
+  * Área (apilada y sin apilar)
+  * Línea
+  * Dispersión
+  * Barra (apilada y sin apilar)
+  * Viñeta
+  * Anillo
+  * Histograma
+  * Barra horizontal (apilada y sin apilar)
 * Mapa
 * Bloques de resumen
-   * Cambio de resumen
-   * Texto de resumen
-   * Texto (campo de texto libre para introducir información adicional que proporcione contexto)
+  * Cambio de resumen
+  * Texto de resumen
+  * Texto (campo de texto libre para introducir información adicional que proporcione contexto)
 * Venn
 
 Cada panel y visualización puede tener título y se le puede aplicar una descripción para ayudar a contextualizar lo que muestra la información.
@@ -168,7 +194,7 @@ Otra funcionalidad potente de los espacios de trabajo es la capacidad de aplicar
 
 >[!IMPORTANT]
 >
->Para obtener más información acerca del uso de desplegables y desgloses de forma libre, consulte <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=es>
+>Para obtener más información acerca del uso de desplegables y desgloses de forma libre, consulte <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
 
 ##### 2.1.2.2. Google Analytics: paneles, informes personalizados e informes guardados
 
@@ -298,7 +324,7 @@ Sin embargo, subrayaré que recomendaría utilizar tanto Adobe Analytics como Go
 
 Hay muchos recursos disponibles más allá de esta guía, que pueden ayudar a mejorar su estrategia:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/es?lang=es#home): contiene tutoriales, vídeos, documentación y foros de la comunidad
+* [Adobe Experience League](https://experienceleague.adobe.com/?lang=es#home): contiene tutoriales, vídeos, documentación y foros de la comunidad
 * [Grupos de usuarios de Adobe](https://analytics-augs.adobe.com/): un centro de eventos de la comunidad para ayudar a los usuarios a conectar entre sí y mejorar sus implementaciones.
 * [Canal de YouTube de grupos de usuarios de Adobe Analytics](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA): ¿no pudo asistir a una sesión de grupo de usuarios de Adobe Analytics? Vuelva a ver las sesiones de grupos de usuarios anteriores en todo el mundo para obtener más información acerca de cómo utilizan la herramienta sus colegas.
 * [Canal de Slack de chat de Measure](https://www.measure.chat/): conéctese con usuarios de Adobe Analytics de todo el mundo y comparta las lecciones aprendidas en la industria, haga preguntas de sus colegas y únase a grupos de interés centrados en la medición.

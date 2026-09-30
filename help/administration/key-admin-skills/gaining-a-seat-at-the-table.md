@@ -8,25 +8,30 @@ level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
 exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
-TQID: https://experienceleague.adobe.com/QraDVYr0QnHyVLadmouMsr74WdMIZbcUboP13j3xSBE
+TQID: 'https://experienceleague.adobe.com/QraDVYr0QnHyVLadmouMsr74WdMIZbcUboP13j3xSBE'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1311
+source-wordcount: '1311'
 ht-degree: 88%
-
 ---
-
 # Conseguir un asiento a la mesa
 
->[!VIDEO](https://video.tv.adobe.com/v/345310/?captions=spa&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
 &quot;Consiguiendo un asiento en la mesa&quot;. Esta frase popular ha sido un tema candente en el mundo de los negocios desde hace años. ¿Pero qué quiere decir? Conseguir un asiento a la mesa significa que usted está incluido en las conversiones de alto nivel en cuanto a toma de decisiones. No solo está invitado, sino que su aportación es valorada y apreciada. Voy a mostrarle cómo conseguir un puesto en la mesa ayudará a su empresa y a su propia carrera como usuario avanzado de Adobe Analytics, sea cual sea su cargo: administrador, analista de datos, etcétera.
 

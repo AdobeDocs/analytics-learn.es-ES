@@ -9,32 +9,42 @@ doc-type: feature video
 thumbnail: 332330.jpg
 kt: 7399
 exl-id: 83797aa3-afda-40ae-b74a-2cd6d5c39597
-TQID: https://experienceleague.adobe.com/mFTd-AifxgbM7E-tKF0sc8u4nGUt7WtTqwwKz2Uwla4
+TQID: 'https://experienceleague.adobe.com/mFTd-AifxgbM7E-tKF0sc8u4nGUt7WtTqwwKz2Uwla4'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+subfeature_v2:
+  - id: fab61dd8-112a-4e5e-ad5f-fb0240b7a60b
+    internal-label: Report Suite settings
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Privacy
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 126
+source-wordcount: '126'
 ht-degree: 100%
-
 ---
-
 # Configuración general de la cuenta
 
 Al configurar Adobe Analytics, sus elecciones pueden afectar a la forma en que se recopilan y almacenan los datos. Este vídeo trata algunos de los ajustes generales. También puede cambiarlos después de la implementación, ya que nunca es demasiado tarde para hacer que sus datos sean más correctos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411505/?captions=spa&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332330/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/general-acct-settings-admin.html?lang=es#admin-tools).

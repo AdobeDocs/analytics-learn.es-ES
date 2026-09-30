@@ -8,29 +8,38 @@ level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
 exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
-TQID: https://experienceleague.adobe.com/ZXiYDVRqaJbxICzAiFkS9XuUKlyiAKs7-ucZ3qKR-xI
+TQID: 'https://experienceleague.adobe.com/ZXiYDVRqaJbxICzAiFkS9XuUKlyiAKs7-ucZ3qKR-xI'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1091
+source-wordcount: '1091'
 ht-degree: 94%
-
 ---
-
 # ¿Plantea las preguntas correctas?
 
->[!VIDEO](https://video.tv.adobe.com/v/346456/?captions=spa&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
 
 _De todos_. Esa es una de las respuestas más comunes de las partes interesadas a la pregunta: _¿De qué datos desea hacer un seguimiento?_ Puede ser más valioso identificar y recopilar los _puntos de datos procesables_ que registrar todos los elementos posibles. La identificación eficiente de esos puntos de datos requiere un plan básico y debates creativos con las partes interesadas.
 
@@ -46,9 +55,9 @@ Las comunicaciones eficientes con los demás respecto a sus necesidades, o lo qu
 
 * ¿Cuáles son sus objetivos?
 * ¿A qué se refieren en su equipo u organización cuando dicen _____?
-   * “canal”?
-   * “tablero”?
-   * “esas siglas que ha mencionado”?
+  * “canal”?
+  * “tablero”?
+  * “esas siglas que ha mencionado”?
 * ¿Qué haría de forma diferente si tuviera estos datos?
 
 Cada empresa, unidad de negocio y equipo tiene una cultura propia y un idioma relacionado. Especialmente en el caso de siglas y palabras de moda, haga preguntas de seguimiento para garantizar una perfecta comprensión con las partes interesadas.

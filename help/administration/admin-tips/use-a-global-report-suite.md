@@ -9,24 +9,34 @@ doc-type: article
 thumbnail: 10536.jpg
 kt: 10536
 exl-id: 490addfd-b810-4f15-b065-e0e58048c882
-TQID: https://experienceleague.adobe.com/Gvyi3-9dJ3UXp3vaSIe0bhqswu2kSOW-EAorajxCq78
+TQID: 'https://experienceleague.adobe.com/Gvyi3-9dJ3UXp3vaSIe0bhqswu2kSOW-EAorajxCq78'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 769
+source-wordcount: '769'
 ht-degree: 98%
-
 ---
-
 # Use un grupo de informes globales
 
 **QUÉ:** Es tentador crear grupos de informes para cada uno de sus sitios, pero esto puede convertirse rápido en su peor pesadilla, tanto en términos de complicar la creación de informes como de la implementación. Tener un único grupo de informes globales puede ayudar de muchas maneras y simplificar de verdad la implementación.
@@ -36,16 +46,16 @@ ht-degree: 98%
 Estas son las ventajas y desventajas de tener un único grupo de informes, para ayudarle a sopesar las opciones:
 
 * PROS:
-   * Poder entender el panorama digital completo fácilmente. Si ha implementado la dimensión “propiedades” (eVar) a la que se hace referencia en otras sugerencias, podrá obtener con sencillez una sola vista de todos sus sitios y aplicaciones, tráfico y conversiones. Ver este panorama general es clave para comprender su negocio en general.
-   * En el mismo sentido, ahora puede ver cómo fluyen los usuarios entre todas las propiedades y comprender su recorrido a través del entorno digital.
-   * Facilidad de administración. Cuando utilice varios grupos de informes, deberá mantener la interfaz en varios lugares, así como varios documentos de etiquetado (o uno más complicado). Tener todo en un sitio significa que solo hay que actualizar un sitio. También facilita mucho la concesión de acceso.
-   * Mejor facilidad de uso de la interfaz. Si los usuarios solo pueden ir a un lugar, no necesitan pensar qué grupo de informes seleccionar. Tenga en cuenta que no puede usar varios grupos de informes en el mismo panel del espacio de trabajo y que, si hay varios, puede confundir a los usuarios.
-   * Menos llamadas al servidor = menos costes. Si ejecuta llamadas a varios grupos de informes, aumenta los costes. Si la implementación es sencilla, también se reducirán los gastos.
-   * Puede, simplemente, aprovechar los grupos de informes virtuales (VRS) para dividir los datos específicos del sitio en el grupo de informes globales y disminuir los permisos de usuario basados en un VRS si es necesario. Una vez que los datos se separan en grupos de informes individuales, no se pueden reagrupar. No obstante, si ya se han unido en un conjunto de datos (RS global), se pueden desglosar cómodamente.
+  * Poder entender el panorama digital completo fácilmente. Si ha implementado la dimensión “propiedades” (eVar) a la que se hace referencia en otras sugerencias, podrá obtener con sencillez una sola vista de todos sus sitios y aplicaciones, tráfico y conversiones. Ver este panorama general es clave para comprender su negocio en general.
+  * En el mismo sentido, ahora puede ver cómo fluyen los usuarios entre todas las propiedades y comprender su recorrido a través del entorno digital.
+  * Facilidad de administración. Cuando utilice varios grupos de informes, deberá mantener la interfaz en varios lugares, así como varios documentos de etiquetado (o uno más complicado). Tener todo en un sitio significa que solo hay que actualizar un sitio. También facilita mucho la concesión de acceso.
+  * Mejor facilidad de uso de la interfaz. Si los usuarios solo pueden ir a un lugar, no necesitan pensar qué grupo de informes seleccionar. Tenga en cuenta que no puede usar varios grupos de informes en el mismo panel del espacio de trabajo y que, si hay varios, puede confundir a los usuarios.
+  * Menos llamadas al servidor = menos costes. Si ejecuta llamadas a varios grupos de informes, aumenta los costes. Si la implementación es sencilla, también se reducirán los gastos.
+  * Puede, simplemente, aprovechar los grupos de informes virtuales (VRS) para dividir los datos específicos del sitio en el grupo de informes globales y disminuir los permisos de usuario basados en un VRS si es necesario. Una vez que los datos se separan en grupos de informes individuales, no se pueden reagrupar. No obstante, si ya se han unido en un conjunto de datos (RS global), se pueden desglosar cómodamente.
 * CONTRAS:
-   * Si tiene propiedades muy separadas y los usuarios no pasan de una a otra ni se espera que lo hagan, es posible que quiera tener grupos de informes separados.
-   * Si las propiedades tienen necesidades de etiquetado y creación de informes muy diferentes, puede ser recomendable configurar grupos de informes separados en aras de la eficiencia de las variables. Tener grupos de informes separados le dará más flexibilidad para usar variables personalizadas (más eVars).
-   * Excesos en la cantidad de valores exclusivos: la interfaz de Adobe Analytics solo le permite ver 500 000 valores únicos dentro de una sola dimensión durante un período de tiempo determinado. Una vez superada esta cifra, los valores se agrupan como “excesos en la cantidad de valores exclusivos” o “bajo tráfico” en la interfaz. Estos valores permanecen disponibles en el servidor (es decir, el almacén de datos o fuentes de datos), pero no se pueden visualizar en la interfaz. Si tiene datos muy granulares (como ID de usuario, PSN, etc.), es fácil alcanzar este nivel. Tener grupos de informes separados puede ayudar con este problema.
+  * Si tiene propiedades muy separadas y los usuarios no pasan de una a otra ni se espera que lo hagan, es posible que quiera tener grupos de informes separados.
+  * Si las propiedades tienen necesidades de etiquetado y creación de informes muy diferentes, puede ser recomendable configurar grupos de informes separados en aras de la eficiencia de las variables. Tener grupos de informes separados le dará más flexibilidad para usar variables personalizadas (más eVars).
+  * Excesos en la cantidad de valores exclusivos: la interfaz de Adobe Analytics solo le permite ver 500 000 valores únicos dentro de una sola dimensión durante un período de tiempo determinado. Una vez superada esta cifra, los valores se agrupan como “excesos en la cantidad de valores exclusivos” o “bajo tráfico” en la interfaz. Estos valores permanecen disponibles en el servidor (es decir, el almacén de datos o fuentes de datos), pero no se pueden visualizar en la interfaz. Si tiene datos muy granulares (como ID de usuario, PSN, etc.), es fácil alcanzar este nivel. Tener grupos de informes separados puede ayudar con este problema.
 
 **CÓMO:** Comenzar con una nueva implementación de AA y utilizar un grupo de informes globales es sencillo y directo. Solo necesita crear el grupo de informes globales (uno para Desarrollo y otro para Producción) en la IU de administración de AA y aplicar los mismos valores de ID del grupo de informes (RSID) en todas sus propiedades.
 

@@ -9,20 +9,30 @@ last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13833
 thumbnail: KT-13833.jpeg
 exl-id: 8712b293-4d31-4a2b-ada3-59c20094b1d3
-TQID: https://experienceleague.adobe.com/YsHPJO-w7ZhVlI-xuZfF5fYj0q3HQGoypJsUQfoc5oc
+TQID: 'https://experienceleague.adobe.com/YsHPJO-w7ZhVlI-xuZfF5fYj0q3HQGoypJsUQfoc5oc'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1112
+source-wordcount: '1112'
 ht-degree: 3%
-
 ---
-
 # Desbloquear perspectivas con histogramas: más allá de los promedios en Analytics
 
 _Descubra el impacto de los histogramas en Analytics para obtener perspectivas que superan los promedios. Los histogramas revelan patrones de datos en el comportamiento de los clientes, la participación del visitante, el rendimiento técnico y los errores de formulario, lo que permite obtener perspectivas más profundas y tomar decisiones informadas en Adobe Workspace._

@@ -9,34 +9,50 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
-TQID: https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU
+TQID: 'https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: c8add8f2-4250-4fd9-9cde-9707036c567d
+    internal-label: Methods
   - id: cc449013-c052-42d5-9ca4-0d2bceb6f06a
+    internal-label: Implementation playbook
   - id: e7d92df1-c5ba-4e93-85df-f83171b889be
+    internal-label: Variables
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1823
+source-wordcount: '1823'
 ht-degree: 89%
-
 ---
-
 # Descargue el manual de implementación de Adobe Analytics
 
 Antes de empezar, [descargue el manual de implementación](assets/aa-implementation-playbook.xlsx).
@@ -86,16 +102,16 @@ Captura de pantalla de la muestra de SDR:
 También se recomienda utilizar este documento de etiquetado para llevar a cabo un seguimiento de cualquier variable gratuita y cualquiera “no deseada”. Cuando una dimensión ya no es útil, el desarrollador suele necesitar un tiempo para eliminarla. Incluso después de eso, puede almacenarse en caché, o puede que se dé cuenta de que la dimensión también se estaba configurando en otra parte. Limpiar las dimensiones no es fácil y, a menudo, requiere paciencia. Aquí hay algunos consejos para esconder la basura debajo de la alfombra y que sus usuarios no se confundan, al tiempo que mantiene un seguimiento.
 
 * Todas las dimensiones/eventos que no se utilizan están “libres” o “en proceso de eliminación”
-   * Si la dimensión tiene valores no deseados en los últimos 90 días, está “en proceso de eliminación”
-   * Si la dimensión está libre y limpia durante al menos los últimos 90 días, está “libre”
-   * Márquelas como tal en “Nombre”, en el documento de etiquetado, para que pueda filtrarlas fácilmente. Yo tengo estas etiquetas desmarcadas en el documento de etiquetado (filtro de datos de Excel) para que los usuarios no las vean
-   * Márquelas como el nombre del eVar en la interfaz para que los usuarios no las encuentren en una búsqueda (como “(v6)”) y elimine la descripción
+  * Si la dimensión tiene valores no deseados en los últimos 90 días, está “en proceso de eliminación”
+  * Si la dimensión está libre y limpia durante al menos los últimos 90 días, está “libre”
+  * Márquelas como tal en “Nombre”, en el documento de etiquetado, para que pueda filtrarlas fácilmente. Yo tengo estas etiquetas desmarcadas en el documento de etiquetado (filtro de datos de Excel) para que los usuarios no las vean
+  * Márquelas como el nombre del eVar en la interfaz para que los usuarios no las encuentren en una búsqueda (como “(v6)”) y elimine la descripción
 * Al hacer esto, cuando se necesita una nueva dimensión, se puede filtrar fácilmente por “libre” en la columna Nombre para encontrar una limpia que utilizar
 * Para las dimensiones y eventos “en proceso de eliminación”, recomiendo que realice un seguimiento de estos eventos mediante el espacio de trabajo:
-   * Cree un proyecto visible para los administradores solo con 3 tablas: eVars, props y eventos. Utilizo “instancias” para eVars específicos y, para las props, creo segmentos VISITA con “prop5 existe”, por ejemplo.
-   * Establezca la fecha en Últimos 90 días
-   * Utilice lo anterior como filas en las 3 tablas, junto con ocurrencias
-   * Tan pronto como algo llega a “0”, lo marco como “libre” en el documento de etiquetado y lo elimino del proyecto del espacio de trabajo
+  * Cree un proyecto visible para los administradores solo con 3 tablas: eVars, props y eventos. Utilizo “instancias” para eVars específicos y, para las props, creo segmentos HIT con “prop5 existe”, por ejemplo.
+  * Establezca la fecha en Últimos 90 días
+  * Utilice lo anterior como filas en las 3 tablas, junto con ocurrencias
+  * Tan pronto como algo llega a “0”, lo marco como “libre” en el documento de etiquetado y lo elimino del proyecto del espacio de trabajo
 
 De este modo, los datos siempre están limpios y tiene una idea clara de qué es basura.
 

@@ -8,36 +8,51 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 exl-id: 00a457dc-ff0b-461f-8f02-afc4ecd6b54b
-TQID: https://experienceleague.adobe.com/rbniizbRfgRB3x-zYcZ5JPKMDrT2VtPfXNc1Q75DjGU
+TQID: 'https://experienceleague.adobe.com/rbniizbRfgRB3x-zYcZ5JPKMDrT2VtPfXNc1Q75DjGU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+    internal-label: Dashboards
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: c45e2849-b5ab-4ac6-8df1-bbe34c2dd79e
+    internal-label: Data Dictionary
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1027
+source-wordcount: '1045'
 ht-degree: 97%
-
 ---
-
 # Traducción del lenguaje técnico de Adobe Analytics de forma no técnica
 
->[!VIDEO](https://video.tv.adobe.com/v/345322/?captions=spa&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## Hablar diferentes idiomas
 
@@ -60,7 +75,7 @@ Por ejemplo, esta es mi forma favorita de explicar las eVars y los métodos de a
 
 Independientemente del sector en el que trabaje, debe encontrar el lenguaje común que conecte el mundo de Adobe Analytics con algo familiar de las partes interesadas.
 
-En [!DNL The Home Depot], es posible que un comerciante o gerente de tienda no estén familiarizados con una visita individual, una visita o un visitante único. Podríamos darles una explicación sobre las llamadas al servidor de Analytics, las sesiones de navegación, los tiempos de espera y las cookies... o podríamos devolverlo a nuestra tienda física y a nuestros clientes (es decir, ese idioma común). Un visitante único se convierte en un cliente que camina por la puerta principal. Las visitas al sitio web se convierten en el número de viajes a un almacén de [!DNL Home Depot] que hace un cliente. Y las visitas se convierten en acciones del cliente, como caminar por los pasillos o hablar con un dependiente.
+En [!DNL The Home Depot], es posible que un comerciante o gerente de tienda no estén familiarizados con un hit, una visita o un visitante único. Podríamos darles una explicación sobre las llamadas al servidor de Analytics, las sesiones de navegación, los tiempos de espera y las cookies... o podríamos devolverlo a nuestra tienda física y a nuestros clientes (es decir, ese idioma común). Un visitante único se convierte en un cliente que camina por la puerta principal. Las visitas al sitio web se convierten en el número de viajes a un almacén de [!DNL Home Depot] que hace un cliente. Y los hits se convierten en acciones del cliente, como caminar por los pasillos o hablar con un dependiente.
 
 >[!TIP]
 >

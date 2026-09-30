@@ -5,40 +5,59 @@ feature: Implementation Basics
 role: Developer, Developer, Leader, User
 level: Beginner
 kt: 10454
-thumbnail: null
+thumbnail:
 last-substantial-update: 2022-10-14T00:00:00.000Z
 exl-id: ba2959f0-b667-40f9-bc59-9364a9d83f19
-TQID: https://experienceleague.adobe.com/6aNeRhdbEMFR0A9301GsuTWxWe3w-OUCeFhTOOaWUfg
+TQID: 'https://experienceleague.adobe.com/6aNeRhdbEMFR0A9301GsuTWxWe3w-OUCeFhTOOaWUfg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: c67272a6-888e-425e-9e97-a87304637eed
+    internal-label: Anomaly Detection
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+    internal-label: Marketing Channels
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Machine learning
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 770
+source-wordcount: '770'
 ht-degree: 100%
-
 ---
-
 # ¿Qué es el análisis?{#what-is-analytics}
 
 Antes de sumergirse en el contenido para aprender a usar Adobe Analytics, es útil conocer la respuesta a esta pregunta fundamental: “¿Qué es el análisis?” “Análisis” es un término amplio que abarca varias disciplinas para impulsar el desarrollo y la transformación del negocio, a saber: análisis de datos y empresarial. Hay una distinción entre ambos. Veámoslo más de cerca.

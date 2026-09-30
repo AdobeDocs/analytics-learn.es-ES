@@ -10,30 +10,46 @@ last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
-TQID: https://experienceleague.adobe.com/aFowDr8ekKrxRR0VWUMiWUG5F2RBqMz5oipDYGobd2M
+TQID: 'https://experienceleague.adobe.com/aFowDr8ekKrxRR0VWUMiWUG5F2RBqMz5oipDYGobd2M'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+    internal-label: Dashboards
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
+  - id: c510df06-c813-424c-abc1-c7ae8b03e9b3
+    internal-label: Curate and Share
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1166
+source-wordcount: '1166'
 ht-degree: 89%
-
 ---
-
 # Creación de paneles de control operativos en Analysis Workspace
 
 _Explore cómo los paneles de control operativos de Adobe Analytics Workspace revolucionan la comunicación y la eficacia. Descubra cómo crear paneles de control de noticias y anuncios, preguntas frecuentes y errores y características para optimizar la información, mejorar la experiencia del usuario y aumentar la participación._
@@ -43,7 +59,7 @@ Al igual que muchos administradores, dirijo un centro de información interno (C
 
 Observé que los usuarios a menudo ignoraban mis referencias al sitio de Confluencia, con razones como &quot;Mi VPN está desactivada&quot;, o &quot;No puedo leerla ahora&quot;, etc. Básicamente, &quot;leeré ese documento más tarde&quot; significa que nunca se leerá, y la misma pregunta se volverá a hacer la semana que viene.
 
-***Me di cuenta de algo:**&#x200B;la versatilidad del Espacio de trabajo podría cambiar las cosas. La gente prefiere respuestas rápidas y directas en el Espacio de trabajo, por lo que debemos mantenerlas allí para evitar pasos adicionales.*
+***Me di cuenta de algo:**la versatilidad del Espacio de trabajo podría cambiar las cosas. La gente prefiere respuestas rápidas y directas en el Espacio de trabajo, por lo que debemos mantenerlas allí para evitar pasos adicionales.*
 
 Seguí adelante y creé paneles de control operativos que compartir con toda la compañía. Hasta ahora, han mantenido a la gente informada, han centralizado la información y han reducido la frustración. Ha sido un proceso fácil y en evolución que aumenta la eficiencia con el tiempo.
 
