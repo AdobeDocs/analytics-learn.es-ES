@@ -59,7 +59,7 @@ Al igual que muchos administradores, dirijo un centro de información interno (C
 
 Observé que los usuarios a menudo ignoraban mis referencias al sitio de Confluencia, con razones como &quot;Mi VPN está desactivada&quot;, o &quot;No puedo leerla ahora&quot;, etc. Básicamente, &quot;leeré ese documento más tarde&quot; significa que nunca se leerá, y la misma pregunta se volverá a hacer la semana que viene.
 
-***Me di cuenta de algo:**la versatilidad del Espacio de trabajo podría cambiar las cosas. La gente prefiere respuestas rápidas y directas en el Espacio de trabajo, por lo que debemos mantenerlas allí para evitar pasos adicionales.*
+***Me di cuenta de algo:**&#x200B;la versatilidad del Espacio de trabajo podría cambiar las cosas. La gente prefiere respuestas rápidas y directas en el Espacio de trabajo, por lo que debemos mantenerlas allí para evitar pasos adicionales.*
 
 Seguí adelante y creé paneles de control operativos que compartir con toda la compañía. Hasta ahora, han mantenido a la gente informada, han centralizado la información y han reducido la frustración. Ha sido un proceso fácil y en evolución que aumenta la eficiencia con el tiempo.
 

@@ -123,7 +123,7 @@ A veces, sus usuarios tardan un tiempo en iniciar sesión y en que [!DNL Device 
 
 ¿Cómo ayuda esto? Recuerde el recorrido de Isabelle de la discusión anterior:
 
-![[!DNL Cross-Device Analytics] Recorrido ](assets/cda-isabelle-journey-cross-device-analytics.png)
+![[!DNL Cross-Device Analytics] Recorrido &#x200B;](assets/cda-isabelle-journey-cross-device-analytics.png)
 
 Es posible que Isabelle no haya iniciado sesión hasta justo antes de realizar la compra, y que el [!DNL Device Graph] no haya asignado juntos los dispositivos de Isabelle hasta poco después de su compra. Pero la retrospección de 30 días del análisis multidispositivo le permite restaurar el comportamiento pasado de Isabelle en el nivel de persona, lo que le proporciona la visión multidispositivo de su recorrido que usted necesita.
 
